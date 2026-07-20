@@ -2,7 +2,7 @@ function loadHTML(id, file) {
   const target = document.getElementById(id);
   if (!target) return Promise.resolve();
 
-  return fetch(file)
+  return fetch(`${file}?v=20260720-2`)
     .then((response) => {
       if (!response.ok) {
         throw new Error("Không tìm thấy " + file);

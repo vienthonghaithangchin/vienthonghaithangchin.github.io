@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tìm kiếm sản phẩm | Viễn Thông Hai Tháng Chín</title>
+    <meta
+      name="description"
+      content="Tìm kiếm sản phẩm camera và thiết bị viễn thông theo tên, model hoặc mã sản phẩm."
+    />
+    <link rel="stylesheet" href="/CSS/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="website-container">
+      <div id="header"></div>
+      <div id="menu"></div>
+      <nav class="breadcrumb">
+        <a href="/trang-chu.html">Trang chủ</a><span>›</span
+        ><span>Kết quả tìm kiếm</span>
+      </nav>
+      <h1 class="section-title">Kết quả tìm kiếm sản phẩm</h1>
+      <p class="catalog-status" data-catalog-status>Đang tìm sản phẩm...</p>
+      <section
+        class="products"
+        data-catalog
+        data-global-search="true"
+        aria-live="polite"
+      ></section>
+    </div>
+    <div id="footer"></div>
+    <div id="float"></div>
+    <script src="/js/load-layout.js"></script>
+    <script src="/js/script.js"></script>
+    <script src="/js/products.js"></script>
+  </body>
+</html>

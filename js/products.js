@@ -32,6 +32,7 @@ async function initializeProducts() {
     hydrateStaticCards(productsById);
     hydrateProductDetail(productsById);
     initializeDynamicCatalog();
+    initializeDailyFeaturedProducts();
     initializeCatalogToolbar();
     initializeFilters();
     initializeSorting();
@@ -202,6 +203,98 @@ function handleInfiniteScroll() {
   if (nearBottom) renderNextProducts();
 }
 
+
+
+function initializeDailyFeaturedProducts() {
+  const container = document.querySelector(".products[data-featured-products]");
+  if (!container) return;
+
+  const dateKey = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Ho_Chi_Minh",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(new Date());
+  const random = createSeededRandom(hashText(`featured-${dateKey}`));
+  const requestedCount = 18;
+  const featuredIndustries = new Set(["camera giám sát", "thiết bị mạng", "tổng đài"]);
+  const eligibleProducts = catalogState.allProducts.filter(
+    (product) =>
+      product.name &&
+      product.image &&
+      product.link &&
+      featuredIndustries.has(normalize(product.industry)),
+  );
+
+  const productsByBrand = new Map();
+  eligibleProducts.forEach((product) => {
+    const brand = String(product.brand || "Thương hiệu khác").trim();
+    if (!productsByBrand.has(brand)) productsByBrand.set(brand, []);
+    productsByBrand.get(brand).push(product);
+  });
+
+  const selectedProducts = [];
+  const selectedIds = new Set();
+  const brandGroups = shuffleWithRandom([...productsByBrand.values()], random);
+
+  // Pick one item from each brand first so the home page stays diverse.
+  brandGroups.forEach((group) => {
+    if (selectedProducts.length >= requestedCount) return;
+    const product = group[Math.floor(random() * group.length)];
+    selectedProducts.push(product);
+    selectedIds.add(product.id);
+  });
+
+  const remainingProducts = shuffleWithRandom(
+    eligibleProducts.filter((product) => !selectedIds.has(product.id)),
+    random,
+  );
+  selectedProducts.push(...remainingProducts.slice(0, requestedCount - selectedProducts.length));
+
+  container.innerHTML = "";
+  const fragment = document.createDocumentFragment();
+  selectedProducts.forEach((product) => fragment.appendChild(createProductCard(product)));
+  container.appendChild(fragment);
+  container.dataset.featuredDate = dateKey;
+
+  // Refresh shortly after midnight if somebody keeps the page open overnight.
+  window.clearTimeout(window.dailyFeaturedProductsTimer);
+  const now = new Date();
+  const nextDay = new Date(now);
+  nextDay.setHours(24, 0, 5, 0);
+  window.dailyFeaturedProductsTimer = window.setTimeout(
+    initializeDailyFeaturedProducts,
+    nextDay.getTime() - now.getTime(),
+  );
+}
+
+function hashText(text) {
+  let hash = 2166136261;
+  for (let index = 0; index < text.length; index += 1) {
+    hash ^= text.charCodeAt(index);
+    hash = Math.imul(hash, 16777619);
+  }
+  return hash >>> 0;
+}
+
+function createSeededRandom(seed) {
+  return function seededRandom() {
+    seed += 0x6d2b79f5;
+    let value = seed;
+    value = Math.imul(value ^ (value >>> 15), value | 1);
+    value ^= value + Math.imul(value ^ (value >>> 7), value | 61);
+    return ((value ^ (value >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+function shuffleWithRandom(items, random) {
+  const shuffled = [...items];
+  for (let index = shuffled.length - 1; index > 0; index -= 1) {
+    const swapIndex = Math.floor(random() * (index + 1));
+    [shuffled[index], shuffled[swapIndex]] = [shuffled[swapIndex], shuffled[index]];
+  }
+  return shuffled;
+}
 
 function searchProduct() {
   const input = document.getElementById("searchInput");

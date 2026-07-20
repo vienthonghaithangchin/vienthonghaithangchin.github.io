@@ -1659,3 +1659,21 @@ h5 {
   .product-detail-info h2 { font-size: 22px; }
 }
 
+
+/* Responsive product grid: prevent cards and images from collapsing on phones */
+@media (max-width: 1200px) {
+  .products { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
+@media (max-width: 900px) {
+  .products { grid-template-columns: repeat(3, minmax(0, 1fr)); margin: 0 12px; padding: 18px 0 42px; gap: 14px; }
+}
+@media (max-width: 640px) {
+  .products { grid-template-columns: repeat(2, minmax(0, 1fr)); margin: 0 10px; padding: 14px 0 36px; gap: 10px; }
+  .product-card { min-width: 0; }
+  .product-card img { width: 100%; height: 170px; padding: 10px; object-fit: contain; }
+  .product-card .product-name { height: 6em; min-height: 6em; margin: 10px 0 12px; padding: 0 10px; font-size: 14px; line-height: 1.5; }
+  .product-card .product-code-box { min-height: 3em; margin-bottom: 10px; padding: 0 10px; font-size: 13px; line-height: 1.5; }
+  .product-card .product-price { min-height: 1.5em; margin-bottom: 14px; padding: 0 10px; font-size: 19px; line-height: 1.5; }
+  .product-card button { width: calc(100% - 20px); margin: auto 10px 10px; padding: 11px 6px; font-size: 14px; }
+}
+

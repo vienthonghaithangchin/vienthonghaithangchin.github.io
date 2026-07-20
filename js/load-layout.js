@@ -19,6 +19,7 @@ function loadHTML(id, file) {
 
       // Banner nằm trong menu.html
       if (id === "menu") {
+        initMobileCategoryMenu(target);
         initSlider();
 
         // Nếu mở từ link có #product-detail thì cuộn sau khi menu tải xong
@@ -64,5 +65,31 @@ function initializeGlobalProductSearch(header) {
     }
 
     window.location.href = `/tim-kiem.html?q=${encodeURIComponent(keyword)}`;
+  });
+}
+
+
+function initMobileCategoryMenu(menuRoot) {
+  const leftMenu = menuRoot.querySelector(".left-menu");
+  const title = menuRoot.querySelector(".menu-title");
+  const categoryMenu = menuRoot.querySelector(".category-menu");
+  if (!leftMenu || !title || !categoryMenu) return;
+
+  title.setAttribute("role", "button");
+  title.setAttribute("tabindex", "0");
+  title.setAttribute("aria-expanded", "false");
+  title.setAttribute("aria-controls", "mobile-category-menu");
+  categoryMenu.id = "mobile-category-menu";
+
+  const toggle = () => {
+    const open = leftMenu.classList.toggle("is-open");
+    title.setAttribute("aria-expanded", String(open));
+  };
+  title.addEventListener("click", toggle);
+  title.addEventListener("keydown", (event) => {
+    if (event.key === "Enter" || event.key === " ") {
+      event.preventDefault();
+      toggle();
+    }
   });
 }

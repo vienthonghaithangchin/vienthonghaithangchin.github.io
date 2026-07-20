@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /quan-ly-gia.html
+Sitemap: https://vienthonghaithangchin.github.io/sitemap.xml

@@ -17,13 +17,17 @@ document.addEventListener("DOMContentLoaded", initializeProducts);
 
 async function initializeProducts() {
   try {
-    const response = await fetch("/data/products.json");
+    const response = await fetch("/data/products-index.json");
 
     if (!response.ok) {
       throw new Error(`Không thể tải products.json (${response.status})`);
     }
 
     const productsById = await response.json();
+    const embeddedProduct = readEmbeddedProductData();
+    if (embeddedProduct?.id && embeddedProduct?.product) {
+      productsById[embeddedProduct.id] = embeddedProduct.product;
+    }
 
     catalogState.allProducts = Object.entries(productsById)
       .filter(([, product]) => product && typeof product === "object")
@@ -42,6 +46,18 @@ async function initializeProducts() {
   }
 }
 
+
+function readEmbeddedProductData() {
+  const element = document.getElementById("product-data");
+  if (!element) return null;
+  try {
+    return JSON.parse(element.textContent);
+  } catch (error) {
+    console.error("Dữ liệu chi tiết sản phẩm không hợp lệ:", error);
+    return null;
+  }
+}
+
 function hydrateStaticCards(productsById) {
   document.querySelectorAll(".product-card[data-product]").forEach((card) => {
     const product = productsById[card.dataset.product];
@@ -55,7 +71,7 @@ function hydrateStaticCards(productsById) {
 
     const image = card.querySelector(".product-image");
     if (image) {
-      image.src = product.image;
+      image.src = product.thumbnail || product.image;
       image.alt = product.name;
       image.loading = "lazy";
       image.decoding = "async";
@@ -78,7 +94,7 @@ function hydrateProductDetail(productsById) {
 
   const image = detail.querySelector(".product-image");
   if (image) {
-    image.src = product.image;
+    image.src = product.thumbnail || product.image;
     image.alt = product.name;
   }
 
@@ -163,8 +179,10 @@ function createProductCard(product) {
 
   const image = document.createElement("img");
   image.className = "product-image";
-  image.src = product.image;
+  image.src = product.thumbnail || product.image;
   image.alt = product.name;
+  image.width = 640;
+  image.height = 640;
   image.loading = "lazy";
   image.decoding = "async";
 

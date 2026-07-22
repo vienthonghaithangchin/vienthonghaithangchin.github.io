@@ -26,7 +26,11 @@ async function initializeProducts() {
     const productsById = await response.json();
     const embeddedProduct = readEmbeddedProductData();
     if (embeddedProduct?.id && embeddedProduct?.product) {
-      productsById[embeddedProduct.id] = embeddedProduct.product;
+      const indexedProduct = productsById[embeddedProduct.id] || {};
+      productsById[embeddedProduct.id] = {
+        ...embeddedProduct.product,
+        price: indexedProduct.price ?? embeddedProduct.product.price,
+      };
     }
 
     catalogState.allProducts = Object.entries(productsById)
@@ -67,7 +71,7 @@ function hydrateStaticCards(productsById) {
     setCardDataset(card, product);
     setText(card, ".product-name", product.name);
     setText(card, ".product-code", product.code);
-    setText(card, ".product-price", formatPrice(product.price));
+    setText(card, ".product-price", formatPrice(effectivePrice(product)));
 
     const image = card.querySelector(".product-image");
     if (image) {
@@ -90,7 +94,7 @@ function hydrateProductDetail(productsById) {
   setText(detail, ".product-code", product.code);
   setText(detail, ".product-brand", product.brand);
   setText(detail, ".product-warranty", product.warranty);
-  setText(detail, ".product-price", formatPrice(product.price));
+  setText(detail, ".product-price", formatPrice(effectivePrice(product)));
 
   const image = detail.querySelector(".product-image");
   if (image) {
@@ -201,7 +205,7 @@ function createProductCard(product) {
 
   const price = document.createElement("p");
   price.className = "product-price";
-  price.textContent = formatPrice(product.price);
+  price.textContent = formatPrice(effectivePrice(product));
 
   const link = document.createElement("a");
   link.className = "detail-btn";
@@ -324,7 +328,7 @@ function setCardDataset(card, product) {
   card.dataset.brand = product.brand || "";
   card.dataset.resolution = product.resolution || "";
   card.dataset.productType = product.productType || product.category || "";
-  card.dataset.price = numericPrice(product.price);
+  card.dataset.price = numericPrice(effectivePrice(product));
 }
 
 function setText(root, selector, value) {
@@ -332,6 +336,16 @@ function setText(root, selector, value) {
   if (element && value !== undefined && value !== null) {
     element.textContent = value;
   }
+}
+
+
+function effectivePrice(product) {
+  if (!product || typeof product !== "object") return product;
+  const validUntil = product.priceValidUntil ? Date.parse(product.priceValidUntil) : NaN;
+  if (Number.isFinite(validUntil) && validUntil <= Date.now()) {
+    return product.previousPrice ?? "Liên hệ";
+  }
+  return product.price;
 }
 
 function formatPrice(price) {
@@ -621,9 +635,9 @@ function rerenderCatalog() {
 
 function applySort(mode = "") {
   if (mode === "low-high") {
-    catalogState.visibleProducts.sort((a, b) => numericPrice(a.price) - numericPrice(b.price));
+    catalogState.visibleProducts.sort((a, b) => numericPrice(effectivePrice(a)) - numericPrice(effectivePrice(b)));
   } else if (mode === "high-low") {
-    catalogState.visibleProducts.sort((a, b) => numericPrice(b.price) - numericPrice(a.price));
+    catalogState.visibleProducts.sort((a, b) => numericPrice(effectivePrice(b)) - numericPrice(effectivePrice(a)));
   } else if (mode === "name-az") {
     catalogState.visibleProducts.sort((a, b) => a.name.localeCompare(b.name, "vi"));
   } else if (mode === "name-za") {

@@ -120,7 +120,7 @@
   "DS-2CD1021G2-LIU": {
     "name": "Camera IP 2MP HIKVISION DS-2CD1021G2-LIU",
     "code": "CAM-HIK-BUL-0002",
-    "price": "Liên hệ",
+    "price": "750.000",
     "warranty": "24 tháng",
     "image": "/img/Camera/Camera-Hikvision/Bullet/DS-2CD1021G2-LIU/p_85263_detailImage_hikvision-ds-2cd1021g2-liu.png",
     "category": "Bullet",
@@ -235,7 +235,9 @@
     "specificationsSource": "https://www.sieuthivienthong.com/camera-ip-hong-ngoai-2-0-megapixel-hikvision-ds-2cd1021g2-liu-85263.html",
     "specificationsChecked": "2026-07-20",
     "specificationsMatch": "exact-model-site-search",
-    "thumbnail": "/img/thumbnails/599c9110c48f3a764b7f.webp"
+    "thumbnail": "/img/thumbnails/599c9110c48f3a764b7f.webp",
+    "previousPrice": "900.000",
+    "priceUpdatedAt": "2026-07-20T15:49:31.662Z"
   },
   "DS-2CD1023G2-LIUF": {
     "name": "Camera IP 2MP HIKVISION DS-2CD1023G2-LIUF",
@@ -32475,7 +32477,7 @@
   "IPC-S7XFP-8U0WED": {
     "name": "Camera IP Wifi PT 4MP+4MP IMOU IPC-S7XFP-8U0WED",
     "code": "CAM-IMO-PTZ-0034",
-    "price": "Liên hệ",
+    "price": "2.900.000",
     "warranty": "24 tháng",
     "category": "PTZ",
     "brand": "Imou",
@@ -32611,7 +32613,9 @@
       "Đàm thoại hai chiều tích hợp mic và loa, chế độ riêng tư mới"
     ],
     "crossReferenceStatus": "sieuthivienthong-vuhoang-reviewed",
-    "thumbnail": "/img/thumbnails/b98cc6804b29b55f69bc.webp"
+    "thumbnail": "/img/thumbnails/b98cc6804b29b55f69bc.webp",
+    "previousPrice": "Liên hệ",
+    "priceUpdatedAt": "2026-07-20T15:50:50.554Z"
   },
   "IPC-S2XP-10M0WED": {
     "name": "Camera IP Wifi 5MP+5MP IMOU IPC-S2XP-10M0WED",

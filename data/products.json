@@ -302142,5 +302142,224 @@
     "image": "/San-pham/vat-tu-phu-kien/storage/hiksemi/HS-TF-NEO-PLUS-256G/HS-TF-NEO-PLUS-256G.png",
     "sort": 12000,
     "thumbnail": "/img/thumbnails/2254194c93dc9adc31d8.webp"
+  },
+  "HS-TF-D1-64G": {
+    "key": "HS-TF-D1-64G",
+    "model": "HS-TF-D1/64G",
+    "name": "Thẻ nhớ Micro SD 64GB HIKSEMI HS-TF-D1/64G",
+    "code": "MAT-HIK-MEM-0005",
+    "price": "Liên hệ",
+    "warranty": "7 năm",
+    "category": "Storage",
+    "productType": "Thẻ nhớ",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "Hiksemi",
+    "capacity": "64GB",
+    "description": [
+      "- Dung lượng 64GB, phù hợp camera giám sát, điện thoại, máy ảnh và thiết bị ghi hình.",
+      "- Tốc độ đọc tối đa 92 MB/s, tốc độ ghi tối đa 40 MB/s.",
+      "- Chuẩn Class 10, UHS-I và bộ nhớ TLC, hỗ trợ ghi video độ phân giải cao.",
+      "- Chống nước, chống sốc và chịu được điều kiện nhiệt độ khắc nghiệt.",
+      "- Sản phẩm HIKSEMI chính hãng, bảo hành 7 năm."
+    ],
+    "specifications": [
+      [
+        "Model",
+        "HS-TF-D1/64G"
+      ],
+      [
+        "Dung lượng",
+        "64GB"
+      ],
+      [
+        "Loại thẻ",
+        "MicroSDXC"
+      ],
+      [
+        "Chuẩn tốc độ",
+        "Class 10, UHS-I, TLC"
+      ],
+      [
+        "Tốc độ đọc",
+        "Tối đa 92 MB/s"
+      ],
+      [
+        "Tốc độ ghi",
+        "Tối đa 40 MB/s"
+      ],
+      [
+        "Chuẩn video",
+        "V30"
+      ],
+      [
+        "Độ bền",
+        "Chống nước, chống sốc, chịu nhiệt"
+      ],
+      [
+        "Xuất xứ thương hiệu",
+        "Trung Quốc"
+      ],
+      [
+        "Bảo hành",
+        "7 năm"
+      ]
+    ],
+    "referenceSources": [
+      "https://vuhoangtelecom.vn/san-pham/the-nho-64gb-hiksemi-hs-tf-d1-64g/"
+    ],
+    "specificationsSource": "https://vuhoangtelecom.vn/san-pham/the-nho-64gb-hiksemi-hs-tf-d1-64g/",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "supplier-local-png",
+    "imageSource": "https://vuhoangtelecom.vn/san-pham/the-nho-64gb-hiksemi-hs-tf-d1-64g/",
+    "link": "/San-pham/vat-tu-phu-kien/storage/hiksemi/HS-TF-D1-64G/HS-TF-D1-64G.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/hiksemi/HS-TF-D1-64G/HS-TF-D1-64G.png",
+    "sort": 12023,
+    "thumbnail": "/img/thumbnails/a8444bf9f1198732acee.webp"
+  },
+  "HS-TF-D1-128G": {
+    "key": "HS-TF-D1-128G",
+    "model": "HS-TF-D1/128G",
+    "name": "Thẻ nhớ Micro SD 128GB HIKSEMI HS-TF-D1/128G",
+    "code": "MAT-HIK-MEM-0006",
+    "price": "Liên hệ",
+    "warranty": "7 năm",
+    "category": "Storage",
+    "productType": "Thẻ nhớ",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "Hiksemi",
+    "capacity": "128GB",
+    "description": [
+      "- Dung lượng 128GB, phù hợp camera giám sát, điện thoại, máy ảnh và thiết bị ghi hình.",
+      "- Tốc độ đọc tối đa 92 MB/s, tốc độ ghi tối đa 50 MB/s.",
+      "- Chuẩn Class 10, UHS-I và bộ nhớ TLC, hỗ trợ ghi video độ phân giải cao.",
+      "- Chống nước, chống sốc và chịu được điều kiện nhiệt độ khắc nghiệt.",
+      "- Sản phẩm HIKSEMI chính hãng, bảo hành 7 năm."
+    ],
+    "specifications": [
+      [
+        "Model",
+        "HS-TF-D1/128G"
+      ],
+      [
+        "Dung lượng",
+        "128GB"
+      ],
+      [
+        "Loại thẻ",
+        "MicroSDXC"
+      ],
+      [
+        "Chuẩn tốc độ",
+        "Class 10, UHS-I, TLC"
+      ],
+      [
+        "Tốc độ đọc",
+        "Tối đa 92 MB/s"
+      ],
+      [
+        "Tốc độ ghi",
+        "Tối đa 50 MB/s"
+      ],
+      [
+        "Chuẩn video",
+        "V30"
+      ],
+      [
+        "Độ bền",
+        "Chống nước, chống sốc, chịu nhiệt"
+      ],
+      [
+        "Xuất xứ thương hiệu",
+        "Trung Quốc"
+      ],
+      [
+        "Bảo hành",
+        "7 năm"
+      ]
+    ],
+    "referenceSources": [
+      "https://vuhoangtelecom.vn/san-pham/the-nho-128gb-hiksemi-hs-tf-d1-128g/"
+    ],
+    "specificationsSource": "https://vuhoangtelecom.vn/san-pham/the-nho-128gb-hiksemi-hs-tf-d1-128g/",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "supplier-local-png",
+    "imageSource": "https://vuhoangtelecom.vn/san-pham/the-nho-128gb-hiksemi-hs-tf-d1-128g/",
+    "link": "/San-pham/vat-tu-phu-kien/storage/hiksemi/HS-TF-D1-128G/HS-TF-D1-128G.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/hiksemi/HS-TF-D1-128G/HS-TF-D1-128G.png",
+    "sort": 12024,
+    "thumbnail": "/img/thumbnails/7fcb97384fef92653262.webp"
+  },
+  "HS-TF-D1-256G": {
+    "key": "HS-TF-D1-256G",
+    "model": "HS-TF-D1/256G",
+    "name": "Thẻ nhớ Micro SD 256GB HIKSEMI HS-TF-D1/256G",
+    "code": "MAT-HIK-MEM-0007",
+    "price": "Liên hệ",
+    "warranty": "7 năm",
+    "category": "Storage",
+    "productType": "Thẻ nhớ",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "Hiksemi",
+    "capacity": "256GB",
+    "description": [
+      "- Dung lượng 256GB, phù hợp camera giám sát, điện thoại, máy ảnh và thiết bị ghi hình.",
+      "- Tốc độ đọc tối đa 92 MB/s, tốc độ ghi tối đa 55 MB/s.",
+      "- Chuẩn Class 10, UHS-I và bộ nhớ TLC, hỗ trợ ghi video độ phân giải cao.",
+      "- Chống nước, chống sốc và chịu được điều kiện nhiệt độ khắc nghiệt.",
+      "- Sản phẩm HIKSEMI chính hãng, bảo hành 7 năm."
+    ],
+    "specifications": [
+      [
+        "Model",
+        "HS-TF-D1/256G"
+      ],
+      [
+        "Dung lượng",
+        "256GB"
+      ],
+      [
+        "Loại thẻ",
+        "MicroSDXC"
+      ],
+      [
+        "Chuẩn tốc độ",
+        "Class 10, UHS-I, TLC"
+      ],
+      [
+        "Tốc độ đọc",
+        "Tối đa 92 MB/s"
+      ],
+      [
+        "Tốc độ ghi",
+        "Tối đa 55 MB/s"
+      ],
+      [
+        "Chuẩn video",
+        "V30"
+      ],
+      [
+        "Độ bền",
+        "Chống nước, chống sốc, chịu nhiệt"
+      ],
+      [
+        "Xuất xứ thương hiệu",
+        "Trung Quốc"
+      ],
+      [
+        "Bảo hành",
+        "7 năm"
+      ]
+    ],
+    "referenceSources": [
+      "https://vuhoangtelecom.vn/san-pham/the-nho-256gb-hiksemi-hs-tf-d1-256g/"
+    ],
+    "specificationsSource": "https://vuhoangtelecom.vn/san-pham/the-nho-256gb-hiksemi-hs-tf-d1-256g/",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "supplier-local-png",
+    "imageSource": "https://vuhoangtelecom.vn/san-pham/the-nho-256gb-hiksemi-hs-tf-d1-256g/",
+    "link": "/San-pham/vat-tu-phu-kien/storage/hiksemi/HS-TF-D1-256G/HS-TF-D1-256G.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/hiksemi/HS-TF-D1-256G/HS-TF-D1-256G.png",
+    "sort": 12025,
+    "thumbnail": "/img/thumbnails/6e025508387fd17ed56b.webp"
   }
 }

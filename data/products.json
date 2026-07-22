@@ -301144,5 +301144,1003 @@
     "vuhoangChecked": "2026-07-20",
     "crossReferenceStatus": "vuhoang-model-not-found",
     "thumbnail": "/img/thumbnails/3de04e7465b1725e7608.webp"
+  },
+  "WD10PURZ": {
+    "key": "WD10PURZ",
+    "name": "Ổ cứng giám sát WD Purple 1TB WD10PURZ",
+    "code": "MAT-WD-HDD-0001",
+    "price": "Liên hệ",
+    "warranty": "36 tháng",
+    "category": "Storage",
+    "productType": "Ổ cứng giám sát",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "WD",
+    "capacity": "1TB",
+    "description": [
+      "- Dung lượng lưu trữ 1TB, tối ưu cho hệ thống camera giám sát hoạt động liên tục.",
+      "- Chuẩn ổ cứng 3.5 inch, giao tiếp SATA 6 Gb/s.",
+      "- Hỗ trợ hệ thống nhiều camera, tăng độ ổn định khi ghi hình 24/7.",
+      "- Thiết kế chuyên dụng giúp hạn chế mất khung hình và lỗi dữ liệu.",
+      "- Sản phẩm chính hãng, bảo hành 36 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "1TB"
+      ],
+      [
+        "Dòng sản phẩm",
+        "WD Purple"
+      ],
+      [
+        "Chuẩn ổ cứng",
+        "3.5 inch"
+      ],
+      [
+        "Giao tiếp",
+        "SATA 6 Gb/s"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, đầu ghi DVR/NVR"
+      ],
+      [
+        "Số camera hỗ trợ",
+        "Tối đa 64 camera"
+      ],
+      [
+        "Bảo hành",
+        "36 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd"
+    ],
+    "specificationsSource": "https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/wd/WD10PURZ/WD10PURZ.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/wd/WD10PURZ/WD10PURZ.png",
+    "sort": 12000,
+    "thumbnail": "/img/thumbnails/b3e66c7633eaa5b03aba.webp"
+  },
+  "WD20PURZ": {
+    "key": "WD20PURZ",
+    "name": "Ổ cứng giám sát WD Purple 2TB WD20PURZ",
+    "code": "MAT-WD-HDD-0002",
+    "price": "Liên hệ",
+    "warranty": "36 tháng",
+    "category": "Storage",
+    "productType": "Ổ cứng giám sát",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "WD",
+    "capacity": "2TB",
+    "description": [
+      "- Dung lượng lưu trữ 2TB, tối ưu cho hệ thống camera giám sát hoạt động liên tục.",
+      "- Chuẩn ổ cứng 3.5 inch, giao tiếp SATA 6 Gb/s.",
+      "- Hỗ trợ hệ thống nhiều camera, tăng độ ổn định khi ghi hình 24/7.",
+      "- Thiết kế chuyên dụng giúp hạn chế mất khung hình và lỗi dữ liệu.",
+      "- Sản phẩm chính hãng, bảo hành 36 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "2TB"
+      ],
+      [
+        "Dòng sản phẩm",
+        "WD Purple"
+      ],
+      [
+        "Chuẩn ổ cứng",
+        "3.5 inch"
+      ],
+      [
+        "Giao tiếp",
+        "SATA 6 Gb/s"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, đầu ghi DVR/NVR"
+      ],
+      [
+        "Số camera hỗ trợ",
+        "Tối đa 64 camera"
+      ],
+      [
+        "Bảo hành",
+        "36 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd"
+    ],
+    "specificationsSource": "https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/wd/WD20PURZ/WD20PURZ.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/wd/WD20PURZ/WD20PURZ.png",
+    "sort": 12001,
+    "thumbnail": "/img/thumbnails/064c3778e5ba27d822b6.webp"
+  },
+  "WD42PURZ": {
+    "key": "WD42PURZ",
+    "name": "Ổ cứng giám sát WD Purple 4TB WD42PURZ",
+    "code": "MAT-WD-HDD-0003",
+    "price": "Liên hệ",
+    "warranty": "36 tháng",
+    "category": "Storage",
+    "productType": "Ổ cứng giám sát",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "WD",
+    "capacity": "4TB",
+    "description": [
+      "- Dung lượng lưu trữ 4TB, tối ưu cho hệ thống camera giám sát hoạt động liên tục.",
+      "- Chuẩn ổ cứng 3.5 inch, giao tiếp SATA 6 Gb/s.",
+      "- Hỗ trợ hệ thống nhiều camera, tăng độ ổn định khi ghi hình 24/7.",
+      "- Thiết kế chuyên dụng giúp hạn chế mất khung hình và lỗi dữ liệu.",
+      "- Sản phẩm chính hãng, bảo hành 36 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "4TB"
+      ],
+      [
+        "Dòng sản phẩm",
+        "WD Purple"
+      ],
+      [
+        "Chuẩn ổ cứng",
+        "3.5 inch"
+      ],
+      [
+        "Giao tiếp",
+        "SATA 6 Gb/s"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, đầu ghi DVR/NVR"
+      ],
+      [
+        "Số camera hỗ trợ",
+        "Tối đa 64 camera"
+      ],
+      [
+        "Bảo hành",
+        "36 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd"
+    ],
+    "specificationsSource": "https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/wd/WD42PURZ/WD42PURZ.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/wd/WD42PURZ/WD42PURZ.png",
+    "sort": 12002,
+    "thumbnail": "/img/thumbnails/abc416f1a7f3486700e1.webp"
+  },
+  "WD64PURZ": {
+    "key": "WD64PURZ",
+    "name": "Ổ cứng giám sát WD Purple 6TB WD64PURZ",
+    "code": "MAT-WD-HDD-0004",
+    "price": "Liên hệ",
+    "warranty": "36 tháng",
+    "category": "Storage",
+    "productType": "Ổ cứng giám sát",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "WD",
+    "capacity": "6TB",
+    "description": [
+      "- Dung lượng lưu trữ 6TB, tối ưu cho hệ thống camera giám sát hoạt động liên tục.",
+      "- Chuẩn ổ cứng 3.5 inch, giao tiếp SATA 6 Gb/s.",
+      "- Hỗ trợ hệ thống nhiều camera, tăng độ ổn định khi ghi hình 24/7.",
+      "- Thiết kế chuyên dụng giúp hạn chế mất khung hình và lỗi dữ liệu.",
+      "- Sản phẩm chính hãng, bảo hành 36 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "6TB"
+      ],
+      [
+        "Dòng sản phẩm",
+        "WD Purple"
+      ],
+      [
+        "Chuẩn ổ cứng",
+        "3.5 inch"
+      ],
+      [
+        "Giao tiếp",
+        "SATA 6 Gb/s"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, đầu ghi DVR/NVR"
+      ],
+      [
+        "Số camera hỗ trợ",
+        "Tối đa 64 camera"
+      ],
+      [
+        "Bảo hành",
+        "36 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd"
+    ],
+    "specificationsSource": "https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/wd/WD64PURZ/WD64PURZ.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/wd/WD64PURZ/WD64PURZ.png",
+    "sort": 12003,
+    "thumbnail": "/img/thumbnails/eafb41dc6d1c13261fe8.webp"
+  },
+  "WD85PURZ": {
+    "key": "WD85PURZ",
+    "name": "Ổ cứng giám sát WD Purple 8TB WD85PURZ",
+    "code": "MAT-WD-HDD-0005",
+    "price": "Liên hệ",
+    "warranty": "36 tháng",
+    "category": "Storage",
+    "productType": "Ổ cứng giám sát",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "WD",
+    "capacity": "8TB",
+    "description": [
+      "- Dung lượng lưu trữ 8TB, tối ưu cho hệ thống camera giám sát hoạt động liên tục.",
+      "- Chuẩn ổ cứng 3.5 inch, giao tiếp SATA 6 Gb/s.",
+      "- Hỗ trợ hệ thống nhiều camera, tăng độ ổn định khi ghi hình 24/7.",
+      "- Thiết kế chuyên dụng giúp hạn chế mất khung hình và lỗi dữ liệu.",
+      "- Sản phẩm chính hãng, bảo hành 36 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "8TB"
+      ],
+      [
+        "Dòng sản phẩm",
+        "WD Purple"
+      ],
+      [
+        "Chuẩn ổ cứng",
+        "3.5 inch"
+      ],
+      [
+        "Giao tiếp",
+        "SATA 6 Gb/s"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, đầu ghi DVR/NVR"
+      ],
+      [
+        "Số camera hỗ trợ",
+        "Tối đa 64 camera"
+      ],
+      [
+        "Bảo hành",
+        "36 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd"
+    ],
+    "specificationsSource": "https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/wd/WD85PURZ/WD85PURZ.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/wd/WD85PURZ/WD85PURZ.png",
+    "sort": 12004,
+    "thumbnail": "/img/thumbnails/e211def4fa80f554a1cf.webp"
+  },
+  "ST1000VX013": {
+    "key": "ST1000VX013",
+    "name": "Ổ cứng giám sát Seagate SkyHawk 1TB ST1000VX013",
+    "code": "MAT-SEA-HDD-0001",
+    "price": "Liên hệ",
+    "warranty": "36 tháng",
+    "category": "Storage",
+    "productType": "Ổ cứng giám sát",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "Seagate",
+    "capacity": "1TB",
+    "description": [
+      "- Dung lượng lưu trữ 1TB, tối ưu cho hệ thống camera giám sát hoạt động liên tục.",
+      "- Chuẩn ổ cứng 3.5 inch, giao tiếp SATA 6 Gb/s.",
+      "- Hỗ trợ hệ thống nhiều camera, tăng độ ổn định khi ghi hình 24/7.",
+      "- Thiết kế chuyên dụng giúp hạn chế mất khung hình và lỗi dữ liệu.",
+      "- Sản phẩm chính hãng, bảo hành 36 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "1TB"
+      ],
+      [
+        "Dòng sản phẩm",
+        "Seagate SkyHawk"
+      ],
+      [
+        "Chuẩn ổ cứng",
+        "3.5 inch"
+      ],
+      [
+        "Giao tiếp",
+        "SATA 6 Gb/s"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, đầu ghi DVR/NVR"
+      ],
+      [
+        "Số camera hỗ trợ",
+        "Tối đa 64 camera"
+      ],
+      [
+        "Bảo hành",
+        "36 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.seagate.com/products/surveillance-drives/skyhawk-hard-drive/"
+    ],
+    "specificationsSource": "https://www.seagate.com/products/surveillance-drives/skyhawk-hard-drive/",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/seagate/ST1000VX013/ST1000VX013.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/seagate/ST1000VX013/ST1000VX013.png",
+    "sort": 12005,
+    "thumbnail": "/img/thumbnails/3c183b24b469efc52db0.webp"
+  },
+  "ST2000VX017": {
+    "key": "ST2000VX017",
+    "name": "Ổ cứng giám sát Seagate SkyHawk 2TB ST2000VX017",
+    "code": "MAT-SEA-HDD-0002",
+    "price": "Liên hệ",
+    "warranty": "36 tháng",
+    "category": "Storage",
+    "productType": "Ổ cứng giám sát",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "Seagate",
+    "capacity": "2TB",
+    "description": [
+      "- Dung lượng lưu trữ 2TB, tối ưu cho hệ thống camera giám sát hoạt động liên tục.",
+      "- Chuẩn ổ cứng 3.5 inch, giao tiếp SATA 6 Gb/s.",
+      "- Hỗ trợ hệ thống nhiều camera, tăng độ ổn định khi ghi hình 24/7.",
+      "- Thiết kế chuyên dụng giúp hạn chế mất khung hình và lỗi dữ liệu.",
+      "- Sản phẩm chính hãng, bảo hành 36 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "2TB"
+      ],
+      [
+        "Dòng sản phẩm",
+        "Seagate SkyHawk"
+      ],
+      [
+        "Chuẩn ổ cứng",
+        "3.5 inch"
+      ],
+      [
+        "Giao tiếp",
+        "SATA 6 Gb/s"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, đầu ghi DVR/NVR"
+      ],
+      [
+        "Số camera hỗ trợ",
+        "Tối đa 64 camera"
+      ],
+      [
+        "Bảo hành",
+        "36 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.seagate.com/products/surveillance-drives/skyhawk-hard-drive/"
+    ],
+    "specificationsSource": "https://www.seagate.com/products/surveillance-drives/skyhawk-hard-drive/",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/seagate/ST2000VX017/ST2000VX017.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/seagate/ST2000VX017/ST2000VX017.png",
+    "sort": 12006,
+    "thumbnail": "/img/thumbnails/777691f5560933f70a7b.webp"
+  },
+  "ST4000VX016": {
+    "key": "ST4000VX016",
+    "name": "Ổ cứng giám sát Seagate SkyHawk 4TB ST4000VX016",
+    "code": "MAT-SEA-HDD-0003",
+    "price": "Liên hệ",
+    "warranty": "36 tháng",
+    "category": "Storage",
+    "productType": "Ổ cứng giám sát",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "Seagate",
+    "capacity": "4TB",
+    "description": [
+      "- Dung lượng lưu trữ 4TB, tối ưu cho hệ thống camera giám sát hoạt động liên tục.",
+      "- Chuẩn ổ cứng 3.5 inch, giao tiếp SATA 6 Gb/s.",
+      "- Hỗ trợ hệ thống nhiều camera, tăng độ ổn định khi ghi hình 24/7.",
+      "- Thiết kế chuyên dụng giúp hạn chế mất khung hình và lỗi dữ liệu.",
+      "- Sản phẩm chính hãng, bảo hành 36 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "4TB"
+      ],
+      [
+        "Dòng sản phẩm",
+        "Seagate SkyHawk"
+      ],
+      [
+        "Chuẩn ổ cứng",
+        "3.5 inch"
+      ],
+      [
+        "Giao tiếp",
+        "SATA 6 Gb/s"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, đầu ghi DVR/NVR"
+      ],
+      [
+        "Số camera hỗ trợ",
+        "Tối đa 64 camera"
+      ],
+      [
+        "Bảo hành",
+        "36 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.seagate.com/products/surveillance-drives/skyhawk-hard-drive/"
+    ],
+    "specificationsSource": "https://www.seagate.com/products/surveillance-drives/skyhawk-hard-drive/",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/seagate/ST4000VX016/ST4000VX016.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/seagate/ST4000VX016/ST4000VX016.png",
+    "sort": 12007,
+    "thumbnail": "/img/thumbnails/3da0878869a64b75b7b7.webp"
+  },
+  "ST6000VX009": {
+    "key": "ST6000VX009",
+    "name": "Ổ cứng giám sát Seagate SkyHawk 6TB ST6000VX009",
+    "code": "MAT-SEA-HDD-0004",
+    "price": "Liên hệ",
+    "warranty": "36 tháng",
+    "category": "Storage",
+    "productType": "Ổ cứng giám sát",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "Seagate",
+    "capacity": "6TB",
+    "description": [
+      "- Dung lượng lưu trữ 6TB, tối ưu cho hệ thống camera giám sát hoạt động liên tục.",
+      "- Chuẩn ổ cứng 3.5 inch, giao tiếp SATA 6 Gb/s.",
+      "- Hỗ trợ hệ thống nhiều camera, tăng độ ổn định khi ghi hình 24/7.",
+      "- Thiết kế chuyên dụng giúp hạn chế mất khung hình và lỗi dữ liệu.",
+      "- Sản phẩm chính hãng, bảo hành 36 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "6TB"
+      ],
+      [
+        "Dòng sản phẩm",
+        "Seagate SkyHawk"
+      ],
+      [
+        "Chuẩn ổ cứng",
+        "3.5 inch"
+      ],
+      [
+        "Giao tiếp",
+        "SATA 6 Gb/s"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, đầu ghi DVR/NVR"
+      ],
+      [
+        "Số camera hỗ trợ",
+        "Tối đa 64 camera"
+      ],
+      [
+        "Bảo hành",
+        "36 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.seagate.com/products/surveillance-drives/skyhawk-hard-drive/"
+    ],
+    "specificationsSource": "https://www.seagate.com/products/surveillance-drives/skyhawk-hard-drive/",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/seagate/ST6000VX009/ST6000VX009.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/seagate/ST6000VX009/ST6000VX009.png",
+    "sort": 12008,
+    "thumbnail": "/img/thumbnails/11252a59753bd4cff678.webp"
+  },
+  "ST8000VX010": {
+    "key": "ST8000VX010",
+    "name": "Ổ cứng giám sát Seagate SkyHawk 8TB ST8000VX010",
+    "code": "MAT-SEA-HDD-0005",
+    "price": "Liên hệ",
+    "warranty": "36 tháng",
+    "category": "Storage",
+    "productType": "Ổ cứng giám sát",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "Seagate",
+    "capacity": "8TB",
+    "description": [
+      "- Dung lượng lưu trữ 8TB, tối ưu cho hệ thống camera giám sát hoạt động liên tục.",
+      "- Chuẩn ổ cứng 3.5 inch, giao tiếp SATA 6 Gb/s.",
+      "- Hỗ trợ hệ thống nhiều camera, tăng độ ổn định khi ghi hình 24/7.",
+      "- Thiết kế chuyên dụng giúp hạn chế mất khung hình và lỗi dữ liệu.",
+      "- Sản phẩm chính hãng, bảo hành 36 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "8TB"
+      ],
+      [
+        "Dòng sản phẩm",
+        "Seagate SkyHawk"
+      ],
+      [
+        "Chuẩn ổ cứng",
+        "3.5 inch"
+      ],
+      [
+        "Giao tiếp",
+        "SATA 6 Gb/s"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, đầu ghi DVR/NVR"
+      ],
+      [
+        "Số camera hỗ trợ",
+        "Tối đa 64 camera"
+      ],
+      [
+        "Bảo hành",
+        "36 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.seagate.com/products/surveillance-drives/skyhawk-hard-drive/"
+    ],
+    "specificationsSource": "https://www.seagate.com/products/surveillance-drives/skyhawk-hard-drive/",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/seagate/ST8000VX010/ST8000VX010.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/seagate/ST8000VX010/ST8000VX010.png",
+    "sort": 12009,
+    "thumbnail": "/img/thumbnails/64f4e03dba2b1d5e84db.webp"
+  },
+  "SDSQQNR-032G-GN6IA": {
+    "key": "SDSQQNR-032G-GN6IA",
+    "name": "Thẻ nhớ SanDisk High Endurance 32GB SDSQQNR-032G-GN6IA",
+    "code": "MAT-SAN-MEM-0001",
+    "price": "Liên hệ",
+    "warranty": "24 tháng",
+    "category": "Storage",
+    "productType": "Thẻ nhớ",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "SanDisk",
+    "capacity": "32GB",
+    "description": [
+      "- Dung lượng 32GB, phù hợp lưu trữ video từ camera giám sát.",
+      "- Thiết kế bền bỉ cho nhu cầu ghi và ghi đè dữ liệu thường xuyên.",
+      "- Chống nước, chống sốc và chịu được điều kiện nhiệt độ khắc nghiệt.",
+      "- Tương thích camera IP, camera Wi-Fi và nhiều thiết bị dùng khe microSD.",
+      "- Sản phẩm chính hãng, bảo hành 24 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "32GB"
+      ],
+      [
+        "Loại thẻ",
+        "microSDHC"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, camera Wi-Fi"
+      ],
+      [
+        "Khả năng bảo vệ",
+        "Chống nước, chống sốc, chịu nhiệt"
+      ],
+      [
+        "Bảo hành",
+        "24 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.westerndigital.com/products/memory-cards/sandisk-high-endurance-uhs-i-microsd"
+    ],
+    "specificationsSource": "https://www.westerndigital.com/products/memory-cards/sandisk-high-endurance-uhs-i-microsd",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/sandisk/SDSQQNR-032G-GN6IA/SDSQQNR-032G-GN6IA.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/sandisk/SDSQQNR-032G-GN6IA/SDSQQNR-032G-GN6IA.png",
+    "sort": 12010,
+    "thumbnail": "/img/thumbnails/bd6a7c17b66fa9ce2376.webp"
+  },
+  "SDSQQNR-064G-GN6IA": {
+    "key": "SDSQQNR-064G-GN6IA",
+    "name": "Thẻ nhớ SanDisk High Endurance 64GB SDSQQNR-064G-GN6IA",
+    "code": "MAT-SAN-MEM-0002",
+    "price": "Liên hệ",
+    "warranty": "24 tháng",
+    "category": "Storage",
+    "productType": "Thẻ nhớ",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "SanDisk",
+    "capacity": "64GB",
+    "description": [
+      "- Dung lượng 64GB, phù hợp lưu trữ video từ camera giám sát.",
+      "- Thiết kế bền bỉ cho nhu cầu ghi và ghi đè dữ liệu thường xuyên.",
+      "- Chống nước, chống sốc và chịu được điều kiện nhiệt độ khắc nghiệt.",
+      "- Tương thích camera IP, camera Wi-Fi và nhiều thiết bị dùng khe microSD.",
+      "- Sản phẩm chính hãng, bảo hành 24 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "64GB"
+      ],
+      [
+        "Loại thẻ",
+        "microSDXC"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, camera Wi-Fi"
+      ],
+      [
+        "Khả năng bảo vệ",
+        "Chống nước, chống sốc, chịu nhiệt"
+      ],
+      [
+        "Bảo hành",
+        "24 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.westerndigital.com/products/memory-cards/sandisk-high-endurance-uhs-i-microsd"
+    ],
+    "specificationsSource": "https://www.westerndigital.com/products/memory-cards/sandisk-high-endurance-uhs-i-microsd",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/sandisk/SDSQQNR-064G-GN6IA/SDSQQNR-064G-GN6IA.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/sandisk/SDSQQNR-064G-GN6IA/SDSQQNR-064G-GN6IA.png",
+    "sort": 12011,
+    "thumbnail": "/img/thumbnails/52f706ef67e0b9d8b9ad.webp"
+  },
+  "SDSQQNR-128G-GN6IA": {
+    "key": "SDSQQNR-128G-GN6IA",
+    "name": "Thẻ nhớ SanDisk High Endurance 128GB SDSQQNR-128G-GN6IA",
+    "code": "MAT-SAN-MEM-0003",
+    "price": "Liên hệ",
+    "warranty": "24 tháng",
+    "category": "Storage",
+    "productType": "Thẻ nhớ",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "SanDisk",
+    "capacity": "128GB",
+    "description": [
+      "- Dung lượng 128GB, phù hợp lưu trữ video từ camera giám sát.",
+      "- Thiết kế bền bỉ cho nhu cầu ghi và ghi đè dữ liệu thường xuyên.",
+      "- Chống nước, chống sốc và chịu được điều kiện nhiệt độ khắc nghiệt.",
+      "- Tương thích camera IP, camera Wi-Fi và nhiều thiết bị dùng khe microSD.",
+      "- Sản phẩm chính hãng, bảo hành 24 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "128GB"
+      ],
+      [
+        "Loại thẻ",
+        "microSDXC"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, camera Wi-Fi"
+      ],
+      [
+        "Khả năng bảo vệ",
+        "Chống nước, chống sốc, chịu nhiệt"
+      ],
+      [
+        "Bảo hành",
+        "24 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.westerndigital.com/products/memory-cards/sandisk-high-endurance-uhs-i-microsd"
+    ],
+    "specificationsSource": "https://www.westerndigital.com/products/memory-cards/sandisk-high-endurance-uhs-i-microsd",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/sandisk/SDSQQNR-128G-GN6IA/SDSQQNR-128G-GN6IA.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/sandisk/SDSQQNR-128G-GN6IA/SDSQQNR-128G-GN6IA.png",
+    "sort": 12012,
+    "thumbnail": "/img/thumbnails/008e1cc5e8ca58a757c7.webp"
+  },
+  "SDSQQNR-256G-GN6IA": {
+    "key": "SDSQQNR-256G-GN6IA",
+    "name": "Thẻ nhớ SanDisk High Endurance 256GB SDSQQNR-256G-GN6IA",
+    "code": "MAT-SAN-MEM-0004",
+    "price": "Liên hệ",
+    "warranty": "24 tháng",
+    "category": "Storage",
+    "productType": "Thẻ nhớ",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "SanDisk",
+    "capacity": "256GB",
+    "description": [
+      "- Dung lượng 256GB, phù hợp lưu trữ video từ camera giám sát.",
+      "- Thiết kế bền bỉ cho nhu cầu ghi và ghi đè dữ liệu thường xuyên.",
+      "- Chống nước, chống sốc và chịu được điều kiện nhiệt độ khắc nghiệt.",
+      "- Tương thích camera IP, camera Wi-Fi và nhiều thiết bị dùng khe microSD.",
+      "- Sản phẩm chính hãng, bảo hành 24 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "256GB"
+      ],
+      [
+        "Loại thẻ",
+        "microSDXC"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, camera Wi-Fi"
+      ],
+      [
+        "Khả năng bảo vệ",
+        "Chống nước, chống sốc, chịu nhiệt"
+      ],
+      [
+        "Bảo hành",
+        "24 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.westerndigital.com/products/memory-cards/sandisk-high-endurance-uhs-i-microsd"
+    ],
+    "specificationsSource": "https://www.westerndigital.com/products/memory-cards/sandisk-high-endurance-uhs-i-microsd",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/sandisk/SDSQQNR-256G-GN6IA/SDSQQNR-256G-GN6IA.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/sandisk/SDSQQNR-256G-GN6IA/SDSQQNR-256G-GN6IA.png",
+    "sort": 12013,
+    "thumbnail": "/img/thumbnails/505b7426b7db11a70870.webp"
+  },
+  "HS-TF-NEO-PLUS-32G": {
+    "key": "HS-TF-NEO-PLUS-32G",
+    "name": "Thẻ nhớ giám sát Hiksemi NEO PLUS 32GB HS-TF-NEO-PLUS-32G",
+    "code": "MAT-HIK-MEM-0001",
+    "price": "Liên hệ",
+    "warranty": "24 tháng",
+    "category": "Storage",
+    "productType": "Thẻ nhớ",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "Hiksemi",
+    "capacity": "32GB",
+    "description": [
+      "- Dung lượng 32GB, phù hợp lưu trữ video từ camera giám sát.",
+      "- Thiết kế bền bỉ cho nhu cầu ghi và ghi đè dữ liệu thường xuyên.",
+      "- Chống nước, chống sốc và chịu được điều kiện nhiệt độ khắc nghiệt.",
+      "- Tương thích camera IP, camera Wi-Fi và nhiều thiết bị dùng khe microSD.",
+      "- Sản phẩm chính hãng, bảo hành 24 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "32GB"
+      ],
+      [
+        "Loại thẻ",
+        "microSDHC"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, camera Wi-Fi"
+      ],
+      [
+        "Khả năng bảo vệ",
+        "Chống nước, chống sốc, chịu nhiệt"
+      ],
+      [
+        "Bảo hành",
+        "24 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.hiksemitech.com/en/hiksemi/all-products/memory-card/micro-sd/hs-tf-neo-plus.html"
+    ],
+    "specificationsSource": "https://www.hiksemitech.com/en/hiksemi/all-products/memory-card/micro-sd/hs-tf-neo-plus.html",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/hiksemi/HS-TF-NEO-PLUS-32G/HS-TF-NEO-PLUS-32G.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/hiksemi/HS-TF-NEO-PLUS-32G/HS-TF-NEO-PLUS-32G.png",
+    "sort": 12014,
+    "thumbnail": "/img/thumbnails/c50933465d2ec5141e08.webp"
+  },
+  "HS-TF-NEO-PLUS-64G": {
+    "key": "HS-TF-NEO-PLUS-64G",
+    "name": "Thẻ nhớ giám sát Hiksemi NEO PLUS 64GB HS-TF-NEO-PLUS-64G",
+    "code": "MAT-HIK-MEM-0002",
+    "price": "Liên hệ",
+    "warranty": "24 tháng",
+    "category": "Storage",
+    "productType": "Thẻ nhớ",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "Hiksemi",
+    "capacity": "64GB",
+    "description": [
+      "- Dung lượng 64GB, phù hợp lưu trữ video từ camera giám sát.",
+      "- Thiết kế bền bỉ cho nhu cầu ghi và ghi đè dữ liệu thường xuyên.",
+      "- Chống nước, chống sốc và chịu được điều kiện nhiệt độ khắc nghiệt.",
+      "- Tương thích camera IP, camera Wi-Fi và nhiều thiết bị dùng khe microSD.",
+      "- Sản phẩm chính hãng, bảo hành 24 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "64GB"
+      ],
+      [
+        "Loại thẻ",
+        "microSDXC"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, camera Wi-Fi"
+      ],
+      [
+        "Khả năng bảo vệ",
+        "Chống nước, chống sốc, chịu nhiệt"
+      ],
+      [
+        "Bảo hành",
+        "24 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.hiksemitech.com/en/hiksemi/all-products/memory-card/micro-sd/hs-tf-neo-plus.html"
+    ],
+    "specificationsSource": "https://www.hiksemitech.com/en/hiksemi/all-products/memory-card/micro-sd/hs-tf-neo-plus.html",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/hiksemi/HS-TF-NEO-PLUS-64G/HS-TF-NEO-PLUS-64G.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/hiksemi/HS-TF-NEO-PLUS-64G/HS-TF-NEO-PLUS-64G.png",
+    "sort": 12015,
+    "thumbnail": "/img/thumbnails/4adecdcea91c73e137db.webp"
+  },
+  "HS-TF-NEO-PLUS-128G": {
+    "key": "HS-TF-NEO-PLUS-128G",
+    "name": "Thẻ nhớ giám sát Hiksemi NEO PLUS 128GB HS-TF-NEO-PLUS-128G",
+    "code": "MAT-HIK-MEM-0003",
+    "price": "Liên hệ",
+    "warranty": "24 tháng",
+    "category": "Storage",
+    "productType": "Thẻ nhớ",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "Hiksemi",
+    "capacity": "128GB",
+    "description": [
+      "- Dung lượng 128GB, phù hợp lưu trữ video từ camera giám sát.",
+      "- Thiết kế bền bỉ cho nhu cầu ghi và ghi đè dữ liệu thường xuyên.",
+      "- Chống nước, chống sốc và chịu được điều kiện nhiệt độ khắc nghiệt.",
+      "- Tương thích camera IP, camera Wi-Fi và nhiều thiết bị dùng khe microSD.",
+      "- Sản phẩm chính hãng, bảo hành 24 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "128GB"
+      ],
+      [
+        "Loại thẻ",
+        "microSDXC"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, camera Wi-Fi"
+      ],
+      [
+        "Khả năng bảo vệ",
+        "Chống nước, chống sốc, chịu nhiệt"
+      ],
+      [
+        "Bảo hành",
+        "24 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.hiksemitech.com/en/hiksemi/all-products/memory-card/micro-sd/hs-tf-neo-plus.html"
+    ],
+    "specificationsSource": "https://www.hiksemitech.com/en/hiksemi/all-products/memory-card/micro-sd/hs-tf-neo-plus.html",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/hiksemi/HS-TF-NEO-PLUS-128G/HS-TF-NEO-PLUS-128G.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/hiksemi/HS-TF-NEO-PLUS-128G/HS-TF-NEO-PLUS-128G.png",
+    "sort": 12016,
+    "thumbnail": "/img/thumbnails/76c95f0f2d436fa7cd7a.webp"
+  },
+  "HS-TF-NEO-PLUS-256G": {
+    "key": "HS-TF-NEO-PLUS-256G",
+    "name": "Thẻ nhớ giám sát Hiksemi NEO PLUS 256GB HS-TF-NEO-PLUS-256G",
+    "code": "MAT-HIK-MEM-0004",
+    "price": "Liên hệ",
+    "warranty": "24 tháng",
+    "category": "Storage",
+    "productType": "Thẻ nhớ",
+    "industry": "Vật tư - phụ kiện",
+    "brand": "Hiksemi",
+    "capacity": "256GB",
+    "description": [
+      "- Dung lượng 256GB, phù hợp lưu trữ video từ camera giám sát.",
+      "- Thiết kế bền bỉ cho nhu cầu ghi và ghi đè dữ liệu thường xuyên.",
+      "- Chống nước, chống sốc và chịu được điều kiện nhiệt độ khắc nghiệt.",
+      "- Tương thích camera IP, camera Wi-Fi và nhiều thiết bị dùng khe microSD.",
+      "- Sản phẩm chính hãng, bảo hành 24 tháng."
+    ],
+    "specifications": [
+      [
+        "Dung lượng",
+        "256GB"
+      ],
+      [
+        "Loại thẻ",
+        "microSDXC"
+      ],
+      [
+        "Ứng dụng",
+        "Camera giám sát, camera Wi-Fi"
+      ],
+      [
+        "Khả năng bảo vệ",
+        "Chống nước, chống sốc, chịu nhiệt"
+      ],
+      [
+        "Bảo hành",
+        "24 tháng"
+      ]
+    ],
+    "referenceSources": [
+      "https://www.hiksemitech.com/en/hiksemi/all-products/memory-card/micro-sd/hs-tf-neo-plus.html"
+    ],
+    "specificationsSource": "https://www.hiksemitech.com/en/hiksemi/all-products/memory-card/micro-sd/hs-tf-neo-plus.html",
+    "specificationsChecked": "2026-07-22",
+    "imageStatus": "official-local-png",
+    "link": "/San-pham/vat-tu-phu-kien/storage/hiksemi/HS-TF-NEO-PLUS-256G/HS-TF-NEO-PLUS-256G.html",
+    "image": "/San-pham/vat-tu-phu-kien/storage/hiksemi/HS-TF-NEO-PLUS-256G/HS-TF-NEO-PLUS-256G.png",
+    "sort": 12017,
+    "thumbnail": "/img/thumbnails/2254194c93dc9adc31d8.webp"
   }
 }

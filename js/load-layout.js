@@ -1,5 +1,10 @@
 function loadHTML(id, file) {
-  const target = document.getElementById(id);
+  let target = document.getElementById(id);
+  if (!target && id === "float") {
+    target = document.createElement("div");
+    target.id = "float";
+    document.body.append(target);
+  }
   if (!target) return Promise.resolve();
 
   return fetch(`${file}?v=20260720-2`)
@@ -15,6 +20,10 @@ function loadHTML(id, file) {
 
       if (id === "header") {
         initializeGlobalProductSearch(target);
+      }
+
+      if (id === "float") {
+        initializePageScrollButtons(target);
       }
 
       // Banner nằm trong menu.html
@@ -42,6 +51,34 @@ loadHTML("menu", "/includes/Menu.html");
 loadHTML("footer", "/includes/footer.html");
 loadHTML("product-sidebar", "/includes/product-sidebar.html");
 loadHTML("float", "/includes/float.html");
+
+
+function initializePageScrollButtons(root) {
+  const topButton = root.querySelector(".scroll-to-top");
+  const bottomButton = root.querySelector(".scroll-to-bottom");
+  if (!topButton || !bottomButton) return;
+
+  const scrollBehavior = window.matchMedia("(prefers-reduced-motion: reduce)").matches
+    ? "auto"
+    : "smooth";
+
+  topButton.addEventListener("click", () => {
+    window.scrollTo({ top: 0, behavior: scrollBehavior });
+  });
+  bottomButton.addEventListener("click", () => {
+    window.scrollTo({ top: document.documentElement.scrollHeight, behavior: scrollBehavior });
+  });
+
+  const updateButtonState = () => {
+    const maxScroll = Math.max(0, document.documentElement.scrollHeight - window.innerHeight);
+    topButton.disabled = window.scrollY <= 2;
+    bottomButton.disabled = window.scrollY >= maxScroll - 2;
+  };
+
+  updateButtonState();
+  window.addEventListener("scroll", updateButtonState, { passive: true });
+  window.addEventListener("resize", updateButtonState);
+}
 
 
 function initializeGlobalProductSearch(header) {

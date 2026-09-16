@@ -11,6 +11,7 @@ const catalogState = {
   selectedResolutions: new Set(),
   keyword: "",
   sortMode: "",
+  infiniteScrollPaused: false,
 };
 
 document.addEventListener("DOMContentLoaded", initializeProducts);
@@ -175,18 +176,8 @@ function renderNextProducts() {
   updateCatalogCount();
 }
 
-window.renderAllCatalogProducts = function renderAllCatalogProducts() {
-  return new Promise((resolve) => {
-    const renderBatch = () => {
-      if (catalogState.renderedCount >= catalogState.visibleProducts.length) {
-        resolve();
-        return;
-      }
-      renderNextProducts();
-      window.requestAnimationFrame(renderBatch);
-    };
-    renderBatch();
-  });
+window.pauseCatalogInfiniteScroll = function pauseCatalogInfiniteScroll() {
+  catalogState.infiniteScrollPaused = true;
 };
 
 function createProductCard(product) {
@@ -231,6 +222,14 @@ function createProductCard(product) {
 }
 
 function handleInfiniteScroll() {
+  if (catalogState.infiniteScrollPaused) {
+    const container = document.querySelector(".products[data-catalog]");
+    if (!container) return;
+    const productBottom = container.getBoundingClientRect().bottom + window.scrollY;
+    if (window.scrollY + window.innerHeight >= productBottom) return;
+    catalogState.infiniteScrollPaused = false;
+  }
+
   if (catalogState.renderedCount >= catalogState.visibleProducts.length) return;
 
   const nearBottom =

@@ -20,6 +20,7 @@ function loadHTML(id, file) {
       // Banner nằm trong menu.html
       if (id === "menu") {
         initMobileCategoryMenu(target);
+        initCategoryNavigation(target);
         initSlider();
 
         // Nếu mở từ link có #product-detail thì cuộn sau khi menu tải xong
@@ -75,13 +76,18 @@ function initMobileCategoryMenu(menuRoot) {
   const categoryMenu = menuRoot.querySelector(".category-menu");
   if (!leftMenu || !title || !categoryMenu) return;
 
-  title.setAttribute("role", "button");
-  title.setAttribute("tabindex", "0");
-  title.setAttribute("aria-expanded", "false");
+  const phone = window.matchMedia("(max-width: 640px)").matches;
+  if (phone) leftMenu.classList.add("is-open");
+  if (!phone) {
+    title.setAttribute("role", "button");
+    title.setAttribute("tabindex", "0");
+  }
+  title.setAttribute("aria-expanded", String(phone));
   title.setAttribute("aria-controls", "mobile-category-menu");
   categoryMenu.id = "mobile-category-menu";
 
   const toggle = () => {
+    if (window.matchMedia("(max-width: 640px)").matches) return;
     const open = leftMenu.classList.toggle("is-open");
     title.setAttribute("aria-expanded", String(open));
   };
@@ -92,4 +98,31 @@ function initMobileCategoryMenu(menuRoot) {
       toggle();
     }
   });
+}
+
+function initCategoryNavigation(menuRoot) {
+  menuRoot.querySelectorAll(".category-menu a[href]").forEach((link) => {
+    link.addEventListener("click", () => {
+      try {
+        const destination = new URL(link.href);
+        if (destination.origin === window.location.origin) {
+          sessionStorage.setItem("scroll-to-category", destination.pathname);
+        }
+      } catch (error) {
+        // Navigation still works when session storage is unavailable.
+      }
+    });
+  });
+
+  try {
+    const destination = sessionStorage.getItem("scroll-to-category");
+    if (destination !== window.location.pathname) return;
+    sessionStorage.removeItem("scroll-to-category");
+    const mainContent = document.querySelector(".breadcrumb, .section-title, main");
+    if (mainContent) {
+      requestAnimationFrame(() => mainContent.scrollIntoView({ block: "start" }));
+    }
+  } catch (error) {
+    // Keep the page usable when session storage is unavailable.
+  }
 }

@@ -1731,3 +1731,16 @@ h5 {
   .floating-buttons { right: 10px; bottom: 14px; }
 }
 
+/* Phone-only: keep categories visible and remove the empty banner space. */
+@media (max-width: 640px) {
+  .left-menu .category-menu { display: block; }
+  .menu-title { cursor: default; padding-right: 18px; }
+  .menu-title::after,
+  .left-menu.is-open .menu-title::after { content: none; }
+  .main-layout { gap: 0; padding-bottom: 0; }
+  .main-layout .banner { display: none; }
+}
+
+.breadcrumb,
+.section-title { scroll-margin-top: 12px; }
+

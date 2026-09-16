@@ -175,6 +175,20 @@ function renderNextProducts() {
   updateCatalogCount();
 }
 
+window.renderAllCatalogProducts = function renderAllCatalogProducts() {
+  return new Promise((resolve) => {
+    const renderBatch = () => {
+      if (catalogState.renderedCount >= catalogState.visibleProducts.length) {
+        resolve();
+        return;
+      }
+      renderNextProducts();
+      window.requestAnimationFrame(renderBatch);
+    };
+    renderBatch();
+  });
+};
+
 function createProductCard(product) {
   const card = document.createElement("div");
   card.className = "product-card";

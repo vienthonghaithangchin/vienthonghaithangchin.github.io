@@ -65,8 +65,18 @@ function initializePageScrollButtons(root) {
   topButton.addEventListener("click", () => {
     window.scrollTo({ top: 0, behavior: scrollBehavior });
   });
-  bottomButton.addEventListener("click", () => {
-    window.scrollTo({ top: document.documentElement.scrollHeight, behavior: scrollBehavior });
+  bottomButton.addEventListener("click", async () => {
+    bottomButton.disabled = true;
+    if (typeof window.renderAllCatalogProducts === "function") {
+      await window.renderAllCatalogProducts();
+    }
+
+    const footer = document.getElementById("footer");
+    if (footer) {
+      footer.scrollIntoView({ behavior: scrollBehavior, block: "end" });
+    } else {
+      window.scrollTo({ top: document.documentElement.scrollHeight, behavior: scrollBehavior });
+    }
   });
 
   const updateButtonState = () => {

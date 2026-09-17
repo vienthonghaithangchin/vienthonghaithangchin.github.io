@@ -1774,3 +1774,34 @@ h5 {
 .breadcrumb,
 .section-title { scroll-margin-top: 12px; }
 
+/* Local SEO service pages */
+.local-service { width: min(1120px, calc(100% - 40px)); margin: 28px auto 50px; color: #222; line-height: 1.75; }
+.local-service__hero { padding: 42px; border-radius: 18px; background: linear-gradient(135deg, #fff4ed, #fff); border: 1px solid #ffd8c4; }
+.local-service__eyebrow { margin: 0 0 8px; color: #e84600; font-weight: 700; letter-spacing: .04em; }
+.local-service h1 { margin: 0 0 16px; font-size: clamp(28px, 4vw, 44px); line-height: 1.25; color: #222; }
+.local-service h2 { margin: 0 0 16px; font-size: clamp(22px, 3vw, 30px); line-height: 1.35; color: #e84600; }
+.local-service h3 { margin: 0 0 8px; font-size: 20px; }
+.local-service section { margin-top: 34px; padding: 28px; border-radius: 14px; background: #fff; box-shadow: 0 3px 16px rgba(0,0,0,.07); }
+.local-service__actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 22px; }
+.local-service__actions a { display: inline-flex; min-height: 46px; padding: 10px 20px; align-items: center; justify-content: center; border-radius: 8px; font-weight: 700; text-decoration: none; }
+.local-service__primary { background: #ff4d00; color: #fff; }
+.local-service__secondary { border: 1px solid #ff4d00; color: #d94100; background: #fff; }
+.local-service__grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 16px; }
+.local-service__grid article { padding: 20px; border-radius: 10px; background: #fff7f2; }
+.local-service__steps { padding-left: 24px; }
+.local-service details { padding: 14px 0; border-bottom: 1px solid #eee; }
+.local-service summary { cursor: pointer; font-weight: 700; }
+.local-service__cta { margin-top: 34px; padding: 30px; border-radius: 14px; text-align: center; background: #fff0e8; border: 1px solid #ffc7aa; }
+.home-local-services { width: min(1120px, calc(100% - 40px)); margin: 0 auto 42px; padding: 28px; border-radius: 14px; background: #fff6f1; border: 1px solid #ffd7c2; }
+.home-local-services h1 { margin: 0 0 12px; color: #e84600; font-size: clamp(22px, 3vw, 30px); }
+.home-local-services__links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }
+.home-local-services__links a { padding: 10px 14px; border-radius: 7px; color: #fff; background: #ff4d00; text-decoration: none; font-weight: 600; }
+@media (max-width: 640px) {
+  .local-service { width: calc(100% - 20px); margin-top: 16px; }
+  .local-service__hero, .local-service section, .local-service__cta { padding: 20px; }
+  .local-service__grid { grid-template-columns: 1fr; }
+  .local-service__actions a { width: 100%; }
+  .home-local-services { width: calc(100% - 20px); padding: 20px; }
+  .home-local-services__links { flex-direction: column; }
+}
+

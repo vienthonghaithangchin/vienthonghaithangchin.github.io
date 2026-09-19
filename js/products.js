@@ -108,6 +108,7 @@ function hydrateProductDetail(productsById) {
   if (image) {
     image.src = product.thumbnail || product.image;
     image.alt = product.name;
+    initializeProductImageLightbox(image);
   }
 
   renderProductDescription(detail, product.description);
@@ -221,6 +222,67 @@ function renderProductQuoteRequest(detail, product) {
 
   button.href = "https://zalo.me/0948182466";
   button.title = `Nhắn Zalo để yêu cầu báo giá ${product.name}`;
+}
+
+function initializeProductImageLightbox(image) {
+  if (image.dataset.lightboxBound === "true") return;
+
+  image.dataset.lightboxBound = "true";
+  image.classList.add("product-detail-zoomable");
+  image.tabIndex = 0;
+  image.setAttribute("role", "button");
+  image.setAttribute("aria-label", "Phóng to ảnh sản phẩm");
+  image.title = "Bấm để phóng to ảnh sản phẩm";
+
+  const open = () => openProductImageLightbox(image);
+  image.addEventListener("click", open);
+  image.addEventListener("keydown", (event) => {
+    if (event.key === "Enter" || event.key === " ") {
+      event.preventDefault();
+      open();
+    }
+  });
+}
+
+function openProductImageLightbox(sourceImage) {
+  const lightbox = getProductImageLightbox();
+  const preview = lightbox.querySelector(".product-image-lightbox__image");
+  const closeButton = lightbox.querySelector(".product-image-lightbox__close");
+
+  preview.src = sourceImage.currentSrc || sourceImage.src;
+  preview.alt = sourceImage.alt || "Ảnh sản phẩm phóng to";
+  lightbox.hidden = false;
+  document.body.classList.add("product-lightbox-open");
+  closeButton.focus();
+}
+
+function getProductImageLightbox() {
+  let lightbox = document.getElementById("product-image-lightbox");
+  if (lightbox) return lightbox;
+
+  lightbox = document.createElement("div");
+  lightbox.id = "product-image-lightbox";
+  lightbox.className = "product-image-lightbox";
+  lightbox.hidden = true;
+  lightbox.setAttribute("role", "dialog");
+  lightbox.setAttribute("aria-modal", "true");
+  lightbox.setAttribute("aria-label", "Ảnh sản phẩm phóng to");
+  lightbox.innerHTML = '<div class="product-image-lightbox__content"><button class="product-image-lightbox__close" type="button" aria-label="Đóng ảnh phóng to">×</button><img class="product-image-lightbox__image" alt=""></div>';
+
+  const close = () => {
+    lightbox.hidden = true;
+    document.body.classList.remove("product-lightbox-open");
+  };
+
+  lightbox.querySelector(".product-image-lightbox__close").addEventListener("click", close);
+  lightbox.addEventListener("click", (event) => {
+    if (event.target === lightbox) close();
+  });
+  window.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && !lightbox.hidden) close();
+  });
+  document.body.appendChild(lightbox);
+  return lightbox;
 }
 
 function createProductCard(product) {

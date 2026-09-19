@@ -1773,7 +1773,8 @@ h5 {
 }
 
 .breadcrumb,
-.section-title { scroll-margin-top: 12px; }
+.section-title,
+#main-content { scroll-margin-top: 12px; }
 
 /* Local SEO service pages */
 .local-service { width: min(1120px, calc(100% - 40px)); margin: 28px auto 50px; color: #222; line-height: 1.75; }

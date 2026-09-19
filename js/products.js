@@ -411,8 +411,11 @@ function initializeCatalogToolbar() {
 
   if (container.dataset.globalSearch === "true") {
     const initialQuery = new URLSearchParams(window.location.search).get("q") || "";
-    catalogState.keyword = initialQuery;
-    applyCatalogFilter();
+    if (initialQuery) {
+      setGlobalSearchQuery(initialQuery);
+    } else {
+      applyCatalogFilter();
+    }
     return;
   }
 
@@ -685,6 +688,24 @@ function setGlobalSearchQuery(keyword) {
   else url.searchParams.delete("q");
   window.history.replaceState({}, "", url);
   applyCatalogFilter();
+
+  const results = document.querySelector('.products[data-catalog][data-global-search="true"]');
+  if (!results || !value) return;
+
+  if (catalogState.visibleProducts.length === 1) {
+    const [product] = catalogState.visibleProducts;
+    if (product.link) {
+      window.location.assign(productDetailUrl(product.link));
+    }
+    return;
+  }
+
+  if (catalogState.visibleProducts.length > 1) {
+    requestAnimationFrame(() => {
+      const heading = document.querySelector(".section-title");
+      (heading || results).scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+  }
 }
 
 window.setGlobalSearchQuery = setGlobalSearchQuery;

@@ -74,6 +74,11 @@ function hydrateStaticCards(productsById) {
     setText(card, ".product-code", product.code);
     setText(card, ".product-price", formatPrice(effectivePrice(product)));
 
+    const detailLink = card.querySelector(".detail-btn");
+    if (detailLink && product.link) {
+      detailLink.href = productDetailUrl(product.link);
+    }
+
     const image = card.querySelector(".product-image");
     if (image) {
       image.src = product.thumbnail || product.image;
@@ -180,6 +185,11 @@ window.pauseCatalogInfiniteScroll = function pauseCatalogInfiniteScroll() {
   catalogState.infiniteScrollPaused = true;
 };
 
+function productDetailUrl(link) {
+  if (!link || link === "#") return "#";
+  return `${link.split("#")[0]}#product-detail`;
+}
+
 function createProductCard(product) {
   const card = document.createElement("div");
   card.className = "product-card";
@@ -214,7 +224,7 @@ function createProductCard(product) {
 
   const link = document.createElement("a");
   link.className = "detail-btn";
-  link.href = product.link || "#";
+  link.href = productDetailUrl(product.link);
   link.textContent = "Xem Chi Tiết";
 
   card.append(image, name, code, price, link);

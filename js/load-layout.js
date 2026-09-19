@@ -32,13 +32,18 @@ function loadHTML(id, file) {
         initCategoryNavigation(target);
         initSlider();
 
-        // Nếu mở từ link có #product-detail thì cuộn sau khi menu tải xong
+        // Nếu mở từ link có #product-detail thì cuộn sau khi menu tải xong.
+        // Một số trang cũ chưa có id này, nên dùng class làm phương án dự phòng.
         if (window.location.hash === "#product-detail") {
           requestAnimationFrame(() => {
-            document.getElementById("product-detail")?.scrollIntoView({
-              behavior: "smooth",
-              block: "start",
-            });
+            const detail =
+              document.getElementById("product-detail") ||
+              document.querySelector(".product-detail");
+
+            if (detail) {
+              detail.id = "product-detail";
+              detail.scrollIntoView({ behavior: "smooth", block: "start" });
+            }
           });
         }
       }

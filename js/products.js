@@ -85,6 +85,7 @@ function hydrateStaticCards(productsById) {
       image.alt = product.name;
       image.loading = "lazy";
       image.decoding = "async";
+      linkProductImage(image, product);
     }
   });
 }
@@ -101,6 +102,7 @@ function hydrateProductDetail(productsById) {
   setText(detail, ".product-brand", product.brand);
   setText(detail, ".product-warranty", product.warranty);
   setText(detail, ".product-price", formatPrice(effectivePrice(product)));
+  renderProductQuoteRequest(detail, product);
 
   const image = detail.querySelector(".product-image");
   if (image) {
@@ -190,6 +192,37 @@ function productDetailUrl(link) {
   return `${link.split("#")[0]}#product-detail`;
 }
 
+function linkProductImage(image, product) {
+  if (!image || !product.link) return;
+
+  let link = image.closest("a");
+  if (!link) {
+    link = document.createElement("a");
+    image.parentNode?.insertBefore(link, image);
+    link.appendChild(image);
+  }
+
+  link.classList.add("product-image-link");
+  link.href = productDetailUrl(product.link);
+  link.setAttribute("aria-label", `Xem chi tiết ${product.name}`);
+}
+
+function renderProductQuoteRequest(detail, product) {
+  let button = detail.querySelector(".quote-request-button[data-product-quote]");
+  if (!button) {
+    button = document.createElement("a");
+    button.className = "quote-request-button";
+    button.dataset.productQuote = "true";
+    button.target = "_blank";
+    button.rel = "noopener noreferrer";
+    button.textContent = "Yêu cầu báo giá";
+    detail.querySelector(".product-price")?.insertAdjacentElement("afterend", button);
+  }
+
+  button.href = "https://zalo.me/0948182466";
+  button.title = `Nhắn Zalo để yêu cầu báo giá ${product.name}`;
+}
+
 function createProductCard(product) {
   const card = document.createElement("div");
   card.className = "product-card";
@@ -204,6 +237,12 @@ function createProductCard(product) {
   image.height = 640;
   image.loading = "lazy";
   image.decoding = "async";
+
+  const imageLink = document.createElement("a");
+  imageLink.className = "product-image-link";
+  imageLink.href = productDetailUrl(product.link);
+  imageLink.setAttribute("aria-label", `Xem chi tiết ${product.name}`);
+  imageLink.appendChild(image);
 
   const name = document.createElement("h5");
   name.className = "product-name";
@@ -227,7 +266,7 @@ function createProductCard(product) {
   link.href = productDetailUrl(product.link);
   link.textContent = "Xem Chi Tiết";
 
-  card.append(image, name, code, price, link);
+  card.append(imageLink, name, code, price, link);
   return card;
 }
 

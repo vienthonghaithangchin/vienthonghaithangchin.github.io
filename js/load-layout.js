@@ -58,6 +58,28 @@ loadHTML("footer", "/includes/footer.html");
 loadHTML("product-sidebar", "/includes/product-sidebar.html");
 loadHTML("float", "/includes/float.html");
 
+function initializeServiceQuoteRequests() {
+  document.querySelectorAll(".local-service__actions").forEach((actions) => {
+    if (actions.querySelector("[data-service-quote]")) return;
+
+    const button = document.createElement("a");
+    button.className = "local-service__quote";
+    button.dataset.serviceQuote = "true";
+    button.href = "https://zalo.me/0948182466";
+    button.target = "_blank";
+    button.rel = "noopener noreferrer";
+    button.textContent = "Yêu cầu báo giá";
+    button.title = "Nhắn Zalo để gửi tên, số điện thoại, địa điểm và nhu cầu";
+    actions.appendChild(button);
+  });
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initializeServiceQuoteRequests);
+} else {
+  initializeServiceQuoteRequests();
+}
+
 
 function initializePageScrollButtons(root) {
   const topButton = root.querySelector(".scroll-to-top");

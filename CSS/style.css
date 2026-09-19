@@ -105,6 +105,17 @@ header {
   transform: translateY(-5px);
 }
 
+.product-image-link {
+  display: block;
+  cursor: pointer;
+}
+
+.product-image-link:focus-visible,
+.quote-request-button:focus-visible {
+  outline: 3px solid #0b76ed;
+  outline-offset: 3px;
+}
+
 .catalog-status {
   margin: 18px 5% 0;
   color: #666;
@@ -894,6 +905,24 @@ h5 {
   background: #e65100;
 
   transform: translateY(-2px);
+}
+
+.quote-request-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  margin: -10px 0 26px;
+  padding: 10px 18px;
+  border-radius: 8px;
+  background: #0068ff;
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.quote-request-button:hover {
+  background: #0056d6;
 }
 .product-sidebar {
   width: 320px;
@@ -1788,6 +1817,7 @@ h5 {
 .local-service__actions a { display: inline-flex; min-height: 46px; padding: 10px 20px; align-items: center; justify-content: center; border-radius: 8px; font-weight: 700; text-decoration: none; }
 .local-service__primary { background: #ff4d00; color: #fff; }
 .local-service__secondary { border: 1px solid #ff4d00; color: #d94100; background: #fff; }
+.local-service__quote { background: #0068ff; color: #fff; }
 .local-service__grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 16px; }
 .local-service__grid article { padding: 20px; border-radius: 10px; background: #fff7f2; }
 .local-service__steps { padding-left: 24px; }

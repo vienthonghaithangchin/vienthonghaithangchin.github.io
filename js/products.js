@@ -31,6 +31,10 @@ async function initializeProducts() {
       productsById[embeddedProduct.id] = {
         ...embeddedProduct.product,
         price: indexedProduct.price ?? embeddedProduct.product.price,
+        previousPrice: indexedProduct.previousPrice ?? embeddedProduct.product.previousPrice,
+        priceValidUntil: indexedProduct.priceValidUntil ?? embeddedProduct.product.priceValidUntil,
+        vatIncluded: indexedProduct.vatIncluded ?? embeddedProduct.product.vatIncluded,
+        priceVatNote: indexedProduct.priceVatNote ?? embeddedProduct.product.priceVatNote,
       };
     }
 
@@ -73,6 +77,7 @@ function hydrateStaticCards(productsById) {
     setText(card, ".product-name", product.name);
     setText(card, ".product-code", product.code);
     setText(card, ".product-price", formatPrice(effectivePrice(product)));
+    renderVatNote(card, product);
 
     const detailLink = card.querySelector(".detail-btn");
     if (detailLink && product.link) {
@@ -103,6 +108,7 @@ function hydrateProductDetail(productsById) {
   setText(detail, ".product-warranty", product.warranty);
   setText(detail, ".product-price", formatPrice(effectivePrice(product)));
   renderProductQuoteRequest(detail, product);
+  renderVatNote(detail, product);
 
   const image = detail.querySelector(".product-image");
   if (image) {
@@ -323,12 +329,16 @@ function createProductCard(product) {
   price.className = "product-price";
   price.textContent = formatPrice(effectivePrice(product));
 
+  const vatNote = createVatNote(product);
+
   const link = document.createElement("a");
   link.className = "detail-btn";
   link.href = productDetailUrl(product.link);
   link.textContent = "Xem Chi Tiết";
 
-  card.append(imageLink, name, code, price, link);
+  card.append(imageLink, name, code, price);
+  if (vatNote) card.appendChild(vatNote);
+  card.appendChild(link);
   return card;
 }
 
@@ -470,6 +480,37 @@ function effectivePrice(product) {
     return product.previousPrice ?? "Liên hệ";
   }
   return product.price;
+}
+
+function priceHasIncludedVat(product) {
+  const validUntil = product?.priceValidUntil ? Date.parse(product.priceValidUntil) : NaN;
+  return Boolean(product?.vatIncluded) && !(Number.isFinite(validUntil) && validUntil <= Date.now());
+}
+
+function createVatNote(product) {
+  if (!priceHasIncludedVat(product)) return null;
+
+  const note = document.createElement("small");
+  note.className = "product-vat-note";
+  note.textContent = product.priceVatNote || "Đã gồm VAT";
+  return note;
+}
+
+function renderVatNote(root, product) {
+  let note = root.querySelector(".product-vat-note");
+  const shouldShow = priceHasIncludedVat(product);
+
+  if (!shouldShow) {
+    note?.remove();
+    return;
+  }
+
+  if (!note) {
+    note = createVatNote(product);
+    root.querySelector(".product-price")?.insertAdjacentElement("afterend", note);
+  } else {
+    note.textContent = product.priceVatNote || "Đã gồm VAT";
+  }
 }
 
 function formatPrice(price) {

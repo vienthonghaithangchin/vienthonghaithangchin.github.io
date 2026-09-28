@@ -1573,6 +1573,15 @@ h5 {
   color: #ff5a00;
 }
 
+.product-vat-note {
+  display: block;
+  margin: -14px 0 18px;
+  color: #277446;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
 
 /* Thanh tìm kiếm và bộ lọc danh mục sản phẩm */
 .catalog-toolbar {
@@ -1760,6 +1769,12 @@ h5 {
 .product-card .product-price {
   min-height: 1.4em;
   line-height: 1.4;
+}
+
+.product-card .product-vat-note {
+  margin: -10px 0 12px;
+  padding: 0 10px;
+  font-size: 12px;
 }
 
 /* PRODUCT SIDEBAR STANDARD — shared by every product detail page */

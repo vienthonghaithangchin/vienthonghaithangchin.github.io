@@ -1787,9 +1787,36 @@ h5 {
 }
 
 .catalog-seo-intro p { margin: 0 0 14px; line-height: 1.65; }
-.catalog-seo-intro h2 { margin: 0 0 10px; font-size: 20px; }
-.catalog-seo-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 8px 24px; margin: 0; padding-left: 20px; }
-.catalog-seo-links a { color: #075ed8; line-height: 1.5; }
+.catalog-seo-intro h2 { margin: 0 0 12px; font-size: 20px; }
+.catalog-seo-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.catalog-seo-links li { margin: 0; min-width: 0; }
+.catalog-seo-links a {
+  display: block;
+  min-height: 100%;
+  padding: 10px 12px;
+  border: 1px solid #dfe7f1;
+  border-radius: 7px;
+  background: #f8fbff;
+  color: #075ed8;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.45;
+  text-decoration: none;
+}
+.catalog-seo-links a:hover,
+.catalog-seo-links a:focus-visible { border-color: #ff6b21; background: #fff4ed; color: #d94e00; }
+
+@media (max-width: 600px) {
+  .catalog-seo-intro { padding: 14px; }
+  .catalog-seo-links { grid-template-columns: 1fr; }
+}
 
 /* PRODUCT SIDEBAR STANDARD — shared by every product detail page */
 .product-sidebar--standard { width: 320px; max-width: 100%; flex: 0 0 320px; font-family: "Be Vietnam Pro", sans-serif; }

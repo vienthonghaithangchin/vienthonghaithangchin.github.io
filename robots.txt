@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /quan-ly-gia.html
 Sitemap: https://vienthong29.vn/sitemap.xml
+Sitemap: https://vienthong29.vn/sitemap-priority.xml

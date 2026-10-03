@@ -1,7 +1,7 @@
 {
   "HUAWEI-99092236": {
     "name": "16-Port GE PoE Unmanaged Switch HUAWEI S110-16LP2SR",
-    "code": "HUAWEI-99092236",
+    "code": "NET-HUA-SWT-0010",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -88,7 +88,7 @@
   },
   "HUAWEI-65824283": {
     "name": "16-Port GE Unmanaged Switch HUAWEI S110-16T2S",
-    "code": "HUAWEI-65824283",
+    "code": "NET-HUA-SWT-0011",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -175,7 +175,7 @@
   },
   "HUAWEI-12152530": {
     "name": "24-Port 2.5GE PoE Switch HUAWEI S310-24PN4X",
-    "code": "HUAWEI-12152530",
+    "code": "NET-HUA-SWT-0012",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -258,7 +258,7 @@
   },
   "HUAWEI-03923210": {
     "name": "24-Port GE Managed Switch Huawei eKitEngine S210-24T2J",
-    "code": "HUAWEI-03923210",
+    "code": "NET-HUA-SWT-0013",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -361,7 +361,7 @@
   },
   "HUAWEI-21653481": {
     "name": "24-Port GE Managed Switch HUAWEI S220-24T4X",
-    "code": "HUAWEI-21653481",
+    "code": "NET-HUA-SWT-0014",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -452,7 +452,7 @@
   },
   "HUAWEI-05213835": {
     "name": "24-Port GE Managed Switch HUAWEI S220S-24T4J",
-    "code": "HUAWEI-05213835",
+    "code": "NET-HUA-SWT-0015",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -539,7 +539,7 @@
   },
   "HUAWEI-52655741": {
     "name": "24-Port GE Managed Switch HUAWEI S220S-24T4JX",
-    "code": "HUAWEI-52655741",
+    "code": "NET-HUA-SWT-0016",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -626,7 +626,7 @@
   },
   "HUAWEI-58671152": {
     "name": "24-Port GE PoE Managed Switch HUAWEI S220-24P4X",
-    "code": "HUAWEI-58671152",
+    "code": "NET-HUA-SWT-0017",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -713,7 +713,7 @@
   },
   "HUAWEI-96393554": {
     "name": "24-Port GE PoE Managed Switch HUAWEI S220S-24P4J",
-    "code": "HUAWEI-96393554",
+    "code": "NET-HUA-SWT-0018",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -800,7 +800,7 @@
   },
   "HUAWEI-56636382": {
     "name": "24-Port GE PoE+ Switch Huawei eKitEngine S210-24P2J",
-    "code": "HUAWEI-56636382",
+    "code": "NET-HUA-SWT-0023",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -903,7 +903,7 @@
   },
   "HUAWEI-13822560": {
     "name": "24-Port GE PoE Switch Huawei eKitEngine S220S-24LP4JX",
-    "code": "HUAWEI-13822560",
+    "code": "NET-HUA-SWT-0019",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -998,7 +998,7 @@
   },
   "HUAWEI-S220S-24P4JX": {
     "name": "24-Port GE PoE Switch HUAWEI S220S-24P4JX",
-    "code": "NET-HUA-SWI-0003",
+    "code": "NET-HUA-SWT-0003",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -1074,7 +1074,7 @@
   },
   "HUAWEI-83111538": {
     "name": "24-Port GE PoE Switch HUAWEI S310-24P4S",
-    "code": "HUAWEI-83111538",
+    "code": "NET-HUA-SWT-0020",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -1157,7 +1157,7 @@
   },
   "HUAWEI-40011324": {
     "name": "24-Port GE PoE+ Switch HUAWEI S310-24P4X",
-    "code": "HUAWEI-40011324",
+    "code": "NET-HUA-SWT-0024",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -1236,7 +1236,7 @@
   },
   "HUAWEI-62742640": {
     "name": "24-Port GE PoE Switch HUAWEI S310S-24P4J",
-    "code": "HUAWEI-62742640",
+    "code": "NET-HUA-SWT-0021",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -1311,7 +1311,7 @@
   },
   "HUAWEI-33597619": {
     "name": "24-Port GE PoE Unmanaged Switch HUAWEI S110-24LP2SR",
-    "code": "HUAWEI-33597619",
+    "code": "NET-HUA-SWT-0022",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -1402,7 +1402,7 @@
   },
   "HUAWEI-55936743": {
     "name": "24-Port GE SFP Switch HUAWEI S310-24ST4X",
-    "code": "HUAWEI-55936743",
+    "code": "NET-HUA-SWT-0025",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -1485,7 +1485,7 @@
   },
   "HUAWEI-59432259": {
     "name": "24-Port GE SFP Switch HUAWEI S530-24ST4XE",
-    "code": "HUAWEI-59432259",
+    "code": "NET-HUA-SWT-0026",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -1572,7 +1572,7 @@
   },
   "HUAWEI-66196693": {
     "name": "24-Port GE Switch HUAWEI S310-24T4S",
-    "code": "HUAWEI-66196693",
+    "code": "NET-HUA-SWT-0027",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -1655,7 +1655,7 @@
   },
   "HUAWEI-39330270": {
     "name": "24-Port GE Switch HUAWEI S310-24T4X",
-    "code": "HUAWEI-39330270",
+    "code": "NET-HUA-SWT-0028",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -1738,7 +1738,7 @@
   },
   "HUAWEI-18392064": {
     "name": "24-Port GE Switch HUAWEI S310S-24T4J",
-    "code": "HUAWEI-18392064",
+    "code": "NET-HUA-SWT-0029",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -1809,7 +1809,7 @@
   },
   "HUAWEI-49041565": {
     "name": "24-Port GE Switch HUAWEI S530-24T4XE",
-    "code": "HUAWEI-49041565",
+    "code": "NET-HUA-SWT-0030",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -1896,7 +1896,7 @@
   },
   "HUAWEI-89288484": {
     "name": "24-Port GE Unmanaged Switch HUAWEI S110-24T2SR",
-    "code": "HUAWEI-89288484",
+    "code": "NET-HUA-SWT-0031",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -1979,7 +1979,7 @@
   },
   "HUAWEI-55874359": {
     "name": "48-Port GE Managed Switch HUAWEI S220-48T4S",
-    "code": "HUAWEI-55874359",
+    "code": "NET-HUA-SWT-0032",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -2066,7 +2066,7 @@
   },
   "HUAWEI-47073062": {
     "name": "48-Port GE PoE Managed Switch HUAWEI S220-48P4S",
-    "code": "HUAWEI-47073062",
+    "code": "NET-HUA-SWT-0033",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -2153,7 +2153,7 @@
   },
   "HUAWEI-06011714": {
     "name": "48-Port GE PoE+ Switch Huawei eKitEngine S310-48P4X",
-    "code": "HUAWEI-06011714",
+    "code": "NET-HUA-SWT-0035",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -2256,7 +2256,7 @@
   },
   "HUAWEI-06770663": {
     "name": "48-Port GE PoE Switch HUAWEI S310-48P4S",
-    "code": "HUAWEI-06770663",
+    "code": "NET-HUA-SWT-0034",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -2339,7 +2339,7 @@
   },
   "HUAWEI-59351923": {
     "name": "48-Port GE SFP Switch HUAWEI S530-48S4XE",
-    "code": "HUAWEI-59351923",
+    "code": "NET-HUA-SWT-0036",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -2426,7 +2426,7 @@
   },
   "HUAWEI-31649932": {
     "name": "48-Port GE Switch Huawei eKitEngine S220-48T4X",
-    "code": "HUAWEI-31649932",
+    "code": "NET-HUA-SWT-0037",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -2505,7 +2505,7 @@
   },
   "HUAWEI-15038117": {
     "name": "48-Port GE Switch Huawei eKitEngine S530-48T4XE",
-    "code": "HUAWEI-15038117",
+    "code": "NET-HUA-SWT-0038",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -2604,7 +2604,7 @@
   },
   "HUAWEI-62335159": {
     "name": "48-Port GE Switch HUAWEI S310-48T4S",
-    "code": "HUAWEI-62335159",
+    "code": "NET-HUA-SWT-0039",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -2687,7 +2687,7 @@
   },
   "HUAWEI-65366623": {
     "name": "8-Port GE PoE Managed Switch HUAWEI S220-8P4S",
-    "code": "HUAWEI-65366623",
+    "code": "NET-HUA-SWT-0040",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -2782,7 +2782,7 @@
   },
   "HUAWEI-96115651": {
     "name": "8-Port GE PoE+ Switch Huawei eKitEngine S210-8LP2J",
-    "code": "HUAWEI-96115651",
+    "code": "NET-HUA-SWT-0042",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -2877,7 +2877,7 @@
   },
   "HUAWEI-59645504": {
     "name": "8-Port GE PoE+ Switch Huawei eKitEngine S210-8P2J",
-    "code": "HUAWEI-59645504",
+    "code": "NET-HUA-SWT-0043",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -2960,7 +2960,7 @@
   },
   "HUAWEI-02352628": {
     "name": "8-Port GE PoE+ Switch Huawei eKitEngine S220S-8P4J",
-    "code": "HUAWEI-02352628",
+    "code": "NET-HUA-SWT-0044",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -3039,7 +3039,7 @@
   },
   "HUAWEI-50479498": {
     "name": "8-Port GE PoE Unmanaged Switch HUAWEI S110-8P2ST",
-    "code": "HUAWEI-50479498",
+    "code": "NET-HUA-SWT-0041",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -3130,7 +3130,7 @@
   },
   "HUAWEI-34577929": {
     "name": "8-Port GE Switch Huawei eKitEngine S210-8T",
-    "code": "HUAWEI-34577929",
+    "code": "NET-HUA-SWT-0045",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -3229,7 +3229,7 @@
   },
   "HUAWEI-58517732": {
     "name": "8-Port GE Switch Huawei eKitEngine S210-8T2J",
-    "code": "HUAWEI-58517732",
+    "code": "NET-HUA-SWT-0046",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -3324,7 +3324,7 @@
   },
   "HUAWEI-S220S-8T2J": {
     "name": "8-Port GE Switch Huawei eKitEngine S220S-8T2J",
-    "code": "NET-HUA-SWI-0004",
+    "code": "NET-HUA-SWT-0004",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -3420,7 +3420,7 @@
   },
   "HUAWEI-89897725": {
     "name": "8-Port GE Switch Huawei eKitEngine S220S-8T2X",
-    "code": "HUAWEI-89897725",
+    "code": "NET-HUA-SWT-0047",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -3499,7 +3499,7 @@
   },
   "HUAWEI-29514973": {
     "name": "8-Port GE Unmanaged Switch HUAWEI S110-8T2ST",
-    "code": "HUAWEI-29514973",
+    "code": "NET-HUA-SWT-0048",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -3594,7 +3594,7 @@
   },
   "HUAWEI-47385083": {
     "name": "Access Point Wi-Fi 7 Huawei eKitEngine AP572",
-    "code": "HUAWEI-47385083",
+    "code": "NET-HUA-AP-0049",
     "brand": "Huawei",
     "category": "AP",
     "industry": "Thiết bị mạng",
@@ -3681,7 +3681,7 @@
   },
   "HUAWEI-83010409": {
     "name": "Access Point Wi-Fi 7 Huawei eKitEngine AP771",
-    "code": "HUAWEI-83010409",
+    "code": "NET-HUA-AP-0050",
     "brand": "Huawei",
     "category": "AP",
     "industry": "Thiết bị mạng",
@@ -3852,7 +3852,7 @@
   },
   "HUAWEI-38377072": {
     "name": "Access Point Wifi HUAWEI AP162E",
-    "code": "HUAWEI-38377072",
+    "code": "NET-HUA-AP-0051",
     "brand": "Huawei",
     "category": "AP",
     "industry": "Thiết bị mạng",
@@ -3939,7 +3939,7 @@
   },
   "HUAWEI-55096706": {
     "name": "Access Point Wifi HUAWEI AP265E",
-    "code": "HUAWEI-55096706",
+    "code": "NET-HUA-AP-0052",
     "brand": "Huawei",
     "category": "AP",
     "industry": "Thiết bị mạng",
@@ -4030,7 +4030,7 @@
   },
   "HUAWEI-01627249": {
     "name": "Access Point Wifi HUAWEI AP266",
-    "code": "HUAWEI-01627249",
+    "code": "NET-HUA-AP-0053",
     "brand": "Huawei",
     "category": "AP",
     "industry": "Thiết bị mạng",
@@ -4205,7 +4205,7 @@
   },
   "HUAWEI-74783716": {
     "name": "Access Point Wifi HUAWEI AP362E",
-    "code": "HUAWEI-74783716",
+    "code": "NET-HUA-AP-0054",
     "brand": "Huawei",
     "category": "AP",
     "industry": "Thiết bị mạng",
@@ -4392,7 +4392,7 @@
   },
   "HUAWEI-28063472": {
     "name": "Access Point Wifi HUAWEI AP661",
-    "code": "HUAWEI-28063472",
+    "code": "NET-HUA-AP-0055",
     "brand": "Huawei",
     "category": "AP",
     "industry": "Thiết bị mạng",
@@ -4479,7 +4479,7 @@
   },
   "HUAWEI-31390543": {
     "name": "Access Point Wifi HUAWEI AP673",
-    "code": "HUAWEI-31390543",
+    "code": "NET-HUA-AP-0056",
     "brand": "Huawei",
     "category": "AP",
     "industry": "Thiết bị mạng",
@@ -4562,7 +4562,7 @@
   },
   "HUAWEI-79245167": {
     "name": "Access Point Wifi HUAWEI AP761",
-    "code": "HUAWEI-79245167",
+    "code": "NET-HUA-AP-0057",
     "brand": "Huawei",
     "category": "AP",
     "industry": "Thiết bị mạng",
@@ -4661,7 +4661,7 @@
   },
   "HUAWEI-82605634": {
     "name": "Cáp xếp chồng 0.5 mét Huawei SFP+STACK-CU0M5",
-    "code": "HUAWEI-82605634",
+    "code": "NET-HUA-ACC-0058",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -4708,7 +4708,7 @@
   },
   "HUAWEI-42748265": {
     "name": "Cáp xếp chồng 1 mét Huawei SFP-10G-CU1M",
-    "code": "HUAWEI-42748265",
+    "code": "NET-HUA-ACC-0059",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -4759,7 +4759,7 @@
   },
   "HUAWEI-62333234": {
     "name": "Cáp xếp chồng 1.5 mét Huawei SFP+STACK-CU1M5",
-    "code": "HUAWEI-62333234",
+    "code": "NET-HUA-ACC-0060",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -4802,7 +4802,7 @@
   },
   "HUAWEI-59515463": {
     "name": "Cáp xếp chồng 2 mét Huawei QSFP-100G-CU2M",
-    "code": "HUAWEI-59515463",
+    "code": "NET-HUA-ACC-0061",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -4849,7 +4849,7 @@
   },
   "HUAWEI-26241701": {
     "name": "Cáp xếp chồng 3 mét Huawei SFP-10G-CU3M",
-    "code": "HUAWEI-26241701",
+    "code": "NET-HUA-ACC-0062",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -4904,7 +4904,7 @@
   },
   "HUAWEI-91007028": {
     "name": "Electrical Interface Module HUAWEI SFP-1000BaseT",
-    "code": "HUAWEI-91007028",
+    "code": "NET-HUA-ACC-0063",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -4947,7 +4947,7 @@
   },
   "HUAWEI-04623707": {
     "name": "Interface card HUAWEI HSIC-X08S000",
-    "code": "HUAWEI-04623707",
+    "code": "NET-HUA-ACC-0064",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -5010,7 +5010,7 @@
   },
   "HUAWEI-52204228": {
     "name": "L3 PoE Switch Huawei eKitEngine S310S-4P8UN2X",
-    "code": "HUAWEI-52204228",
+    "code": "NET-HUA-SWT-0065",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -5085,7 +5085,7 @@
   },
   "HUAWEI-71885353": {
     "name": "L3 PoE Switch Huawei eKitEngine S310S-8P4UN2X",
-    "code": "HUAWEI-71885353",
+    "code": "NET-HUA-SWT-0066",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -5160,7 +5160,7 @@
   },
   "HUAWEI-82355889": {
     "name": "Layer 3 Core Switch Huawei eKitEngine S620-16X8YZ",
-    "code": "HUAWEI-82355889",
+    "code": "NET-HUA-SWT-0067",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -5243,7 +5243,7 @@
   },
   "HUAWEI-92602219": {
     "name": "Layer 3 Core Switch Huawei eKitEngine S620-24T16X8Y2CZ",
-    "code": "HUAWEI-92602219",
+    "code": "NET-HUA-SWT-0068",
     "brand": "Huawei",
     "category": "Switch",
     "industry": "Thiết bị mạng",
@@ -5330,7 +5330,7 @@
   },
   "HUAWEI-86481444": {
     "name": "Module nguồn 1000W DC Huawei PDC1000S56-EB",
-    "code": "HUAWEI-86481444",
+    "code": "NET-HUA-ACC-0069",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -5409,7 +5409,7 @@
   },
   "HUAWEI-86823770": {
     "name": "Module nguồn 1000W Huawei PAC1000S56-EB",
-    "code": "HUAWEI-86823770",
+    "code": "NET-HUA-ACC-0070",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -5484,7 +5484,7 @@
   },
   "HUAWEI-86815217": {
     "name": "Module nguồn 1200W DC Huawei PDC1K2S12-CE",
-    "code": "HUAWEI-86815217",
+    "code": "NET-HUA-ACC-0071",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -5563,7 +5563,7 @@
   },
   "HUAWEI-77827964": {
     "name": "Module nguồn 180W AC Huawei PAC180S12-CN",
-    "code": "HUAWEI-77827964",
+    "code": "NET-HUA-ACC-0072",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -5626,7 +5626,7 @@
   },
   "HUAWEI-65609341": {
     "name": "Module nguồn 240W DC Huawei PDC240S12-CN",
-    "code": "HUAWEI-65609341",
+    "code": "NET-HUA-ACC-0073",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -5701,7 +5701,7 @@
   },
   "HUAWEI-50726430": {
     "name": "Module nguồn 400W DC Huawei PDC400S12-CB",
-    "code": "HUAWEI-50726430",
+    "code": "NET-HUA-ACC-0074",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -5776,7 +5776,7 @@
   },
   "HUAWEI-72101513": {
     "name": "Module nguồn 600W AC Huawei PAC600S12-PB",
-    "code": "HUAWEI-72101513",
+    "code": "NET-HUA-ACC-0075",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -5847,7 +5847,7 @@
   },
   "HUAWEI-25031095": {
     "name": "Module nguồn 600W Huawei PAC600S56-EB",
-    "code": "HUAWEI-25031095",
+    "code": "NET-HUA-ACC-0076",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -5926,7 +5926,7 @@
   },
   "HUAWEI-46892920": {
     "name": "Module nguồn 80W AC Huawei PAC80S12-CN",
-    "code": "HUAWEI-46892920",
+    "code": "NET-HUA-ACC-0077",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -6001,7 +6001,7 @@
   },
   "HUAWEI-42395528": {
     "name": "Module quang 100GE Huawei QSFP-100G-CWDM4-eKit",
-    "code": "HUAWEI-42395528",
+    "code": "NET-HUA-SFP-0078",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -6088,7 +6088,7 @@
   },
   "HUAWEI-64397195": {
     "name": "Module quang eSFP FE HUAWEI eSFP-FE-LX-SM1310",
-    "code": "HUAWEI-64397195",
+    "code": "NET-HUA-SFP-0079",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -6167,7 +6167,7 @@
   },
   "HUAWEI-75142362": {
     "name": "Module quang eSFP GE HUAWEI eSFP-GE-SX-MM850",
-    "code": "HUAWEI-75142362",
+    "code": "NET-HUA-SFP-0080",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -6254,7 +6254,7 @@
   },
   "HUAWEI-78182608": {
     "name": "Module quang eSFP GE HUAWEI OGSC10DD0",
-    "code": "HUAWEI-78182608",
+    "code": "NET-HUA-SFP-0081",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -6337,7 +6337,7 @@
   },
   "HUAWEI-75847614": {
     "name": "Module quang eSFP GE HUAWEI OGSM01880",
-    "code": "HUAWEI-75847614",
+    "code": "NET-HUA-SFP-0082",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -6416,7 +6416,7 @@
   },
   "HUAWEI-51245081": {
     "name": "Module quang eSFP GE Huawei S-SFP-GE-LH40-SM1310",
-    "code": "HUAWEI-51245081",
+    "code": "NET-HUA-SFP-0083",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -6495,7 +6495,7 @@
   },
   "HUAWEI-45916062": {
     "name": "Module quang eSFP GE Huawei S-SFP-GE-LH40-SM1550",
-    "code": "HUAWEI-45916062",
+    "code": "NET-HUA-SFP-0084",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -6578,7 +6578,7 @@
   },
   "HUAWEI-89257321": {
     "name": "Module quang eSFP GE Huawei S-SFP-GE-LH80-SM1550",
-    "code": "HUAWEI-89257321",
+    "code": "NET-HUA-SFP-0085",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -6657,7 +6657,7 @@
   },
   "HUAWEI-96024655": {
     "name": "Module quang eSFP GE HUAWEI SFP-GE-LX-SM1310",
-    "code": "HUAWEI-96024655",
+    "code": "NET-HUA-SFP-0086",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -6732,7 +6732,7 @@
   },
   "HUAWEI-09310417": {
     "name": "Module quang eSFP GE HUAWEI SFP-GE-LX10-eKit",
-    "code": "HUAWEI-09310417",
+    "code": "NET-HUA-SFP-0087",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -6803,7 +6803,7 @@
   },
   "HUAWEI-99014484": {
     "name": "Module quang eSFP GE HUAWEI SFP-GE-SX-eKit",
-    "code": "HUAWEI-99014484",
+    "code": "NET-HUA-SFP-0088",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -6878,7 +6878,7 @@
   },
   "HUAWEI-60499196": {
     "name": "Module quang QSFP 100GE HUAWEI QSFP-100G-LR4-eKit",
-    "code": "HUAWEI-60499196",
+    "code": "NET-HUA-SFP-0089",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -6961,7 +6961,7 @@
   },
   "HUAWEI-56552273": {
     "name": "Module quang QSFP 100GE HUAWEI QSFP-100G-SR4-eKit",
-    "code": "HUAWEI-56552273",
+    "code": "NET-HUA-SFP-0090",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -7052,7 +7052,7 @@
   },
   "HUAWEI-49937250": {
     "name": "Module quang QSFP 100GE HUAWEI QSFP28-100G-DR",
-    "code": "HUAWEI-49937250",
+    "code": "NET-HUA-SFP-0091",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -7139,7 +7139,7 @@
   },
   "HUAWEI-35393658": {
     "name": "Module quang QSFP+ 40G HUAWEI QSFP-40G-eSR4-eKit",
-    "code": "HUAWEI-35393658",
+    "code": "NET-HUA-SFP-0092",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -7222,7 +7222,7 @@
   },
   "HUAWEI-70868473": {
     "name": "Module quang QSFP+ 40G HUAWEI QSFP-40G-iSR4-eKit",
-    "code": "HUAWEI-70868473",
+    "code": "NET-HUA-SFP-0093",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -7293,7 +7293,7 @@
   },
   "HUAWEI-77669091": {
     "name": "Module quang QSFP+ 40G HUAWEI QSFP-40G-LR4-eKit",
-    "code": "HUAWEI-77669091",
+    "code": "NET-HUA-SFP-0094",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -7368,7 +7368,7 @@
   },
   "HUAWEI-03501443": {
     "name": "Module quang QSFP+ 40G HUAWEI QSFP-40G-LR4L-eKit",
-    "code": "HUAWEI-03501443",
+    "code": "NET-HUA-SFP-0095",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -7443,7 +7443,7 @@
   },
   "HUAWEI-08029468": {
     "name": "Module quang SFP+ 10GE HUAWEI OMXD30000",
-    "code": "HUAWEI-08029468",
+    "code": "NET-HUA-SFP-0101",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -7530,7 +7530,7 @@
   },
   "HUAWEI-04458784": {
     "name": "Module quang SFP+ 10GE HUAWEI OSX010000",
-    "code": "HUAWEI-04458784",
+    "code": "NET-HUA-SFP-0102",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -7617,7 +7617,7 @@
   },
   "HUAWEI-36433006": {
     "name": "Module quang SFP+ 10GE HUAWEI OSX040N01",
-    "code": "HUAWEI-36433006",
+    "code": "NET-HUA-SFP-0103",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -7704,7 +7704,7 @@
   },
   "HUAWEI-58734143": {
     "name": "Module quang SFP+ 10GE HUAWEI SFP-10G-BXD1",
-    "code": "HUAWEI-58734143",
+    "code": "NET-HUA-SFP-0104",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -7783,7 +7783,7 @@
   },
   "HUAWEI-35422952": {
     "name": "Module quang SFP+ 10GE HUAWEI SFP-10G-BXU1",
-    "code": "HUAWEI-35422952",
+    "code": "NET-HUA-SFP-0105",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -7870,7 +7870,7 @@
   },
   "HUAWEI-53501719": {
     "name": "Module quang SFP+ 10GE HUAWEI SFP-10G-LR-eKit",
-    "code": "HUAWEI-53501719",
+    "code": "NET-HUA-SFP-0106",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -7941,7 +7941,7 @@
   },
   "HUAWEI-07300535": {
     "name": "Module quang SFP+ 10GE HUAWEI SFP-10G-SR-eKit",
-    "code": "HUAWEI-07300535",
+    "code": "NET-HUA-SFP-0107",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -8012,7 +8012,7 @@
   },
   "HUAWEI-34844063": {
     "name": "Module quang SFP+ 10GE HUAWEI SFP-10G-ZR",
-    "code": "HUAWEI-34844063",
+    "code": "NET-HUA-SFP-0108",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -8087,7 +8087,7 @@
   },
   "HUAWEI-73908047": {
     "name": "Module quang SFP 25GE HUAWEI SFP-25G-LR-eKit",
-    "code": "HUAWEI-73908047",
+    "code": "NET-HUA-SFP-0096",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -8162,7 +8162,7 @@
   },
   "HUAWEI-15318658": {
     "name": "Module quang SFP 25GE HUAWEI SFP-25G-SR-eKit",
-    "code": "HUAWEI-15318658",
+    "code": "NET-HUA-SFP-0097",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -8241,7 +8241,7 @@
   },
   "HUAWEI-33931138": {
     "name": "Module quang SFP GE HUAWEI SFP-GE-BX-D1-I",
-    "code": "HUAWEI-33931138",
+    "code": "NET-HUA-SFP-0098",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -8316,7 +8316,7 @@
   },
   "HUAWEI-25699159": {
     "name": "Module quang SFP GE HUAWEI SFP-GE-BX-U1-I",
-    "code": "HUAWEI-25699159",
+    "code": "NET-HUA-SFP-0099",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -8399,7 +8399,7 @@
   },
   "HUAWEI-02949261": {
     "name": "Module quang SFP GE HUAWEI SFP-GE-T-eKit",
-    "code": "HUAWEI-02949261",
+    "code": "NET-HUA-SFP-0100",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -8478,7 +8478,7 @@
   },
   "HUAWEI-62750487": {
     "name": "Multi-Service Gateway HUAWEI S380-H8T3ST",
-    "code": "HUAWEI-62750487",
+    "code": "NET-HUA-RTR-0109",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -8577,7 +8577,7 @@
   },
   "HUAWEI-55257155": {
     "name": "Multi-Service Gateway HUAWEI S380-L4P1T",
-    "code": "HUAWEI-55257155",
+    "code": "NET-HUA-RTR-0110",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -8676,7 +8676,7 @@
   },
   "HUAWEI-S380-L4T1T": {
     "name": "Multi-Service Gateway HUAWEI S380-L4T1T",
-    "code": "NET-HUA-GTW-0006",
+    "code": "NET-HUA-RTR-0006",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -8780,7 +8780,7 @@
   },
   "HUAWEI-31481225": {
     "name": "Multi-Service Gateway HUAWEI S380-S8P2T",
-    "code": "HUAWEI-31481225",
+    "code": "NET-HUA-RTR-0111",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -8879,7 +8879,7 @@
   },
   "HUAWEI-S380-S8T2T": {
     "name": "Multi-Service Gateway HUAWEI S380-S8T2T",
-    "code": "NET-HUA-GTW-0009",
+    "code": "NET-HUA-RTR-0009",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -8983,7 +8983,7 @@
   },
   "HUAWEI-76725785": {
     "name": "Multi-Service Router Huawei eKitEngine AR280",
-    "code": "HUAWEI-76725785",
+    "code": "NET-HUA-RTR-0112",
     "brand": "Huawei",
     "category": "Router",
     "industry": "Thiết bị mạng",
@@ -9066,7 +9066,7 @@
   },
   "HUAWEI-02609789": {
     "name": "Quạt tản nhiệt HUAWEI FAN-031A-B",
-    "code": "HUAWEI-02609789",
+    "code": "NET-HUA-ACC-0113",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -9137,7 +9137,7 @@
   },
   "HUAWEI-77092005": {
     "name": "Router HUAWEI AR303",
-    "code": "HUAWEI-77092005",
+    "code": "NET-HUA-RTR-0114",
     "brand": "Huawei",
     "category": "Router",
     "industry": "Thiết bị mạng",
@@ -9368,7 +9368,7 @@
   },
   "HUAWEI-57474747": {
     "name": "Router HUAWEI NetEngine AR730",
-    "code": "HUAWEI-57474747",
+    "code": "NET-HUA-RTR-0115",
     "brand": "Huawei",
     "category": "Router",
     "industry": "Thiết bị mạng",
@@ -9519,7 +9519,7 @@
   },
   "HUAWEI-AR180": {
     "name": "Router WiFi 7 Huawei eKitEngine AR180",
-    "code": "NET-HUA-RWF-0001",
+    "code": "NET-HUA-WRT-0001",
     "brand": "Huawei",
     "category": "RouterWifi",
     "industry": "Thiết bị mạng",
@@ -9615,7 +9615,7 @@
   },
   "HUAWEI-13998619": {
     "name": "Router WiFi 7 Huawei eKitEngine AR180 Pro",
-    "code": "HUAWEI-13998619",
+    "code": "NET-HUA-WRT-0116",
     "brand": "Huawei",
     "category": "RouterWifi",
     "industry": "Thiết bị mạng",
@@ -9734,7 +9734,7 @@
   },
   "HUAWEI-70682659": {
     "name": "Router WiFi 7 Huawei eKitEngine AR180Plus",
-    "code": "HUAWEI-70682659",
+    "code": "NET-HUA-WRT-0117",
     "brand": "Huawei",
     "category": "RouterWifi",
     "industry": "Thiết bị mạng",
@@ -9857,7 +9857,7 @@
   },
   "HUAWEI-17059722": {
     "name": "SFP+ AOC Optical Transceiver HUAWEI SFP-10G-AOC10M",
-    "code": "HUAWEI-17059722",
+    "code": "NET-HUA-SFP-0118",
     "brand": "Huawei",
     "category": "SFP",
     "industry": "Thiết bị mạng",
@@ -9904,7 +9904,7 @@
   },
   "HUAWEI-06459149": {
     "name": "Thiết bị tường lửa Huawei USG6000E-S03",
-    "code": "HUAWEI-06459149",
+    "code": "NET-HUA-FWL-0119",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -10007,7 +10007,7 @@
   },
   "HUAWEI-38431136": {
     "name": "Thiết bị tường lửa Huawei USG6000E-S13",
-    "code": "HUAWEI-38431136",
+    "code": "NET-HUA-FWL-0120",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -10110,7 +10110,7 @@
   },
   "HUAWEI-60642445": {
     "name": "Wireless Access Controller HUAWEI AC650-128AP",
-    "code": "HUAWEI-60642445",
+    "code": "NET-HUA-ACC-0121",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -10197,7 +10197,7 @@
   },
   "HUAWEI-54767222": {
     "name": "Wireless Access Controller HUAWEI AC650-256AP",
-    "code": "HUAWEI-54767222",
+    "code": "NET-HUA-ACC-0122",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",
@@ -10288,7 +10288,7 @@
   },
   "HUAWEI-02352941": {
     "name": "Wireless Access Controller HUAWEI AC650-512AP",
-    "code": "HUAWEI-02352941",
+    "code": "NET-HUA-ACC-0123",
     "brand": "Huawei",
     "category": "Other",
     "industry": "Thiết bị mạng",

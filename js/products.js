@@ -18,13 +18,17 @@ document.addEventListener("DOMContentLoaded", initializeProducts);
 
 async function initializeProducts() {
   try {
-    const response = await fetch("/data/products-index.json");
+    const [response, huaweiResponse] = await Promise.all([
+      fetch("/data/products-index.json"),
+      fetch("/data/huawei-products.json"),
+    ]);
 
     if (!response.ok) {
       throw new Error(`Không thể tải products.json (${response.status})`);
     }
 
-    const productsById = await response.json();
+    const huaweiProducts = huaweiResponse.ok ? await huaweiResponse.json() : {};
+    const productsById = { ...(await response.json()), ...huaweiProducts };
     const embeddedProduct = readEmbeddedProductData();
     if (embeddedProduct?.id && embeddedProduct?.product) {
       const indexedProduct = productsById[embeddedProduct.id] || {};
@@ -99,8 +103,14 @@ function hydrateProductDetail(productsById) {
   const detail = document.querySelector(".product-detail[data-product]");
   if (!detail) return;
 
-  const product = productsById[detail.dataset.product];
+  const requestedProductId = new URLSearchParams(window.location.search).get("id");
+  const productId = detail.dataset.product || requestedProductId;
+  const product = productsById[productId];
   if (!product) return;
+
+  if (requestedProductId) {
+    document.title = `${product.name} | Viễn Thông Hai Tháng Chín`;
+  }
 
   setText(detail, ".product-name", product.name);
   setText(detail, ".product-code", product.code);

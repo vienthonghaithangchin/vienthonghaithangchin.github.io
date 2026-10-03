@@ -84,7 +84,11 @@
     "sourcePrice": 7200000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-65824283": {
     "name": "16-Port GE Unmanaged Switch HUAWEI S110-16T2S",
@@ -171,7 +175,11 @@
     "sourcePrice": 2790000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-12152530": {
     "name": "24-Port 2.5GE PoE Switch HUAWEI S310-24PN4X",
@@ -254,7 +262,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/24-port-2-5ge-poe-switch-huawei-s310-24pn4x-90616.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90616/p_90616_huawei-s310-24pn4x-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-03923210": {
     "name": "24-Port GE Managed Switch Huawei eKitEngine S210-24T2J",
@@ -357,7 +367,11 @@
     "sourcePrice": 4990000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-21653481": {
     "name": "24-Port GE Managed Switch HUAWEI S220-24T4X",
@@ -448,7 +462,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/24-port-ge-managed-switch-huawei-s220-24t4x-90599.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90599/p_90599_huawei-s220-24t4x-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-05213835": {
     "name": "24-Port GE Managed Switch HUAWEI S220S-24T4J",
@@ -535,7 +551,11 @@
     "sourcePrice": 5200000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-52655741": {
     "name": "24-Port GE Managed Switch HUAWEI S220S-24T4JX",
@@ -622,7 +642,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/24-port-ge-managed-switch-huawei-s220s-24t4jx-90598.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90598/p_90598_huawei-s220s-24t4jx-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-58671152": {
     "name": "24-Port GE PoE Managed Switch HUAWEI S220-24P4X",
@@ -709,7 +731,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/24-port-ge-poe-managed-switch-huawei-s220-24p4x-90607.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90607/p_90607_huawei-s220-24p4x-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-96393554": {
     "name": "24-Port GE PoE Managed Switch HUAWEI S220S-24P4J",
@@ -796,7 +820,11 @@
     "sourcePrice": 9620000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-56636382": {
     "name": "24-Port GE PoE+ Switch Huawei eKitEngine S210-24P2J",
@@ -899,7 +927,11 @@
     "sourcePrice": 9180000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-13822560": {
     "name": "24-Port GE PoE Switch Huawei eKitEngine S220S-24LP4JX",
@@ -994,7 +1026,11 @@
     "sourcePrice": 9200000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-S220S-24P4JX": {
     "name": "24-Port GE PoE Switch HUAWEI S220S-24P4JX",
@@ -1070,7 +1106,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/24-port-ge-poe-switch-huawei-s220s-24p4jx-90605.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90605/p_90605_huawei-s220s-24p4jx-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-83111538": {
     "name": "24-Port GE PoE Switch HUAWEI S310-24P4S",
@@ -1153,7 +1191,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/24-port-ge-poe-switch-huawei-s310-24p4s-90614.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90614/p_90614_huawei-s310-24p4s-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-40011324": {
     "name": "24-Port GE PoE+ Switch HUAWEI S310-24P4X",
@@ -1232,7 +1272,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/24-port-ge-poe-switch-huawei-s310-24p4x-90622.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90622/p_90622_huawei-s310-24p4x-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-62742640": {
     "name": "24-Port GE PoE Switch HUAWEI S310S-24P4J",
@@ -1307,7 +1349,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/24-port-ge-poe-switch-huawei-s310s-24p4j-90613.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90613/p_90613_huawei-s310s-24p4j-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-33597619": {
     "name": "24-Port GE PoE Unmanaged Switch HUAWEI S110-24LP2SR",
@@ -1398,7 +1442,11 @@
     "sourcePrice": 8900000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-55936743": {
     "name": "24-Port GE SFP Switch HUAWEI S310-24ST4X",
@@ -1481,7 +1529,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/24-port-ge-sfp-switch-huawei-s310-24st4x-90615.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90615/p_90615_huawei-s310-24st4x-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-59432259": {
     "name": "24-Port GE SFP Switch HUAWEI S530-24ST4XE",
@@ -1568,7 +1618,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/24-port-ge-sfp-switch-huawei-s530-24st4xe-90620.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90620/p_90620_huawei-s530-24st4xe-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-66196693": {
     "name": "24-Port GE Switch HUAWEI S310-24T4S",
@@ -1651,7 +1703,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/24-port-ge-switch-huawei-s310-24t4s-90611.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90611/p_90611_huawei-s310-24t4s-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-39330270": {
     "name": "24-Port GE Switch HUAWEI S310-24T4X",
@@ -1734,7 +1788,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/24-port-ge-switch-huawei-s310-24t4x-90612.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90612/p_90612_huawei-s310-24t4x-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-18392064": {
     "name": "24-Port GE Switch HUAWEI S310S-24T4J",
@@ -1805,7 +1861,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/24-port-ge-switch-huawei-s310s-24t4j-90610.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90610/p_90610_huawei-s310s-24t4j-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-49041565": {
     "name": "24-Port GE Switch HUAWEI S530-24T4XE",
@@ -1892,7 +1950,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/24-port-ge-switch-huawei-s530-24t4xe-90619.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90619/p_90619_huawei-s530-24t4xe-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-89288484": {
     "name": "24-Port GE Unmanaged Switch HUAWEI S110-24T2SR",
@@ -1975,7 +2035,11 @@
     "sourcePrice": 4050000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-55874359": {
     "name": "48-Port GE Managed Switch HUAWEI S220-48T4S",
@@ -2062,7 +2126,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/48-port-ge-managed-switch-huawei-s220-48t4s-90608.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90608/p_90608_huawei-s220-48t4s-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-47073062": {
     "name": "48-Port GE PoE Managed Switch HUAWEI S220-48P4S",
@@ -2149,7 +2215,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/48-port-ge-poe-managed-switch-huawei-s220-48p4s-90609.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90609/p_90609_huawei-s220-48p4s-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-06011714": {
     "name": "48-Port GE PoE+ Switch Huawei eKitEngine S310-48P4X",
@@ -2252,7 +2320,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/48-port-ge-poe-switch-huawei-ekitengine-s310-48p4x-92174.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92174/p_92174_huawei-ekitengine-s310-48p4x-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-06770663": {
     "name": "48-Port GE PoE Switch HUAWEI S310-48P4S",
@@ -2335,7 +2405,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/48-port-ge-poe-switch-huawei-s310-48p4s-90618.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90618/p_90618_huawei-s310-48p4s-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-59351923": {
     "name": "48-Port GE SFP Switch HUAWEI S530-48S4XE",
@@ -2422,7 +2494,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/48-port-ge-sfp-switch-huawei-s530-48s4xe-90621.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90621/p_90621_huawei-s530-48s4xe-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-31649932": {
     "name": "48-Port GE Switch Huawei eKitEngine S220-48T4X",
@@ -2501,7 +2575,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/48-port-ge-switch-huawei-ekitengine-s220-48t4x-92171.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92171/p_92171_huawei-ekitengine-s220-48t4x-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-15038117": {
     "name": "48-Port GE Switch Huawei eKitEngine S530-48T4XE",
@@ -2600,7 +2676,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/48-port-ge-switch-huawei-ekitengine-s530-48t4xe-92175.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92175/p_92175_huawei-ekitengine-s530-48t4xe-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-62335159": {
     "name": "48-Port GE Switch HUAWEI S310-48T4S",
@@ -2683,7 +2761,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/48-port-ge-switch-huawei-s310-48t4s-90617.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90617/p_90617_huawei-s310-48t4s-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-65366623": {
     "name": "8-Port GE PoE Managed Switch HUAWEI S220-8P4S",
@@ -2778,7 +2858,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/8-port-ge-poe-managed-switch-huawei-s220-8p4s-90596.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90596/p_90596_huawei-s220-8p4s-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-96115651": {
     "name": "8-Port GE PoE+ Switch Huawei eKitEngine S210-8LP2J",
@@ -2873,7 +2955,11 @@
     "sourcePrice": 3650000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-59645504": {
     "name": "8-Port GE PoE+ Switch Huawei eKitEngine S210-8P2J",
@@ -2956,7 +3042,11 @@
     "sourcePrice": 4720000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-02352628": {
     "name": "8-Port GE PoE+ Switch Huawei eKitEngine S220S-8P4J",
@@ -3035,7 +3125,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/8-port-ge-poe-switch-huawei-ekitengine-s220s-8p4j-92169.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92169/p_92169_huawei-ekitengine-s220s-8p4j-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-50479498": {
     "name": "8-Port GE PoE Unmanaged Switch HUAWEI S110-8P2ST",
@@ -3126,7 +3218,11 @@
     "sourcePrice": 4500000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-34577929": {
     "name": "8-Port GE Switch Huawei eKitEngine S210-8T",
@@ -3225,7 +3321,11 @@
     "sourcePrice": 3120000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-58517732": {
     "name": "8-Port GE Switch Huawei eKitEngine S210-8T2J",
@@ -3320,7 +3420,11 @@
     "sourcePrice": 3390000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-S220S-8T2J": {
     "name": "8-Port GE Switch Huawei eKitEngine S220S-8T2J",
@@ -3416,7 +3520,11 @@
     "sourcePrice": 3550000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-89897725": {
     "name": "8-Port GE Switch Huawei eKitEngine S220S-8T2X",
@@ -3495,7 +3603,11 @@
     "sourcePrice": 3880000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-29514973": {
     "name": "8-Port GE Unmanaged Switch HUAWEI S110-8T2ST",
@@ -3590,7 +3702,11 @@
     "sourcePrice": 1950000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-47385083": {
     "name": "Access Point Wi-Fi 7 Huawei eKitEngine AP572",
@@ -3677,7 +3793,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/access-point-wi-fi-7-huawei-ekitengine-ap572-92196.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92196/p_92196_huawei-ekitengine-ap572-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-83010409": {
     "name": "Access Point Wi-Fi 7 Huawei eKitEngine AP771",
@@ -3764,7 +3882,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/access-point-wi-fi-7-huawei-ekitengine-ap771-92201.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92201/p_92201_huawei-ekitengine-ap771-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-AP160": {
     "name": "Access Point Wifi HUAWEI AP160",
@@ -3848,7 +3968,11 @@
     "sourcePrice": 2640000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-38377072": {
     "name": "Access Point Wifi HUAWEI AP162E",
@@ -3935,7 +4059,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/access-point-wifi-huawei-ap162e-90629.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90629/p_90629_huawei-ap162e-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-55096706": {
     "name": "Access Point Wifi HUAWEI AP265E",
@@ -4026,7 +4152,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/access-point-wifi-huawei-ap265e-90635.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90635/p_90635_huawei-ap265e-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-01627249": {
     "name": "Access Point Wifi HUAWEI AP266",
@@ -4117,7 +4245,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/access-point-wifi-huawei-ap266-90636.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90636/p_90636_huawei-ap266-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-AP361": {
     "name": "Access Point Wifi HUAWEI AP361",
@@ -4201,7 +4331,11 @@
     "sourcePrice": 2660000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-74783716": {
     "name": "Access Point Wifi HUAWEI AP362E",
@@ -4300,7 +4434,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/access-point-wifi-huawei-ap362e-90628.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90628/p_90628_huawei-ap362e-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-AP371": {
     "name": "Access Point Wifi HUAWEI AP371",
@@ -4388,7 +4524,11 @@
     "sourcePrice": 4150000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-28063472": {
     "name": "Access Point Wifi HUAWEI AP661",
@@ -4475,7 +4615,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/access-point-wifi-huawei-ap661-90630.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90630/p_90630_huawei-ap661-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-31390543": {
     "name": "Access Point Wifi HUAWEI AP673",
@@ -4558,7 +4700,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/access-point-wifi-huawei-ap673-90634.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90634/p_90634_huawei-ap673-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-79245167": {
     "name": "Access Point Wifi HUAWEI AP761",
@@ -4657,7 +4801,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/access-point-wifi-huawei-ap761-90632.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90632/p_90632_huawei-ap761-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-82605634": {
     "name": "Cáp xếp chồng 0.5 mét Huawei SFP+STACK-CU0M5",
@@ -4704,7 +4850,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/cap-xep-chong-0.5-met-huawei-sfpstack-cu0m5-92189.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92189/p_92189_huawei-sfp-stack-cu0m5-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-42748265": {
     "name": "Cáp xếp chồng 1 mét Huawei SFP-10G-CU1M",
@@ -4755,7 +4903,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/cap-xep-chong-1-met-huawei-sfp-10g-cu1m-92187.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92187/p_92187_huawei-sfp-10g-cu1m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-62333234": {
     "name": "Cáp xếp chồng 1.5 mét Huawei SFP+STACK-CU1M5",
@@ -4798,7 +4948,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/cap-xep-chong-1.5-met-huawei-sfpstack-cu1m5-92185.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92185/p_92185_huawei-sfp-stack-cu1m5-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-59515463": {
     "name": "Cáp xếp chồng 2 mét Huawei QSFP-100G-CU2M",
@@ -4845,7 +4997,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/cap-xep-chong-2-met-huawei-qsfp-100g-cu2m-92190.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92190/p_92190_huawei-qsfp-100g-cu2m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-26241701": {
     "name": "Cáp xếp chồng 3 mét Huawei SFP-10G-CU3M",
@@ -4900,7 +5054,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/cap-xep-chong-3-met-huawei-sfp-10g-cu3m-92182.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92182/p_92182_huawei-sfp-10g-cu3m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-91007028": {
     "name": "Electrical Interface Module HUAWEI SFP-1000BaseT",
@@ -4943,7 +5099,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/electrical-interface-module-huawei-sfp-1000baset-93353.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93353/p_93353_huawei-sfp-1000baset-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-04623707": {
     "name": "Interface card HUAWEI HSIC-X08S000",
@@ -5006,7 +5164,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/interface-card-huawei-hsic-x08s000-93314.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93314/p_93314_huawei-hsic-x08s000-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-52204228": {
     "name": "L3 PoE Switch Huawei eKitEngine S310S-4P8UN2X",
@@ -5081,7 +5241,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/l3-poe-switch-huawei-ekitengine-s310s-4p8un2x-92173.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92173/p_92173_huawei-ekitengine-s310s-4p8un2x-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-71885353": {
     "name": "L3 PoE Switch Huawei eKitEngine S310S-8P4UN2X",
@@ -5156,7 +5318,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/l3-poe-switch-huawei-ekitengine-s310s-8p4un2x-92172.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92172/p_92172_huawei-ekitengine-s310s-8p4un2x-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-82355889": {
     "name": "Layer 3 Core Switch Huawei eKitEngine S620-16X8YZ",
@@ -5239,7 +5403,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/layer-3-core-switch-huawei-ekitengine-s620-16x8yz-92194.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92194/p_92194_huawei-ekitengine-s620-16x8yz-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-92602219": {
     "name": "Layer 3 Core Switch Huawei eKitEngine S620-24T16X8Y2CZ",
@@ -5326,7 +5492,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/layer-3-core-switch-huawei-ekitengine-s620-24t16x8y2cz-92192.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92192/p_92192_huawei-ekitengine-s620-24t16x8y2cz-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-86481444": {
     "name": "Module nguồn 1000W DC Huawei PDC1000S56-EB",
@@ -5405,7 +5573,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-nguon-1000w-dc-huawei-pdc1000s56-eb-93333.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93333/p_93333_huawei-pdc1000s56-eb-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-86823770": {
     "name": "Module nguồn 1000W Huawei PAC1000S56-EB",
@@ -5480,7 +5650,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-nguon-1000w-huawei-pac1000s56-eb-93327.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93327/p_93327_huawei-pac1000s56-eb-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-86815217": {
     "name": "Module nguồn 1200W DC Huawei PDC1K2S12-CE",
@@ -5559,7 +5731,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-nguon-1200w-dc-huawei-pdc1k2s12-ce-92180.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92180/p_92180_huawei-pdc1k2s12-ce-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-77827964": {
     "name": "Module nguồn 180W AC Huawei PAC180S12-CN",
@@ -5622,7 +5796,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-nguon-180w-ac-huawei-pac180s12-cn-93307.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93307/p_93307_huawei-pac180s12-cn-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-65609341": {
     "name": "Module nguồn 240W DC Huawei PDC240S12-CN",
@@ -5697,7 +5873,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-nguon-240w-dc-huawei-pdc240s12-cn-93335.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93335/p_93335_huawei-pdc240s12-cn-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-50726430": {
     "name": "Module nguồn 400W DC Huawei PDC400S12-CB",
@@ -5772,7 +5950,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-nguon-400w-dc-huawei-pdc400s12-cb-92177.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92177/p_92177_huawei-pdc400s12-cb-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-72101513": {
     "name": "Module nguồn 600W AC Huawei PAC600S12-PB",
@@ -5843,7 +6023,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-nguon-600w-ac-huawei-pac600s12-pb-92178.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92178/p_92178_huawei-pac600s12-pb-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-25031095": {
     "name": "Module nguồn 600W Huawei PAC600S56-EB",
@@ -5922,7 +6104,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-nguon-600w-huawei-pac600s56-eb-93330.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93330/p_93330_huawei-pac600s56-eb-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-46892920": {
     "name": "Module nguồn 80W AC Huawei PAC80S12-CN",
@@ -5997,7 +6181,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-nguon-80w-ac-huawei-pac80s12-cn-92176.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92176/p_92176_huawei-pac80s12-cn-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-42395528": {
     "name": "Module quang 100GE Huawei QSFP-100G-CWDM4-eKit",
@@ -6084,7 +6270,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-100ge-huawei-qsfp-100g-cwdm4-ekit-93337.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93337/p_93337_huawei-qsfp-100g-cwdm4-ekit-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-64397195": {
     "name": "Module quang eSFP FE HUAWEI eSFP-FE-LX-SM1310",
@@ -6163,7 +6351,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-esfp-fe-huawei-esfp-fe-lx-sm1310-93310.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93310/p_93310_huawei-esfp-fe-lx-sm1310-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-75142362": {
     "name": "Module quang eSFP GE HUAWEI eSFP-GE-SX-MM850",
@@ -6250,7 +6440,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-esfp-ge-huawei-esfp-ge-sx-mm850-93311.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93311/p_93311_huawei-esfp-ge-sx-mm850-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-78182608": {
     "name": "Module quang eSFP GE HUAWEI OGSC10DD0",
@@ -6333,7 +6525,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-esfp-ge-huawei-ogsc10dd0-93316.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93316/p_93316_huawei-ogsc10dd0-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-75847614": {
     "name": "Module quang eSFP GE HUAWEI OGSM01880",
@@ -6412,7 +6606,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-esfp-ge-huawei-ogsm01880-93321.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93321/p_93321_huawei-ogsm01880-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-51245081": {
     "name": "Module quang eSFP GE Huawei S-SFP-GE-LH40-SM1310",
@@ -6491,7 +6687,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-esfp-ge-huawei-s-sfp-ge-lh40-sm1310-93371.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93371/p_93371_huawei-s-sfp-ge-lh40-sm1310-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-45916062": {
     "name": "Module quang eSFP GE Huawei S-SFP-GE-LH40-SM1550",
@@ -6574,7 +6772,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-esfp-ge-huawei-s-sfp-ge-lh40-sm1550-93373.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93373/p_93373_huawei-s-sfp-ge-lh40-sm1550-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-89257321": {
     "name": "Module quang eSFP GE Huawei S-SFP-GE-LH80-SM1550",
@@ -6653,7 +6853,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-esfp-ge-huawei-s-sfp-ge-lh80-sm1550-93374.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93374/p_93374_huawei-s-sfp-ge-lh80-sm1550-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-96024655": {
     "name": "Module quang eSFP GE HUAWEI SFP-GE-LX-SM1310",
@@ -6728,7 +6930,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-esfp-ge-huawei-sfp-ge-lx-sm1310-93369.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93369/p_93369_huawei-sfp-ge-lx-sm1310-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-09310417": {
     "name": "Module quang eSFP GE HUAWEI SFP-GE-LX10-eKit",
@@ -6799,7 +7003,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-esfp-ge-huawei-sfp-ge-lx10-ekit-90601.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90601/p_90601_huawei-sfp-ge-lx10-ekit-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-99014484": {
     "name": "Module quang eSFP GE HUAWEI SFP-GE-SX-eKit",
@@ -6874,7 +7080,11 @@
     "sourcePrice": 920000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-60499196": {
     "name": "Module quang QSFP 100GE HUAWEI QSFP-100G-LR4-eKit",
@@ -6957,7 +7167,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-qsfp-100ge-huawei-qsfp-100g-lr4-ekit-93338.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93338/p_93338_huawei-qsfp-100g-lr4-ekit-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-56552273": {
     "name": "Module quang QSFP 100GE HUAWEI QSFP-100G-SR4-eKit",
@@ -7048,7 +7260,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-qsfp-100ge-huawei-qsfp-100g-sr4-ekit-93339.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93339/p_93339_huawei-qsfp-100g-sr4-ekit-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-49937250": {
     "name": "Module quang QSFP 100GE HUAWEI QSFP28-100G-DR",
@@ -7135,7 +7349,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-qsfp-100ge-huawei-qsfp28-100g-dr-93341.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93341/p_93341_huawei-qsfp28-100g-dr-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-35393658": {
     "name": "Module quang QSFP+ 40G HUAWEI QSFP-40G-eSR4-eKit",
@@ -7218,7 +7434,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-qsfp-40g-huawei-qsfp-40g-esr4-ekit-93343.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93343/p_93343_huawei-qsfp-40g-esr4-ekit-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-70868473": {
     "name": "Module quang QSFP+ 40G HUAWEI QSFP-40G-iSR4-eKit",
@@ -7289,7 +7507,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-qsfp-40g-huawei-qsfp-40g-isr4-ekit-93345.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93345/p_93345_huawei-qsfp-40g-isr4-ekit-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-77669091": {
     "name": "Module quang QSFP+ 40G HUAWEI QSFP-40G-LR4-eKit",
@@ -7364,7 +7584,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-qsfp-40g-huawei-qsfp-40g-lr4-ekit-93346.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93346/p_93346_huawei-qsfp-40g-lr4-ekit-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-03501443": {
     "name": "Module quang QSFP+ 40G HUAWEI QSFP-40G-LR4L-eKit",
@@ -7439,7 +7661,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-qsfp-40g-huawei-qsfp-40g-lr4l-ekit-93349.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93349/p_93349_huawei-qsfp-40g-lr4l-ekit-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-08029468": {
     "name": "Module quang SFP+ 10GE HUAWEI OMXD30000",
@@ -7526,7 +7750,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-sfp-10ge-huawei-omxd30000-93322.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93322/p_93322_huawei-omxd30000-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-04458784": {
     "name": "Module quang SFP+ 10GE HUAWEI OSX010000",
@@ -7613,7 +7839,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-sfp-10ge-huawei-osx010000-93324.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93324/p_93324_huawei-osx010000-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-36433006": {
     "name": "Module quang SFP+ 10GE HUAWEI OSX040N01",
@@ -7700,7 +7928,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-sfp-10ge-huawei-osx040n01-93325.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93325/p_93325_huawei-osx040n01-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-58734143": {
     "name": "Module quang SFP+ 10GE HUAWEI SFP-10G-BXD1",
@@ -7779,7 +8009,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-sfp-10ge-huawei-sfp-10g-bxd1-93356.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93356/p_93356_huawei-sfp-10g-bxd1-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-35422952": {
     "name": "Module quang SFP+ 10GE HUAWEI SFP-10G-BXU1",
@@ -7866,7 +8098,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-sfp-10ge-huawei-sfp-10g-bxu1-93358.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93358/p_93358_huawei-sfp-10g-bxu1-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-53501719": {
     "name": "Module quang SFP+ 10GE HUAWEI SFP-10G-LR-eKit",
@@ -7937,7 +8171,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-sfp-10ge-huawei-sfp-10g-lr-ekit-90604.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90604/p_90604_huawei-sfp-10g-lr-ekit-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-07300535": {
     "name": "Module quang SFP+ 10GE HUAWEI SFP-10G-SR-eKit",
@@ -8008,7 +8244,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-sfp-10ge-huawei-sfp-10g-sr-ekit-90603.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90603/p_90603_huawei-sfp-10g-sr-ekit-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-34844063": {
     "name": "Module quang SFP+ 10GE HUAWEI SFP-10G-ZR",
@@ -8083,7 +8321,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-sfp-10ge-huawei-sfp-10g-zr-93360.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93360/p_93360_huawei-sfp-10g-zr-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-73908047": {
     "name": "Module quang SFP 25GE HUAWEI SFP-25G-LR-eKit",
@@ -8158,7 +8398,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-sfp-25ge-huawei-sfp-25g-lr-ekit-93361.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93361/p_93361_huawei-sfp-25g-lr-ekit-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-15318658": {
     "name": "Module quang SFP 25GE HUAWEI SFP-25G-SR-eKit",
@@ -8237,7 +8479,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-sfp-25ge-huawei-sfp-25g-sr-ekit-93363.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93363/p_93363_huawei-sfp-25g-sr-ekit-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-33931138": {
     "name": "Module quang SFP GE HUAWEI SFP-GE-BX-D1-I",
@@ -8312,7 +8556,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-sfp-ge-huawei-sfp-ge-bx-d1-i-93365.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93365/p_93365_huawei-sfp-ge-bx-d1-i-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-25699159": {
     "name": "Module quang SFP GE HUAWEI SFP-GE-BX-U1-I",
@@ -8395,7 +8641,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-sfp-ge-huawei-sfp-ge-bx-u1-i-93368.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93368/p_93368_huawei-sfp-ge-bx-u1-i-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-02949261": {
     "name": "Module quang SFP GE HUAWEI SFP-GE-T-eKit",
@@ -8474,7 +8722,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/module-quang-sfp-ge-huawei-sfp-ge-t-ekit-93370.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93370/p_93370_huawei-sfp-ge-t-ekit-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-62750487": {
     "name": "Multi-Service Gateway HUAWEI S380-H8T3ST",
@@ -8573,7 +8823,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/multi-service-gateway-huawei-s380-h8t3st-90644.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90644/p_90644_huawei_s380-h8t3st-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-55257155": {
     "name": "Multi-Service Gateway HUAWEI S380-L4P1T",
@@ -8672,7 +8924,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/multi-service-gateway-huawei-s380-l4p1t-90641.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90641/p_90641_huawei-s380-l4p1t-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-S380-L4T1T": {
     "name": "Multi-Service Gateway HUAWEI S380-L4T1T",
@@ -8776,7 +9030,11 @@
     "sourcePrice": 4830000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-31481225": {
     "name": "Multi-Service Gateway HUAWEI S380-S8P2T",
@@ -8875,7 +9133,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/multi-service-gateway-huawei-s380-s8p2t-90643.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90643/p_90643_huawei-s380-s8p2t-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-S380-S8T2T": {
     "name": "Multi-Service Gateway HUAWEI S380-S8T2T",
@@ -8979,7 +9239,11 @@
     "sourcePrice": 7500000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-76725785": {
     "name": "Multi-Service Router Huawei eKitEngine AR280",
@@ -9062,7 +9326,11 @@
     "sourcePrice": 4050000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-02609789": {
     "name": "Quạt tản nhiệt HUAWEI FAN-031A-B",
@@ -9133,7 +9401,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/quat-tan-nhiet-huawei-fan-031a-b-93312.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93312/p_93312_huawei-fan-031a-b-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-77092005": {
     "name": "Router HUAWEI AR303",
@@ -9212,7 +9482,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/router-huawei-ar303-90639.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90639/p_90639_huawei-ar303-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-AR720": {
     "name": "Router HUAWEI NetEngine AR720",
@@ -9364,7 +9636,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/router-huawei-netengine-ar720-90638.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90638/p_90638_router-netengine-ar720-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-57474747": {
     "name": "Router HUAWEI NetEngine AR730",
@@ -9515,7 +9789,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/router-huawei-netengine-ar730-90637.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90637/p_90637_router-netengine-ar730-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-AR180": {
     "name": "Router WiFi 7 Huawei eKitEngine AR180",
@@ -9611,7 +9887,11 @@
     "sourcePrice": 3150000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-13998619": {
     "name": "Router WiFi 7 Huawei eKitEngine AR180 Pro",
@@ -9730,7 +10010,11 @@
     "sourcePrice": 4250000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "sourceVatStatus": "Đã bao gồm VAT",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-70682659": {
     "name": "Router WiFi 7 Huawei eKitEngine AR180Plus",
@@ -9853,7 +10137,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/router-wifi-7-huawei-ekitengine-ar180plus-93284.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93284/p_93284_huawei-ekitengine-ar180plus-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-17059722": {
     "name": "SFP+ AOC Optical Transceiver HUAWEI SFP-10G-AOC10M",
@@ -9900,7 +10186,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/sfp-aoc-optical-transceiver-huawei-sfp-10g-aoc10m-93355.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/93355/p_93355_huawei-sfp-10g-aoc10m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-06459149": {
     "name": "Thiết bị tường lửa Huawei USG6000E-S03",
@@ -10003,7 +10291,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/thiet-bi-tuong-lua-huawei-usg6000e-s03-92213.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92213/p_92213_huawei-usg6000e-s03-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-38431136": {
     "name": "Thiết bị tường lửa Huawei USG6000E-S13",
@@ -10106,7 +10396,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/thiet-bi-tuong-lua-huawei-usg6000e-s13-92216.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/92216/p_92216_huawei-usg6000e-s13-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-60642445": {
     "name": "Wireless Access Controller HUAWEI AC650-128AP",
@@ -10193,7 +10485,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/wireless-access-controller-huawei-ac650-128ap-90623.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90623/p_90623_huawei-ac650-128ap-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-54767222": {
     "name": "Wireless Access Controller HUAWEI AC650-256AP",
@@ -10284,7 +10578,9 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/wireless-access-controller-huawei-ac650-256ap-90624.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90624/p_90624_huawei-ac650-256ap-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   },
   "HUAWEI-02352941": {
     "name": "Wireless Access Controller HUAWEI AC650-512AP",
@@ -10379,6 +10675,8 @@
     ],
     "sourceUrl": "https://sieuthivienthong.com/wireless-access-controller-huawei-ac650-512ap-90625.html",
     "sourceImageUrl": "https://sieuthivienthong.com/imgs/artnew/90625/p_90625_huawei-ac650-512ap-m-m.jpg",
-    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00"
+    "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
+    "sourceVatStatus": "Không có giá niêm yết",
+    "vatCheckedAt": "2026-10-03T16:19:34+07:00"
   }
 }

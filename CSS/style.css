@@ -1702,6 +1702,10 @@ h5 {
   grid-column: span 2;
 }
 
+.catalog-technical-filter {
+  display: contents;
+}
+
 .catalog-checkbox-group legend {
   padding: 0 5px;
   color: #344054;

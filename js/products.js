@@ -8,7 +8,8 @@ const catalogState = {
   selectedBrands: new Set(),
   selectedCategory: "all",
   selectedProductTypes: new Set(),
-  selectedResolutions: new Set(),
+  selectedTechnicalValues: new Set(),
+  technicalFilterKind: "",
   keyword: "",
   sortMode: "",
   infiniteScrollPaused: false,
@@ -585,6 +586,8 @@ function initializeCatalogToolbar() {
   toolbar.className = "catalog-toolbar";
   toolbar.setAttribute("role", "region");
   toolbar.setAttribute("aria-label", "Bộ lọc sản phẩm");
+  const technicalFilterHost = document.createElement("div");
+  technicalFilterHost.className = "catalog-technical-filter";
 
   const brands = [...new Set(scopedProducts.map((product) => product.brand).filter(Boolean))]
     .sort((a, b) => a.localeCompare(b, "vi"));
@@ -595,6 +598,7 @@ function initializeCatalogToolbar() {
       brands.map((brand) => [brand, brand]),
       (values) => {
         catalogState.selectedBrands = new Set(values.map(normalize));
+        renderCatalogTechnicalFilter(scopedProducts, technicalFilterHost);
         applyCatalogFilter();
       },
     ));
@@ -610,24 +614,14 @@ function initializeCatalogToolbar() {
       productTypes.map((productType) => [productType, categoryLabel(productType)]),
       (values) => {
         catalogState.selectedProductTypes = new Set(values.map(normalize));
+        renderCatalogTechnicalFilter(scopedProducts, technicalFilterHost);
         applyCatalogFilter();
       },
     ));
   }
 
-  const resolutions = [...new Set(scopedProducts.map((product) => product.resolution).filter(Boolean))]
-    .sort((a, b) => numericResolution(a) - numericResolution(b));
-  if (resolutions.length > 1) {
-    toolbar.appendChild(createCatalogCheckboxGroup(
-      "catalogResolutionFilter",
-      "Độ phân giải",
-      resolutions.map((resolution) => [resolution, resolution]),
-      (values) => {
-        catalogState.selectedResolutions = new Set(values.map(normalize));
-        applyCatalogFilter();
-      },
-    ));
-  }
+  toolbar.appendChild(technicalFilterHost);
+  renderCatalogTechnicalFilter(scopedProducts, technicalFilterHost);
 
   const sortSelect = createCatalogSelect("sortPrice", "Sắp xếp", [
     ["", "Mặc định"],
@@ -727,6 +721,144 @@ function numericResolution(value) {
   return match ? Number(match[0]) : Number.MAX_SAFE_INTEGER;
 }
 
+function normalizeTechnicalText(value) {
+  return normalize(value).normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+}
+
+function productTechnicalFamily(product) {
+  const productType = normalizeTechnicalText(product.productType || "");
+  const category = normalizeTechnicalText(product.category || "");
+  const industry = normalizeTechnicalText(product.industry || "");
+  if (productType.includes("dau ghi") || (industry.includes("camera") && ["nvr", "hybrid"].includes(category))) {
+    return "recorder";
+  }
+  if (productType.includes("switch") || category === "switch") return "switch";
+  if (productType.includes("camera") || (industry.includes("camera") && ["bullet", "dome", "ptz"].includes(category))) {
+    return "camera";
+  }
+  return "other";
+}
+
+function selectedTechnicalKind(products) {
+  const selectedProducts = catalogState.selectedProductTypes.size > 0
+    ? products.filter((product) => catalogState.selectedProductTypes.has(normalize(product.productType || product.category)))
+    : products;
+  const families = new Set(selectedProducts.map(productTechnicalFamily).filter((family) => family !== "other"));
+  if (families.size === 1) {
+    const [family] = families;
+    return family === "recorder" ? "channels" : family === "switch" ? "ports" : "resolution";
+  }
+  if (catalogState.selectedProductTypes.size === 0 && families.has("camera")) return "resolution";
+  return "";
+}
+
+function productSpecificationRows(product) {
+  return Array.isArray(product.specifications)
+    ? product.specifications.filter((row) => Array.isArray(row) && row.length >= 2)
+    : [];
+}
+
+function positiveInteger(value) {
+  const number = Number(value);
+  return Number.isInteger(number) && number >= 0 ? number : null;
+}
+
+function recorderChannelCount(product) {
+  const direct = positiveInteger(product.channelCount ?? product.channels);
+  if (direct !== null) return direct;
+  const name = normalizeTechnicalText(product.name);
+  const nameMatch = name.match(/(\d{1,3})\s*(?:kenh|channels?)\b/);
+  if (nameMatch) return Number(nameMatch[1]);
+  for (const [label, value] of productSpecificationRows(product)) {
+    const normalizedLabel = normalizeTechnicalText(label);
+    if (!/(?:so kenh|kenh ip|kenh analog|ngo vao video|dau vao video|channel)/.test(normalizedLabel)) continue;
+    const match = normalizeTechnicalText(value).match(/(\d{1,3})\s*(?:kenh|channels?|ch)?\b/);
+    if (match) return Number(match[1]);
+  }
+  return null;
+}
+
+function switchRj45PortCount(product) {
+  const direct = positiveInteger(product.rj45PortCount ?? product.rj45Ports);
+  if (direct !== null) return direct;
+  const name = normalizeTechnicalText(product.name);
+  for (const pattern of [
+    /(\d{1,3})\s*[- ]?port\b/,
+    /(\d{1,3})\s*cong\b/,
+    /\b(\d{1,3})g\s+(?:class\d+\s+)?poe\b/,
+    /[-+](\d{1,3})gt\d{1,3}sfp\b/,
+  ]) {
+    const match = name.match(pattern);
+    if (match) return Number(match[1]);
+  }
+  const descriptionText = Array.isArray(product.description) ? product.description.join(" ") : String(product.description || "");
+  const descriptiveText = normalizeTechnicalText(
+    `${descriptionText} ${productSpecificationRows(product).flat().join(" ")}`,
+  );
+  for (const pattern of [/(\d{1,3})\s*[- ]?port\b/, /(\d{1,3})\s*cong\s*(?:rj45|mang|poe|lan|gigabit|fe|ge)?\b/]) {
+    const match = descriptiveText.match(pattern);
+    if (match) return Number(match[1]);
+  }
+  for (const [label, value] of productSpecificationRows(product)) {
+    const normalizedLabel = normalizeTechnicalText(label);
+    if (!/(?:rj45|cong mang|cong poe|downlink|ethernet)/.test(normalizedLabel)) continue;
+    const match = normalizeTechnicalText(value).match(/(\d{1,3})\s*(?:[x×]|cong|port)/);
+    if (match) return Number(match[1]);
+  }
+  const modelMatch = name.match(/[-+](\d{1,3})(?:gt|ge|tc|ts|xg|g|p|t)(?=[-+]|\b)/);
+  return modelMatch ? Number(modelMatch[1]) : null;
+}
+
+function productTechnicalValue(product, kind) {
+  if (kind === "channels") return recorderChannelCount(product);
+  if (kind === "ports") return switchRj45PortCount(product);
+  if (kind === "resolution") return product.resolution || null;
+  return null;
+}
+
+function renderCatalogTechnicalFilter(scopedProducts, host) {
+  const kind = selectedTechnicalKind(scopedProducts);
+  if (kind !== catalogState.technicalFilterKind) {
+    catalogState.selectedTechnicalValues.clear();
+    catalogState.technicalFilterKind = kind;
+  }
+  host.replaceChildren();
+  if (!kind) return;
+  const brandScopedProducts = catalogState.selectedBrands.size > 0
+    ? scopedProducts.filter((product) => catalogState.selectedBrands.has(normalize(product.brand)))
+    : scopedProducts;
+  const eligibleProducts = catalogState.selectedProductTypes.size > 0
+    ? brandScopedProducts.filter((product) => catalogState.selectedProductTypes.has(normalize(product.productType || product.category)))
+    : brandScopedProducts.filter((product) => productTechnicalFamily(product) === (kind === "channels" ? "recorder" : kind === "ports" ? "switch" : "camera"));
+  const values = [...new Set(eligibleProducts
+    .map((product) => productTechnicalValue(product, kind))
+    .filter((value) => value !== null && value !== "" && (kind !== "resolution" || numericResolution(value) > 0)))]
+    .sort((a, b) => kind === "resolution" ? numericResolution(a) - numericResolution(b) : Number(a) - Number(b));
+  const availableValues = new Set(values.map((value) => normalize(value)));
+  catalogState.selectedTechnicalValues = new Set(
+    [...catalogState.selectedTechnicalValues].filter((value) => availableValues.has(value)),
+  );
+  if (values.length <= 1) {
+    catalogState.selectedTechnicalValues.clear();
+    return;
+  }
+  const labels = {
+    resolution: "Độ phân giải",
+    channels: "Số kênh đầu ghi",
+    ports: "Số cổng RJ45",
+  };
+  const options = values.map((value) => [String(value), kind === "resolution" ? String(value) : `${value} ${kind === "channels" ? "kênh" : "cổng"}`]);
+  host.appendChild(createCatalogCheckboxGroup(
+    "catalogTechnicalFilter",
+    labels[kind],
+    options,
+    (selectedValues) => {
+      catalogState.selectedTechnicalValues = new Set(selectedValues.map(normalize));
+      applyCatalogFilter();
+    },
+  ));
+}
+
 function initializeFilters() {
   const buttons = document.querySelectorAll(".filter-btn");
   buttons.forEach((button) => {
@@ -761,7 +893,8 @@ function applyCatalogFilter(options = {}) {
   }
   if (Object.prototype.hasOwnProperty.call(options, "resolution")) {
     const value = normalize(options.resolution);
-    catalogState.selectedResolutions = value ? new Set([value]) : new Set();
+    catalogState.technicalFilterKind = "resolution";
+    catalogState.selectedTechnicalValues = value ? new Set([value]) : new Set();
   }
 
   const pageBrand = normalize(container.dataset.brand);
@@ -782,16 +915,17 @@ function applyCatalogFilter(options = {}) {
     const matchesProductType =
       catalogState.selectedProductTypes.size === 0 ||
       catalogState.selectedProductTypes.has(normalize(product.productType || product.category));
-    const matchesResolution =
-      catalogState.selectedResolutions.size === 0 ||
-      catalogState.selectedResolutions.has(normalize(product.resolution));
+    const technicalValue = productTechnicalValue(product, catalogState.technicalFilterKind);
+    const matchesTechnicalFilter =
+      catalogState.selectedTechnicalValues.size === 0 ||
+      catalogState.selectedTechnicalValues.has(normalize(technicalValue));
     const haystack = normalize(
       `${product.name} ${product.id} ${product.code} ${product.brand} ${product.category} ${product.resolution}`,
     );
     const matchesKeyword = keywordTokens.every((token) => haystack.includes(token));
     const matchesIndustry = !pageIndustry || normalize(product.industry) === pageIndustry;
     return matchesBrand && matchesSelectedBrand && matchesPageCategory && matchesIndustry && matchesCategory &&
-      matchesProductType && matchesResolution && matchesKeyword;
+      matchesProductType && matchesTechnicalFilter && matchesKeyword;
   });
 
   applySort(catalogState.sortMode);

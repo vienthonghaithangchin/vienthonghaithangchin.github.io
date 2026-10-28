@@ -145,8 +145,7 @@ function renderProductDescription(detail, description) {
 
   const list = document.createElement("ul");
   description
-    .flatMap((item) => String(item || "").split(/\s+(?:–|—|-)\s+/))
-    .map((item) => item.trim())
+    .map((item) => String(item || "").trim())
     .filter(Boolean)
     .forEach((item) => {
       const listItem = document.createElement("li");

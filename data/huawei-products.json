@@ -13,12 +13,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90594-huawei-s110-16lp2sr-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-99092236",
     "description": [
-      "16-Port GE PoE Unmanaged Switch HUAWEI S110-16LP2SR là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 16 x 10/100/1000BASE-T PoE+",
-      "Cổng uplink: 2 x GE SFP",
-      "PoE: Có, IEEE 802.3af/at, tối đa 30W/cổng, tổng 124W",
-      "Dung lượng chuyển mạch: 36 Gbit/s",
-      "Tốc độ chuyển gói: 26.78 Mpps"
+      "16-Port GE PoE Unmanaged Switch HUAWEI S110-16LP2SR thuộc nhóm switch mạng của Huawei.",
+      "Cổng downlink: 16 x 10/100/1000BASE-T PoE+.",
+      "Cổng uplink: 2 x GE SFP.",
+      "Dung lượng chuyển mạch: 36 Gbit/s.",
+      "Tốc độ chuyển gói: 26.78 Mpps.",
+      "Bảng địa chỉ MAC: 8K.",
+      "Chống sốc điện lan truyền: ±4 kV."
     ],
     "specifications": [
       [
@@ -93,7 +94,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-65824283": {
     "name": "16-Port GE Unmanaged Switch HUAWEI S110-16T2S",
@@ -109,12 +111,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93305-huawei-s110-16t2s-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-65824283",
     "description": [
-      "16-Port GE Unmanaged Switch HUAWEI S110-16T2S là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 16 x 10/100/1000BASE-T RJ45",
-      "Cổng uplink: 2 x GE SFP",
-      "PoE: Không hỗ trợ",
-      "Tốc độ chuyển mạch: 36 Gbps",
-      "Tốc độ chuyển gói: 26.78 Mpps"
+      "16-Port GE Unmanaged Switch HUAWEI S110-16T2S thuộc nhóm switch mạng của Huawei.",
+      "Loại thiết bị: Switch Unmanaged Gigabit.",
+      "Cổng mạng: 16 x 10/100/1000BASE-T RJ45.",
+      "Cổng uplink: 2 x GE SFP.",
+      "Tốc độ chuyển mạch: 36 Gbps.",
+      "Tốc độ chuyển gói: 26.78 Mpps.",
+      "Bảng MAC: 8K."
     ],
     "specifications": [
       [
@@ -189,7 +192,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-12152530": {
     "name": "24-Port 2.5GE PoE Switch HUAWEI S310-24PN4X",
@@ -205,12 +209,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90616-huawei-s310-24pn4x-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-12152530",
     "description": [
-      "24-Port 2.5GE PoE Switch HUAWEI S310-24PN4X là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000/2.5GBASE-T (PoE+)",
-      "Cổng uplink: 4 x 10GE SFP+",
-      "PoE: Có, hỗ trợ cấp nguồn qua Ethernet trên các cổng downlink",
-      "Tốc độ chuyển mạch: 200Gbps",
-      "Công suất chuyển tiếp: 144Mpps"
+      "24-Port 2.5GE PoE Switch HUAWEI S310-24PN4X thuộc nhóm switch mạng của Huawei.",
+      "Tốc độ chuyển mạch: 200Gbps.",
+      "Công suất chuyển tiếp: 144Mpps.",
+      "Cổng Downlink: 24 x 10/100/1000/2.5GBASE-T (PoE+).",
+      "Cổng Uplink: 4 x 10GE SFP+.",
+      "Kích thước (H x W x D): 43.6 x 442 x 420 mm.",
+      "Chiều cao khung máy: 1U."
     ],
     "specifications": [
       [
@@ -279,7 +284,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-03923210": {
     "name": "24-Port GE Managed Switch Huawei eKitEngine S210-24T2J",
@@ -295,12 +301,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93294-huawei-ekitengine-s210-24t2j-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-03923210",
     "description": [
-      "24-Port GE Managed Switch Huawei eKitEngine S210-24T2J là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000BASE-T RJ45",
-      "Cổng uplink: 2 x GE/2.5GE SFP",
-      "PoE: Không hỗ trợ",
-      "Tốc độ chuyển mạch: 58 Gbps",
-      "Tốc độ chuyển gói: 43.5 Mpps"
+      "24-Port GE Managed Switch Huawei eKitEngine S210-24T2J thuộc nhóm switch mạng của Huawei.",
+      "Chuẩn switch: Layer 2 Managed Switch.",
+      "Cổng mạng: 24 x 10/100/1000BASE-T RJ45.",
+      "Cổng uplink: 2 x GE/2.5GE SFP.",
+      "Tốc độ chuyển mạch: 58 Gbps.",
+      "Tốc độ chuyển gói: 43.5 Mpps.",
+      "Bảng MAC: 8K."
     ],
     "specifications": [
       [
@@ -391,7 +398,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-21653481": {
     "name": "24-Port GE Managed Switch HUAWEI S220-24T4X",
@@ -407,11 +415,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90599-huawei-s220-24t4x-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-21653481",
     "description": [
-      "24-Port GE Managed Switch HUAWEI S220-24T4X là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000BASE-T",
-      "Cổng uplink: 4 x 10GE SFP+",
-      "PoE: Không hỗ trợ",
-      "Tốc độ chuyển mạch: 128 Gbps"
+      "24-Port GE Managed Switch HUAWEI S220-24T4X thuộc nhóm switch mạng của Huawei.",
+      "Cổng downlink: 24 x 10/100/1000BASE-T.",
+      "Cổng uplink: 4 x 10GE SFP+.",
+      "Tốc độ chuyển mạch: 128 Gbps.",
+      "Công suất chuyển gói: 95 Mpps.",
+      "Hỗ trợ VLAN: Tối đa 4094 VLAN, VLAN tĩnh, VLAN theo MAC/Protocol/Subnet/Port, Voice VLAN, VLAN stacking.",
+      "Tính năng đặc biệt: ERPS, STP/RSTP/MSTP, LACP, QoS, ACL, Port isolation, DHCP snooping, Cloud Management."
     ],
     "specifications": [
       [
@@ -488,7 +498,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-05213835": {
     "name": "24-Port GE Managed Switch HUAWEI S220S-24T4J",
@@ -504,12 +515,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90597-huawei-s220s-24t4j-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-05213835",
     "description": [
-      "24-Port GE Managed Switch HUAWEI S220S-24T4J là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000BASE-T",
-      "Cổng uplink: 4 x 2.5GE SFP",
-      "PoE: Không hỗ trợ",
-      "Dung lượng chuyển mạch: 68 Gbps",
-      "Tốc độ chuyển gói: 51 Mpps"
+      "24-Port GE Managed Switch HUAWEI S220S-24T4J thuộc nhóm switch mạng của Huawei.",
+      "Cổng downlink: 24 x 10/100/1000BASE-T.",
+      "Cổng uplink: 4 x 2.5GE SFP.",
+      "Dung lượng chuyển mạch: 68 Gbps.",
+      "Tốc độ chuyển gói: 51 Mpps.",
+      "Hỗ trợ VLAN: Tối đa 4094 VLAN, VLAN tĩnh, VLAN theo MAC/Protocol/Subnet/Port, Voice VLAN, VLAN stacking.",
+      "Tính năng nổi bật khác: ERPS, STP/RSTP/MSTP, LACP, QoS, ACL, Port isolation, DHCP snooping, Cloud Management."
     ],
     "specifications": [
       [
@@ -584,7 +596,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-52655741": {
     "name": "24-Port GE Managed Switch HUAWEI S220S-24T4JX",
@@ -600,12 +613,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90598-huawei-s220s-24t4jx-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-52655741",
     "description": [
-      "24-Port GE Managed Switch HUAWEI S220S-24T4JX là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000BASE-T",
-      "Cổng uplink: 2 x 2.5GE SFP, 2 x 10GE SFP+",
-      "PoE: Không hỗ trợ",
-      "Tốc độ chuyển mạch: 98 Gbps",
-      "Tốc độ chuyển gói: 73 Mpps"
+      "24-Port GE Managed Switch HUAWEI S220S-24T4JX thuộc nhóm switch mạng của Huawei.",
+      "Cổng downlink: 24 x 10/100/1000BASE-T.",
+      "Cổng uplink: 2 x 2.5GE SFP, 2 x 10GE SFP+.",
+      "Tốc độ chuyển mạch: 98 Gbps.",
+      "Tốc độ chuyển gói: 73 Mpps.",
+      "Hỗ trợ VLAN: Tối đa 4094 VLAN, VLAN tĩnh, VLAN theo MAC/Protocol/Subnet/Port, Voice VLAN, VLAN stacking.",
+      "Tính năng nổi bật khác: ERPS, STP/RSTP/MSTP, LACP, QoS, ACL, Port isolation, DHCP snooping, Cloud Management."
     ],
     "specifications": [
       [
@@ -678,7 +692,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-58671152": {
     "name": "24-Port GE PoE Managed Switch HUAWEI S220-24P4X",
@@ -694,12 +709,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90607-huawei-s220-24p4x-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-58671152",
     "description": [
-      "24-Port GE PoE Managed Switch HUAWEI S220-24P4X là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000BASET (400W PoE+)",
-      "Cổng uplink: 4 x 10GE SFP+",
-      "PoE: Có, hỗ trợ cấp nguồn qua Ethernet trên các cổng downlink",
-      "Dung lượng chuyển mạch: 128Gbps",
-      "Tốc độ chuyển gói: 95Mpps"
+      "24-Port GE PoE Managed Switch HUAWEI S220-24P4X thuộc nhóm switch mạng của Huawei.",
+      "Dung lượng chuyển mạch: 128Gbps.",
+      "Tốc độ chuyển gói: 95Mpps.",
+      "Cổng cố định: 24 x 10/100/1000BASET (400W PoE+), 4 x 10GE SFP+.",
+      "Kích thước (H x W x D): 43.6 x 442 x 220 mm.",
+      "Chiều cao khung máy: 1U.",
+      "Trọng lượng: 3.79kg."
     ],
     "specifications": [
       [
@@ -772,7 +788,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-96393554": {
     "name": "24-Port GE PoE Managed Switch HUAWEI S220S-24P4J",
@@ -788,12 +805,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90600-huawei-s220s-24p4j-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-96393554",
     "description": [
-      "24-Port GE PoE Managed Switch HUAWEI S220S-24P4J là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000BASE-T PoE+",
-      "Cổng uplink: 4 x 2.5GE SFP",
-      "PoE: Có, công suất PoE 400W",
-      "Dung lượng chuyển mạch: 68 Gbps",
-      "Tốc độ chuyển gói: 51 Mpps"
+      "24-Port GE PoE Managed Switch HUAWEI S220S-24P4J thuộc nhóm switch mạng của Huawei.",
+      "Cổng downlink: 24 x 10/100/1000BASE-T PoE+.",
+      "Cổng uplink: 4 x 2.5GE SFP.",
+      "Dung lượng chuyển mạch: 68 Gbps.",
+      "Tốc độ chuyển gói: 51 Mpps.",
+      "Hỗ trợ VLAN: Tối đa 4094 VLAN, VLAN tĩnh, VLAN theo MAC/Protocol/Subnet/Port, Voice VLAN, VLAN stacking.",
+      "Công suất PoE tối đa: 400W."
     ],
     "specifications": [
       [
@@ -868,7 +886,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-56636382": {
     "name": "24-Port GE PoE+ Switch Huawei eKitEngine S210-24P2J",
@@ -884,12 +903,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93288-huawei-ekitengine-s210-24p2j-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-56636382",
     "description": [
-      "24-Port GE PoE+ Switch Huawei eKitEngine S210-24P2J là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000BASE-T PoE+",
-      "Cổng uplink: 2 x GE/2.5GE SFP",
-      "PoE: Có, công suất PoE 400W",
-      "Tốc độ chuyển mạch: 58 Gbps",
-      "Tốc độ chuyển gói: 43.5 Mpps"
+      "24-Port GE PoE+ Switch Huawei eKitEngine S210-24P2J thuộc nhóm switch mạng của Huawei.",
+      "Loại thiết bị: Switch Layer 2 Managed PoE+.",
+      "Cổng mạng: 24 x 10/100/1000BASE-T PoE+.",
+      "Cổng uplink: 2 x GE/2.5GE SFP.",
+      "Công suất PoE tối đa: 400W.",
+      "Tốc độ chuyển mạch: 58 Gbps.",
+      "Tốc độ chuyển gói: 43.5 Mpps."
     ],
     "specifications": [
       [
@@ -980,7 +1000,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-13822560": {
     "name": "24-Port GE PoE Switch Huawei eKitEngine S220S-24LP4JX",
@@ -996,12 +1017,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93299-huawei-ekitengine-s220s-24lp4jx-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-13822560",
     "description": [
-      "24-Port GE PoE Switch Huawei eKitEngine S220S-24LP4JX là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000BASE-T PoE+",
-      "Cổng uplink: 2 x 10GE SFP+ ; 2 x 2.5GE SFP",
-      "PoE: Có, công suất PoE 195 W",
-      "Tốc độ chuyển mạch: 98 Gbps",
-      "Tốc độ chuyển gói: 73 Mpps"
+      "24-Port GE PoE Switch Huawei eKitEngine S220S-24LP4JX thuộc nhóm switch mạng của Huawei.",
+      "Chuẩn switch: Layer 2 Managed Switch.",
+      "Cổng mạng: 24 x 10/100/1000BASE-T PoE+.",
+      "Cổng uplink: 2 x 10GE SFP+ ; 2 x 2.5GE SFP.",
+      "Tổng công suất PoE: 195 W.",
+      "Tốc độ chuyển mạch: 98 Gbps.",
+      "Tốc độ chuyển gói: 73 Mpps."
     ],
     "specifications": [
       [
@@ -1084,7 +1106,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-S220S-24P4JX": {
     "name": "24-Port GE PoE Switch HUAWEI S220S-24P4JX",
@@ -1100,12 +1123,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90605-huawei-s220s-24p4jx-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/Switch/S220S-24P4JX/S220S-24P4JX.html",
     "description": [
-      "Switch Layer 2 thông minh với 24 cổng Gigabit PoE+ cho hệ thống camera IP, WiFi và mạng doanh nghiệp",
-      "Cổng downlink: 24 x 10/100/1000BASE-T (PoE+)",
-      "Cổng uplink: 2 x 10GE SFP+; 2 x 2.5GE",
-      "PoE: Có, hỗ trợ cấp nguồn qua Ethernet trên các cổng downlink",
-      "Dung lượng chuyển mạch: 98Gbps",
-      "Tốc độ chuyển gói: 73Mpps"
+      "24-Port GE PoE Switch HUAWEI S220S-24P4JX thuộc nhóm switch mạng của Huawei.",
+      "Cổng downlink: 24 x 10/100/1000BASE-T (PoE+).",
+      "Cổng Uplink: 2 x 10GE SFP+; 2 x 2.5GE.",
+      "Dung lượng chuyển mạch: 98Gbps.",
+      "Tốc độ chuyển gói: 73Mpps.",
+      "Kích thước (H x W x D): 43.6 x 442 x 220 mm.",
+      "chiều cao khung máy: 1U."
     ],
     "specifications": [
       [
@@ -1166,7 +1190,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-83111538": {
     "name": "24-Port GE PoE Switch HUAWEI S310-24P4S",
@@ -1182,12 +1207,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90614-huawei-s310-24p4s-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-83111538",
     "description": [
-      "24-Port GE PoE Switch HUAWEI S310-24P4S là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000BASE-T (PoE+)",
-      "Cổng uplink: 4 x GE SFP",
-      "PoE: Có, hỗ trợ cấp nguồn qua Ethernet trên các cổng downlink",
-      "Dung lượng chuyển mạch: 56Gbps",
-      "Tốc độ chuyển gói: 42Mpps"
+      "24-Port GE PoE Switch HUAWEI S310-24P4S thuộc nhóm switch mạng của Huawei.",
+      "Dung lượng chuyển mạch: 56Gbps.",
+      "Tốc độ chuyển gói: 42Mpps.",
+      "Cổng Downlink: 24 x 10/100/1000BASE-T (PoE+).",
+      "Cổng Uplink: 4 x GE SFP.",
+      "Kích thước (H x W x D): 43.6 x 442 x 220 mm.",
+      "Chiều cao khung máy: 1U."
     ],
     "specifications": [
       [
@@ -1256,7 +1282,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-40011324": {
     "name": "24-Port GE PoE+ Switch HUAWEI S310-24P4X",
@@ -1272,12 +1299,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90622-huawei-s310-24p4x-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-40011324",
     "description": [
-      "24-Port GE PoE+ Switch HUAWEI S310-24P4X là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000BASE-T (PoE+)",
-      "Cổng uplink: 4 x 10GE SFP+",
-      "PoE: Có, hỗ trợ cấp nguồn qua Ethernet trên các cổng downlink",
-      "Tốc độ chuyển mạch: 128Gbps",
-      "Công suất chuyển tiếp: 96Mpps"
+      "24-Port GE PoE+ Switch HUAWEI S310-24P4X thuộc nhóm switch mạng của Huawei.",
+      "Tốc độ chuyển mạch: 128Gbps.",
+      "Công suất chuyển tiếp: 96Mpps.",
+      "Cổng cố định: 24 x 10/100/1000BASE-T (PoE+), 4 x 10GE SFP+.",
+      "Kích thước (Cao x Rộng x Sâu): 43.6 x 442 x 220 mm.",
+      "Chiều cao khung má: 1U.",
+      "Trọng lượng: 3.79kg."
     ],
     "specifications": [
       [
@@ -1342,7 +1370,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-62742640": {
     "name": "24-Port GE PoE Switch HUAWEI S310S-24P4J",
@@ -1358,12 +1387,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90613-huawei-s310s-24p4j-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-62742640",
     "description": [
-      "24-Port GE PoE Switch HUAWEI S310S-24P4J là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000BASE-T PoE+",
-      "Cổng uplink: 4 x 2.5GE SFP",
-      "PoE: Có, hỗ trợ cấp nguồn qua Ethernet trên các cổng downlink",
-      "Dung lượng chuyển mạch: 68 Gbps",
-      "Tốc độ chuyển gói: 51 Mpps"
+      "24-Port GE PoE Switch HUAWEI S310S-24P4J thuộc nhóm switch mạng của Huawei.",
+      "Dung lượng chuyển mạch: 68 Gbps.",
+      "Tốc độ chuyển gói: 51 Mpps.",
+      "Cổng Downlink: 24 x 10/100/1000BASE-T PoE+.",
+      "Cổng Uplink: 4 x 2.5GE SFP.",
+      "Kích thước (H x W x D): 43.6 x 442 x 220 mm.",
+      "Chiều cao khung máy: 1U."
     ],
     "specifications": [
       [
@@ -1424,7 +1454,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-33597619": {
     "name": "24-Port GE PoE Unmanaged Switch HUAWEI S110-24LP2SR",
@@ -1440,12 +1471,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90595-huawei-s110-24lp2sr-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-33597619",
     "description": [
-      "24-Port GE PoE Unmanaged Switch HUAWEI S110-24LP2SR là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 × GE PoE+ RJ45 (10/100/1000 Mbps)",
-      "Cổng uplink: 2 × GE SFP (100/1000 Mbps)",
-      "PoE: Có, IEEE 802.3af/at, tối đa 30W/cổng, tổng 124W",
-      "Dung lượng chuyển mạch: 52 Gbit/s",
-      "Tốc độ chuyển gói: 38.69 Mpps"
+      "24-Port GE PoE Unmanaged Switch HUAWEI S110-24LP2SR thuộc nhóm switch mạng của Huawei.",
+      "Cổng mạng: 24 × GE PoE+ RJ45 (10/100/1000 Mbps).",
+      "Cổng uplink: 2 × GE SFP (100/1000 Mbps).",
+      "Dung lượng chuyển mạch: 52 Gbit/s.",
+      "Tốc độ chuyển gói: 38.69 Mpps.",
+      "Bảng địa chỉ MAC: 8K.",
+      "Chuẩn PoE: IEEE 802.3af/at, tối đa 30W/cổng, tổng 124W."
     ],
     "specifications": [
       [
@@ -1524,7 +1556,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-55936743": {
     "name": "24-Port GE SFP Switch HUAWEI S310-24ST4X",
@@ -1540,12 +1573,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90615-huawei-s310-24st4x-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-55936743",
     "description": [
-      "24-Port GE SFP Switch HUAWEI S310-24ST4X là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x GE SFP, trong đó 8 cổng kép 10/100/1000 hoặc SFP",
-      "Cổng uplink: 4 x 10GE SFP+",
-      "PoE: Không hỗ trợ",
-      "Tốc độ chuyển mạch: 128Gbps",
-      "Công suất chuyển tiếp: 96Mpps"
+      "24-Port GE SFP Switch HUAWEI S310-24ST4X thuộc nhóm switch mạng của Huawei.",
+      "Tốc độ chuyển mạch: 128Gbps.",
+      "Công suất chuyển tiếp: 96Mpps.",
+      "Cổng Downlink: 24 x GE SFP, trong đó 8 cổng kép 10/100/1000 hoặc SFP.",
+      "Cổng Uplink: 4 x 10GE SFP+.",
+      "Kích thước (H x W x D): 43.6 x 442 x 220 mm.",
+      "Chiều cao khung máy: 1U."
     ],
     "specifications": [
       [
@@ -1614,7 +1648,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-59432259": {
     "name": "24-Port GE SFP Switch HUAWEI S530-24ST4XE",
@@ -1630,12 +1665,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90620-huawei-s530-24st4xe-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-59432259",
     "description": [
-      "24-Port GE SFP Switch HUAWEI S530-24ST4XE là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 cổng GE SFP, trong đó 8 cổng kép 10/100/1000 hoặc SFP",
-      "Cổng uplink: 4 cổng SFP+ 10GE",
-      "PoE: Không hỗ trợ",
-      "Tốc độ chuyển mạch: 176Gbps",
-      "Công suất chuyển tiếp: 132Mpps"
+      "24-Port GE SFP Switch HUAWEI S530-24ST4XE thuộc nhóm switch mạng của Huawei.",
+      "Tốc độ chuyển mạch: 176Gbps.",
+      "Công suất chuyển tiếp: 132Mpps.",
+      "Cổng cố định: 24 cổng GE SFP, trong đó 8 cổng kép 10/100/1000 hoặc SFP, 4 cổng SFP+ 10GE, 2 cổng stack 10G.",
+      "Bảng địa chỉ MAC: Tối đa 32K địa chỉ.",
+      "Kích thước (Cao x Rộng x Sâu): 43.6 x 442.0 x 420.0 mm.",
+      "Chiều cao khung má: 1U."
     ],
     "specifications": [
       [
@@ -1708,7 +1744,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-66196693": {
     "name": "24-Port GE Switch HUAWEI S310-24T4S",
@@ -1724,12 +1761,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90611-huawei-s310-24t4s-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-66196693",
     "description": [
-      "24-Port GE Switch HUAWEI S310-24T4S là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000BASE-T",
-      "Cổng uplink: 4 x GE SFP",
-      "PoE: Không hỗ trợ",
-      "Dung lượng chuyển mạch: 56Gbps",
-      "Tốc độ chuyển gói: 42Mpps"
+      "24-Port GE Switch HUAWEI S310-24T4S thuộc nhóm switch mạng của Huawei.",
+      "Dung lượng chuyển mạch: 56Gbps.",
+      "Tốc độ chuyển gói: 42Mpps.",
+      "Cổng Downlink: 24 x 10/100/1000BASE-T.",
+      "Cổng Uplink: 4 x GE SFP.",
+      "Kích thước (H x W x D): 43.6 x 442 x 220 mm.",
+      "Chiều cao khung máy: 1U."
     ],
     "specifications": [
       [
@@ -1798,7 +1836,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-39330270": {
     "name": "24-Port GE Switch HUAWEI S310-24T4X",
@@ -1814,12 +1853,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90612-huawei-s310-24t4x-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-39330270",
     "description": [
-      "24-Port GE Switch HUAWEI S310-24T4X là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000BASE-T",
-      "Cổng uplink: 4 x 10GE SFP+",
-      "PoE: Không hỗ trợ",
-      "Dung lượng chuyển mạch: 128 Gbps",
-      "Tốc độ chuyển gói: 96 Mpps"
+      "24-Port GE Switch HUAWEI S310-24T4X thuộc nhóm switch mạng của Huawei.",
+      "Dung lượng chuyển mạch: 128 Gbps.",
+      "Tốc độ chuyển gói: 96 Mpps.",
+      "Cổng Downlink: 24 x 10/100/1000BASE-T.",
+      "Cổng Uplink: 4 x 10GE SFP+.",
+      "Kích thước (H x W x D): 43.6 x 442 x 220 mm.",
+      "Chiều cao khung máy: 1U."
     ],
     "specifications": [
       [
@@ -1888,7 +1928,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-18392064": {
     "name": "24-Port GE Switch HUAWEI S310S-24T4J",
@@ -1904,12 +1945,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90610-huawei-s310s-24t4j-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-18392064",
     "description": [
-      "24-Port GE Switch HUAWEI S310S-24T4J là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000BASE-T",
-      "Cổng uplink: 4 x 2.5GE SFP",
-      "PoE: Không hỗ trợ",
-      "Dung lượng chuyển mạch: 68Gbps",
-      "Tốc độ chuyển gói: 51 Mpps"
+      "24-Port GE Switch HUAWEI S310S-24T4J thuộc nhóm switch mạng của Huawei.",
+      "Dung lượng chuyển mạch: 68Gbps.",
+      "Tốc độ chuyển gói: 51 Mpps.",
+      "Cổng Downlink: 24 x 10/100/1000BASE-T.",
+      "Cổng Uplink: 4 x 2.5GE SFP.",
+      "Kích thước (H x W x D): 43.6 x 442 x 160 mm.",
+      "Chiều cao khung máy: 1U."
     ],
     "specifications": [
       [
@@ -1966,7 +2008,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-49041565": {
     "name": "24-Port GE Switch HUAWEI S530-24T4XE",
@@ -1982,12 +2025,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90619-huawei-s530-24t4xe-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-49041565",
     "description": [
-      "24-Port GE Switch HUAWEI S530-24T4XE là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000Base-T",
-      "Cổng uplink: 4 x 10 GE SFP+",
-      "PoE: Không hỗ trợ",
-      "Tốc độ chuyển mạch: 176Gbps",
-      "Công suất chuyển tiếp: 132Mpps"
+      "24-Port GE Switch HUAWEI S530-24T4XE thuộc nhóm switch mạng của Huawei.",
+      "Tốc độ chuyển mạch: 176Gbps.",
+      "Công suất chuyển tiếp: 132Mpps.",
+      "Cổng cố định: 24 x 10/100/1000Base-T, 4 x 10 GE SFP+, 2 x 10 GE stack.",
+      "Bảng địa chỉ MAC: Tối đa 32K địa chỉ.",
+      "Kích thước (Cao x Rộng x Sâu): 43.6 x 442.0 x 420.0 mm.",
+      "Chiều cao khung má: 1U."
     ],
     "specifications": [
       [
@@ -2060,7 +2104,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-89288484": {
     "name": "24-Port GE Unmanaged Switch HUAWEI S110-24T2SR",
@@ -2076,12 +2121,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93301-huawei-s110-24t2sr-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-89288484",
     "description": [
-      "24-Port GE Unmanaged Switch HUAWEI S110-24T2SR là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 x 10/100/1000BASE-T ports",
-      "Cổng uplink: 2 x GE SFP ports",
-      "PoE: Không hỗ trợ",
-      "Tốc đọ chuyển mạch: 52 Gbps",
-      "Tốc độ chuyển gói: 38.69 Mpps"
+      "24-Port GE Unmanaged Switch HUAWEI S110-24T2SR thuộc nhóm switch mạng của Huawei.",
+      "Loại thiết bị: Switch Unmanaged Layer 2.",
+      "Cổng mạng: 24 x 10/100/1000BASE-T ports.",
+      "Cổng uplink: 2 x GE SFP ports.",
+      "Tốc đọ chuyển mạch: 52 Gbps.",
+      "Tốc độ chuyển gói: 38.69 Mpps.",
+      "Bảng MAC: 8K."
     ],
     "specifications": [
       [
@@ -2152,7 +2198,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-55874359": {
     "name": "48-Port GE Managed Switch HUAWEI S220-48T4S",
@@ -2168,12 +2215,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90608-huawei-s220-48t4s-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-55874359",
     "description": [
-      "48-Port GE Managed Switch HUAWEI S220-48T4S là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 48 x 10/100/1000BASET",
-      "Cổng uplink: 4 x GE SFP+",
-      "PoE: Không hỗ trợ",
-      "Dung lượng chuyển mạch: 104Gbps",
-      "Tốc độ chuyển gói: 77Mpps"
+      "48-Port GE Managed Switch HUAWEI S220-48T4S thuộc nhóm switch mạng của Huawei.",
+      "Dung lượng chuyển mạch: 104Gbps.",
+      "Tốc độ chuyển gói: 77Mpps.",
+      "Cổng cố định: 48 x 10/100/1000BASET, 4 x GE SFP+.",
+      "Kích thước (H x W x D): 43.6 x 442 x 220 mm.",
+      "Chiều cao khung máy: 1U.",
+      "Trọng lượng: 3.59kg."
     ],
     "specifications": [
       [
@@ -2246,7 +2294,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-47073062": {
     "name": "48-Port GE PoE Managed Switch HUAWEI S220-48P4S",
@@ -2262,12 +2311,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90609-huawei-s220-48p4s-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-47073062",
     "description": [
-      "48-Port GE PoE Managed Switch HUAWEI S220-48P4S là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 48 x 10/100/1000BASE-T (380W PoE+)",
-      "Cổng uplink: 4 x GE SFP ports",
-      "PoE: Có, hỗ trợ cấp nguồn qua Ethernet trên các cổng downlink",
-      "Dung lượng chuyển mạch: 104Gbps",
-      "Tốc độ chuyển gói: 77Mpps"
+      "48-Port GE PoE Managed Switch HUAWEI S220-48P4S thuộc nhóm switch mạng của Huawei.",
+      "Dung lượng chuyển mạch: 104Gbps.",
+      "Tốc độ chuyển gói: 77Mpps.",
+      "Cổng cố định: 48 x 10/100/1000BASE-T (380W PoE+), 4 x GE SFP ports.",
+      "Kích thước (H x W x D): 43.6 x 442 x 220 mm.",
+      "Chiều cao khung máy: 1U.",
+      "Trọng lượng: 4.29kg."
     ],
     "specifications": [
       [
@@ -2340,7 +2390,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-06011714": {
     "name": "48-Port GE PoE+ Switch Huawei eKitEngine S310-48P4X",
@@ -2356,12 +2407,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92174-huawei-ekitengine-s310-48p4x-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-06011714",
     "description": [
-      "48-Port GE PoE+ Switch Huawei eKitEngine S310-48P4X là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 48 × 10/100/1000BASE-T (PoE+)",
-      "Cổng uplink: 4 × 10GE SFP+",
-      "PoE: Có, công suất PoE 380 W",
-      "Băng thông chuyển mạch: 176 Gbps",
-      "Hiệu suất chuyển tiếp: 131 Mpps"
+      "48-Port GE PoE+ Switch Huawei eKitEngine S310-48P4X thuộc nhóm switch mạng của Huawei.",
+      "Cổng downlink: 48 × 10/100/1000BASE-T (PoE+).",
+      "Cổng uplink: 4 × 10GE SFP+.",
+      "Băng thông chuyển mạch: 176 Gbps.",
+      "Hiệu suất chuyển tiếp: 131 Mpps.",
+      "Công suất PoE: 380 W.",
+      "Công suất tiêu thụ: Không PoE: 64.7 W / Có PoE: 462.8 W."
     ],
     "specifications": [
       [
@@ -2450,7 +2502,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-06770663": {
     "name": "48-Port GE PoE Switch HUAWEI S310-48P4S",
@@ -2466,12 +2519,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90618-huawei-s310-48p4s-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-06770663",
     "description": [
-      "48-Port GE PoE Switch HUAWEI S310-48P4S là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 48 x 10/100/1000BASE-T (PoE+)",
-      "Cổng uplink: 4 x GE SFP",
-      "PoE: Có, hỗ trợ cấp nguồn qua Ethernet trên các cổng downlink",
-      "Tốc độ chuyển mạch: 104 Gbps",
-      "Công suất chuyển tiếp: 77Mpps"
+      "48-Port GE PoE Switch HUAWEI S310-48P4S thuộc nhóm switch mạng của Huawei.",
+      "Tốc độ chuyển mạch: 104 Gbps.",
+      "Công suất chuyển tiếp: 77Mpps.",
+      "Cổng Downlink: 48 x 10/100/1000BASE-T (PoE+).",
+      "Cổng Uplink: 4 x GE SFP.",
+      "Kích thước (H x W x D): 43.6 x 442 x 420 mm.",
+      "Chiều cao khung máy: 1U."
     ],
     "specifications": [
       [
@@ -2540,7 +2594,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-59351923": {
     "name": "48-Port GE SFP Switch HUAWEI S530-48S4XE",
@@ -2556,12 +2611,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90621-huawei-s530-48s4xe-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-59351923",
     "description": [
-      "48-Port GE SFP Switch HUAWEI S530-48S4XE là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 48 x GE SFP",
-      "Cổng uplink: 4 x 10 GE, 2 x 10 GE",
-      "PoE: Không hỗ trợ",
-      "Tốc độ chuyển mạch: 224Gbps",
-      "Công suất chuyển tiếp: 168Mpps"
+      "48-Port GE SFP Switch HUAWEI S530-48S4XE thuộc nhóm switch mạng của Huawei.",
+      "Tốc độ chuyển mạch: 224Gbps.",
+      "Công suất chuyển tiếp: 168Mpps.",
+      "Cổng cố định: 48 x GE SFP, 4 x 10 GE, 2 x 10 GE.",
+      "Bảng địa chỉ MAC: Tối đa 32K địa chỉ.",
+      "Kích thước (Cao x Rộng x Sâu): 43.6 x 442.0 x 420.0 mm.",
+      "Chiều cao khung má: 1U."
     ],
     "specifications": [
       [
@@ -2634,7 +2690,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-31649932": {
     "name": "48-Port GE Switch Huawei eKitEngine S220-48T4X",
@@ -2650,12 +2707,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92171-huawei-ekitengine-s220-48t4x-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-31649932",
     "description": [
-      "48-Port GE Switch Huawei eKitEngine S220-48T4X là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 48 × GE RJ45",
-      "Cổng uplink: 4 × SFP+ 10GE",
-      "PoE: Không hỗ trợ",
-      "Băng thông chuyển mạch: 176 Gbps",
-      "Tốc độ chuyển tiếp: 131 Mpps"
+      "48-Port GE Switch Huawei eKitEngine S220-48T4X thuộc nhóm switch mạng của Huawei.",
+      "Loại thiết bị: Switch Layer 2 quản lý.",
+      "Cổng downlink: 48 × GE RJ45.",
+      "Cổng uplink: 4 × SFP+ 10GE.",
+      "Băng thông chuyển mạch: 176 Gbps.",
+      "Tốc độ chuyển tiếp: 131 Mpps.",
+      "Nguồn điện: AC tích hợp."
     ],
     "specifications": [
       [
@@ -2720,7 +2778,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-15038117": {
     "name": "48-Port GE Switch Huawei eKitEngine S530-48T4XE",
@@ -2736,12 +2795,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92175-huawei-ekitengine-s530-48t4xe-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-15038117",
     "description": [
-      "48-Port GE Switch Huawei eKitEngine S530-48T4XE là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 48 × 10/100/1000BASE-T (RJ45)",
-      "Cổng uplink: 4 × 10GE SFP+",
-      "PoE: Không hỗ trợ",
-      "Dung lượng chuyển mạch: 216 Gbps",
-      "Tốc độ chuyển tiếp: 160 Mpps"
+      "48-Port GE Switch Huawei eKitEngine S530-48T4XE thuộc nhóm switch mạng của Huawei.",
+      "Loại thiết bị: Switch Layer 3 quản lý hoàn toàn.",
+      "Cổng truy cập: 48 × 10/100/1000BASE-T (RJ45).",
+      "Cổng uplink: 4 × 10GE SFP+.",
+      "Cổng stack: 2 × 10GE stack chuyên dụng.",
+      "Dung lượng chuyển mạch: 216 Gbps.",
+      "Tốc độ chuyển tiếp: 160 Mpps."
     ],
     "specifications": [
       [
@@ -2826,7 +2886,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-62335159": {
     "name": "48-Port GE Switch HUAWEI S310-48T4S",
@@ -2842,12 +2903,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90617-huawei-s310-48t4s-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-62335159",
     "description": [
-      "48-Port GE Switch HUAWEI S310-48T4S là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 48 x 10/100/1000BASE-T",
-      "Cổng uplink: 4 x GE SFP",
-      "PoE: Không hỗ trợ",
-      "Tốc độ chuyển mạch: 104Gbps",
-      "Công suất chuyển tiếp: 77Mpps"
+      "48-Port GE Switch HUAWEI S310-48T4S thuộc nhóm switch mạng của Huawei.",
+      "Tốc độ chuyển mạch: 104Gbps.",
+      "Công suất chuyển tiếp: 77Mpps.",
+      "Cổng Downlink: 48 x 10/100/1000BASE-T.",
+      "Cổng Uplink: 4 x GE SFP.",
+      "Kích thước (H x W x D): 43.6 x 442 x 420 mm.",
+      "Chiều cao khung máy: 1U."
     ],
     "specifications": [
       [
@@ -2916,7 +2978,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-65366623": {
     "name": "8-Port GE PoE Managed Switch HUAWEI S220-8P4S",
@@ -2932,12 +2995,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90596-huawei-s220-8p4s-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-65366623",
     "description": [
-      "8-Port GE PoE Managed Switch HUAWEI S220-8P4S là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 8 x 10/100/1000BASE-T PoE+ chuẩn IEEE 802.3af/at",
-      "Cổng uplink: 4 x GE SFP",
-      "PoE: Có, công suất PoE 125W",
-      "Dung lượng chuyển mạch: 24 Gbps",
-      "Tốc độ chuyển gói: 18 Mpps"
+      "8-Port GE PoE Managed Switch HUAWEI S220-8P4S thuộc nhóm switch mạng của Huawei.",
+      "Cổng downlink: 8 x 10/100/1000BASE-T PoE+ chuẩn IEEE 802.3af/at.",
+      "Cổng uplink: 4 x GE SFP.",
+      "Dung lượng chuyển mạch: 24 Gbps.",
+      "Tốc độ chuyển gói: 18 Mpps.",
+      "VLAN: Tối đa 4094 VLAN, hỗ trợ VLAN tĩnh, VLAN dựa trên MAC/Protocol/IP Subnet/Port, Voice VLAN, VLAN stacking.",
+      "Tính năng đặc biệt: Fast PoE, Perpetual PoE, Cloud Management, ERPS, STP/RSTP/MSTP, QoS, ACL, 802.1X."
     ],
     "specifications": [
       [
@@ -3018,7 +3082,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-96115651": {
     "name": "8-Port GE PoE+ Switch Huawei eKitEngine S210-8LP2J",
@@ -3034,12 +3099,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93291-huawei-ekitengine-s210-8lp2j-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-96115651",
     "description": [
-      "8-Port GE PoE+ Switch Huawei eKitEngine S210-8LP2J là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 8 x 10/100/1000BASE-T PoE+",
-      "Cổng uplink: 2 x 100M/GE/2.5GE SFP",
-      "PoE: Có, công suất PoE 32W",
-      "Tốc độ chuyển mạch: 26 Gbps",
-      "Tốc độ chuyển gói: 19.5 Mpps"
+      "8-Port GE PoE+ Switch Huawei eKitEngine S210-8LP2J thuộc nhóm switch mạng của Huawei.",
+      "Cổng mạng: 8 x 10/100/1000BASE-T PoE+.",
+      "Cổng uplink: 2 x 100M/GE/2.5GE SFP.",
+      "Chuẩn quản lý: Layer 2 Managed Switch.",
+      "Công suất PoE tối đa: 32W.",
+      "Tốc độ chuyển mạch: 26 Gbps.",
+      "Tốc độ chuyển gói: 19.5 Mpps."
     ],
     "specifications": [
       [
@@ -3122,7 +3188,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-59645504": {
     "name": "8-Port GE PoE+ Switch Huawei eKitEngine S210-8P2J",
@@ -3138,12 +3205,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92168-huawei-ekitengine-s210-8p2j-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-59645504",
     "description": [
-      "8-Port GE PoE+ Switch Huawei eKitEngine S210-8P2J là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 8 × GE RJ45 (PoE+)",
-      "Cổng uplink: 2 × SFP 100M/GE/2.5GE",
-      "PoE: Có, công suất PoE 128 W",
-      "Băng thông chuyển mạch: 26 Gbps",
-      "Tốc độ chuyển tiếp: 19.5 Mpps"
+      "8-Port GE PoE+ Switch Huawei eKitEngine S210-8P2J thuộc nhóm switch mạng của Huawei.",
+      "Loại thiết bị: Switch Layer 2 quản lý.",
+      "Cổng downlink: 8 × GE RJ45 (PoE+).",
+      "Cổng uplink: 2 × SFP 100M/GE/2.5GE.",
+      "Công suất PoE: 128 W.",
+      "Băng thông chuyển mạch: 26 Gbps.",
+      "Tốc độ chuyển tiếp: 19.5 Mpps."
     ],
     "specifications": [
       [
@@ -3214,7 +3282,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-02352628": {
     "name": "8-Port GE PoE+ Switch Huawei eKitEngine S220S-8P4J",
@@ -3230,12 +3299,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92169-huawei-ekitengine-s220s-8p4j-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-02352628",
     "description": [
-      "8-Port GE PoE+ Switch Huawei eKitEngine S220S-8P4J là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 8 × GE RJ45 (PoE+)",
-      "Cổng uplink: 4 × SFP 2.5GE",
-      "PoE: Có, công suất PoE 128 W",
-      "Băng thông chuyển mạch: 36 Gbps",
-      "Tốc độ chuyển tiếp: 27 Mpps"
+      "8-Port GE PoE+ Switch Huawei eKitEngine S220S-8P4J thuộc nhóm switch mạng của Huawei.",
+      "Loại thiết bị: Switch Layer 2 quản lý.",
+      "Cổng downlink: 8 × GE RJ45 (PoE+).",
+      "Cổng uplink: 4 × SFP 2.5GE.",
+      "Công suất PoE: 128 W.",
+      "Băng thông chuyển mạch: 36 Gbps.",
+      "Tốc độ chuyển tiếp: 27 Mpps."
     ],
     "specifications": [
       [
@@ -3300,7 +3370,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-50479498": {
     "name": "8-Port GE PoE Unmanaged Switch HUAWEI S110-8P2ST",
@@ -3316,12 +3387,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90593-huawei-s110-8p2st-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-50479498",
     "description": [
-      "8-Port GE PoE Unmanaged Switch HUAWEI S110-8P2ST là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 8 x 10/100/1000BASE-T PoE+",
-      "Cổng uplink: 1 x GE RJ45, 1 x GE SFP",
-      "PoE: Có, IEEE 802.3af/at, tối đa 30W/cổng, tổng 124W",
-      "Dung lượng chuyển mạch: 20 Gbit/s",
-      "Tốc độ chuyển gói: 14.88 Mpps"
+      "8-Port GE PoE Unmanaged Switch HUAWEI S110-8P2ST thuộc nhóm switch mạng của Huawei.",
+      "Cổng downlink: 8 x 10/100/1000BASE-T PoE+.",
+      "Cổng uplink: 1 x GE RJ45, 1 x GE SFP.",
+      "Dung lượng chuyển mạch: 20 Gbit/s.",
+      "Tốc độ chuyển gói: 14.88 Mpps.",
+      "Bảng địa chỉ MAC: 4K.",
+      "Điện áp vào: 54V DC."
     ],
     "specifications": [
       [
@@ -3400,7 +3472,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-34577929": {
     "name": "8-Port GE Switch Huawei eKitEngine S210-8T",
@@ -3416,12 +3489,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93289-huawei-ekitengine-s210-8t-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-34577929",
     "description": [
-      "8-Port GE Switch Huawei eKitEngine S210-8T là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 8 x 10/100/1000BASE-T Gigabit Ethernet",
-      "Cổng uplink: Không có cổng uplink chuyên dụng",
-      "PoE: Không hỗ trợ",
-      "Tốc độ chuyển mạch: 16 Gbps",
-      "Tốc độ chuyển gói: 12 Mpps"
+      "8-Port GE Switch Huawei eKitEngine S210-8T thuộc nhóm switch mạng của Huawei.",
+      "Chuẩn switch: Layer 2 Managed Switch.",
+      "Số cổng mạng: 8 x 10/100/1000BASE-T Gigabit Ethernet.",
+      "Tốc độ chuyển mạch: 16 Gbps.",
+      "Tốc độ chuyển gói: 12 Mpps.",
+      "Bảng MAC: 8K.",
+      "Hỗ trợ quản lý: Web UI, Huawei eKit App, Huawei eKit SNC, SNMP v1/v2/v3."
     ],
     "specifications": [
       [
@@ -3508,7 +3582,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-58517732": {
     "name": "8-Port GE Switch Huawei eKitEngine S210-8T2J",
@@ -3524,12 +3599,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93286-huawei-ekitengine-s210-8t2j-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-58517732",
     "description": [
-      "8-Port GE Switch Huawei eKitEngine S210-8T2J là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 8 x 10/100/1000BASE-T Ethernet",
-      "Cổng uplink: 2 x 100M/GE/2.5GE SFP",
-      "PoE: Không hỗ trợ",
-      "Tốc độ chuyển mạch: 26 Gbps",
-      "Tốc độ chuyển gói: 19.5 Mpps"
+      "8-Port GE Switch Huawei eKitEngine S210-8T2J thuộc nhóm switch mạng của Huawei.",
+      "Loại thiết bị: Managed Layer 2 Switch.",
+      "Cổng mạng: 8 x 10/100/1000BASE-T Ethernet.",
+      "Cổng Uplink: 2 x 100M/GE/2.5GE SFP.",
+      "Tốc độ chuyển mạch: 26 Gbps.",
+      "Tốc độ chuyển gói: 19.5 Mpps.",
+      "Bảng MAC: 8K."
     ],
     "specifications": [
       [
@@ -3612,7 +3688,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-S220S-8T2J": {
     "name": "8-Port GE Switch Huawei eKitEngine S220S-8T2J",
@@ -3628,12 +3705,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93296-huawei-ekitengine-s220s-8t2j-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/Switch/S220S-8T2J/S220S-8T2J.html",
     "description": [
-      "Switch Gigabit Huawei eKitEngine S220S-8T2J cho văn phòng, cửa hàng và hệ thống mạng quy mô nhỏ",
-      "Cổng downlink: 8 x 10/100/1000BASE-T RJ45",
-      "Cổng uplink: 2 x 2.5GE SFP",
-      "PoE: Không hỗ trợ",
-      "Tốc độ chuyển mạch: 26 Gbps",
-      "Tốc độ chuyển gói: 19 Mpps"
+      "8-Port GE Switch Huawei eKitEngine S220S-8T2J thuộc nhóm switch mạng của Huawei.",
+      "Loại thiết bị: Switch Layer 2 Managed.",
+      "Cổng mạng: 8 x 10/100/1000BASE-T RJ45.",
+      "Cổng uplink: 2 x 2.5GE SFP.",
+      "Tốc độ chuyển mạch: 26 Gbps.",
+      "Tốc độ chuyển gói: 19 Mpps.",
+      "Bảng MAC: 16K."
     ],
     "specifications": [
       [
@@ -3716,7 +3794,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-89897725": {
     "name": "8-Port GE Switch Huawei eKitEngine S220S-8T2X",
@@ -3732,12 +3811,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92170-huawei-ekitengine-s220s-8t2x-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-89897725",
     "description": [
-      "8-Port GE Switch Huawei eKitEngine S220S-8T2X là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 8 × GE RJ45",
-      "Cổng uplink: 2 × SFP+ 10GE",
-      "PoE: Không hỗ trợ",
-      "Băng thông chuyển mạch: 56 Gbps",
-      "Tốc độ chuyển tiếp: 42 Mpps"
+      "8-Port GE Switch Huawei eKitEngine S220S-8T2X thuộc nhóm switch mạng của Huawei.",
+      "Loại thiết bị: Switch Layer 2 quản lý.",
+      "Cổng downlink: 8 × GE RJ45.",
+      "Cổng uplink: 2 × SFP+ 10GE.",
+      "Băng thông chuyển mạch: 56 Gbps.",
+      "Tốc độ chuyển tiếp: 42 Mpps.",
+      "Nguồn điện: AC tích hợp."
     ],
     "specifications": [
       [
@@ -3804,7 +3884,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-29514973": {
     "name": "8-Port GE Unmanaged Switch HUAWEI S110-8T2ST",
@@ -3820,12 +3901,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93303-huawei-s110-8t2st-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-29514973",
     "description": [
-      "8-Port GE Unmanaged Switch HUAWEI S110-8T2ST là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 8 x 10/100/1000BASE-T Ethernet RJ45",
-      "Cổng uplink: 1 x GE Electrical Port (RJ45), 1 x GE SFP Port",
-      "PoE: Không hỗ trợ",
-      "Tốc độ chuyển mạch: 20 Gbps",
-      "Tốc độ chuyển gói: 14.88 Mpps"
+      "8-Port GE Unmanaged Switch HUAWEI S110-8T2ST thuộc nhóm switch mạng của Huawei.",
+      "Loại thiết bị: Unmanaged Switch.",
+      "Cổng mạng: 8 x 10/100/1000BASE-T Ethernet RJ45.",
+      "Cổng Uplink: 1 x GE Electrical Port (RJ45), 1 x GE SFP Port.",
+      "Tốc độ chuyển mạch: 20 Gbps.",
+      "Tốc độ chuyển gói: 14.88 Mpps.",
+      "Bảng MAC: 2K MAC."
     ],
     "specifications": [
       [
@@ -3908,7 +3990,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-47385083": {
     "name": "Access Point Wi-Fi 7 Huawei eKitEngine AP572",
@@ -3924,12 +4007,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92196-huawei-ekitengine-ap572-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-47385083",
     "description": [
-      "Access Point Wi-Fi 7 Huawei eKitEngine AP572 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn Wi-Fi: Wi-Fi 7 (IEEE 802.11be), tương thích Wi-Fi 6/5",
-      "Băng tần: Dual-band 2.4 GHz & 5 GHz",
-      "Tốc độ tối đa: 6.45 Gbps",
-      "Cổng mạng: 1 × 2.5GE (PoE), 1 × GE, 1 × USB",
-      "Số người dùng tối đa: 1024 thiết bị"
+      "Access Point Wi-Fi 7 Huawei eKitEngine AP572 thuộc nhóm wifi access point của Huawei.",
+      "Chuẩn Wi-Fi: Wi-Fi 7 (IEEE 802.11be), tương thích Wi-Fi 6/5.",
+      "Băng tần: Dual-band 2.4 GHz & 5 GHz.",
+      "Tốc độ tối đa: 6.45 Gbps.",
+      "Kênh: 160 MHz.",
+      "Cổng mạng: 1 × 2.5GE (PoE), 1 × GE, 1 × USB.",
+      "Số người dùng tối đa: 1024 thiết bị."
     ],
     "specifications": [
       [
@@ -4002,7 +4086,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-83010409": {
     "name": "Access Point Wi-Fi 7 Huawei eKitEngine AP771",
@@ -4018,12 +4103,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92201-huawei-ekitengine-ap771-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-83010409",
     "description": [
-      "Access Point Wi-Fi 7 Huawei eKitEngine AP771 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn Wi-Fi: Wi-Fi 7 (IEEE 802.11be), tương thích Wi-Fi 6/5",
-      "Băng tần: Dual-band 2.4 GHz & 5 GHz",
-      "Tốc độ tối đa: 3.57 Gbps",
-      "Cổng mạng: 1 × 2.5GE RJ45 (PoE)",
-      "Số người dùng tối đa: ≤ 256"
+      "Access Point Wi-Fi 7 Huawei eKitEngine AP771 thuộc nhóm wifi access point của Huawei.",
+      "Chuẩn Wi-Fi: Wi-Fi 7 (IEEE 802.11be), tương thích Wi-Fi 6/5.",
+      "Băng tần: Dual-band 2.4 GHz & 5 GHz.",
+      "Tốc độ tối đa: 3.57 Gbps.",
+      "Băng thông kênh: 160 MHz.",
+      "Anten: Anten đa hướng tích hợp.",
+      "Bán kính phủ sóng: Tối ưu đến 130 m."
     ],
     "specifications": [
       [
@@ -4096,7 +4182,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-AP160": {
     "name": "Access Point Wifi HUAWEI AP160",
@@ -4112,11 +4199,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90627-huawei-ap160-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/AP/AP160/AP160.html",
     "description": [
-      "Access Point WiFi Huawei AP160 là model tham khảo cho vùng phủ WiFi trong nhà",
-      "Loại cổng: 2 cổng điện 10M/100M/1GE",
-      "Đèn LED: Hiển thị trạng thái bật nguồn, khởi động, đang chạy, cảnh báo và lỗi của hệ thống",
-      "Loại ăng-ten: Tích hợp Ăng-ten thông minh",
-      "Độ lợi ăng-ten: 2.4GHz: 3dBi; 5GHz: 2dBi"
+      "Access Point Wifi HUAWEI AP160 thuộc nhóm wifi access point của Huawei.",
+      "Loại cổng: 2 cổng điện 10M/100M/1GE.",
+      "Đèn LED: Hiển thị trạng thái bật nguồn, khởi động, đang chạy, cảnh báo và lỗi của hệ thống.",
+      "Loại ăng-ten: Tích hợp Ăng-ten thông minh.",
+      "Độ lợi ăng-ten: 2.4GHz: 3dBi; 5GHz: 2dBi.",
+      "Số lượng SSID tối đa trên mỗi radio: ≤ 6.",
+      "Dung lượng thiết bị: ≤ 128."
     ],
     "specifications": [
       [
@@ -4187,7 +4276,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-38377072": {
     "name": "Access Point Wifi HUAWEI AP162E",
@@ -4203,11 +4293,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90629-huawei-ap162e-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-38377072",
     "description": [
-      "Access Point Wifi HUAWEI AP162E là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn Wi-Fi: Wi-Fi 6 (IEEE 802.11ax)",
-      "Tốc độ tối đa: Lên tới 2.975 Gbps",
-      "Băng tần hoạt động: 2.4GHz & 5GHz đồng thời",
-      "Cấu hình MIMO: 2x2 mỗi băng tần"
+      "Access Point Wifi HUAWEI AP162E thuộc nhóm wifi access point của Huawei.",
+      "Chuẩn Wi-Fi: Wi-Fi 6 (IEEE 802.11ax).",
+      "Băng tần hoạt động: 2.4GHz & 5GHz đồng thời.",
+      "Cấu hình MIMO: 2x2 mỗi băng tần.",
+      "Số luồng không gian: 4 luồng.",
+      "Tốc độ tối đa: Lên tới 2.975 Gbps.",
+      "Tốc độ 2.4GHz: Lên tới 575 Mbps."
     ],
     "specifications": [
       [
@@ -4280,7 +4372,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-55096706": {
     "name": "Access Point Wifi HUAWEI AP265E",
@@ -4296,11 +4389,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90635-huawei-ap265e-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-55096706",
     "description": [
-      "Access Point Wifi HUAWEI AP265E là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn Wi-Fi: Wi-Fi 6 (IEEE 802.11ax)",
-      "Tốc độ tối đa: Lên tới 2.975 Gbps",
-      "Băng tần hoạt động: 2.4GHz và 5GHz đồng thời",
-      "Cấu hình MIMO: 2x2 (2.4GHz) + 2x2 (5GHz)"
+      "Access Point Wifi HUAWEI AP265E thuộc nhóm wifi access point của Huawei.",
+      "Chuẩn Wi-Fi: Wi-Fi 6 (IEEE 802.11ax).",
+      "Băng tần hoạt động: 2.4GHz và 5GHz đồng thời.",
+      "Cấu hình MIMO: 2x2 (2.4GHz) + 2x2 (5GHz).",
+      "Số luồng không gian: 4 luồng.",
+      "Tốc độ tối đa: Lên tới 2.975 Gbps.",
+      "Tốc độ 2.4GHz: Lên tới 575 Mbps."
     ],
     "specifications": [
       [
@@ -4377,7 +4472,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-01627249": {
     "name": "Access Point Wifi HUAWEI AP266",
@@ -4393,11 +4489,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90636-huawei-ap266-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-01627249",
     "description": [
-      "Access Point Wifi HUAWEI AP266 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn Wi-Fi: Wi-Fi 6 (IEEE 802.11ax)",
-      "Tốc độ tối đa: Lên tới 2.975 Gbps",
-      "Băng tần hoạt động: 2.4GHz & 5GHz đồng thời",
-      "Cấu hình MIMO: 2x2 mỗi băng tần"
+      "Access Point Wifi HUAWEI AP266 thuộc nhóm wifi access point của Huawei.",
+      "Chuẩn Wi-Fi: Wi-Fi 6 (IEEE 802.11ax).",
+      "Băng tần hoạt động: 2.4GHz & 5GHz đồng thời.",
+      "Cấu hình MIMO: 2x2 mỗi băng tần.",
+      "Số luồng không gian: 4 luồng.",
+      "Tốc độ tối đa: Lên tới 2.975 Gbps.",
+      "Tốc độ 2.4GHz: Lên tới 575 Mbps."
     ],
     "specifications": [
       [
@@ -4474,7 +4572,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-AP361": {
     "name": "Access Point Wifi HUAWEI AP361",
@@ -4490,11 +4589,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90626-huawei-ap361-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/AP/AP361/AP361.html",
     "description": [
-      "Access Point WiFi Huawei AP361 cho văn phòng, cửa hàng và khu vực dịch vụ",
-      "Loại cổng: 1 cổng điện 10M/100M/1GE",
-      "Đèn LED: Hiển thị trạng thái bật nguồn, khởi động, đang chạy, cảnh báo và lỗi của hệ thống",
-      "Loại ăng-ten: Tích hợp Ăng-ten thông minh",
-      "Độ lợi ăng-ten: 2.4GHz: 4dBi; 5GHz: 5dBi"
+      "Access Point Wifi HUAWEI AP361 thuộc nhóm wifi access point của Huawei.",
+      "Loại cổng: 1 cổng điện 10M/100M/1GE.",
+      "Đèn LED: Hiển thị trạng thái bật nguồn, khởi động, đang chạy, cảnh báo và lỗi của hệ thống.",
+      "Loại ăng-ten: Tích hợp Ăng-ten thông minh.",
+      "Độ lợi ăng-ten: 2.4GHz: 4dBi; 5GHz: 5dBi.",
+      "Số lượng SSID tối đa trên mỗi radio: ≤ 6.",
+      "Dung lượng thiết bị: ≤ 128."
     ],
     "specifications": [
       [
@@ -4565,7 +4666,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-74783716": {
     "name": "Access Point Wifi HUAWEI AP362E",
@@ -4581,11 +4683,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90628-huawei-ap362e-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-74783716",
     "description": [
-      "Access Point Wifi HUAWEI AP362E là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn Wi-Fi: Wi-Fi 6 (802.11ax)",
-      "Nguồn cấp: PoE 802.3af",
-      "Băng tần hoạt động: 2.4 GHz và 5 GHz",
-      "Chuẩn Wi-Fi 2.4 GHz: 802.11b/g/n/ax"
+      "Access Point Wifi HUAWEI AP362E thuộc nhóm wifi access point của Huawei.",
+      "Chuẩn Wi-Fi: Wi-Fi 6 (802.11ax).",
+      "Băng tần hoạt động: 2.4 GHz và 5 GHz.",
+      "Chuẩn Wi-Fi 2.4 GHz: 802.11b/g/n/ax.",
+      "Chuẩn Wi-Fi 5 GHz: 802.11a/n/ac/ac Wave 2/ax.",
+      "Số lượng radio: 2.",
+      "Cấu hình MIMO: 2×2 trên mỗi băng tần."
     ],
     "specifications": [
       [
@@ -4670,7 +4774,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-AP371": {
     "name": "Access Point Wifi HUAWEI AP371",
@@ -4686,12 +4791,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90633-huawei-ap371-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/AP/AP371/AP371.html",
     "description": [
-      "Access Point Huawei AP371 là lựa chọn tham khảo cho triển khai vùng phủ WiFi tại văn phòng, cửa hàng hoặc không gian dịch vụ",
-      "Chuẩn Wi-Fi: 802.11be (Wi-Fi 7)",
-      "Băng tần: Dual-band: 2.4GHz + 5GHz",
-      "Tốc độ tối đa: 2.4GHz: 689Mbps / 5GHz: 2.88Gbps",
-      "Cổng mạng: 1 × 100M/1GE/2.5GE RJ45",
-      "Nguồn cấp: PoE IEEE 802.3af/at hoặc DC 12V ±10%"
+      "Access Point Wifi HUAWEI AP371 thuộc nhóm wifi access point của Huawei.",
+      "Chuẩn Wi-Fi: 802.11be (Wi-Fi 7).",
+      "Băng tần: Dual-band: 2.4GHz + 5GHz.",
+      "Tốc độ tối đa: 2.4GHz: 689Mbps / 5GHz: 2.88Gbps.",
+      "Tổng tốc độ: Lên đến 3.57Gbps.",
+      "Số luồng: 4 spatial streams.",
+      "Cổng mạng: 1 × 100M/1GE/2.5GE RJ45."
     ],
     "specifications": [
       [
@@ -4766,7 +4872,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-28063472": {
     "name": "Access Point Wifi HUAWEI AP661",
@@ -4782,11 +4889,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90630-huawei-ap661-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-28063472",
     "description": [
-      "Access Point Wifi HUAWEI AP661 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn Wi-Fi: Wi-Fi 6 (IEEE 802.11ax)",
-      "Tốc độ tối đa: Lên tới 6.575 Gbps",
-      "Phân khúc: Wi-Fi 6 hiệu năng cao, mật độ người dùng lớn",
-      "Băng tần hoạt động: 2.4GHz + 5GHz + 5GHz"
+      "Access Point Wifi HUAWEI AP661 thuộc nhóm wifi access point của Huawei.",
+      "Chuẩn Wi-Fi: Wi-Fi 6 (IEEE 802.11ax).",
+      "Phân khúc: Wi-Fi 6 hiệu năng cao, mật độ người dùng lớn.",
+      "Băng tần hoạt động: 2.4GHz + 5GHz + 5GHz.",
+      "Cấu hình MIMO: 2x2 (2.4GHz), 2x2 (5GHz), 4x4 (5GHz).",
+      "Số luồng không gian: 8 luồng.",
+      "Tốc độ tối đa: Lên tới 6.575 Gbps."
     ],
     "specifications": [
       [
@@ -4859,7 +4968,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-31390543": {
     "name": "Access Point Wifi HUAWEI AP673",
@@ -4875,11 +4985,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90634-huawei-ap673-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-31390543",
     "description": [
-      "Access Point Wifi HUAWEI AP673 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn Wi-Fi: Wi-Fi 7 (IEEE 802.11be)",
-      "Tốc độ tối đa: Lên tới 13.66 Gbps",
-      "Băng tần hoạt động: 2.4GHz + 5GHz + 6GHz",
-      "Cấu hình MIMO: 2x2 (2.4GHz), 2x2 (5GHz), 4x4 (6GHz)"
+      "Access Point Wifi HUAWEI AP673 thuộc nhóm wifi access point của Huawei.",
+      "Chuẩn Wi-Fi: Wi-Fi 7 (IEEE 802.11be).",
+      "Băng tần hoạt động: 2.4GHz + 5GHz + 6GHz.",
+      "Cấu hình MIMO: 2x2 (2.4GHz), 2x2 (5GHz), 4x4 (6GHz).",
+      "Số luồng không gian: 8 luồng.",
+      "Tốc độ tối đa: Lên tới 13.66 Gbps.",
+      "Tốc độ 2.4GHz: Lên tới 0.69 Gbps."
     ],
     "specifications": [
       [
@@ -4948,7 +5060,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-79245167": {
     "name": "Access Point Wifi HUAWEI AP761",
@@ -4964,11 +5077,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90632-huawei-ap761-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-79245167",
     "description": [
-      "Access Point Wifi HUAWEI AP761 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Nguồn cấp: Cấp nguồn PoE, tuân thủ chuẩn IEEE 802.3at/af",
-      "Kích thước (C x R x S): 69 x 200 x 200 mm",
-      "Trọng lượng: 1.91 kg",
-      "Cổng kết nối: 1 cổng điện 10M/100M/GE (hỗ trợ PoE-In); 1 cổng quang SFP"
+      "Access Point Wifi HUAWEI AP761 thuộc nhóm wifi access point của Huawei.",
+      "Kích thước (C x R x S): 69 x 200 x 200 mm.",
+      "Trọng lượng: 1.91 kg.",
+      "Cổng kết nối: 1 cổng điện 10M/100M/GE (hỗ trợ PoE-In); 1 cổng quang SFP.",
+      "Bluetooth: BLE 5.2.",
+      "Đèn LED báo trạng thái: Hiển thị các trạng thái nguồn, khởi động, hoạt động, cảnh báo và lỗi của hệ thống.",
+      "Nguồn cấp: Cấp nguồn PoE, tuân thủ chuẩn IEEE 802.3at/af."
     ],
     "specifications": [
       [
@@ -5053,7 +5168,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-82605634": {
     "name": "Cáp xếp chồng 0.5 mét Huawei SFP+STACK-CU0M5",
@@ -5069,11 +5185,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92189-huawei-sfp-stack-cu0m5-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-82605634",
     "description": [
-      "Cáp xếp chồng 0.5 mét Huawei SFP+STACK-CU0M5 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn kết nối: SFP+",
-      "Đầu nối: SFP+ to SFP+",
-      "Chiều dài cáp: 0.5 m",
-      "Thuộc tính điện: Passive (thụ động)"
+      "Cáp xếp chồng 0.5 mét Huawei SFP+STACK-CU0M5 thuộc nhóm cáp và phụ kiện mạng của Huawei.",
+      "Chuẩn kết nối: SFP+.",
+      "Đầu nối: SFP+ to SFP+.",
+      "Chiều dài cáp: 0.5 m.",
+      "Thuộc tính điện: Passive (thụ động).",
+      "Bán kính uốn: 25 mm.",
+      "Môi trường sử dụng: Trong nhà (Indoor)."
     ],
     "specifications": [
       [
@@ -5106,7 +5224,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-42748265": {
     "name": "Cáp xếp chồng 1 mét Huawei SFP-10G-CU1M",
@@ -5122,11 +5241,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92187-huawei-sfp-10g-cu1m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-42748265",
     "description": [
-      "Cáp xếp chồng 1 mét Huawei SFP-10G-CU1M là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn kết nối: SFP+",
-      "Đầu nối: SFP+ to SFP+",
-      "Chiều dài cáp: 1 m",
-      "Thuộc tính điện: Passive (thụ động)"
+      "Cáp xếp chồng 1 mét Huawei SFP-10G-CU1M thuộc nhóm cáp và phụ kiện mạng của Huawei.",
+      "Chuẩn kết nối: SFP+.",
+      "Đầu nối: SFP+ to SFP+.",
+      "Chiều dài cáp: 1 m.",
+      "Thuộc tính điện: Passive (thụ động).",
+      "Bán kính uốn: 25 mm.",
+      "Khoảng hở tối thiểu khi đi dây: 60 mm."
     ],
     "specifications": [
       [
@@ -5163,7 +5284,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-62333234": {
     "name": "Cáp xếp chồng 1.5 mét Huawei SFP+STACK-CU1M5",
@@ -5179,11 +5301,12 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92185-huawei-sfp-stack-cu1m5-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-62333234",
     "description": [
-      "Cáp xếp chồng 1.5 mét Huawei SFP+STACK-CU1M5 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn kết nối: SFP+",
-      "Đầu nối: SFP+ to SFP+",
-      "Chiều dài cáp: 1.5 m",
-      "Thuộc tính điện: Passive (thụ động)"
+      "Cáp xếp chồng 1.5 mét Huawei SFP+STACK-CU1M5 thuộc nhóm cáp và phụ kiện mạng của Huawei.",
+      "Chuẩn kết nối: SFP+.",
+      "Đầu nối: SFP+ to SFP+.",
+      "Chiều dài cáp: 1.5 m.",
+      "Thuộc tính điện: Passive (thụ động).",
+      "Bán kính uốn: 25 mm."
     ],
     "specifications": [
       [
@@ -5212,7 +5335,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-59515463": {
     "name": "Cáp xếp chồng 2 mét Huawei QSFP-100G-CU2M",
@@ -5228,11 +5352,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92190-huawei-qsfp-100g-cu2m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-59515463",
     "description": [
-      "Cáp xếp chồng 2 mét Huawei QSFP-100G-CU2M là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn kết nối: QSFP28",
-      "Đầu nối: QSFP28 to QSFP28",
-      "Tốc độ truyền: 100Gbps",
-      "Chiều dài cáp: 2 m"
+      "Cáp xếp chồng 2 mét Huawei QSFP-100G-CU2M thuộc nhóm cáp và phụ kiện mạng của Huawei.",
+      "Chuẩn kết nối: QSFP28.",
+      "Đầu nối: QSFP28 to QSFP28.",
+      "Tốc độ truyền: 100Gbps.",
+      "Chiều dài cáp: 2 m.",
+      "Thuộc tính điện: Passive (thụ động).",
+      "Bán kính uốn: 45 mm."
     ],
     "specifications": [
       [
@@ -5265,7 +5391,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-26241701": {
     "name": "Cáp xếp chồng 3 mét Huawei SFP-10G-CU3M",
@@ -5281,11 +5408,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92182-huawei-sfp-10g-cu3m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-26241701",
     "description": [
-      "Cáp xếp chồng 3 mét Huawei SFP-10G-CU3M là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn kết nối: SFP+",
-      "Tốc độ truyền: 10Gbps",
-      "Đầu nối: SFP+ to SFP+",
-      "Chiều dài cáp: 3 m (9.84 ft)"
+      "Cáp xếp chồng 3 mét Huawei SFP-10G-CU3M thuộc nhóm cáp và phụ kiện mạng của Huawei.",
+      "Chuẩn kết nối: SFP+.",
+      "Tốc độ truyền: 10Gbps.",
+      "Đầu nối: SFP+ to SFP+.",
+      "Chiều dài cáp: 3 m (9.84 ft).",
+      "Thuộc tính điện: Passive (thụ động).",
+      "Bán kính uốn: 25 mm."
     ],
     "specifications": [
       [
@@ -5326,7 +5455,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-91007028": {
     "name": "Electrical Interface Module HUAWEI SFP-1000BaseT",
@@ -5342,11 +5472,12 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93353-huawei-sfp-1000baset-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-91007028",
     "description": [
-      "Electrical Interface Module HUAWEI SFP-1000BaseT là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Dạng thiết bị (Form factor): SFP",
-      "Chuẩn ứng dụng: 1000BASE-T",
-      "Loại đầu nối: RJ45",
-      "Tốc độ truyền tải: 10/100/1000 Mbit/s"
+      "Electrical Interface Module HUAWEI SFP-1000BaseT thuộc nhóm thiết bị mạng khác của Huawei.",
+      "Dạng thiết bị (Form factor): SFP.",
+      "Chuẩn ứng dụng: 1000BASE-T.",
+      "Loại đầu nối: RJ45.",
+      "Tốc độ truyền tải: 10/100/1000 Mbit/s.",
+      "Khoảng cách truyền dẫn mục tiêu: 0.1 km (cáp Ethernet)."
     ],
     "specifications": [
       [
@@ -5375,7 +5506,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-04623707": {
     "name": "Interface card HUAWEI HSIC-X08S000",
@@ -5391,11 +5523,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93314-huawei-hsic-x08s000-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-04623707",
     "description": [
-      "Interface card HUAWEI HSIC-X08S000 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Loại cổng: 8×10GE SFP+ hoặc 4×25GE SFP28 (cổng 1–4 hỗ trợ 25GE)",
-      "Chuẩn giao diện: SFP+ / SFP28 quang",
-      "Hỗ trợ tốc độ: 1G / 10G / 25G (tự động điều chỉnh theo module)",
-      "Công suất tiêu thụ tối đa: 38.5 W"
+      "Interface card HUAWEI HSIC-X08S000 thuộc nhóm thiết bị mạng khác của Huawei.",
+      "Loại cổng: 8×10GE SFP+ hoặc 4×25GE SFP28 (cổng 1–4 hỗ trợ 25GE).",
+      "Chuẩn giao diện: SFP+ / SFP28 quang.",
+      "Hỗ trợ tốc độ: 1G / 10G / 25G (tự động điều chỉnh theo module).",
+      "Công suất tiêu thụ tối đa: 38.5 W.",
+      "Khả năng tản nhiệt tối đa: 131.37 BTU/giờ.",
+      "Hot swapping: Có."
     ],
     "specifications": [
       [
@@ -5444,7 +5578,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-52204228": {
     "name": "L3 PoE Switch Huawei eKitEngine S310S-4P8UN2X",
@@ -5460,12 +5595,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92173-huawei-ekitengine-s310s-4p8un2x-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-52204228",
     "description": [
-      "L3 PoE Switch Huawei eKitEngine S310S-4P8UN2X là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 4 × GE PoE+, 8 × GE/2.5GE PoE++",
-      "Cổng uplink: 2 × SFP+ 10GE",
-      "PoE: Có, công suất PoE 125 W",
-      "Băng thông chuyển mạch: 76 Gbps",
-      "Tốc độ chuyển tiếp: 56 Mpps"
+      "L3 PoE Switch Huawei eKitEngine S310S-4P8UN2X thuộc nhóm switch mạng của Huawei.",
+      "Loại switch: Switch quản lý Layer 3.",
+      "Cổng access: 4 × GE PoE+, 8 × GE/2.5GE PoE++.",
+      "Cổng uplink: 2 × SFP+ 10GE.",
+      "Băng thông chuyển mạch: 76 Gbps.",
+      "Tốc độ chuyển tiếp: 56 Mpps.",
+      "Công suất PoE: 125 W."
     ],
     "specifications": [
       [
@@ -5526,7 +5662,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-71885353": {
     "name": "L3 PoE Switch Huawei eKitEngine S310S-8P4UN2X",
@@ -5542,12 +5679,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92172-huawei-ekitengine-s310s-8p4un2x-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-71885353",
     "description": [
-      "L3 PoE Switch Huawei eKitEngine S310S-8P4UN2X là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 8 × GE PoE+, 4 × GE/2.5GE PoE++",
-      "Cổng uplink: 2 × SFP+ 10GE",
-      "PoE: Có, công suất PoE 125 W",
-      "Băng thông chuyển mạch: 76 Gbps",
-      "Tốc độ chuyển tiếp: 56 Mpps"
+      "L3 PoE Switch Huawei eKitEngine S310S-8P4UN2X thuộc nhóm switch mạng của Huawei.",
+      "Loại switch: Switch quản lý Layer 3.",
+      "Cổng downlink: 8 × GE PoE+, 4 × GE/2.5GE PoE++.",
+      "Cổng uplink: 2 × SFP+ 10GE.",
+      "Băng thông chuyển mạch: 76 Gbps.",
+      "Tốc độ chuyển tiếp: 56 Mpps.",
+      "Công suất PoE: 125 W."
     ],
     "specifications": [
       [
@@ -5608,7 +5746,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-82355889": {
     "name": "Layer 3 Core Switch Huawei eKitEngine S620-16X8YZ",
@@ -5624,12 +5763,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92194-huawei-ekitengine-s620-16x8yz-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-82355889",
     "description": [
-      "Layer 3 Core Switch Huawei eKitEngine S620-16X8YZ là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 16 × GE/2.5GE/10GE SFP+",
-      "Cổng uplink: 8 × GE/2.5GE/10GE/25GE SFP28",
-      "PoE: Không hỗ trợ",
-      "Dung lượng chuyển mạch: 1.160 Gbps",
-      "Tốc độ chuyển tiếp: 450 Mpps"
+      "Layer 3 Core Switch Huawei eKitEngine S620-16X8YZ thuộc nhóm switch mạng của Huawei.",
+      "Loại thiết bị: Switch Layer 3 core/aggregation.",
+      "Cổng quang: 16 × GE/2.5GE/10GE SFP+.",
+      "Cổng quang tốc độ cao: 8 × GE/2.5GE/10GE/25GE SFP28.",
+      "Dung lượng chuyển mạch: 1.160 Gbps.",
+      "Tốc độ chuyển tiếp: 450 Mpps.",
+      "Bảng MAC: 64.000 địa chỉ MAC."
     ],
     "specifications": [
       [
@@ -5698,7 +5838,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-92602219": {
     "name": "Layer 3 Core Switch Huawei eKitEngine S620-24T16X8Y2CZ",
@@ -5714,12 +5855,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92192-huawei-ekitengine-s620-24t16x8y2cz-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-92602219",
     "description": [
-      "Layer 3 Core Switch Huawei eKitEngine S620-24T16X8Y2CZ là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng downlink: 24 × 10/100/1000BASE-T",
-      "Cổng uplink: 16 × 10GE SFP+, 8 × 25GE SFP28",
-      "PoE: Không hỗ trợ",
-      "Dung lượng chuyển mạch: 1.168 Gbps",
-      "Tốc độ chuyển tiếp: 867 Mpps"
+      "Layer 3 Core Switch Huawei eKitEngine S620-24T16X8Y2CZ thuộc nhóm switch mạng của Huawei.",
+      "Loại thiết bị: Switch Layer 3 core/aggregation.",
+      "Cổng truy cập: 24 × 10/100/1000BASE-T.",
+      "Cổng quang tốc độ cao: 16 × 10GE SFP+, 8 × 25GE SFP28.",
+      "Cổng uplink: 2 × 40GE/100GE QSFP28.",
+      "Dung lượng chuyển mạch: 1.168 Gbps.",
+      "Tốc độ chuyển tiếp: 867 Mpps."
     ],
     "specifications": [
       [
@@ -5792,7 +5934,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-86481444": {
     "name": "Module nguồn 1000W DC Huawei PDC1000S56-EB",
@@ -5808,11 +5951,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93333-huawei-pdc1000s56-eb-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-86481444",
     "description": [
-      "Module nguồn 1000W DC Huawei PDC1000S56-EB là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Công suất đầu ra: 1000 W",
-      "Điện áp đầu vào định mức: -48 V DC đến -60 V DC",
-      "Dải điện áp đầu vào: -38.4 V DC đến -72 V DC",
-      "Dòng điện đầu vào tối đa: 30 A"
+      "Module nguồn 1000W DC Huawei PDC1000S56-EB thuộc nhóm module nguồn của Huawei.",
+      "Công suất đầu ra: 1000 W.",
+      "Điện áp đầu vào định mức: 48 V DC đến -60 V DC.",
+      "Dải điện áp đầu vào: 38.4 V DC đến -72 V DC.",
+      "Dòng điện đầu vào tối đa: 30 A.",
+      "Điện áp đầu ra định mức: 53.5 V / 55.5 V.",
+      "Dòng điện đầu ra định mức: 18.69 A @53.5 V, 18.02 A @55.5 V."
     ],
     "specifications": [
       [
@@ -5877,7 +6022,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-86823770": {
     "name": "Module nguồn 1000W Huawei PAC1000S56-EB",
@@ -5893,11 +6039,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93327-huawei-pac1000s56-eb-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-86823770",
     "description": [
-      "Module nguồn 1000W Huawei PAC1000S56-EB là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Công suất tối đa: 1000W",
-      "Điện áp đầu vào AC: 100V–240V AC, 50/60Hz",
-      "Điện áp đầu vào DC: 240V DC",
-      "Dải điện áp hoạt động AC: 90V–290V AC"
+      "Module nguồn 1000W Huawei PAC1000S56-EB thuộc nhóm module nguồn của Huawei.",
+      "Công suất tối đa: 1000W.",
+      "Điện áp đầu vào AC: 100V–240V AC, 50/60Hz.",
+      "Điện áp đầu vào DC: 240V DC.",
+      "Dải điện áp hoạt động AC: 90V–290V AC.",
+      "Dải điện áp hoạt động DC: 190V–290V DC.",
+      "Điện áp đầu ra định mức: 53.5V / 55.5V."
     ],
     "specifications": [
       [
@@ -5958,7 +6106,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-86815217": {
     "name": "Module nguồn 1200W DC Huawei PDC1K2S12-CE",
@@ -5974,11 +6123,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92180-huawei-pdc1k2s12-ce-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-86815217",
     "description": [
-      "Module nguồn 1200W DC Huawei PDC1K2S12-CE là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Loại sản phẩm: Module nguồn DC",
-      "Công suất định mức: 1200 W",
-      "Điện áp đầu vào định mức: -48 V đến -60 V DC / +48 V DC",
-      "Dải điện áp đầu vào: -38.4 V đến -72 V DC / +38.4 V đến +72 V DC"
+      "Module nguồn 1200W DC Huawei PDC1K2S12-CE thuộc nhóm module nguồn của Huawei.",
+      "Loại sản phẩm: Module nguồn DC.",
+      "Công suất định mức: 1200 W.",
+      "Điện áp đầu vào định mức: 48 V đến -60 V DC / +48 V DC.",
+      "Dải điện áp đầu vào: 38.4 V đến -72 V DC / +38.4 V đến +72 V DC.",
+      "Dòng điện đầu vào định mức: 38 A.",
+      "Điện áp đầu ra: 12 V."
     ],
     "specifications": [
       [
@@ -6043,7 +6194,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-77827964": {
     "name": "Module nguồn 180W AC Huawei PAC180S12-CN",
@@ -6059,11 +6211,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93307-huawei-pac180s12-cn-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-77827964",
     "description": [
-      "Module nguồn 180W AC Huawei PAC180S12-CN là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Công suất đầu ra định mức: 180W",
-      "Điện áp đầu ra: 12V DC",
-      "Điện áp đầu vào định mức: AC 100–240V, 50/60Hz; DC 240V",
-      "Dải điện áp đầu vào: AC 90–290V, 45–65Hz; DC 190–290V"
+      "Module nguồn 180W AC Huawei PAC180S12-CN thuộc nhóm module nguồn của Huawei.",
+      "Công suất đầu ra định mức: 180W.",
+      "Điện áp đầu ra: 12V DC.",
+      "Điện áp đầu vào định mức: AC 100–240V, 50/60Hz; DC 240V.",
+      "Dải điện áp đầu vào: AC 90–290V, 45–65Hz; DC 190–290V.",
+      "Dòng điện đầu vào tối đa: 3A (AC/DC).",
+      "Chuẩn cổng nguồn: C13 female thẳng."
     ],
     "specifications": [
       [
@@ -6112,7 +6266,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-65609341": {
     "name": "Module nguồn 240W DC Huawei PDC240S12-CN",
@@ -6128,11 +6283,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93335-huawei-pdc240s12-cn-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-65609341",
     "description": [
-      "Module nguồn 240W DC Huawei PDC240S12-CN là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Điện áp đầu vào định mức: +48V DC / -48V DC đến -60V DC",
-      "Dải điện áp đầu vào: +40V DC đến +57V DC / -38.4V DC đến -72V DC",
-      "Số lượng đầu vào: 1",
-      "Dòng điện đầu vào tối đa: 8A"
+      "Module nguồn 240W DC Huawei PDC240S12-CN thuộc nhóm module nguồn của Huawei.",
+      "Điện áp đầu vào định mức: +48V DC / -48V DC đến -60V DC.",
+      "Dải điện áp đầu vào: +40V DC đến +57V DC / -38.4V DC đến -72V DC.",
+      "Số lượng đầu vào: 1.",
+      "Dòng điện đầu vào tối đa: 8A.",
+      "Điện áp đầu ra định mức: 12V DC.",
+      "Dòng điện đầu ra định mức: 20A (từ -25°C đến 55°C), 15A (từ 55°C đến 65°C)."
     ],
     "specifications": [
       [
@@ -6193,7 +6350,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-50726430": {
     "name": "Module nguồn 400W DC Huawei PDC400S12-CB",
@@ -6209,11 +6367,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92177-huawei-pdc400s12-cb-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-50726430",
     "description": [
-      "Module nguồn 400W DC Huawei PDC400S12-CB là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Loại sản phẩm: Module nguồn DC",
-      "Công suất định mức: 400 W",
-      "Điện áp đầu vào định mức: +48 V DC / -48 V DC đến -60 V DC",
-      "Dải điện áp đầu vào: +40 đến +57 V DC / -38.4 đến -72 V DC"
+      "Module nguồn 400W DC Huawei PDC400S12-CB thuộc nhóm module nguồn của Huawei.",
+      "Loại sản phẩm: Module nguồn DC.",
+      "Công suất định mức: 400 W.",
+      "Điện áp đầu vào định mức: +48 V DC / -48 V DC đến -60 V DC.",
+      "Dải điện áp đầu vào: +40 đến +57 V DC / -38.4 đến -72 V DC.",
+      "Dòng điện đầu vào tối đa: 12 A.",
+      "Điện áp đầu ra: 12.3 V."
     ],
     "specifications": [
       [
@@ -6274,7 +6434,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-72101513": {
     "name": "Module nguồn 600W AC Huawei PAC600S12-PB",
@@ -6290,11 +6451,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92178-huawei-pac600s12-pb-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-72101513",
     "description": [
-      "Module nguồn 600W AC Huawei PAC600S12-PB là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Công suất định mức: 600 W",
-      "Điện áp đầu vào định mức: AC: 100–240 V, 50/60 Hz / DC: 240 V",
-      "Dải điện áp đầu vào: AC: 90–290 V / DC: 190–290 V",
-      "Dòng điện đầu vào tối đa: AC: 8 A / DC: 4 A"
+      "Module nguồn 600W AC Huawei PAC600S12-PB thuộc nhóm module nguồn của Huawei.",
+      "Công suất định mức: 600 W.",
+      "Điện áp đầu vào định mức: AC: 100–240 V, 50/60 Hz / DC: 240 V.",
+      "Dải điện áp đầu vào: AC: 90–290 V / DC: 190–290 V.",
+      "Dòng điện đầu vào tối đa: AC: 8 A / DC: 4 A.",
+      "Điện áp đầu ra: 12 V.",
+      "Dòng điện đầu ra: 50 A."
     ],
     "specifications": [
       [
@@ -6351,7 +6514,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-25031095": {
     "name": "Module nguồn 600W Huawei PAC600S56-EB",
@@ -6367,11 +6531,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93330-huawei-pac600s56-eb-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-25031095",
     "description": [
-      "Module nguồn 600W Huawei PAC600S56-EB là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Công suất tối đa: 600W",
-      "Điện áp đầu vào AC: 100V–240V AC, 50/60Hz",
-      "Điện áp đầu vào DC: 240V DC",
-      "Dải điện áp hỗ trợ: 90V–290V AC / 190V–290V DC"
+      "Module nguồn 600W Huawei PAC600S56-EB thuộc nhóm module nguồn của Huawei.",
+      "Công suất tối đa: 600W.",
+      "Điện áp đầu vào AC: 100V–240V AC, 50/60Hz.",
+      "Điện áp đầu vào DC: 240V DC.",
+      "Dải điện áp hỗ trợ: 90V–290V AC / 190V–290V DC.",
+      "Dòng điện đầu vào tối đa: 8A (AC) / 4A (DC).",
+      "Điện áp đầu ra: 53.5V hoặc 55.5V."
     ],
     "specifications": [
       [
@@ -6436,7 +6602,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-46892920": {
     "name": "Module nguồn 80W AC Huawei PAC80S12-CN",
@@ -6452,11 +6619,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92176-huawei-pac80s12-cn-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-46892920",
     "description": [
-      "Module nguồn 80W AC Huawei PAC80S12-CN là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Loại sản phẩm: Module nguồn AC",
-      "Công suất định mức: 80 W",
-      "Điện áp đầu vào định mức: 100–240 V AC, 50/60 Hz / 240 V DC",
-      "Dải điện áp đầu vào: 90–290 V AC; 190–290 V DC"
+      "Module nguồn 80W AC Huawei PAC80S12-CN thuộc nhóm module nguồn của Huawei.",
+      "Loại sản phẩm: Module nguồn AC.",
+      "Công suất định mức: 80 W.",
+      "Điện áp đầu vào định mức: 100–240 V AC, 50/60 Hz / 240 V DC.",
+      "Dải điện áp đầu vào: 90–290 V AC; 190–290 V DC.",
+      "Dòng điện đầu vào tối đa: 2 A.",
+      "Điện áp đầu ra: 12 V."
     ],
     "specifications": [
       [
@@ -6517,7 +6686,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-42395528": {
     "name": "Module quang 100GE Huawei QSFP-100G-CWDM4-eKit",
@@ -6533,12 +6703,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93337-huawei-qsfp-100g-cwdm4-ekit-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-42395528",
     "description": [
-      "Module quang 100GE Huawei QSFP-100G-CWDM4-eKit là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 100GBASE-CWDM4",
-      "Tốc độ truyền dữ liệu: 100 Gbit/s",
-      "Loại đầu kết nối: LC",
-      "Loại cáp quang hỗ trợ: Single-mode Fiber (SMF)",
-      "Khoảng cách truyền tối đa: 2 km"
+      "Module quang 100GE Huawei QSFP-100G-CWDM4-eKit thuộc nhóm module quang của Huawei.",
+      "Form factor: QSFP28.",
+      "Chuẩn ứng dụng: 100GBASE-CWDM4.",
+      "Tốc độ truyền dữ liệu: 100 Gbit/s.",
+      "Loại đầu kết nối: LC.",
+      "Loại cáp quang hỗ trợ: Single-mode Fiber (SMF).",
+      "Khoảng cách truyền tối đa: 2 km."
     ],
     "specifications": [
       [
@@ -6611,7 +6782,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-64397195": {
     "name": "Module quang eSFP FE HUAWEI eSFP-FE-LX-SM1310",
@@ -6627,12 +6799,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93310-huawei-esfp-fe-lx-sm1310-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-64397195",
     "description": [
-      "Module quang eSFP FE HUAWEI eSFP-FE-LX-SM1310 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: Non-standard",
-      "Tốc độ truyền dữ liệu: 100 Mbit/s",
-      "Loại đầu kết nối: LC",
-      "Loại cáp quang hỗ trợ: Single-mode (SMF)",
-      "Khoảng cách truyền dẫn: 15 km"
+      "Module quang eSFP FE HUAWEI eSFP-FE-LX-SM1310 thuộc nhóm module quang của Huawei.",
+      "Form factor: eSFP.",
+      "Loại đầu kết nối: LC.",
+      "Loại cáp quang hỗ trợ: Single-mode (SMF).",
+      "Tốc độ truyền dữ liệu: 100 Mbit/s.",
+      "Khoảng cách truyền dẫn: 15 km.",
+      "Bước sóng hoạt động: 1310 nm."
     ],
     "specifications": [
       [
@@ -6697,7 +6870,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-75142362": {
     "name": "Module quang eSFP GE HUAWEI eSFP-GE-SX-MM850",
@@ -6713,11 +6887,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93311-huawei-esfp-ge-sx-mm850-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-75142362",
     "description": [
-      "Module quang eSFP GE HUAWEI eSFP-GE-SX-MM850 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 1000BASE-SX",
-      "Tốc độ truyền dữ liệu: 1 Gbit/s",
-      "Loại đầu kết nối: LC",
-      "Loại sợi quang: Multimode Fiber (MMF)"
+      "Module quang eSFP GE HUAWEI eSFP-GE-SX-MM850 thuộc nhóm module quang của Huawei.",
+      "Form factor: eSFP.",
+      "Chuẩn ứng dụng: 1000BASE-SX.",
+      "Tốc độ truyền dữ liệu: 1 Gbit/s.",
+      "Loại đầu kết nối: LC.",
+      "Loại sợi quang: Multimode Fiber (MMF).",
+      "Bước sóng trung tâm: 850 nm."
     ],
     "specifications": [
       [
@@ -6790,7 +6966,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-78182608": {
     "name": "Module quang eSFP GE HUAWEI OGSC10DD0",
@@ -6806,11 +6983,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93316-huawei-ogsc10dd0-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-78182608",
     "description": [
-      "Module quang eSFP GE HUAWEI OGSC10DD0 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 1000BASE-LX10/LH",
-      "Tốc độ truyền dẫn: 1 Gbit/s",
-      "Loại sợi quang: Single-mode fiber (SMF)",
-      "Khoảng cách truyền dẫn: Lên đến 10 km (SMF)"
+      "Module quang eSFP GE HUAWEI OGSC10DD0 thuộc nhóm module quang của Huawei.",
+      "Loại module: GE eSFP Optical Module (Industrial).",
+      "Form factor: eSFP.",
+      "Chuẩn ứng dụng: 1000BASE-LX10/LH.",
+      "Loại đầu nối: LC.",
+      "Loại sợi quang: Single-mode fiber (SMF).",
+      "Nhiệt độ hoạt động: 40°C đến +85°C."
     ],
     "specifications": [
       [
@@ -6879,7 +7058,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-75847614": {
     "name": "Module quang eSFP GE HUAWEI OGSM01880",
@@ -6895,10 +7075,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93321-huawei-ogsm01880-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-75847614",
     "description": [
-      "Module quang eSFP GE HUAWEI OGSM01880 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 1000BASE-SX",
-      "Tốc độ truyền dẫn: 1 Gbit/s",
-      "Loại sợi quang: Multimode (MMF)"
+      "Module quang eSFP GE HUAWEI OGSM01880 thuộc nhóm module quang của Huawei.",
+      "Form Factor: eSFP.",
+      "Chuẩn ứng dụng: 1000BASE-SX.",
+      "Tốc độ truyền dẫn: 1 Gbit/s.",
+      "Bước sóng hoạt động: 850 nm.",
+      "Loại đầu nối: LC.",
+      "Loại sợi quang: Multimode (MMF)."
     ],
     "specifications": [
       [
@@ -6963,7 +7146,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-51245081": {
     "name": "Module quang eSFP GE Huawei S-SFP-GE-LH40-SM1310",
@@ -6979,12 +7163,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93371-huawei-s-sfp-ge-lh40-sm1310-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-51245081",
     "description": [
-      "Module quang eSFP GE Huawei S-SFP-GE-LH40-SM1310 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn giao tiếp: 1000BASE-EX (non-standard)",
-      "Tốc độ truyền dữ liệu: 1 Gbit/s",
-      "Loại đầu kết nối: LC",
-      "Loại sợi quang: Single-mode (SMF)",
-      "Khoảng cách truyền tối đa: 40 km"
+      "Module quang eSFP GE Huawei S-SFP-GE-LH40-SM1310 thuộc nhóm module quang của Huawei.",
+      "Chuẩn giao tiếp: 1000BASE-EX (non-standard).",
+      "Form Factor: eSFP.",
+      "Tốc độ truyền dữ liệu: 1 Gbit/s.",
+      "Loại đầu kết nối: LC.",
+      "Loại sợi quang: Single-mode (SMF).",
+      "Khoảng cách truyền tối đa: 40 km."
     ],
     "specifications": [
       [
@@ -7049,7 +7234,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-45916062": {
     "name": "Module quang eSFP GE Huawei S-SFP-GE-LH40-SM1550",
@@ -7065,10 +7251,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93373-huawei-s-sfp-ge-lh40-sm1550-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-45916062",
     "description": [
-      "Module quang eSFP GE Huawei S-SFP-GE-LH40-SM1550 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: Gigabit Ethernet (GE)",
-      "Loại cáp quang hỗ trợ: Single-mode (SMF)",
-      "Khoảng cách truyền tối đa: 40 km"
+      "Module quang eSFP GE Huawei S-SFP-GE-LH40-SM1550 thuộc nhóm module quang của Huawei.",
+      "Chuẩn ứng dụng: Gigabit Ethernet (GE).",
+      "Tốc độ truyền: 1 Gbit/s.",
+      "Form Factor: eSFP.",
+      "Loại cáp quang hỗ trợ: Single-mode (SMF).",
+      "Khoảng cách truyền tối đa: 40 km.",
+      "Bước sóng hoạt động: 1550 nm."
     ],
     "specifications": [
       [
@@ -7137,7 +7326,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-89257321": {
     "name": "Module quang eSFP GE Huawei S-SFP-GE-LH80-SM1550",
@@ -7153,12 +7343,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93374-huawei-s-sfp-ge-lh80-sm1550-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-89257321",
     "description": [
-      "Module quang eSFP GE Huawei S-SFP-GE-LH80-SM1550 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn giao tiếp: 1000BASE-ZX",
-      "Tốc độ truyền dữ liệu: 1 Gbit/s",
-      "Loại đầu kết nối: LC",
-      "Loại cáp quang hỗ trợ: Single-mode Fiber (SMF)",
-      "Khoảng cách truyền dẫn: 80 km"
+      "Module quang eSFP GE Huawei S-SFP-GE-LH80-SM1550 thuộc nhóm module quang của Huawei.",
+      "Chuẩn giao tiếp: 1000BASE-ZX.",
+      "Form Factor: eSFP.",
+      "Tốc độ truyền dữ liệu: 1 Gbit/s.",
+      "Loại cáp quang hỗ trợ: Single-mode Fiber (SMF).",
+      "Khoảng cách truyền dẫn: 80 km.",
+      "Bước sóng hoạt động: 1550 nm."
     ],
     "specifications": [
       [
@@ -7223,7 +7414,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-96024655": {
     "name": "Module quang eSFP GE HUAWEI SFP-GE-LX-SM1310",
@@ -7239,10 +7431,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93369-huawei-sfp-ge-lx-sm1310-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-96024655",
     "description": [
-      "Module quang eSFP GE HUAWEI SFP-GE-LX-SM1310 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 1000BASE-LX10/LH",
-      "Tốc độ truyền dữ liệu: 1 Gbit/s",
-      "Khoảng cách truyền: 10 km"
+      "Module quang eSFP GE HUAWEI SFP-GE-LX-SM1310 thuộc nhóm module quang của Huawei.",
+      "Chuẩn ứng dụng: 1000BASE-LX10/LH.",
+      "Form Factor: eSFP.",
+      "Tốc độ truyền dữ liệu: 1 Gbit/s.",
+      "Loại cáp quang: Single-mode (SMF).",
+      "Khoảng cách truyền: 10 km.",
+      "Bước sóng hoạt động: 1310 nm."
     ],
     "specifications": [
       [
@@ -7303,7 +7498,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-09310417": {
     "name": "Module quang eSFP GE HUAWEI SFP-GE-LX10-eKit",
@@ -7319,11 +7515,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90601-huawei-sfp-ge-lx10-ekit-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-09310417",
     "description": [
-      "Module quang eSFP GE HUAWEI SFP-GE-LX10-eKit là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 1000BASE-LX10/LH",
-      "Tốc độ truyền dẫn: 1 Gbit/s",
-      "Loại sợi quang: SMF",
-      "Khoảng cách truyền: 10km (SMF)"
+      "Module quang eSFP GE HUAWEI SFP-GE-LX10-eKit thuộc nhóm module quang của Huawei.",
+      "Form factor: eSFP.",
+      "Chuẩn ứng dụng: 1000BASE-LX10/LH.",
+      "Đầu nối: LC.",
+      "Loại sợi quang: SMF.",
+      "Tốc độ truyền dẫn: 1 Gbit/s.",
+      "Khoảng cách truyền: 10km (SMF)."
     ],
     "specifications": [
       [
@@ -7380,7 +7578,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-99014484": {
     "name": "Module quang eSFP GE HUAWEI SFP-GE-SX-eKit",
@@ -7396,11 +7595,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90602-huawei-sfp-ge-sx-ekit-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-99014484",
     "description": [
-      "Module quang eSFP GE HUAWEI SFP-GE-SX-eKit là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 1000BASE-SX",
-      "Tốc độ truyền dẫn: 1 Gbit/s",
-      "Loại sợi quang: MMF (Multimode Fiber)",
-      "Khoảng cách truyền: 0.22km (MMF 160MHz•km, 62.5μm); 0.275km (OM1); 0.5km (MMF 400MHz*km, 50μm); 0.55km (OM2); 1km (OM3/OM4)"
+      "Module quang eSFP GE HUAWEI SFP-GE-SX-eKit thuộc nhóm module quang của Huawei.",
+      "Form factor: eSFP.",
+      "Chuẩn ứng dụng: 1000BASE-SX.",
+      "Đầu nối: LC.",
+      "Loại sợi quang: MMF (Multimode Fiber).",
+      "Tốc độ truyền dẫn: 1 Gbit/s.",
+      "Khoảng cách truyền: 0.22km (MMF 160MHz•km, 62.5μm); 0.275km (OM1); 0.5km (MMF 400MHz*km, 50μm); 0.55km (OM2); 1km (OM3/OM4)."
     ],
     "specifications": [
       [
@@ -7463,7 +7664,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-60499196": {
     "name": "Module quang QSFP 100GE HUAWEI QSFP-100G-LR4-eKit",
@@ -7479,12 +7681,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93338-huawei-qsfp-100g-lr4-ekit-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-60499196",
     "description": [
-      "Module quang QSFP 100GE HUAWEI QSFP-100G-LR4-eKit là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 100GBASE-LR4",
-      "Tốc độ truyền dữ liệu: 100 Gbit/s",
-      "Loại đầu kết nối: LC",
-      "Loại cáp quang hỗ trợ: Single-mode Fiber (SMF)",
-      "Khoảng cách truyền tối đa: 10 km"
+      "Module quang QSFP 100GE HUAWEI QSFP-100G-LR4-eKit thuộc nhóm module quang của Huawei.",
+      "Form factor: QSFP28.",
+      "Chuẩn ứng dụng: 100GBASE-LR4.",
+      "Tốc độ truyền dữ liệu: 100 Gbit/s.",
+      "Loại đầu kết nối: LC.",
+      "Loại cáp quang hỗ trợ: Single-mode Fiber (SMF).",
+      "Bước sóng hoạt động: 1310nm."
     ],
     "specifications": [
       [
@@ -7553,7 +7756,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-56552273": {
     "name": "Module quang QSFP 100GE HUAWEI QSFP-100G-SR4-eKit",
@@ -7569,11 +7773,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93339-huawei-qsfp-100g-sr4-ekit-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-56552273",
     "description": [
-      "Module quang QSFP 100GE HUAWEI QSFP-100G-SR4-eKit là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn truyền dẫn: 100GBASE-SR4",
-      "Tốc độ truyền dữ liệu: 100 Gbit/s",
-      "Đầu kết nối: MPO/PC (8 hoặc 12 sợi, type B, female)",
-      "Loại cáp quang hỗ trợ: Multi-mode Fiber (MMF)"
+      "Module quang QSFP 100GE HUAWEI QSFP-100G-SR4-eKit thuộc nhóm module quang của Huawei.",
+      "Form factor: QSFP28.",
+      "Chuẩn truyền dẫn: 100GBASE-SR4.",
+      "Tốc độ truyền dữ liệu: 100 Gbit/s.",
+      "Loại cáp quang hỗ trợ: Multi-mode Fiber (MMF).",
+      "Đầu kết nối: MPO/PC (8 hoặc 12 sợi, type B, female).",
+      "Bước sóng hoạt động: 850 nm."
     ],
     "specifications": [
       [
@@ -7650,7 +7856,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-49937250": {
     "name": "Module quang QSFP 100GE HUAWEI QSFP28-100G-DR",
@@ -7666,12 +7873,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93341-huawei-qsfp28-100g-dr-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-49937250",
     "description": [
-      "Module quang QSFP 100GE HUAWEI QSFP28-100G-DR là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn truyền dẫn: 100GBase-DR",
-      "Tốc độ truyền dữ liệu: 100 Gbit/s",
-      "Loại đầu kết nối: LC",
-      "Loại cáp quang hỗ trợ: Single-mode (SMF)",
-      "Khoảng cách truyền tối đa: 500 m"
+      "Module quang QSFP 100GE HUAWEI QSFP28-100G-DR thuộc nhóm module quang của Huawei.",
+      "Form factor: QSFP28.",
+      "Chuẩn truyền dẫn: 100GBase-DR.",
+      "Tốc độ truyền dữ liệu: 100 Gbit/s.",
+      "Loại cáp quang hỗ trợ: Single-mode (SMF).",
+      "Chuẩn sợi quang: G.652 (9 μm).",
+      "Khoảng cách truyền tối đa: 500 m."
     ],
     "specifications": [
       [
@@ -7744,7 +7952,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-35393658": {
     "name": "Module quang QSFP+ 40G HUAWEI QSFP-40G-eSR4-eKit",
@@ -7760,12 +7969,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93343-huawei-qsfp-40g-esr4-ekit-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-35393658",
     "description": [
-      "Module quang QSFP+ 40G HUAWEI QSFP-40G-eSR4-eKit là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn truyền dẫn: 40GBASE-eSR4",
-      "Tốc độ truyền dữ liệu: 40 Gbit/s",
-      "Loại đầu kết nối: MPO/PC Female (8 hoặc 12 sợi, Type B)",
-      "Loại cáp quang hỗ trợ: Multi-mode Fiber (MMF)",
-      "Khoảng cách truyền dẫn: 0.3 km"
+      "Module quang QSFP+ 40G HUAWEI QSFP-40G-eSR4-eKit thuộc nhóm module quang của Huawei.",
+      "Form factor: QSFP+.",
+      "Chuẩn truyền dẫn: 40GBASE-eSR4.",
+      "Tốc độ truyền dữ liệu: 40 Gbit/s.",
+      "Loại cáp quang hỗ trợ: Multi-mode Fiber (MMF).",
+      "Bước sóng hoạt động: 850 nm.",
+      "Loại đầu kết nối: MPO/PC Female (8 hoặc 12 sợi, Type B)."
     ],
     "specifications": [
       [
@@ -7834,7 +8044,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-70868473": {
     "name": "Module quang QSFP+ 40G HUAWEI QSFP-40G-iSR4-eKit",
@@ -7850,11 +8061,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93345-huawei-qsfp-40g-isr4-ekit-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-70868473",
     "description": [
-      "Module quang QSFP+ 40G HUAWEI QSFP-40G-iSR4-eKit là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Tốc độ truyền dẫn: 40 Gbps",
-      "Khoảng cách truyền dẫn: 0.15 km",
-      "Công suất phát (Tx power): -7.6 đến 0.5 dBm",
-      "Tương thích: Universal"
+      "Module quang QSFP+ 40G HUAWEI QSFP-40G-iSR4-eKit thuộc nhóm module quang của Huawei.",
+      "Công suất phát (Tx power): 7.6 đến 0.5 dBm.",
+      "Tương thích: Universal.",
+      "Chuẩn giao diện: QSFP+.",
+      "Loại cáp hỗ trợ: Multi-mode.",
+      "Đầu nối quang: MPO.",
+      "Tốc độ truyền dẫn: 40 Gbps."
     ],
     "specifications": [
       [
@@ -7911,7 +8124,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-77669091": {
     "name": "Module quang QSFP+ 40G HUAWEI QSFP-40G-LR4-eKit",
@@ -7927,10 +8141,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93346-huawei-qsfp-40g-lr4-ekit-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-77669091",
     "description": [
-      "Module quang QSFP+ 40G HUAWEI QSFP-40G-LR4-eKit là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 40GBASE-LR4",
-      "Tốc độ truyền dẫn: 40 Gbit/s",
-      "Khoảng cách truyền dẫn: 10 km"
+      "Module quang QSFP+ 40G HUAWEI QSFP-40G-LR4-eKit thuộc nhóm module quang của Huawei.",
+      "Form factor: QSFP+.",
+      "Chuẩn ứng dụng: 40GBASE-LR4.",
+      "Loại đầu nối: LC.",
+      "Loại cáp quang: SMF (cáp quang đơn mode).",
+      "Nhiệt độ hoạt động: 0°C đến 70°C.",
+      "Giám sát chẩn đoán số (DDM): Hỗ trợ."
     ],
     "specifications": [
       [
@@ -7991,7 +8208,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-03501443": {
     "name": "Module quang QSFP+ 40G HUAWEI QSFP-40G-LR4L-eKit",
@@ -8007,11 +8225,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93349-huawei-qsfp-40g-lr4l-ekit-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-03501443",
     "description": [
-      "Module quang QSFP+ 40G HUAWEI QSFP-40G-LR4L-eKit là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 40GBASE-LR4 Lite",
-      "Loại sợi quang: SMF (sợi quang đơn mode)",
-      "Form factor: QSFP+",
-      "Loại đầu nối: LC"
+      "Module quang QSFP+ 40G HUAWEI QSFP-40G-LR4L-eKit thuộc nhóm module quang của Huawei.",
+      "Form factor: QSFP+.",
+      "Chuẩn ứng dụng: 40GBASE-LR4 Lite.",
+      "Loại đầu nối: LC.",
+      "Loại sợi quang: SMF (sợi quang đơn mode).",
+      "Nhiệt độ làm việc: 0°C đến 70°C.",
+      "Giám sát chẩn đoán số (DDM): Hỗ trợ."
     ],
     "specifications": [
       [
@@ -8072,7 +8292,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-08029468": {
     "name": "Module quang SFP+ 10GE HUAWEI OMXD30000",
@@ -8088,10 +8309,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93322-huawei-omxd30000-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-08029468",
     "description": [
-      "Module quang SFP+ 10GE HUAWEI OMXD30000 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn giao tiếp: 10GBASE-SR",
-      "Tốc độ truyền dữ liệu: 10 Gbit/s",
-      "Đầu kết nối: LC"
+      "Module quang SFP+ 10GE HUAWEI OMXD30000 thuộc nhóm module quang của Huawei.",
+      "Loại module: 10GE SFP+ Optical Module.",
+      "Chuẩn giao tiếp: 10GBASE-SR.",
+      "Form Factor: SFP+.",
+      "Tốc độ truyền dữ liệu: 10 Gbit/s.",
+      "Đầu kết nối: LC.",
+      "Loại sợi quang hỗ trợ: Multimode Fiber (MMF)."
     ],
     "specifications": [
       [
@@ -8164,7 +8388,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-04458784": {
     "name": "Module quang SFP+ 10GE HUAWEI OSX010000",
@@ -8180,11 +8405,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93324-huawei-osx010000-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-04458784",
     "description": [
-      "Module quang SFP+ 10GE HUAWEI OSX010000 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn giao tiếp: 10GBASE-LR",
-      "Tốc độ truyền dữ liệu: 10 Gbit/s",
-      "Loại sợi quang: Single-mode (SMF)",
-      "Khoảng cách truyền dẫn: 10 km"
+      "Module quang SFP+ 10GE HUAWEI OSX010000 thuộc nhóm module quang của Huawei.",
+      "Loại module: 10GE SFP+ Optical Module.",
+      "Chuẩn giao tiếp: 10GBASE-LR.",
+      "Form Factor: SFP+.",
+      "Tốc độ truyền dữ liệu: 10 Gbit/s.",
+      "Loại đầu nối: LC.",
+      "Loại sợi quang: Single-mode (SMF)."
     ],
     "specifications": [
       [
@@ -8257,7 +8484,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-36433006": {
     "name": "Module quang SFP+ 10GE HUAWEI OSX040N01",
@@ -8273,11 +8501,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93325-huawei-osx040n01-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-36433006",
     "description": [
-      "Module quang SFP+ 10GE HUAWEI OSX040N01 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 10GBASE-ER",
-      "Tốc độ truyền dữ liệu: 10 Gbit/s",
-      "Loại sợi quang: Single-mode (SMF)",
-      "Khoảng cách truyền dẫn: 40 km"
+      "Module quang SFP+ 10GE HUAWEI OSX040N01 thuộc nhóm module quang của Huawei.",
+      "Loại module: 10GE SFP+ Optical Module.",
+      "Form Factor: SFP+.",
+      "Chuẩn ứng dụng: 10GBASE-ER.",
+      "Tốc độ truyền dữ liệu: 10 Gbit/s.",
+      "Loại đầu nối: LC.",
+      "Loại sợi quang: Single-mode (SMF)."
     ],
     "specifications": [
       [
@@ -8350,7 +8580,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-58734143": {
     "name": "Module quang SFP+ 10GE HUAWEI SFP-10G-BXD1",
@@ -8366,11 +8597,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93356-huawei-sfp-10g-bxd1-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-58734143",
     "description": [
-      "Module quang SFP+ 10GE HUAWEI SFP-10G-BXD1 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 10GBASE-BX",
-      "Tốc độ truyền dẫn: 10 Gbit/s",
-      "Loại sợi quang: Sợi đơn mode (SMF)",
-      "Khoảng cách truyền tối đa: 10 km"
+      "Module quang SFP+ 10GE HUAWEI SFP-10G-BXD1 thuộc nhóm module quang của Huawei.",
+      "Form Factor: SFP+.",
+      "Chuẩn ứng dụng: 10GBASE-BX.",
+      "Loại đầu nối: LC.",
+      "Loại sợi quang: Sợi đơn mode (SMF).",
+      "Tốc độ truyền dẫn: 10 Gbit/s.",
+      "Khoảng cách truyền tối đa: 10 km."
     ],
     "specifications": [
       [
@@ -8435,7 +8668,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-35422952": {
     "name": "Module quang SFP+ 10GE HUAWEI SFP-10G-BXU1",
@@ -8451,11 +8685,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93358-huawei-sfp-10g-bxu1-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-35422952",
     "description": [
-      "Module quang SFP+ 10GE HUAWEI SFP-10G-BXU1 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 10GBASE-BX",
-      "Tốc độ truyền dẫn: 10 Gbit/s",
-      "Loại sợi quang: Single-mode fiber (SMF)",
-      "Khoảng cách truyền dẫn: 10 km"
+      "Module quang SFP+ 10GE HUAWEI SFP-10G-BXU1 thuộc nhóm module quang của Huawei.",
+      "Form Factor: SFP+.",
+      "Chuẩn ứng dụng: 10GBASE-BX.",
+      "Loại đầu nối: LC.",
+      "Loại sợi quang: Single-mode fiber (SMF).",
+      "Tốc độ truyền dẫn: 10 Gbit/s.",
+      "Khoảng cách truyền dẫn: 10 km."
     ],
     "specifications": [
       [
@@ -8528,7 +8764,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-53501719": {
     "name": "Module quang SFP+ 10GE HUAWEI SFP-10G-LR-eKit",
@@ -8544,11 +8781,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90604-huawei-sfp-10g-lr-ekit-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-53501719",
     "description": [
-      "Module quang SFP+ 10GE HUAWEI SFP-10G-LR-eKit là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn giao tiếp: 10GBASE-LR",
-      "Khoảng cách truyền: 10 km",
-      "Dạng module: SFP+",
-      "Đầu nối: LC"
+      "Module quang SFP+ 10GE HUAWEI SFP-10G-LR-eKit thuộc nhóm module quang của Huawei.",
+      "Chuẩn giao tiếp: 10GBASE-LR.",
+      "Dạng module: SFP+.",
+      "Đầu nối: LC.",
+      "Loại sợi: Single-mode (SMF).",
+      "Bước sóng: 1310 nm.",
+      "Tốc độ truyền: 10 Gbit/s."
     ],
     "specifications": [
       [
@@ -8605,7 +8844,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-07300535": {
     "name": "Module quang SFP+ 10GE HUAWEI SFP-10G-SR-eKit",
@@ -8621,11 +8861,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90603-huawei-sfp-10g-sr-ekit-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-07300535",
     "description": [
-      "Module quang SFP+ 10GE HUAWEI SFP-10G-SR-eKit là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 10GBASE-SR",
-      "Tốc độ truyền dẫn: 10 Gbit/s",
-      "Loại sợi quang: MMF (Multimode Fiber)",
-      "Khoảng cách truyền: 0.033 km (OM1); 0.082 km (OM2); 0.3 km (OM3)"
+      "Module quang SFP+ 10GE HUAWEI SFP-10G-SR-eKit thuộc nhóm module quang của Huawei.",
+      "Form factor: SFP+.",
+      "Chuẩn ứng dụng: 10GBASE-SR.",
+      "Đầu nối: LC.",
+      "Loại sợi quang: MMF (Multimode Fiber).",
+      "Tốc độ truyền dẫn: 10 Gbit/s.",
+      "Khoảng cách truyền: 0.033 km (OM1); 0.082 km (OM2); 0.3 km (OM3)."
     ],
     "specifications": [
       [
@@ -8682,7 +8924,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-34844063": {
     "name": "Module quang SFP+ 10GE HUAWEI SFP-10G-ZR",
@@ -8698,12 +8941,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93360-huawei-sfp-10g-zr-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-34844063",
     "description": [
-      "Module quang SFP+ 10GE HUAWEI SFP-10G-ZR là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn giao tiếp: SFP+",
-      "Chuẩn ứng dụng: 10GBASE-ZR",
-      "Tốc độ truyền dẫn: 10 Gbit/s",
-      "Loại sợi quang: SMF (Single-mode Fiber)",
-      "Khoảng cách truyền dẫn: Lên đến 80 km (sợi đơn mode)"
+      "Module quang SFP+ 10GE HUAWEI SFP-10G-ZR thuộc nhóm module quang của Huawei.",
+      "Chuẩn giao tiếp: SFP+.",
+      "Chuẩn ứng dụng: 10GBASE-ZR.",
+      "Loại đầu nối: LC.",
+      "Loại sợi quang: SMF (Single-mode Fiber).",
+      "Nhiệt độ hoạt động: 0°C đến 70°C (32°F đến 158°F).",
+      "Giám sát DDM: Hỗ trợ."
     ],
     "specifications": [
       [
@@ -8764,7 +9008,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-73908047": {
     "name": "Module quang SFP 25GE HUAWEI SFP-25G-LR-eKit",
@@ -8780,11 +9025,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93361-huawei-sfp-25g-lr-ekit-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-73908047",
     "description": [
-      "Module quang SFP 25GE HUAWEI SFP-25G-LR-eKit là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 25GBASE-LR",
-      "Tốc độ truyền dẫn: 25 Gbit/s",
-      "Loại sợi quang: SMF (sợi đơn mode)",
-      "Khoảng cách truyền tối đa: 10 km (sợi đơn mode)"
+      "Module quang SFP 25GE HUAWEI SFP-25G-LR-eKit thuộc nhóm module quang của Huawei.",
+      "Form factor: SFP28.",
+      "Chuẩn ứng dụng: 25GBASE-LR.",
+      "Loại đầu nối: LC.",
+      "Loại sợi quang: SMF (sợi đơn mode).",
+      "Nhiệt độ hoạt động: 40°C đến +85°C.",
+      "Giám sát chẩn đoán (DDM): Hỗ trợ."
     ],
     "specifications": [
       [
@@ -8845,7 +9092,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-15318658": {
     "name": "Module quang SFP 25GE HUAWEI SFP-25G-SR-eKit",
@@ -8861,10 +9109,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93363-huawei-sfp-25g-sr-ekit-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-15318658",
     "description": [
-      "Module quang SFP 25GE HUAWEI SFP-25G-SR-eKit là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 25GBASE-SR",
-      "Tốc độ truyền dẫn: 25 Gbit/s",
-      "Loại sợi quang: Đa mode (MMF)"
+      "Module quang SFP 25GE HUAWEI SFP-25G-SR-eKit thuộc nhóm module quang của Huawei.",
+      "Form factor: SFP28.",
+      "Chuẩn ứng dụng: 25GBASE-SR.",
+      "Loại đầu nối: LC.",
+      "Loại sợi quang: Đa mode (MMF).",
+      "Nhiệt độ hoạt động: 0°C đến 70°C.",
+      "Giám sát chẩn đoán số (DDM): Hỗ trợ."
     ],
     "specifications": [
       [
@@ -8929,7 +9180,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-33931138": {
     "name": "Module quang SFP GE HUAWEI SFP-GE-BX-D1-I",
@@ -8945,11 +9197,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93365-huawei-sfp-ge-bx-d1-i-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-33931138",
     "description": [
-      "Module quang SFP GE HUAWEI SFP-GE-BX-D1-I là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 1000BASE-BX",
-      "Tốc độ truyền dẫn: 1 Gbit/s",
-      "Loại sợi quang: Sợi quang đơn mode (SMF)",
-      "Khoảng cách truyền dẫn: 10 km (trên sợi quang đơn mode)"
+      "Module quang SFP GE HUAWEI SFP-GE-BX-D1-I thuộc nhóm module quang của Huawei.",
+      "Form Factor: SFP.",
+      "Chuẩn ứng dụng: 1000BASE-BX.",
+      "Loại đầu nối: LC.",
+      "Loại sợi quang: Sợi quang đơn mode (SMF).",
+      "Nhiệt độ hoạt động: 40°C đến +85°C.",
+      "Tốc độ truyền dẫn: 1 Gbit/s."
     ],
     "specifications": [
       [
@@ -9010,7 +9264,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-25699159": {
     "name": "Module quang SFP GE HUAWEI SFP-GE-BX-U1-I",
@@ -9026,11 +9281,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93368-huawei-sfp-ge-bx-u1-i-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-25699159",
     "description": [
-      "Module quang SFP GE HUAWEI SFP-GE-BX-U1-I là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Tốc độ truyền dữ liệu: 1 Gbit/s",
-      "Đầu kết nối: LC",
-      "Loại cáp quang hỗ trợ: Single-mode (SMF)",
-      "Khoảng cách truyền dẫn: 10 km"
+      "Module quang SFP GE HUAWEI SFP-GE-BX-U1-I thuộc nhóm module quang của Huawei.",
+      "Chuẩn module: 1000BASE-BX.",
+      "Form Factor: SFP.",
+      "Tốc độ truyền dữ liệu: 1 Gbit/s.",
+      "Loại cáp quang hỗ trợ: Single-mode (SMF).",
+      "Khoảng cách truyền dẫn: 10 km.",
+      "Đầu kết nối: LC."
     ],
     "specifications": [
       [
@@ -9099,7 +9356,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-02949261": {
     "name": "Module quang SFP GE HUAWEI SFP-GE-T-eKit",
@@ -9115,12 +9373,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93370-huawei-sfp-ge-t-ekit-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-02949261",
     "description": [
-      "Module quang SFP GE HUAWEI SFP-GE-T-eKit là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn ứng dụng: 1000BASE-LX10/LH",
-      "Tốc độ truyền dữ liệu: 1 Gbit/s",
-      "Loại đầu kết nối: LC",
-      "Loại cáp quang hỗ trợ: Single-mode (SMF)",
-      "Khoảng cách truyền dẫn: 10 km"
+      "Module quang SFP GE HUAWEI SFP-GE-T-eKit thuộc nhóm module quang của Huawei.",
+      "Form factor: eSFP.",
+      "Chuẩn ứng dụng: 1000BASE-LX10/LH.",
+      "Tốc độ truyền dữ liệu: 1 Gbit/s.",
+      "Loại đầu kết nối: LC.",
+      "Loại cáp quang hỗ trợ: Single-mode (SMF).",
+      "Khoảng cách truyền dẫn: 10 km."
     ],
     "specifications": [
       [
@@ -9185,7 +9444,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-62750487": {
     "name": "Multi-Service Gateway HUAWEI S380-H8T3ST",
@@ -9201,11 +9461,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90644-huawei-s380-h8t3st-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-62750487",
     "description": [
-      "Multi-Service Gateway HUAWEI S380-H8T3ST là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng WAN cố định: 2 x 10/100/1000BASE-T ports, 1 x GE SFP",
-      "Cổng LAN cố định: 8 x 10/100/1000BASE-T",
-      "Số AP được quản lý: 64",
-      "Công suất chuyển mạch: 16 Gbit/s"
+      "Multi-Service Gateway HUAWEI S380-H8T3ST thuộc nhóm gateway đa dịch vụ của Huawei.",
+      "Sử dụng tối đa: 500.",
+      "Công suất chuyển mạch: 16 Gbit/s.",
+      "Tốc độ xử lý gói dữ liệu: Upload: 500Kpps, download: 420Kpps.",
+      "Băng thông ra: 2 Gbit/s.",
+      "Cổng WAN cố định: 2 x 10/100/1000BASE-T ports, 1 x GE SFP.",
+      "Cổng LAN cố định: 8 x 10/100/1000BASE-T."
     ],
     "specifications": [
       [
@@ -9290,7 +9552,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-55257155": {
     "name": "Multi-Service Gateway HUAWEI S380-L4P1T",
@@ -9306,11 +9569,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90641-huawei-s380-l4p1t-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-55257155",
     "description": [
-      "Multi-Service Gateway HUAWEI S380-L4P1T là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng WAN cố định: 1 x 10/100/1000BASE-T",
-      "Cổng LAN cố định: 4 x 10/100/1000BASE-T",
-      "Số AP được quản lý: 32",
-      "Công suất chuyển mạch: 8 Gbit/s"
+      "Multi-Service Gateway HUAWEI S380-L4P1T thuộc nhóm gateway đa dịch vụ của Huawei.",
+      "Sử dụng tối đa: 150.",
+      "Công suất chuyển mạch: 8 Gbit/s.",
+      "Tốc độ xử lý gói dữ liệu: Upload: 300Kpps, download: 420Kpps.",
+      "Băng thông ra: 1 Gbit/s.",
+      "Cổng WAN cố định: 1 x 10/100/1000BASE-T.",
+      "Cổng LAN cố định: 4 x 10/100/1000BASE-T."
     ],
     "specifications": [
       [
@@ -9395,7 +9660,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-S380-L4T1T": {
     "name": "Multi-Service Gateway HUAWEI S380-L4T1T",
@@ -9411,11 +9677,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90640-huawei-s380-l4t1t-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/Gateway/S380-L4T1T/S380-L4T1T.html",
     "description": [
-      "Huawei S380-L4T1T là gateway đa dịch vụ dành cho nhu cầu kết nối và quản lý mạng doanh nghiệp",
-      "Cổng WAN cố định: 1 x 10/100/1000BASE-T",
-      "Cổng LAN cố định: 4 x 10/100/1000BASE-T",
-      "Số AP được quản lý: 32",
-      "Công suất chuyển mạch: 8 Gbit/s"
+      "Multi-Service Gateway HUAWEI S380-L4T1T thuộc nhóm gateway đa dịch vụ của Huawei.",
+      "Sử dụng tối đa: 150.",
+      "Công suất chuyển mạch: 8 Gbit/s.",
+      "Tốc độ xử lý gói dữ liệu: Upload: 300Kpps, download: 420Kpps.",
+      "Băng thông ra: 1 Gbit/s.",
+      "Cổng WAN cố định: 1 x 10/100/1000BASE-T.",
+      "Cổng LAN cố định: 4 x 10/100/1000BASE-T."
     ],
     "specifications": [
       [
@@ -9506,7 +9774,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-31481225": {
     "name": "Multi-Service Gateway HUAWEI S380-S8P2T",
@@ -9522,11 +9791,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90643-huawei-s380-s8p2t-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-31481225",
     "description": [
-      "Multi-Service Gateway HUAWEI S380-S8P2T là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng WAN cố định: 2 x 10/100/1000BASE-T",
-      "Cổng LAN cố định: 8 x 10/100/1000BASE-T",
-      "Số AP được quản lý: 64",
-      "Công suất chuyển mạch: 16 Gbit/s"
+      "Multi-Service Gateway HUAWEI S380-S8P2T thuộc nhóm gateway đa dịch vụ của Huawei.",
+      "Sử dụng tối đa: 250.",
+      "Công suất chuyển mạch: 16 Gbit/s.",
+      "Tốc độ xử lý gói dữ liệu: Upload: 500Kpps, download: 420Kpps.",
+      "Băng thông ra: 2 Gbit/s.",
+      "Cổng WAN cố định: 2 x 10/100/1000BASE-T.",
+      "Cổng LAN cố định: 8 x 10/100/1000BASE-T."
     ],
     "specifications": [
       [
@@ -9611,7 +9882,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-S380-S8T2T": {
     "name": "Multi-Service Gateway HUAWEI S380-S8T2T",
@@ -9627,11 +9899,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90642-huawei-s380-s8t2t-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/Gateway/S380-S8T2T/S380-S8T2T.html",
     "description": [
-      "Huawei S380-S8T2T là gateway đa dịch vụ dành cho mạng doanh nghiệp và chi nhánh",
-      "Cổng WAN cố định: 2 x 10/100/1000BASE-T",
-      "Cổng LAN cố định: 8 x 10/100/1000BASE-T",
-      "Số AP được quản lý: 64",
-      "Công suất chuyển mạch: 16 Gbit/s"
+      "Multi-Service Gateway HUAWEI S380-S8T2T thuộc nhóm gateway đa dịch vụ của Huawei.",
+      "Sử dụng tối đa: 300.",
+      "Công suất chuyển mạch: 16 Gbit/s.",
+      "Tốc độ xử lý gói dữ liệu: Upload: 500Kpps, download: 420Kpps.",
+      "Băng thông ra: 2 Gbit/s.",
+      "Cổng WAN cố định: 2 x 10/100/1000BASE-T.",
+      "Cổng LAN cố định: 8 x 10/100/1000BASE-T."
     ],
     "specifications": [
       [
@@ -9722,7 +9996,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-76725785": {
     "name": "Multi-Service Router Huawei eKitEngine AR280",
@@ -9738,11 +10013,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92210-huawei-ekitengine-ar280-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-76725785",
     "description": [
-      "Multi-Service Router Huawei eKitEngine AR280 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng mạng: 1× 2.5GE (WAN/LAN), 4× GE (LAN/WAN)",
-      "PoE: Hỗ trợ Perpetual PoE",
-      "Hiệu năng chuyển tiếp: 200 Mbps",
-      "Số thiết bị kết nối: ≤ 150"
+      "Multi-Service Router Huawei eKitEngine AR280 thuộc nhóm router doanh nghiệp của Huawei.",
+      "Cổng mạng: 1× 2.5GE (WAN/LAN), 4× GE (LAN/WAN).",
+      "Số thiết bị kết nối: ≤ 150.",
+      "Số AP quản lý: 16.",
+      "Số thiết bị quản lý: 32.",
+      "Số tunnel IPSec: 16.",
+      "Hiệu năng chuyển tiếp: 200 Mbps."
     ],
     "specifications": [
       [
@@ -9813,7 +10090,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-02609789": {
     "name": "Quạt tản nhiệt HUAWEI FAN-031A-B",
@@ -9829,11 +10107,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93312-huawei-fan-031a-b-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-02609789",
     "description": [
-      "Quạt tản nhiệt HUAWEI FAN-031A-B là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Loại sản phẩm: Module quạt tản nhiệt cho thiết bị mạng Huawei",
-      "Kiểu luồng gió: Xả gió phía panel (Panel Side Exhaust)",
-      "Số lượng quạt: 1 quạt",
-      "Hỗ trợ Hot Swap: Có"
+      "Quạt tản nhiệt HUAWEI FAN-031A-B thuộc nhóm thiết bị mạng khác của Huawei.",
+      "Loại sản phẩm: Module quạt tản nhiệt cho thiết bị mạng Huawei.",
+      "Kiểu luồng gió: Xả gió phía panel (Panel Side Exhaust).",
+      "Số lượng quạt: 1 quạt.",
+      "Hỗ trợ Hot Swap: Có.",
+      "Kích thước (C x R x S): 40 x 40 x 100.3 mm.",
+      "Khối lượng: 0.1 kg."
     ],
     "specifications": [
       [
@@ -9890,7 +10170,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-77092005": {
     "name": "Router HUAWEI AR303",
@@ -9906,11 +10187,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90639-huawei-ar303-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-77092005",
     "description": [
-      "Router HUAWEI AR303 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Fixed WAN port: 1 x GE combo",
-      "Forwarding performance (64 bytes): 1Mpps",
-      "Device capacity: 200 terminals",
-      "Fixed Ethernet switching port: 4 x GE (can be switched to WAN ports)"
+      "Router HUAWEI AR303 thuộc nhóm router doanh nghiệp của Huawei.",
+      "Forwarding performance (64 bytes): 1Mpps.",
+      "Device capacity: 200 terminals.",
+      "Fixed WAN port: 1 x GE combo.",
+      "Fixed Ethernet switching port: 4 x GE (can be switched to WAN ports).",
+      "USB port: 1.",
+      "Serial auxiliary or console port: 1."
     ],
     "specifications": [
       [
@@ -9975,7 +10258,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-AR720": {
     "name": "Router HUAWEI NetEngine AR720",
@@ -9991,10 +10275,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90638-router-netengine-ar720-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/Router/AR720/AR720.html",
     "description": [
-      "Huawei NetEngine AR720 là router dành cho mạng doanh nghiệp và chi nhánh",
-      "Fixed WAN ports: 2*GE combo ports",
-      "Fixed LAN ports: 8 x GE electrical ports (can be switched to WAN ports)",
-      "Forwarding performance: 9 Mpps to 25 Mpps"
+      "Router HUAWEI NetEngine AR720 thuộc nhóm router doanh nghiệp của Huawei.",
+      "Processor: ARM64 4-core.",
+      "Forwarding performance: 9 Mpps to 25 Mpps.",
+      "Number of connected terminals: 700.",
+      "Outbound bandwidth: 4Gbit/s.",
+      "Fixed WAN ports: 2*GE combo ports.",
+      "Fixed LAN ports: 8 x GE electrical ports (can be switched to WAN ports)."
     ],
     "specifications": [
       [
@@ -10131,7 +10418,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-57474747": {
     "name": "Router HUAWEI NetEngine AR730",
@@ -10147,10 +10435,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90637-router-netengine-ar730-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-57474747",
     "description": [
-      "Router HUAWEI NetEngine AR730 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Fixed WAN ports: 2 x GE combo ports, 1 x 10GE optical port (compatible with GE optical)",
-      "Fixed LAN ports: 1*GE combo port, 8 x GE electrical ports (can be switched to WAN ports)",
-      "Forwarding performance: 9 Mpps to 25 Mpps"
+      "Router HUAWEI NetEngine AR730 thuộc nhóm router doanh nghiệp của Huawei.",
+      "Processor: ARM64 4-core.",
+      "Forwarding performance: 9 Mpps to 25 Mpps.",
+      "Number of connected terminals: 1200.",
+      "Outbound bandwidth: 6 Gbit/s.",
+      "Fixed WAN ports: 2 x GE combo ports, 1 x 10GE optical port (compatible with GE optical).",
+      "Fixed LAN ports: 1*GE combo port, 8 x GE electrical ports (can be switched to WAN ports)."
     ],
     "specifications": [
       [
@@ -10287,7 +10578,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-AR180": {
     "name": "Router WiFi 7 Huawei eKitEngine AR180",
@@ -10303,12 +10595,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92207-huawei-ar180-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/RouterWifi/AR180/AR180.html",
     "description": [
-      "Router WiFi 7 Huawei eKitEngine AR180 dành cho văn phòng, cửa hàng và mô hình kinh doanh nhỏ",
-      "Chuẩn Wi-Fi: Wi-Fi 7 (802.11be)",
-      "Băng tần: 2.4GHz + 5GHz",
-      "Tốc độ Wi-Fi: 2.4GHz: 0.69Gbps / 5GHz: 2.88Gbps",
-      "Cổng mạng: 1 × 2.5GE WAN/LAN, 4 × GE LAN/WAN",
-      "Cổng Turbo: GE1 (ưu tiên lưu lượng)"
+      "Router WiFi 7 Huawei eKitEngine AR180 thuộc nhóm router wifi của Huawei.",
+      "Chuẩn Wi-Fi: Wi-Fi 7 (802.11be).",
+      "Băng tần: 2.4GHz + 5GHz.",
+      "Tốc độ Wi-Fi: 2.4GHz: 0.69Gbps / 5GHz: 2.88Gbps.",
+      "Tổng tốc độ: Lên đến 3.57–3.6Gbps.",
+      "Luồng MIMO: 2×2 (2.4GHz) + 2×2 (5GHz).",
+      "Ăng-ten: 4 ăng-ten thông minh ngoài."
     ],
     "specifications": [
       [
@@ -10391,7 +10684,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-13998619": {
     "name": "Router WiFi 7 Huawei eKitEngine AR180 Pro",
@@ -10407,11 +10701,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93282-huawei-ekitengine-ar180pro-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-13998619",
     "description": [
-      "Router WiFi 7 Huawei eKitEngine AR180 Pro là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn Wi-Fi: Wi-Fi 7 (802.11be)",
-      "Tốc độ Wi-Fi tối đa: 3570 Mbps",
-      "Cổng mạng: 3 x GE LAN/WAN + 1 x GE LAN + 2 x 2.5GE LAN/WAN",
-      "Cổng Turbo: 1 x 2.5GE Turbo Acceleration Port"
+      "Router WiFi 7 Huawei eKitEngine AR180 Pro thuộc nhóm router wifi của Huawei.",
+      "Chuẩn Wi-Fi: Wi-Fi 7 (802.11be).",
+      "Băng tần hỗ trợ: 2.4 GHz + 5 GHz.",
+      "Tốc độ Wi-Fi tối đa: 3570 Mbps.",
+      "Công nghệ MIMO: 2×2 MU-MIMO.",
+      "Cổng mạng: 3 x GE LAN/WAN + 1 x GE LAN + 2 x 2.5GE LAN/WAN.",
+      "Cổng Turbo: 1 x 2.5GE Turbo Acceleration Port."
     ],
     "specifications": [
       [
@@ -10518,7 +10814,8 @@
     "priceVatNote": "Đã gồm VAT",
     "sourceVatStatus": "Đã bao gồm VAT",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-70682659": {
     "name": "Router WiFi 7 Huawei eKitEngine AR180Plus",
@@ -10534,11 +10831,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93284-huawei-ekitengine-ar180plus-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-70682659",
     "description": [
-      "Router WiFi 7 Huawei eKitEngine AR180Plus là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Chuẩn Wi-Fi: Wi-Fi 7 (802.11be)",
-      "Băng tần: 2.4 GHz + 5 GHz",
-      "Tốc độ Wi-Fi tối đa: 3600 Mbps",
-      "Cổng mạng: 1 x 2.5GE WAN/LAN + 1 x GE LAN + 3 x GE WAN/LAN"
+      "Router WiFi 7 Huawei eKitEngine AR180Plus thuộc nhóm router wifi của Huawei.",
+      "Chuẩn Wi-Fi: Wi-Fi 7 (802.11be).",
+      "Tốc độ Wi-Fi tối đa: 3600 Mbps.",
+      "Băng tần: 2.4 GHz + 5 GHz.",
+      "Công nghệ MIMO: 2 x 2 MU-MIMO.",
+      "Băng thông kênh: 160 MHz.",
+      "Ăng-ten: 4 anten ngoài thông minh."
     ],
     "specifications": [
       [
@@ -10647,7 +10946,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-17059722": {
     "name": "SFP+ AOC Optical Transceiver HUAWEI SFP-10G-AOC10M",
@@ -10663,11 +10963,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-93355-huawei-sfp-10g-aoc10m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-17059722",
     "description": [
-      "SFP+ AOC Optical Transceiver HUAWEI SFP-10G-AOC10M là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Loại sản phẩm: AOC Optical Transceiver (Cáp quang chủ động)",
-      "Chuẩn kết nối: SFP+ to SFP+",
-      "Tốc độ hỗ trợ: 1G ~ 10G",
-      "Bước sóng hoạt động: 850 nm"
+      "SFP+ AOC Optical Transceiver HUAWEI SFP-10G-AOC10M thuộc nhóm module quang của Huawei.",
+      "Loại sản phẩm: AOC Optical Transceiver (Cáp quang chủ động).",
+      "Chuẩn kết nối: SFP+ to SFP+.",
+      "Tốc độ hỗ trợ: 1G ~ 10G.",
+      "Bước sóng hoạt động: 850 nm.",
+      "Chiều dài cáp: 10 m (32.81 ft).",
+      "Nhiệt độ hoạt động: 0°C ~ 70°C (32°F ~ 158°F)."
     ],
     "specifications": [
       [
@@ -10700,7 +11002,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-06459149": {
     "name": "Thiết bị tường lửa Huawei USG6000E-S03",
@@ -10716,11 +11019,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92213-huawei-usg6000e-s03-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-06459149",
     "description": [
-      "Thiết bị tường lửa Huawei USG6000E-S03 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng kết nối: 2×10GE (SFP+) + 10×GE + Console + USB + SD",
-      "Firewall Throughput: 5 / 5 / 3 Gbps",
-      "Số client khuyến nghị: 400+",
-      "Kết nối đồng thời: 500.000"
+      "Thiết bị tường lửa Huawei USG6000E-S03 thuộc nhóm tường lửa của Huawei.",
+      "Cổng kết nối: 2×10GE (SFP+) + 10×GE + Console + USB + SD.",
+      "Số client khuyến nghị: 400+.",
+      "Firewall Throughput: 5 / 5 / 3 Gbps.",
+      "Kết nối đồng thời: 500.000.",
+      "Kết nối mới/giây: 30.000.",
+      "IPSec Throughput: 3 Gbps."
     ],
     "specifications": [
       [
@@ -10809,7 +11114,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-38431136": {
     "name": "Thiết bị tường lửa Huawei USG6000E-S13",
@@ -10825,11 +11131,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-92216-huawei-usg6000e-s13-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-38431136",
     "description": [
-      "Thiết bị tường lửa Huawei USG6000E-S13 là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Cổng kết nối: 2×10GE SFP+ + 8×GE Combo + 2×GE + MGMT + Console + 2×USB",
-      "Firewall Throughput: 5 / 5 / 4 Gbps",
-      "Kiểu lắp đặt: Rack 1U",
-      "Lưu trữ: SSD M.2 (hot-swappable)"
+      "Thiết bị tường lửa Huawei USG6000E-S13 thuộc nhóm tường lửa của Huawei.",
+      "Kiểu lắp đặt: Rack 1U.",
+      "Cổng kết nối: 2×10GE SFP+ + 8×GE Combo + 2×GE + MGMT + Console + 2×USB.",
+      "Lưu trữ: SSD M.2 (hot-swappable).",
+      "Số client khuyến nghị: 700+.",
+      "Firewall Throughput: 5 / 5 / 4 Gbps.",
+      "Kết nối đồng thời: 3.500.000."
     ],
     "specifications": [
       [
@@ -10918,7 +11226,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-60642445": {
     "name": "Wireless Access Controller HUAWEI AC650-128AP",
@@ -10934,10 +11243,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90623-huawei-ac650-128ap-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-60642445",
     "description": [
-      "Wireless Access Controller HUAWEI AC650-128AP là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Loại giao diện: 2 cổng quang 10GE + 10 cổng điện GE, 1 cổng Console (RJ45), 1 cổng USB",
-      "Số lượng AP được quản lý: 128",
-      "Khả năng chuyển tiếp: 10 Gbps"
+      "Wireless Access Controller HUAWEI AC650-128AP thuộc nhóm bộ điều khiển wifi của Huawei.",
+      "Loại giao diện: 2 cổng quang 10GE + 10 cổng điện GE, 1 cổng Console (RJ45), 1 cổng USB.",
+      "Số lượng AP được quản lý: 128.",
+      "Số lượng người dùng truy cập: 1024.",
+      "Số lượng mục địa chỉ MAC: 8192.",
+      "Khả năng chuyển tiếp: 10 Gbps.",
+      "Số lượng VLAN: 4096."
     ],
     "specifications": [
       [
@@ -11010,7 +11322,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-54767222": {
     "name": "Wireless Access Controller HUAWEI AC650-256AP",
@@ -11026,10 +11339,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90624-huawei-ac650-256ap-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-54767222",
     "description": [
-      "Wireless Access Controller HUAWEI AC650-256AP là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Loại giao diện: 2 cổng quang 10GE + 10 cổng điện GE, 1 cổng Console (RJ45), 1 cổng USB",
-      "Số lượng AP được quản lý: 256",
-      "Khả năng chuyển tiếp: 10 Gbps"
+      "Wireless Access Controller HUAWEI AC650-256AP thuộc nhóm bộ điều khiển wifi của Huawei.",
+      "Loại giao diện: 2 cổng quang 10GE + 10 cổng điện GE, 1 cổng Console (RJ45), 1 cổng USB.",
+      "Số lượng AP được quản lý: 256.",
+      "Số lượng người dùng truy cập: 2048.",
+      "Số lượng mục địa chỉ MAC: 8192.",
+      "Khả năng chuyển tiếp: 10 Gbps.",
+      "Số lượng VLAN: 4096."
     ],
     "specifications": [
       [
@@ -11106,7 +11422,8 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   },
   "HUAWEI-02352941": {
     "name": "Wireless Access Controller HUAWEI AC650-512AP",
@@ -11122,10 +11439,13 @@
     "thumbnail": "/img/thiet-bi-mang/Huawei/products/p-90625-huawei-ac650-512ap-m-m.jpg",
     "link": "/San-pham/thiet-bi-mang/Huawei/chi-tiet.html?id=HUAWEI-02352941",
     "description": [
-      "Wireless Access Controller HUAWEI AC650-512AP là thiết bị Huawei được tham khảo cho nhu cầu triển khai hạ tầng mạng",
-      "Loại giao diện: 2 x 10G (SFP+) + 10 x GE",
-      "Số lượng AP được quản lý: 512",
-      "Khả năng chuyển tiếp: 10 Gbps"
+      "Wireless Access Controller HUAWEI AC650-512AP thuộc nhóm bộ điều khiển wifi của Huawei.",
+      "Loại giao diện: 2 x 10G (SFP+) + 10 x GE.",
+      "Số lượng AP được quản lý: 512.",
+      "Số lượng người dùng truy cập: 4096.",
+      "Số lượng mục địa chỉ MAC: 8192.",
+      "Khả năng chuyển tiếp: 10 Gbps.",
+      "Số lượng VLAN: 4096."
     ],
     "specifications": [
       [
@@ -11206,6 +11526,7 @@
     "sourceSpecificationsUpdatedAt": "2026-10-03T00:00:00+07:00",
     "sourceVatStatus": "Không có giá niêm yết",
     "vatCheckedAt": "2026-10-27T09:11:40+07:00",
-    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00"
+    "sourcePriceCheckedAt": "2026-10-27T09:11:40+07:00",
+    "descriptionStatus": "specification-derived"
   }
 }

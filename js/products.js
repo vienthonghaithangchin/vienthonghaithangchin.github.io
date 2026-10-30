@@ -19,9 +19,10 @@ document.addEventListener("DOMContentLoaded", initializeProducts);
 
 async function initializeProducts() {
   try {
-    const [response, huaweiResponse] = await Promise.all([
+    const [response, huaweiResponse, importedProductsResponse] = await Promise.all([
       fetch("/data/products-index.json"),
       fetch("/data/huawei-products.json"),
+      fetch("/data/products-import-20261030.json"),
     ]);
 
     if (!response.ok) {
@@ -29,7 +30,8 @@ async function initializeProducts() {
     }
 
     const huaweiProducts = huaweiResponse.ok ? await huaweiResponse.json() : {};
-    const productsById = { ...(await response.json()), ...huaweiProducts };
+    const importedProducts = importedProductsResponse.ok ? await importedProductsResponse.json() : {};
+    const productsById = { ...(await response.json()), ...huaweiProducts, ...importedProducts };
     const embeddedProduct = readEmbeddedProductData();
     if (embeddedProduct?.id && embeddedProduct?.product) {
       const indexedProduct = productsById[embeddedProduct.id] || {};

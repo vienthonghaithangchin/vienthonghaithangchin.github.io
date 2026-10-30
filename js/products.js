@@ -19,10 +19,11 @@ document.addEventListener("DOMContentLoaded", initializeProducts);
 
 async function initializeProducts() {
   try {
-    const [response, huaweiResponse, importedProductsResponse] = await Promise.all([
+    const [response, huaweiResponse, importedProductsResponse, priceOverridesResponse] = await Promise.all([
       fetch("/data/products-index.json"),
       fetch("/data/huawei-products.json"),
       fetch("/data/products-import-20261030.json"),
+      fetch("/data/price-overrides-20261030.json"),
     ]);
 
     if (!response.ok) {
@@ -31,7 +32,13 @@ async function initializeProducts() {
 
     const huaweiProducts = huaweiResponse.ok ? await huaweiResponse.json() : {};
     const importedProducts = importedProductsResponse.ok ? await importedProductsResponse.json() : {};
+    const priceOverrides = priceOverridesResponse.ok ? await priceOverridesResponse.json() : {};
     const productsById = { ...(await response.json()), ...huaweiProducts, ...importedProducts };
+    Object.entries(priceOverrides).forEach(([id, override]) => {
+      if (productsById[id] && override && typeof override === "object") {
+        productsById[id] = { ...productsById[id], ...override };
+      }
+    });
     const embeddedProduct = readEmbeddedProductData();
     if (embeddedProduct?.id && embeddedProduct?.product) {
       const indexedProduct = productsById[embeddedProduct.id] || {};
@@ -132,6 +139,32 @@ function hydrateProductDetail(productsById) {
 
   renderProductDescription(detail, product.description);
   renderProductSpecifications(detail, product);
+  updateProductStructuredData(product);
+}
+
+function updateProductStructuredData(product) {
+  document.querySelectorAll('script[type="application/ld+json"]').forEach((script) => {
+    try {
+      const data = JSON.parse(script.textContent);
+      const type = Array.isArray(data?.["@type"]) ? data["@type"] : [data?.["@type"]];
+      if (!type.includes("Product")) return;
+      const price = effectivePrice(product);
+      if (!Number.isFinite(Number(price))) {
+        script.remove();
+        return;
+      }
+      const offers = Array.isArray(data.offers) ? data.offers : [data.offers || {}];
+      offers.forEach((offer) => {
+        offer["@type"] = offer["@type"] || "Offer";
+        offer.priceCurrency = "VND";
+        offer.price = String(price);
+      });
+      data.offers = Array.isArray(data.offers) ? offers : offers[0];
+      script.textContent = JSON.stringify(data);
+    } catch (error) {
+      console.warn("Không thể cập nhật dữ liệu có cấu trúc sản phẩm:", error);
+    }
+  });
 }
 
 function renderProductDescription(detail, description) {

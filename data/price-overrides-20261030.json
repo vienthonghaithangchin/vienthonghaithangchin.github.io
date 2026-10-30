@@ -1,0 +1,26 @@
+{
+  "RG-ES05G": {
+    "price": "Liên hệ",
+    "previousPrice": 280000,
+    "sourcePrice": null,
+    "priceSource": "https://www.sieuthivienthong.com/5-port-gigabit-unmanaged-switch-ruijie-rg-es05g-45165.html",
+    "priceSourceTitle": "5-port Gigabit Unmanaged Switch RUIJIE RG-ES05G",
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-10-30T15:08:27+07:00",
+    "vatIncluded": false,
+    "priceVatNote": ""
+  },
+  "RG-ES08G": {
+    "price": "Liên hệ",
+    "previousPrice": 470000,
+    "sourcePrice": null,
+    "priceSource": "https://www.sieuthivienthong.com/8-port-gigabit-unmanaged-switch-ruijie-rg-es08g-45166.html",
+    "priceSourceTitle": "8-port Gigabit Unmanaged Switch RUIJIE RG-ES08G",
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-10-30T15:08:27+07:00",
+    "vatIncluded": false,
+    "priceVatNote": ""
+  }
+}

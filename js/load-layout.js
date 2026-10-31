@@ -7,7 +7,7 @@ function loadHTML(id, file) {
   }
   if (!target) return Promise.resolve();
 
-  return fetch(`${file}?v=20260720-2`)
+  return fetch(`${file}?v=20261031-1`)
     .then((response) => {
       if (!response.ok) {
         throw new Error("Không tìm thấy " + file);

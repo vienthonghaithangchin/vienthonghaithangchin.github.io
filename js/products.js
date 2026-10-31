@@ -49,11 +49,16 @@ async function initializeProducts() {
         priceValidUntil: indexedProduct.priceValidUntil ?? embeddedProduct.product.priceValidUntil,
         vatIncluded: indexedProduct.vatIncluded ?? embeddedProduct.product.vatIncluded,
         priceVatNote: indexedProduct.priceVatNote ?? embeddedProduct.product.priceVatNote,
+        hidden: indexedProduct.hidden ?? embeddedProduct.product.hidden,
       };
     }
 
+    if (embeddedProduct?.id && productsById[embeddedProduct.id]?.hidden === true) {
+      ensureNoIndexMeta();
+    }
+
     catalogState.allProducts = Object.entries(productsById)
-      .filter(([, product]) => product && typeof product === "object")
+      .filter(([, product]) => product && typeof product === "object" && product.hidden !== true)
       .map(([id, product]) => ({ id, ...product }));
 
     hydrateStaticCards(productsById);
@@ -67,6 +72,16 @@ async function initializeProducts() {
     console.error("Lỗi tải dữ liệu sản phẩm:", error);
     showCatalogMessage("Không thể tải danh sách sản phẩm. Vui lòng thử lại sau.");
   }
+}
+
+function ensureNoIndexMeta() {
+  let meta = document.querySelector('meta[name="robots"]');
+  if (!meta) {
+    meta = document.createElement("meta");
+    meta.name = "robots";
+    document.head.appendChild(meta);
+  }
+  meta.content = "noindex,follow";
 }
 
 

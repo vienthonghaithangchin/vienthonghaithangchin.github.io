@@ -1083,7 +1083,7 @@ function collectProductSpecifications(product) {
     });
   }
 
-  if (rows.length === 0) rows.push(["Thông tin", "Thông số kỹ thuật đang được cập nhật theo Sieuthivienthong.com"]);
+  if (rows.length === 0) rows.push(["Thông tin", "Thông số kỹ thuật đang được cập nhật bổ sung."]);
   return rows;
 }
 

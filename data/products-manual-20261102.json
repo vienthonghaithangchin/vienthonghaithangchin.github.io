@@ -1,0 +1,44 @@
+{
+  "HDMI-UNITEK-10M": {
+    "name": "Dây HDMI Unitek dài 10 mét",
+    "code": "MAT-UNI-ACC-0001",
+    "price": "Liên hệ",
+    "warranty": "12 tháng",
+    "category": "Accessory",
+    "brand": "Unitek",
+    "industry": "Vật tư - phụ kiện",
+    "productType": "Phụ kiện",
+    "link": "/San-pham/vat-tu-phu-kien/accessory/unitek/day-hdmi-unitek-10-met/day-hdmi-unitek-10-met.html",
+    "description": ["Dây HDMI Unitek dài 10 mét thuộc nhóm phụ kiện vật tư.", "Thông số kỹ thuật đang được cập nhật bổ sung."],
+    "descriptionStatus": "pending-specification",
+    "specifications": [["Thông tin", "Thông số kỹ thuật đang được cập nhật bổ sung."]]
+  },
+  "P1205-B3": {
+    "name": "Bộ cấp nguồn lưu điện ZKTeco P1205-B3",
+    "code": "ACS-ZKT-ACC-0050",
+    "price": "Liên hệ",
+    "warranty": "12 tháng",
+    "category": "Accessory",
+    "brand": "ZKTeco",
+    "industry": "Kiểm soát cửa",
+    "productType": "Phụ kiện kiểm soát cửa",
+    "link": "/San-pham/kiem-soat-cua/ZKTECO/terminal/bo-cap-nguon-luu-dien-zkteco-p1205-b3/bo-cap-nguon-luu-dien-zkteco-p1205-b3.html",
+    "description": ["Bộ cấp nguồn lưu điện ZKTeco P1205-B3 thuộc nhóm phụ kiện kiểm soát cửa ZKTeco.", "Thông số kỹ thuật đang được cập nhật bổ sung."],
+    "descriptionStatus": "pending-specification",
+    "specifications": [["Thông tin", "Thông số kỹ thuật đang được cập nhật bổ sung."]]
+  },
+  "DS10HKVS-VX2": {
+    "name": "Ổ cứng Hikvision 1TB DS10HKVS-VX2",
+    "code": "MAT-HIK-HDD-0001",
+    "price": "Liên hệ",
+    "warranty": "Theo chính sách hãng",
+    "category": "Storage",
+    "brand": "Hikvision",
+    "industry": "Vật tư - phụ kiện",
+    "productType": "Ổ cứng giám sát",
+    "link": "/San-pham/vat-tu-phu-kien/storage/hikvision/DS10HKVS-VX2/DS10HKVS-VX2.html",
+    "description": ["Ổ cứng Hikvision 1TB DS10HKVS-VX2 thuộc nhóm thiết bị lưu trữ.", "Thông số kỹ thuật đang được cập nhật bổ sung."],
+    "descriptionStatus": "pending-specification",
+    "specifications": [["Thông tin", "Thông số kỹ thuật đang được cập nhật bổ sung."]]
+  }
+}

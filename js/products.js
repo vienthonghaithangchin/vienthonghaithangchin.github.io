@@ -19,10 +19,11 @@ document.addEventListener("DOMContentLoaded", initializeProducts);
 
 async function initializeProducts() {
   try {
-    const [response, huaweiResponse, importedProductsResponse, priceOverridesResponse] = await Promise.all([
+    const [response, huaweiResponse, importedProductsResponse, manualProductsResponse, priceOverridesResponse] = await Promise.all([
       fetch("/data/products-index.json"),
       fetch("/data/huawei-products.json"),
       fetch("/data/products-import-20261030.json"),
+      fetch("/data/products-manual-20261102.json"),
       fetch("/data/price-overrides-20261030.json"),
     ]);
 
@@ -32,8 +33,9 @@ async function initializeProducts() {
 
     const huaweiProducts = huaweiResponse.ok ? await huaweiResponse.json() : {};
     const importedProducts = importedProductsResponse.ok ? await importedProductsResponse.json() : {};
+    const manualProducts = manualProductsResponse.ok ? await manualProductsResponse.json() : {};
     const priceOverrides = priceOverridesResponse.ok ? await priceOverridesResponse.json() : {};
-    const productsById = { ...(await response.json()), ...huaweiProducts, ...importedProducts };
+    const productsById = { ...(await response.json()), ...huaweiProducts, ...importedProducts, ...manualProducts };
     Object.entries(priceOverrides).forEach(([id, override]) => {
       if (productsById[id] && override && typeof override === "object") {
         productsById[id] = { ...productsById[id], ...override };
@@ -115,11 +117,16 @@ function hydrateStaticCards(productsById) {
 
     const image = card.querySelector(".product-image");
     if (image) {
-      image.src = product.thumbnail || product.image;
-      image.alt = product.name;
-      image.loading = "lazy";
-      image.decoding = "async";
-      linkProductImage(image, product);
+      const imageUrl = product.thumbnail || product.image;
+      if (imageUrl) {
+        image.src = imageUrl;
+        image.alt = product.name;
+        image.loading = "lazy";
+        image.decoding = "async";
+        linkProductImage(image, product);
+      } else {
+        image.remove();
+      }
     }
   });
 }
@@ -147,9 +154,14 @@ function hydrateProductDetail(productsById) {
 
   const image = detail.querySelector(".product-image");
   if (image) {
-    image.src = product.thumbnail || product.image;
-    image.alt = product.name;
-    initializeProductImageLightbox(image);
+    const imageUrl = product.thumbnail || product.image;
+    if (imageUrl) {
+      image.src = imageUrl;
+      image.alt = product.name;
+      initializeProductImageLightbox(image);
+    } else {
+      image.closest(".product-detail-image")?.remove();
+    }
   }
 
   renderProductDescription(detail, product.description);
@@ -188,20 +200,29 @@ function renderProductDescription(detail, description) {
     return;
   }
 
+  const featureLines = description
+    .map((item) => String(item || "").trim())
+    .filter(Boolean);
+  if (featureLines.length > 0 && /\bthuộc nhóm\b/i.test(featureLines[0])) {
+    featureLines.shift();
+  }
+
+  if (featureLines.length === 0) {
+    container.replaceChildren();
+    return;
+  }
+
   container.innerHTML = "";
 
   const title = document.createElement("h3");
   title.textContent = "Đặc điểm nổi bật";
 
   const list = document.createElement("ul");
-  description
-    .map((item) => String(item || "").trim())
-    .filter(Boolean)
-    .forEach((item) => {
-      const listItem = document.createElement("li");
-      listItem.textContent = `- ${item}`;
-      list.appendChild(listItem);
-    });
+  featureLines.forEach((item) => {
+    const listItem = document.createElement("li");
+    listItem.textContent = `- ${item}`;
+    list.appendChild(listItem);
+  });
 
   container.append(title, list);
 }

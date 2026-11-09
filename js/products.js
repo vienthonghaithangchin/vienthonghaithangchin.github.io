@@ -20,11 +20,11 @@ document.addEventListener("DOMContentLoaded", initializeProducts);
 async function initializeProducts() {
   try {
     const [response, huaweiResponse, importedProductsResponse, manualProductsResponse, priceOverridesResponse] = await Promise.all([
-      fetch("/data/products-index.json"),
-      fetch("/data/huawei-products.json"),
-      fetch("/data/products-import-20261030.json"),
-      fetch("/data/products-manual-20261102.json"),
-      fetch("/data/price-overrides-20261030.json"),
+      fetch("/data/products-index.json?v=20261109-1"),
+      fetch("/data/huawei-products.json?v=20261109-1"),
+      fetch("/data/products-import-20261030.json?v=20261109-1"),
+      fetch("/data/products-manual-20261102.json?v=20261109-1"),
+      fetch("/data/price-overrides-20261030.json?v=20261109-1"),
     ]);
 
     if (!response.ok) {
@@ -129,7 +129,6 @@ function hydrateStaticCards(productsById) {
       }
     }
 
-    ensureAddToCartButton(card, product);
   });
 }
 
@@ -152,7 +151,7 @@ function hydrateProductDetail(productsById) {
   setText(detail, ".product-warranty", product.warranty);
   setText(detail, ".product-price", formatPrice(effectivePrice(product)));
   renderProductQuoteRequest(detail, product);
-  ensureAddToCartButton(detail, product, true);
+  ensureAddToCartButton(detail, product);
   renderVatNote(detail, product);
 
   const image = detail.querySelector(".product-image");
@@ -423,11 +422,10 @@ function createProductCard(product) {
   card.append(imageLink, name, code, price);
   if (vatNote) card.appendChild(vatNote);
   card.appendChild(link);
-  ensureAddToCartButton(card, product);
   return card;
 }
 
-function ensureAddToCartButton(root, product, detail = false) {
+function ensureAddToCartButton(root, product) {
   if (!root || root.querySelector(".add-to-cart-button")) return;
   const button = document.createElement("button");
   button.type = "button";
@@ -448,19 +446,14 @@ function ensureAddToCartButton(root, product, detail = false) {
       price: effectivePrice(product),
       priceVatNote: priceHasIncludedVat(product) ? (product.priceVatNote || "Đã gồm VAT") : "",
     });
-    const originalText = detail ? "Đã thêm vào giỏ hàng" : "Đã thêm";
-    button.textContent = originalText;
+    button.textContent = "Đã thêm vào giỏ hàng";
     button.classList.add("is-added");
     window.setTimeout(() => {
       button.textContent = "Thêm vào giỏ hàng";
       button.classList.remove("is-added");
     }, 1600);
   });
-  if (detail) {
-    root.querySelector(".product-price")?.insertAdjacentElement("afterend", button);
-  } else {
-    root.appendChild(button);
-  }
+  root.querySelector(".product-price")?.insertAdjacentElement("afterend", button);
 }
 
 function handleInfiniteScroll() {
@@ -598,7 +591,7 @@ function effectivePrice(product) {
   if (!product || typeof product !== "object") return product;
   const validUntil = product.priceValidUntil ? Date.parse(product.priceValidUntil) : NaN;
   if (Number.isFinite(validUntil) && validUntil <= Date.now()) {
-    return product.previousPrice ?? "Liên hệ";
+    return product.previousPrice ?? "Vui lòng gọi";
   }
   return product.price;
 }
@@ -635,11 +628,11 @@ function renderVatNote(root, product) {
 }
 
 function formatPrice(price) {
-  if (price === undefined || price === null || price === "") return "Liên hệ";
+  if (price === undefined || price === null || price === "") return "Vui lòng gọi";
   if (typeof price === "number") return `Giá: ${price.toLocaleString("vi-VN")} đ`;
 
   const text = String(price).trim();
-  if (/liên hệ|vui lòng gọi/i.test(text)) return "Liên hệ";
+  if (/liên hệ|vui lòng gọi/i.test(text)) return "Vui lòng gọi";
   return /^giá:/i.test(text) ? text : `Giá: ${text}${/đ|vnd/i.test(text) ? "" : " đ"}`;
 }
 

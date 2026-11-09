@@ -28,10 +28,6 @@
 }
 .add-to-cart-button:hover, .add-to-cart-button.is-added { background: #fff2e9; }
 .product-detail-info > .add-to-cart-button { margin: -12px 0 24px 10px; }
-.product-card > .add-to-cart-button {
-  width: calc(100% - 20px);
-  margin: 0 10px 10px;
-}
 .add-to-cart-button:focus-visible, .checkout-page button:focus-visible, .checkout-page a:focus-visible {
   outline: 3px solid #0b76ed;
   outline-offset: 3px;

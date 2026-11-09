@@ -20,11 +20,11 @@ document.addEventListener("DOMContentLoaded", initializeProducts);
 async function initializeProducts() {
   try {
     const [response, huaweiResponse, importedProductsResponse, manualProductsResponse, priceOverridesResponse] = await Promise.all([
-      fetch("/data/products-index.json?v=20261109-1"),
-      fetch("/data/huawei-products.json?v=20261109-1"),
-      fetch("/data/products-import-20261030.json?v=20261109-1"),
-      fetch("/data/products-manual-20261102.json?v=20261109-1"),
-      fetch("/data/price-overrides-20261030.json?v=20261109-1"),
+      fetch("/data/products-index.json?v=20261109-2"),
+      fetch("/data/huawei-products.json?v=20261109-2"),
+      fetch("/data/products-import-20261030.json?v=20261109-2"),
+      fetch("/data/products-manual-20261102.json?v=20261109-2"),
+      fetch("/data/price-overrides-20261030.json?v=20261109-2"),
     ]);
 
     if (!response.ok) {
@@ -103,6 +103,11 @@ function hydrateStaticCards(productsById) {
     const product = productsById[card.dataset.product];
 
     if (!product) return;
+    if (product.hidden === true) {
+      card.hidden = true;
+      card.style.setProperty("display", "none", "important");
+      return;
+    }
 
     setCardDataset(card, product);
     setText(card, ".product-name", product.name);
@@ -140,6 +145,26 @@ function hydrateProductDetail(productsById) {
   const productId = detail.dataset.product || requestedProductId;
   const product = productsById[productId];
   if (!product) return;
+
+  if (product.hidden === true) {
+    ensureNoIndexMeta();
+    detail.replaceChildren();
+    const notice = document.createElement("p");
+    notice.className = "product-hidden-notice";
+    notice.textContent = "Sản phẩm đang tạm ẩn và sẽ được cập nhật lại sau.";
+    const homeLink = document.createElement("a");
+    homeLink.href = "/trang-chu.html";
+    homeLink.textContent = "Quay về trang chủ";
+    detail.append(notice, homeLink);
+    document.querySelectorAll('script[type="application/ld+json"]').forEach((script) => {
+      try {
+        const data = JSON.parse(script.textContent);
+        const types = Array.isArray(data?.["@type"]) ? data["@type"] : [data?.["@type"]];
+        if (types.includes("Product")) script.remove();
+      } catch (_) {}
+    });
+    return;
+  }
 
   if (requestedProductId) {
     document.title = `${product.name} | Viễn Thông Hai Tháng Chín`;

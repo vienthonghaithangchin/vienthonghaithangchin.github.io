@@ -73,17 +73,20 @@
         <section class="checkout-panel" data-checkout-step="review" hidden>
           <h2>Xem lại trước khi gửi</h2>
           <div id="order-review" class="order-review"></div>
-          <p class="checkout-policy-note">Khi bấm xác nhận, website sẽ mở ứng dụng email với nội dung yêu cầu gửi đến info@vienthong29.vn. Bạn cần bấm “Gửi” trong ứng dụng email để công ty nhận được yêu cầu. Đây chưa phải xác nhận chấp nhận đơn hoặc xác nhận thanh toán.</p>
+          <p class="checkout-policy-note">Chọn cách thuận tiện để gửi yêu cầu. Email và Zalo cần bạn tự bấm gửi trong ứng dụng tương ứng; gọi điện là để trao đổi trực tiếp. Yêu cầu chỉ được tiếp nhận khi bạn hoàn tất thao tác gửi/gọi và chưa phải xác nhận chấp nhận đơn hoặc thanh toán.</p>
           <div class="checkout-actions">
             <button class="checkout-secondary" data-go-step="customer" type="button">Chỉnh sửa thông tin</button>
-            <button class="checkout-primary" id="confirm-order" type="button">Xác nhận và mở email gửi yêu cầu</button>
+            <button class="checkout-primary" id="send-order-email" type="button">Gửi yêu cầu qua email</button>
+            <button class="checkout-primary" id="send-order-zalo" type="button">Gửi yêu cầu qua Zalo</button>
+            <a class="checkout-secondary" id="call-about-order" href="tel:+84948182466">Gọi 094 8182 466</a>
           </div>
         </section>
 
         <section class="checkout-panel checkout-complete" data-checkout-step="complete" hidden aria-live="polite">
-          <h2>Yêu cầu đã được chuẩn bị</h2>
-          <p id="order-complete-message">Ứng dụng email đã được mở. Hãy kiểm tra nội dung và bấm “Gửi” để công ty nhận được yêu cầu.</p>
-          <p>Nếu email không mở, hãy gửi thông tin đơn hàng tới <a href="mailto:info@vienthong29.vn">info@vienthong29.vn</a> hoặc gọi <a href="tel:+84948182466">094 8182 466</a>.</p>
+          <h2 id="order-complete-title">Hoàn tất thao tác liên hệ</h2>
+          <p id="order-complete-message">Hãy hoàn tất gửi yêu cầu trong ứng dụng đã chọn. Yêu cầu chưa được công ty xác nhận cho đến khi nhân viên phản hồi.</p>
+          <label id="order-copy-fallback" hidden>Nếu nội dung chưa được sao chép tự động, hãy sao chép nội dung đơn dưới đây và dán vào cuộc trò chuyện Zalo.<textarea id="order-copy-content" rows="12" readonly></textarea></label>
+          <p>Nếu cần mở lại kênh liên hệ: <a href="mailto:info@vienthong29.vn">email info@vienthong29.vn</a>, <a id="order-zalo-link" href="https://zalo.me/0948182466" target="_blank" rel="noopener noreferrer">Zalo 094 8182 466</a> hoặc <a href="tel:+84948182466">gọi 094 8182 466</a>.</p>
           <div class="checkout-actions"><a class="checkout-primary" href="/trang-chu.html">Quay lại website</a></div>
         </section>
       </main>

@@ -68,7 +68,7 @@ if (!document.querySelector('script[data-v29-cart]')) {
     document.head.appendChild(cartStyles);
   }
   const cartScript = document.createElement("script");
-  cartScript.src = "/js/cart.js?v=20261109-1";
+  cartScript.src = "/js/cart.js?v=20261109-2";
   cartScript.dataset.v29Cart = "true";
   document.body.appendChild(cartScript);
 }

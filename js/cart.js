@@ -2,6 +2,7 @@
   const STORAGE_KEY = "v29-cart-v1";
   const cart = readCart();
   let checkoutFormData = null;
+  let checkoutReference = "";
 
   function readCart() {
     try {
@@ -211,11 +212,16 @@
     review.appendChild(sum);
   }
 
-  function orderEmailUrl() {
-    const orderNumber = `V29-${new Date().toISOString().replace(/[-:TZ.]/g, "").slice(0, 14)}`;
+  function getCheckoutReference() {
+    if (!checkoutReference) checkoutReference = `V29-${new Date().toISOString().replace(/[-:TZ.]/g, "").slice(0, 14)}`;
+    return checkoutReference;
+  }
+
+  function orderMessageBody() {
+    const orderNumber = getCheckoutReference();
     const lines = cart.map((item, index) => `${index + 1}. ${item.name}${item.code ? ` | Mã: ${item.code}` : ""} | SL: ${item.quantity} | ${item.price === null ? "Giá cần xác nhận" : formatPrice(item.price * item.quantity)}`);
     const { knownSubtotal, hasUnpriced } = cartTotals();
-    const body = [
+    return [
       `Mã yêu cầu: ${orderNumber}`,
       "YÊU CẦU ĐẶT HÀNG / XÁC NHẬN BÁO GIÁ",
       "",
@@ -233,7 +239,18 @@
       "",
       "Tôi hiểu đây là yêu cầu chờ công ty xác nhận, chưa phải đơn hàng được chấp nhận.",
     ].filter(Boolean).join("\n");
-    return `mailto:info@vienthong29.vn?subject=${encodeURIComponent(`Yêu cầu ${orderNumber} - Viễn Thông Hai Tháng Chín`)}&body=${encodeURIComponent(body)}`;
+  }
+
+  function orderEmailUrl() {
+    return `mailto:info@vienthong29.vn?subject=${encodeURIComponent(`Yêu cầu ${getCheckoutReference()} - Viễn Thông Hai Tháng Chín`)}&body=${encodeURIComponent(orderMessageBody())}`;
+  }
+
+  function showContactCompletion(title, message) {
+    const titleNode = document.getElementById("order-complete-title");
+    const messageNode = document.getElementById("order-complete-message");
+    if (titleNode) titleNode.textContent = title;
+    if (messageNode) messageNode.textContent = message;
+    goToStep("complete");
   }
 
   function bindCheckout() {
@@ -253,11 +270,30 @@
       renderReview();
       goToStep("review");
     });
-    document.getElementById("confirm-order")?.addEventListener("click", () => {
+    document.getElementById("send-order-email")?.addEventListener("click", () => {
       if (!checkoutFormData || cart.length === 0) return;
-      const mailto = orderEmailUrl();
-      goToStep("complete");
-      window.location.href = mailto;
+      showContactCompletion("Tiếp tục gửi email", "Ứng dụng email đã được mở sẵn nội dung yêu cầu. Hãy kiểm tra và bấm “Gửi” để công ty nhận được yêu cầu; nhân viên sẽ xác nhận lại giá, tồn kho và điều kiện giao dịch.");
+      window.location.href = orderEmailUrl();
+    });
+    document.getElementById("send-order-zalo")?.addEventListener("click", async () => {
+      if (!checkoutFormData || cart.length === 0) return;
+      const message = orderMessageBody();
+      const fallback = document.getElementById("order-copy-fallback");
+      const copyBox = document.getElementById("order-copy-content");
+      if (copyBox) copyBox.value = message;
+      showContactCompletion("Tiếp tục gửi yêu cầu qua Zalo", "Zalo sẽ mở trong cửa sổ mới. Nội dung đơn đã được sao chép nếu trình duyệt cho phép; hãy dán vào cuộc trò chuyện và bấm gửi. Website không tự gửi tin nhắn Zalo.");
+      document.getElementById("order-zalo-link")?.click();
+      try {
+        await navigator.clipboard.writeText(message);
+      } catch (_) {
+        if (fallback) fallback.hidden = false;
+        copyBox?.focus();
+        copyBox?.select();
+      }
+    });
+    document.getElementById("call-about-order")?.addEventListener("click", () => {
+      if (!checkoutFormData || cart.length === 0) return;
+      showContactCompletion("Gọi để trao đổi yêu cầu", "Trình gọi điện sẽ mở. Hãy cung cấp thông tin người nhận và mã yêu cầu " + getCheckoutReference() + " để nhân viên tra cứu. Cuộc gọi chưa đồng nghĩa đơn hàng đã được chấp nhận.");
     });
   }
 

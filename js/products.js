@@ -128,6 +128,8 @@ function hydrateStaticCards(productsById) {
         image.remove();
       }
     }
+
+    ensureAddToCartButton(card, product);
   });
 }
 
@@ -150,6 +152,7 @@ function hydrateProductDetail(productsById) {
   setText(detail, ".product-warranty", product.warranty);
   setText(detail, ".product-price", formatPrice(effectivePrice(product)));
   renderProductQuoteRequest(detail, product);
+  ensureAddToCartButton(detail, product, true);
   renderVatNote(detail, product);
 
   const image = detail.querySelector(".product-image");
@@ -420,7 +423,44 @@ function createProductCard(product) {
   card.append(imageLink, name, code, price);
   if (vatNote) card.appendChild(vatNote);
   card.appendChild(link);
+  ensureAddToCartButton(card, product);
   return card;
+}
+
+function ensureAddToCartButton(root, product, detail = false) {
+  if (!root || root.querySelector(".add-to-cart-button")) return;
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = "add-to-cart-button";
+  button.textContent = "Thêm vào giỏ hàng";
+  button.setAttribute("aria-label", `Thêm ${product.name} vào giỏ hàng`);
+  button.addEventListener("click", () => {
+    if (!window.VienthongCart) {
+      window.location.href = "/gio-hang.html";
+      return;
+    }
+    window.VienthongCart.add({
+      id: product.id || root.dataset.product,
+      name: product.name,
+      code: product.code,
+      image: product.thumbnail || product.image,
+      link: product.link,
+      price: effectivePrice(product),
+      priceVatNote: priceHasIncludedVat(product) ? (product.priceVatNote || "Đã gồm VAT") : "",
+    });
+    const originalText = detail ? "Đã thêm vào giỏ hàng" : "Đã thêm";
+    button.textContent = originalText;
+    button.classList.add("is-added");
+    window.setTimeout(() => {
+      button.textContent = "Thêm vào giỏ hàng";
+      button.classList.remove("is-added");
+    }, 1600);
+  });
+  if (detail) {
+    root.querySelector(".product-price")?.insertAdjacentElement("afterend", button);
+  } else {
+    root.appendChild(button);
+  }
 }
 
 function handleInfiniteScroll() {

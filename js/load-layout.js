@@ -20,6 +20,7 @@ function loadHTML(id, file) {
 
       if (id === "header") {
         initializeGlobalProductSearch(target);
+        window.initializeCartHeader?.();
       }
 
       if (id === "float") {
@@ -57,6 +58,20 @@ loadHTML("menu", "/includes/Menu.html");
 loadHTML("footer", "/includes/footer.html");
 loadHTML("product-sidebar", "/includes/product-sidebar.html");
 loadHTML("float", "/includes/float.html");
+
+if (!document.querySelector('script[data-v29-cart]')) {
+  if (!document.querySelector('link[data-v29-cart-style]')) {
+    const cartStyles = document.createElement("link");
+    cartStyles.rel = "stylesheet";
+    cartStyles.href = "/CSS/cart.css?v=20261109-1";
+    cartStyles.dataset.v29CartStyle = "true";
+    document.head.appendChild(cartStyles);
+  }
+  const cartScript = document.createElement("script");
+  cartScript.src = "/js/cart.js?v=20261109-1";
+  cartScript.dataset.v29Cart = "true";
+  document.body.appendChild(cartScript);
+}
 
 function initializeServiceQuoteRequests() {
   document.querySelectorAll(".local-service__actions").forEach((actions) => {

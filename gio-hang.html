@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex,follow" />
+    <title>Giỏ hàng và gửi yêu cầu đặt hàng | Viễn Thông Hai Tháng Chín</title>
+    <meta name="description" content="Kiểm tra giỏ hàng, nhập thông tin nhận hàng, chọn phương thức thanh toán mong muốn và gửi yêu cầu đặt hàng." />
+    <link rel="stylesheet" href="/CSS/style.css?v=20261109-1" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;700&display=swap" rel="stylesheet" />
+    <link rel="icon" href="/img/logo/logo.png" />
+    <link rel="canonical" href="https://vienthong29.vn/gio-hang.html" />
+  </head>
+  <body>
+    <div class="website-container">
+      <div id="header"></div>
+      <div id="menu"></div>
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/trang-chu.html">Trang chủ</a><span aria-hidden="true">›</span>
+        <span aria-current="page">Giỏ hàng</span>
+      </nav>
+      <main class="checkout-page" id="main-content">
+        <header class="checkout-heading">
+          <h1>Giỏ hàng và đặt hàng</h1>
+          <p>Kiểm tra thông tin trước khi gửi yêu cầu. Nhân viên sẽ xác nhận tồn kho, giá cuối cùng, phí giao nhận và thanh toán với bạn.</p>
+        </header>
+        <ol class="checkout-steps" aria-label="Các bước đặt hàng">
+          <li data-step-indicator="cart" aria-current="step">1. Giỏ hàng</li>
+          <li data-step-indicator="customer">2. Thông tin nhận hàng</li>
+          <li data-step-indicator="review">3. Xem lại và xác nhận</li>
+        </ol>
+
+        <section class="checkout-panel" data-checkout-step="cart">
+          <h2>Sản phẩm đã chọn</h2>
+          <div class="cart-items" id="cart-items" aria-live="polite"></div>
+          <p class="cart-empty" id="cart-empty" hidden>Giỏ hàng đang trống. Hãy chọn sản phẩm trong danh mục trước.</p>
+          <div class="cart-total" id="cart-total"></div>
+          <div class="checkout-actions">
+            <a class="checkout-secondary" href="/">Tiếp tục xem sản phẩm</a>
+            <button class="checkout-primary" id="continue-to-customer" type="button">Tiếp tục đặt hàng</button>
+          </div>
+        </section>
+
+        <section class="checkout-panel" data-checkout-step="customer" hidden>
+          <h2>Thông tin người nhận hàng</h2>
+          <form id="checkout-form">
+            <div class="checkout-form-grid">
+              <label>Họ và tên <span aria-hidden="true">*</span><input name="name" autocomplete="name" required maxlength="120" /></label>
+              <label>Số điện thoại <span aria-hidden="true">*</span><input name="phone" type="tel" autocomplete="tel" inputmode="tel" required maxlength="30" /></label>
+              <label>Email (không bắt buộc)<input name="email" type="email" autocomplete="email" maxlength="160" /></label>
+              <label class="checkout-address">Địa chỉ nhận hàng <span aria-hidden="true">*</span><textarea name="address" autocomplete="street-address" required rows="3" maxlength="500"></textarea></label>
+              <label>Phương thức thanh toán mong muốn
+                <select name="payment" required>
+                  <option value="">Chọn phương thức</option>
+                  <option value="Chuyển khoản sau khi công ty xác nhận">Chuyển khoản sau khi công ty xác nhận</option>
+                  <option value="Thanh toán khi nhận hàng (đề nghị COD)">Thanh toán khi nhận hàng (đề nghị COD)</option>
+                  <option value="Trao đổi phương thức khác">Trao đổi phương thức khác</option>
+                </select>
+              </label>
+              <label class="checkout-notes">Ghi chú đơn hàng (không bắt buộc)<textarea name="notes" rows="3" maxlength="1000" placeholder="Thời gian nhận hàng, yêu cầu xuất hóa đơn, lắp đặt…"></textarea></label>
+            </div>
+            <p class="checkout-policy-note">Phương thức thanh toán, phạm vi/thời gian giao hàng và chi phí sẽ được công ty xác nhận riêng cho từng đơn. Chọn một phương thức ở đây là nêu đề nghị, chưa phải xác nhận công ty hỗ trợ phương thức đó.</p>
+            <label class="checkout-consent"><input type="checkbox" name="consent" required /> Tôi đã đọc <a href="/chinh-sach.html#privacy" target="_blank" rel="noopener">Chính sách bảo mật</a> và đồng ý gửi thông tin này cho công ty; thông tin cần thiết có thể được chuyển cho đơn vị giao nhận/thanh toán liên quan để xử lý đơn. <span aria-hidden="true">*</span></label>
+            <label class="checkout-consent"><input type="checkbox" name="terms" required /> Tôi đã xem lại giỏ hàng và đồng ý để nhân viên liên hệ xác nhận giá, phí và điều kiện giao dịch trước khi đơn được chấp nhận. <span aria-hidden="true">*</span></label>
+            <div class="checkout-actions">
+              <button class="checkout-secondary" data-go-step="cart" type="button">Quay lại giỏ hàng</button>
+              <button class="checkout-primary" type="submit">Xem lại đơn hàng</button>
+            </div>
+          </form>
+        </section>
+
+        <section class="checkout-panel" data-checkout-step="review" hidden>
+          <h2>Xem lại trước khi gửi</h2>
+          <div id="order-review" class="order-review"></div>
+          <p class="checkout-policy-note">Khi bấm xác nhận, website sẽ mở ứng dụng email với nội dung yêu cầu gửi đến info@vienthong29.vn. Bạn cần bấm “Gửi” trong ứng dụng email để công ty nhận được yêu cầu. Đây chưa phải xác nhận chấp nhận đơn hoặc xác nhận thanh toán.</p>
+          <div class="checkout-actions">
+            <button class="checkout-secondary" data-go-step="customer" type="button">Chỉnh sửa thông tin</button>
+            <button class="checkout-primary" id="confirm-order" type="button">Xác nhận và mở email gửi yêu cầu</button>
+          </div>
+        </section>
+
+        <section class="checkout-panel checkout-complete" data-checkout-step="complete" hidden aria-live="polite">
+          <h2>Yêu cầu đã được chuẩn bị</h2>
+          <p id="order-complete-message">Ứng dụng email đã được mở. Hãy kiểm tra nội dung và bấm “Gửi” để công ty nhận được yêu cầu.</p>
+          <p>Nếu email không mở, hãy gửi thông tin đơn hàng tới <a href="mailto:info@vienthong29.vn">info@vienthong29.vn</a> hoặc gọi <a href="tel:+84948182466">094 8182 466</a>.</p>
+          <div class="checkout-actions"><a class="checkout-primary" href="/trang-chu.html">Quay lại website</a></div>
+        </section>
+      </main>
+      <div id="footer"></div>
+      <div id="float"></div>
+    </div>
+    <script src="/js/load-layout.js?v=20261109-1"></script>
+    <script src="/js/script.js?v=20260720-1"></script>
+  </body>
+</html>

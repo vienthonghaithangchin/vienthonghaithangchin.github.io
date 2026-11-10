@@ -1325,6 +1325,35 @@ h5 {
   line-height: 1.8;
   color: #444;
 }
+.company-disclosure {
+  margin: 0 0 24px;
+  padding: 18px 20px;
+  border: 1px solid #f2c5ad;
+  border-left: 5px solid #ff5a00;
+  border-radius: 10px;
+  background: #fff8f3;
+}
+.company-disclosure h2 {
+  margin: 0 0 12px !important;
+  padding: 0 !important;
+  border: 0 !important;
+  color: #c94300 !important;
+  font-size: 20px !important;
+}
+.company-disclosure dl {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px 24px;
+  margin: 0;
+}
+.company-disclosure dl > div { min-width: 0; }
+.company-disclosure dt { font-weight: 700; color: #28384a; }
+.company-disclosure dd { margin: 0; overflow-wrap: anywhere; }
+.company-disclosure a { color: #075bbb; }
+@media (max-width: 640px) {
+  .company-disclosure { padding: 14px; }
+  .company-disclosure dl { grid-template-columns: 1fr; gap: 10px; }
+}
 
 .policy-content h3 {
   font-size: 22px;

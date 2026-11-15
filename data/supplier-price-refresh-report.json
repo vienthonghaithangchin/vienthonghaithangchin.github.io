@@ -1,0 +1,1968 @@
+{
+  "checkedAt": "2026-11-15T12:06:50+07:00",
+  "checked": 1798,
+  "changed": [
+    {
+      "id": "DH-H3AE",
+      "old": 460000,
+      "new": "Vui lòng gọi",
+      "sourcePrice": null
+    },
+    {
+      "id": "DH-IPC-HDW1439V-A-IL",
+      "old": 1240000,
+      "new": 1250000,
+      "sourcePrice": 1155000
+    },
+    {
+      "id": "DH-IPC-HFW1439TL1-A-IL",
+      "old": 1230000,
+      "new": "Vui lòng gọi",
+      "sourcePrice": null
+    },
+    {
+      "id": "DHI-NVR1108HS-S3/H",
+      "old": 1360000,
+      "new": 1380000,
+      "sourcePrice": 1280000
+    },
+    {
+      "id": "DHI-NVR1104HS-S3/H",
+      "old": 790000,
+      "new": 800000,
+      "sourcePrice": 740000
+    },
+    {
+      "id": "H8C Pro 2K+",
+      "old": 940000,
+      "new": 920000,
+      "sourcePrice": 850000
+    },
+    {
+      "id": "DS-7732NI-M4",
+      "old": 14690000,
+      "new": 14850000,
+      "sourcePrice": 13750000
+    },
+    {
+      "id": "DS-3E1518P-EI",
+      "old": 4770000,
+      "new": "Vui lòng gọi",
+      "sourcePrice": null
+    },
+    {
+      "id": "DS-3E1309P-EI",
+      "old": 1400000,
+      "new": 1410000,
+      "sourcePrice": 1310000
+    },
+    {
+      "id": "DS-7608NXI-K1",
+      "old": 2480000,
+      "new": 2570000,
+      "sourcePrice": 2380000
+    },
+    {
+      "id": "EAP610",
+      "old": 2180000,
+      "new": 2170000,
+      "sourcePrice": 2010000
+    },
+    {
+      "id": "DH-HAC-HFW1200RLP-IL-T",
+      "old": 380000,
+      "new": 420000,
+      "sourcePrice": 390000
+    },
+    {
+      "id": "DH-IPC-HDBW3449E-AS-IL",
+      "old": 2300000,
+      "new": 2290000,
+      "sourcePrice": 2125000
+    },
+    {
+      "id": "DH-IPC-HDPW1230R1-S5",
+      "old": 750000,
+      "new": 760000,
+      "sourcePrice": 700000
+    },
+    {
+      "id": "DS-2CD1T41G2-LIU",
+      "old": 1470000,
+      "new": 1440000,
+      "sourcePrice": 1330000
+    },
+    {
+      "id": "DS-2CD1321G2-LIU",
+      "old": 850000,
+      "new": 890000,
+      "sourcePrice": 820000
+    },
+    {
+      "id": "DH-IPC-HFW1439TL1-A-IL-VN",
+      "old": "Vui lòng gọi",
+      "new": 1250000,
+      "sourcePrice": 1155000
+    },
+    {
+      "id": "DH-IPC-HDW1230T2-A",
+      "old": "Vui lòng gọi",
+      "new": 830000,
+      "sourcePrice": 770000
+    },
+    {
+      "id": "DH-IPC-HFW2449TL-S-PRO",
+      "old": 1990000,
+      "new": 2010000,
+      "sourcePrice": 1860000
+    },
+    {
+      "id": "DH-IPC-HDW1439V-A-IL-VN",
+      "old": 1240000,
+      "new": "Vui lòng gọi",
+      "sourcePrice": null
+    },
+    {
+      "id": "DH-IPC-HFW2249T-AS-IL",
+      "old": 1800000,
+      "new": 1810000,
+      "sourcePrice": 1680000
+    },
+    {
+      "id": "DH-P3B-PV",
+      "old": 770000,
+      "new": 810000,
+      "sourcePrice": 750000
+    },
+    {
+      "id": "DH-IPC-HDW1339DA-SW-PV",
+      "old": 870000,
+      "new": 860000,
+      "sourcePrice": 795000
+    },
+    {
+      "id": "DH-IPC-HFW2449S-S-IL",
+      "old": 1770000,
+      "new": "Vui lòng gọi",
+      "sourcePrice": null
+    },
+    {
+      "id": "DHI-NVR4232-4KS3",
+      "old": 4410000,
+      "new": 4670000,
+      "sourcePrice": 4320000
+    },
+    {
+      "id": "DHI-NVR4216-4KS3",
+      "old": 4080000,
+      "new": 4220000,
+      "sourcePrice": 3910000
+    },
+    {
+      "id": "DHI-NVR4108HS-4KS3-VN",
+      "old": 2690000,
+      "new": 2720000,
+      "sourcePrice": 2520000
+    },
+    {
+      "id": "DHI-NVR1104HS-S3/H-VN",
+      "old": 790000,
+      "new": 800000,
+      "sourcePrice": 740000
+    },
+    {
+      "id": "DHI-NVR4104HS-4KS3",
+      "old": 1810000,
+      "new": "Vui lòng gọi",
+      "sourcePrice": null
+    },
+    {
+      "id": "DHI-NVR4208-4KS3",
+      "old": 3590000,
+      "new": 3870000,
+      "sourcePrice": 3580000
+    },
+    {
+      "id": "DHI-NVR5832-EI",
+      "old": 18950000,
+      "new": "Vui lòng gọi",
+      "sourcePrice": null
+    },
+    {
+      "id": "DHI-NVR1108HS-S3/H-VN",
+      "old": 1360000,
+      "new": 1380000,
+      "sourcePrice": 1280000
+    },
+    {
+      "id": "DHI-NVR2116HS-4KS3",
+      "old": 2750000,
+      "new": "Vui lòng gọi",
+      "sourcePrice": null
+    },
+    {
+      "id": "DHI-NVR4232-EI",
+      "old": 5780000,
+      "new": 5810000,
+      "sourcePrice": 5380000
+    },
+    {
+      "id": "DH-S3010-8ET2ET-60",
+      "old": 790000,
+      "new": 720000,
+      "sourcePrice": 670000
+    },
+    {
+      "id": "IPC-A32EP-L",
+      "old": 450000,
+      "new": 470000,
+      "sourcePrice": 435000
+    },
+    {
+      "id": "IPC-S3EP-5M0WE",
+      "old": 950000,
+      "new": 930000,
+      "sourcePrice": 858000
+    },
+    {
+      "id": "IPC-S3EP-3M0WE",
+      "old": 850000,
+      "new": 830000,
+      "sourcePrice": 770000
+    },
+    {
+      "id": "IPC-S7XEP-10M0WED",
+      "old": 1490000,
+      "new": 1590000,
+      "sourcePrice": 1470000
+    },
+    {
+      "id": "IPC-S51FEP",
+      "old": 870000,
+      "new": 1020000,
+      "sourcePrice": 940000
+    },
+    {
+      "id": "IPC-GK2DP-5C0W",
+      "old": 720000,
+      "new": "Vui lòng gọi",
+      "sourcePrice": null
+    },
+    {
+      "id": "IPC-S2XEP-6M0S",
+      "old": 850000,
+      "new": 860000,
+      "sourcePrice": 800000
+    },
+    {
+      "id": "HB8 + Tấm Pin",
+      "old": 2920000,
+      "new": 2890000,
+      "sourcePrice": 2680000
+    },
+    {
+      "id": "H9C Dual 3K",
+      "old": 1470000,
+      "new": 1410000,
+      "sourcePrice": 1305000
+    },
+    {
+      "id": "iDS-7216HQHI-M1/E",
+      "old": 4560000,
+      "new": 4670000,
+      "sourcePrice": 4320000
+    },
+    {
+      "id": "iDS-7216HQHI-M2/XT",
+      "old": 6800000,
+      "new": 7070000,
+      "sourcePrice": 6550000
+    },
+    {
+      "id": "iDS-7232HQHI-M2/XT",
+      "old": 10630000,
+      "new": 11180000,
+      "sourcePrice": 10350000
+    },
+    {
+      "id": "iDS-7208HQHI-M1/E",
+      "old": 2530000,
+      "new": 2570000,
+      "sourcePrice": 2380000
+    },
+    {
+      "id": "iDS-7204HQHI-M1/XT",
+      "old": 2080000,
+      "new": 2180000,
+      "sourcePrice": 2020000
+    },
+    {
+      "id": "iDS-7216HQHI-M1/XT",
+      "old": 5530000,
+      "new": 5690000,
+      "sourcePrice": 5270000
+    },
+    {
+      "id": "iDS-7208HUHI-M2/X",
+      "old": 4220000,
+      "new": 4300000,
+      "sourcePrice": 3980000
+    },
+    {
+      "id": "DS-9632NI-M16",
+      "old": 43170000,
+      "new": 45630000,
+      "sourcePrice": 42250000
+    },
+    {
+      "id": "DS-9632NI-M8",
+      "old": 31320000,
+      "new": 32780000,
+      "sourcePrice": 30350000
+    },
+    {
+      "id": "DS-7104NI-Q1/4P/M",
+      "old": 2410000,
+      "new": "Vui lòng gọi",
+      "sourcePrice": null
+    },
+    {
+      "id": "DS-9664NI-M16",
+      "old": 58700000,
+      "new": 69820000,
+      "sourcePrice": 64650000
+    },
+    {
+      "id": "DS-7764NI-M4",
+      "old": 22790000,
+      "new": 25330000,
+      "sourcePrice": 23450000
+    },
+    {
+      "id": "DS-9664NI-M8",
+      "old": 43170000,
+      "new": 45550000,
+      "sourcePrice": 42180000
+    },
+    {
+      "id": "DS-7108NI-Q1/8P/M",
+      "old": 3120000,
+      "new": 3210000,
+      "sourcePrice": 2970000
+    },
+    {
+      "id": "DS-7608NXI-K1/8P",
+      "old": 4550000,
+      "new": 4590000,
+      "sourcePrice": 4250000
+    },
+    {
+      "id": "DS-3E1318P-EI/M",
+      "old": 3220000,
+      "new": 3260000,
+      "sourcePrice": 3020000
+    },
+    {
+      "id": "DS-3E1310HP-EI",
+      "old": 1860000,
+      "new": "Vui lòng gọi",
+      "sourcePrice": null
+    },
+    {
+      "id": "DS-3E1510P-SI",
+      "old": 3620000,
+      "new": 3730000,
+      "sourcePrice": 3450000
+    },
+    {
+      "id": "DS-2CE17D0T-EXLF",
+      "old": 680000,
+      "new": 700000,
+      "sourcePrice": 645000
+    },
+    {
+      "id": "DS-2CE16D0T-EXLF",
+      "old": 450000,
+      "new": 490000,
+      "sourcePrice": 455000
+    },
+    {
+      "id": "DS-2CE16D0T-EXLPF",
+      "old": 440000,
+      "new": 450000,
+      "sourcePrice": 420000
+    },
+    {
+      "id": "DS-2CE76D0T-EXLPF",
+      "old": 390000,
+      "new": 400000,
+      "sourcePrice": 372000
+    },
+    {
+      "id": "DS-2CE76D0T-EXLMF",
+      "old": 470000,
+      "new": 450000,
+      "sourcePrice": 420000
+    },
+    {
+      "id": "DS-2CE16D0T-LTS",
+      "old": 600000,
+      "new": 620000,
+      "sourcePrice": 575000
+    },
+    {
+      "id": "DS-2CE17D0T-LTS",
+      "old": 630000,
+      "new": 650000,
+      "sourcePrice": 600000
+    },
+    {
+      "id": "DS-2CE70DF0T-MFS",
+      "old": 690000,
+      "new": 720000,
+      "sourcePrice": 665000
+    },
+    {
+      "id": "DS-2CE78D0T-LTS",
+      "old": 620000,
+      "new": 640000,
+      "sourcePrice": 595000
+    },
+    {
+      "id": "DS-2CE10KF0T-FS",
+      "old": 950000,
+      "new": 940000,
+      "sourcePrice": 875000
+    },
+    {
+      "id": "DS-2CE16H0T-ITFS",
+      "old": 860000,
+      "new": 890000,
+      "sourcePrice": 820000
+    },
+    {
+      "id": "DS-2CD1T47G2H-LIUF",
+      "old": "Vui lòng gọi",
+      "new": 1840000,
+      "sourcePrice": 1700000
+    },
+    {
+      "id": "DS-2CD2T41G1-I (C)",
+      "old": 2150000,
+      "new": 2240000,
+      "sourcePrice": 2070000
+    },
+    {
+      "id": "C1200-16T-2G",
+      "old": 9160000,
+      "new": 9370000,
+      "sourcePrice": 8680000
+    },
+    {
+      "id": "CBS110-8T-D-EU",
+      "old": 1480000,
+      "new": 1380000,
+      "sourcePrice": 1280000
+    },
+    {
+      "id": "Vigor2927",
+      "old": "Vui lòng gọi",
+      "new": 5150000,
+      "sourcePrice": 4770000
+    },
+    {
+      "id": "Instant On AP11 (RW) Access Point R2W96A",
+      "old": 2570000,
+      "new": 2720000,
+      "sourcePrice": 2520000
+    },
+    {
+      "id": "IO AP22 (RW) WiFi 6 Indoor Access Point (R4W02A)",
+      "old": 6450000,
+      "new": 6750000,
+      "sourcePrice": 6250000
+    },
+    {
+      "id": "IO 1430 8G Class4 PoE 64W Switch (R8R46A)",
+      "old": 3670000,
+      "new": 4540000,
+      "sourcePrice": 4200000
+    },
+    {
+      "id": "Instant On 1830 8G PoE Switch JL811A",
+      "old": 2320000,
+      "new": 2460000,
+      "sourcePrice": 2280000
+    },
+    {
+      "id": "Archer C64",
+      "old": 680000,
+      "new": "Vui lòng gọi",
+      "sourcePrice": null
+    },
+    {
+      "id": "TL-SG1016D",
+      "old": 1380000,
+      "new": 1470000,
+      "sourcePrice": 1360000
+    },
+    {
+      "id": "TL-SG1024D",
+      "old": 2000000,
+      "new": 1990000,
+      "sourcePrice": 1840000
+    },
+    {
+      "id": "TL-SG105E",
+      "old": 630000,
+      "new": 660000,
+      "sourcePrice": 610000
+    },
+    {
+      "id": "TL-SG1210P",
+      "old": 1710000,
+      "new": "Vui lòng gọi",
+      "sourcePrice": null
+    },
+    {
+      "id": "ES205G",
+      "old": 560000,
+      "new": 550000,
+      "sourcePrice": 510000
+    },
+    {
+      "id": "USW-24-PoE",
+      "old": 16080000,
+      "new": 16520000,
+      "sourcePrice": 15295000
+    },
+    {
+      "id": "USW-Lite-16-PoE",
+      "old": 8480000,
+      "new": "Vui lòng gọi",
+      "sourcePrice": null
+    },
+    {
+      "id": "USW-Flex-Mini",
+      "old": 1360000,
+      "new": "Vui lòng gọi",
+      "sourcePrice": null
+    },
+    {
+      "id": "DH-CS4218-16ET-135",
+      "old": 2950000,
+      "new": 2970000,
+      "sourcePrice": 2750000
+    },
+    {
+      "id": "DH-S3016-16GT",
+      "old": 1440000,
+      "new": 1450000,
+      "sourcePrice": 1345000
+    },
+    {
+      "id": "DH-S3024-24GT",
+      "old": 1920000,
+      "new": 2020000,
+      "sourcePrice": 1870000
+    },
+    {
+      "id": "DH-CS4006-4ET2GT-36",
+      "old": 610000,
+      "new": 630000,
+      "sourcePrice": 585000
+    },
+    {
+      "id": "DH-HAC-HFW1200RLP-IL-T-VN",
+      "old": 380000,
+      "new": 420000,
+      "sourcePrice": 390000
+    },
+    {
+      "id": "DH-HAC-T1A21P-VN",
+      "old": 350000,
+      "new": 340000,
+      "sourcePrice": 318000
+    },
+    {
+      "id": "DH-IPC-HDW2849T-S-PRO",
+      "old": 2750000,
+      "new": 2740000,
+      "sourcePrice": 2540000
+    },
+    {
+      "id": "DHI-VTO2211G-WP-S2",
+      "old": 2650000,
+      "new": 2720000,
+      "sourcePrice": 2520000
+    },
+    {
+      "id": "DH-PFM922I-5EUN-C",
+      "old": 1040000,
+      "new": 1110000,
+      "sourcePrice": 1030000
+    },
+    {
+      "id": "DH-XVR1B08-I/T-VN",
+      "old": 1280000,
+      "new": 1290000,
+      "sourcePrice": 1190000
+    },
+    {
+      "id": "DS-J142I/NKS422W0H",
+      "old": 1530000,
+      "new": 1470000,
+      "sourcePrice": 1360000
+    },
+    {
+      "id": "DS-2CD1327G2-L",
+      "old": 1270000,
+      "new": 1310000,
+      "sourcePrice": 1210000
+    },
+    {
+      "id": "DS-KH6350-WTE1",
+      "old": 2760000,
+      "new": 2860000,
+      "sourcePrice": 2650000
+    },
+    {
+      "id": "DS-KH6320-WTE1",
+      "old": 2670000,
+      "new": 2680000,
+      "sourcePrice": 2480000
+    },
+    {
+      "id": "DS-K1T342MFX-E1",
+      "old": 3910000,
+      "new": 3890000,
+      "sourcePrice": 3600000
+    },
+    {
+      "id": "MC210CS",
+      "old": 560000,
+      "new": 520000,
+      "sourcePrice": 485000
+    },
+    {
+      "id": "MC111CS",
+      "old": 460000,
+      "new": 440000,
+      "sourcePrice": 410000
+    },
+    {
+      "id": "MC112CS",
+      "old": 460000,
+      "new": 440000,
+      "sourcePrice": 410000
+    }
+  ],
+  "unchanged": 1498,
+  "skipped": [
+    {
+      "id": "U-POE",
+      "status": "priced",
+      "sourceTitle": "Nguồn PoE UBIQUITI UniFi U-POE-AF",
+      "sourceUrl": "https://www.sieuthivienthong.com/nguon-poe-ubiquiti-unifi-u-poe-af-72259.html",
+      "sourcePrice": 455000,
+      "vatIncluded": true
+    },
+    {
+      "id": "U-POE+",
+      "status": "priced",
+      "sourceTitle": "Nguồn PoE UBIQUITI UniFi U-POE-AF",
+      "sourceUrl": "https://www.sieuthivienthong.com/nguon-poe-ubiquiti-unifi-u-poe-af-72259.html",
+      "sourcePrice": 455000,
+      "vatIncluded": true
+    },
+    {
+      "id": "S20",
+      "status": "contact",
+      "sourceTitle": "Tổng đài IP Yeastar S20-4FXO",
+      "sourceUrl": "https://www.sieuthivienthong.com/tong-dai-ip-yeastar-s20-4fxo-33370.html"
+    },
+    {
+      "id": "RG-EG105G-P",
+      "status": "priced",
+      "sourceTitle": "Cloud Managed PoE Router RUIJIE Reyee RG-EG105G-P-V3",
+      "sourceUrl": "https://www.sieuthivienthong.com/cloud-managed-poe-router-ruijie-reyee-rg-eg105g-p-v3-86936.html",
+      "sourcePrice": 2145000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-EG105G",
+      "status": "priced",
+      "sourceTitle": "Cloud Managed Router RUIJIE Reyee RG-EG105G-V3",
+      "sourceUrl": "https://www.sieuthivienthong.com/cloud-managed-router-ruijie-reyee-rg-eg105g-v3-86933.html",
+      "sourcePrice": 1715000,
+      "vatIncluded": true
+    },
+    {
+      "id": "S50",
+      "status": "contact",
+      "sourceTitle": "Tổng đài IP Yeastar S50-8FXO",
+      "sourceUrl": "https://www.sieuthivienthong.com/tong-dai-ip-yeastar-s50-8fxo-33373.html"
+    },
+    {
+      "id": "RG-EG105GW",
+      "status": "priced",
+      "sourceTitle": "Business Router RUIJIE RG-EG105GW(T)",
+      "sourceUrl": "https://www.sieuthivienthong.com/business-router-ruijie-rg-eg105gwt-69679.html",
+      "sourcePrice": 2035000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-ES205GC",
+      "status": "contact",
+      "sourceTitle": "4-port 10/100/1000Base-T PoE Switch RUIJIE RG-ES205GC-P",
+      "sourceUrl": "https://www.sieuthivienthong.com/4-port-101001000base-t-poe-switch-ruijie-rg-es205gc-p-45141.html"
+    },
+    {
+      "id": "RG-EW1300G",
+      "status": "priced",
+      "sourceTitle": "Gigabit Wireless Router RUIJIE RG-EW1300G",
+      "sourceUrl": "https://www.sieuthivienthong.com/gigabit-wireless-router-ruijie-rg-ew1300g-85522.html",
+      "sourcePrice": 775000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-NBS3100-24GT4SFP",
+      "status": "priced",
+      "sourceTitle": "24-Port GE Switch RUIJIE RG-NBS3100-24GT4SFP-V2",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-ge-switch-ruijie-rg-nbs3100-24gt4sfp-v2-84209.html",
+      "sourcePrice": 3720000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-NBS3200-24GT4XS",
+      "status": "contact",
+      "sourceTitle": "24-port Gigabit Managed Switch RUIJIE RG-NBS3200-24GT4XS",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-gigabit-managed-switch-ruijie-rg-nbs3200-24gt4xs-48296.html"
+    },
+    {
+      "id": "RG-NBS3100-8GT2SFP",
+      "status": "priced",
+      "sourceTitle": "8-Port GE PoE Switch RUIJIE RG-NBS3100-8GT2SFP-P-V2",
+      "sourceUrl": "https://www.sieuthivienthong.com/8-port-ge-poe-switch-ruijie-rg-nbs3100-8gt2sfp-p-v2-84208.html",
+      "sourcePrice": 4210000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-NBS3100-8GT2SFP-P",
+      "status": "priced",
+      "sourceTitle": "8-Port GE PoE Switch RUIJIE RG-NBS3100-8GT2SFP-P-V2",
+      "sourceUrl": "https://www.sieuthivienthong.com/8-port-ge-poe-switch-ruijie-rg-nbs3100-8gt2sfp-p-v2-84208.html",
+      "sourcePrice": 4210000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-NBS3100-24GT4SFP-P",
+      "status": "contact",
+      "sourceTitle": "24-port GE PoE Switch RUIJIE RG-NBS3100-24GT4SFP-P",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-ge-poe-switch-ruijie-rg-nbs3100-24gt4sfp-p-48293.html"
+    },
+    {
+      "id": "RG-NBS3200-48GT4XS",
+      "status": "priced",
+      "sourceTitle": "48-port Gigabit Managed Switch RUIJIE RG-NBS3200-48GT4XS",
+      "sourceUrl": "https://www.sieuthivienthong.com/48-port-gigabit-managed-switch-ruijie-rg-nbs3200-48gt4xs-48299.html",
+      "sourcePrice": 8950000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-NBS5100-24GT4SFP",
+      "status": "contact",
+      "sourceTitle": "24-Port GE PoE Switch RUIJIE RG-NBS5100-24GT4SFP-P",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-ge-poe-switch-ruijie-rg-nbs5100-24gt4sfp-p-79622.html"
+    },
+    {
+      "id": "RG-NBS5200-24GT4XS",
+      "status": "contact",
+      "sourceTitle": "24-port GE PoE Switch RUIJIE RG-NBS5200-24GT4XS-P",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-ge-poe-switch-ruijie-rg-nbs5200-24gt4xs-p-78870.html"
+    },
+    {
+      "id": "RG-NBS5200-48GT4XS",
+      "status": "contact",
+      "sourceTitle": "48-Port GE PoE Switch RUIJIE RG-NBS5200-48GT4XS-UP",
+      "sourceUrl": "https://www.sieuthivienthong.com/48-port-ge-poe-switch-ruijie-rg-nbs5200-48gt4xs-up-84261.html"
+    },
+    {
+      "id": "RG-RAP1200(P)",
+      "status": "contact",
+      "sourceTitle": "Wall Plate Access Point RUIJIE RG-RAP1200(P)",
+      "sourceUrl": "https://www.sieuthivienthong.com/wall-plate-access-point-ruijie-rg-rap1200p-55652.html"
+    },
+    {
+      "id": "RG-RAP6262",
+      "status": "contact",
+      "sourceTitle": "Outdoor Access Point RUIJIE RG-RAP6262",
+      "sourceUrl": "https://www.sieuthivienthong.com/outdoor-access-point-ruijie-rg-rap6262-79624.html"
+    },
+    {
+      "id": "DH-PFM920I-5EUN",
+      "status": "contact",
+      "sourceTitle": "Cáp mạng CAT5E UTP DAHUA DH-PFM920I-5EUN-m",
+      "sourceUrl": "https://www.sieuthivienthong.com/cap-mang-cat5e-utp-dahua-dh-pfm920i-5eun-m-84195.html"
+    },
+    {
+      "id": "DS-MDT201",
+      "status": "priced",
+      "sourceTitle": "Máy quét mã vạch cầm tay không dây HIKVISION DS-MDT201 (DS-MDT201/4&64G/GLE/AI)",
+      "sourceUrl": "https://www.sieuthivienthong.com/may-quet-ma-vach-cam-tay-khong-day-hikvision-ds-mdt201-ds-mdt2014-64ggleai-87799.html",
+      "sourcePrice": 11028000,
+      "vatIncluded": false
+    },
+    {
+      "id": "DS-PTZ",
+      "status": "priced",
+      "sourceTitle": "Webcam PTZ cho phòng họp HIKVISION DS-PTZ Pro02",
+      "sourceUrl": "https://www.sieuthivienthong.com/webcam-ptz-cho-phong-hop-hikvision-ds-ptz-pro02-90418.html",
+      "sourcePrice": 7824000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-KABV8113-RS",
+      "status": "priced",
+      "sourceTitle": "Vỏ che chuông cửa HIKVISION DS-KABV8113-RS Surface",
+      "sourceUrl": "https://www.sieuthivienthong.com/vo-che-chuong-cua-hikvision-ds-kabv8113-rs-surface-56583.html",
+      "sourcePrice": 275000,
+      "vatIncluded": true
+    },
+    {
+      "id": "VIGI C220I",
+      "status": "priced",
+      "sourceTitle": "Camera IP 2MP TP-LINK VIGI C220I (2.8mm)",
+      "sourceUrl": "https://www.sieuthivienthong.com/camera-ip-2mp-tp-link-vigi-c220i-28mm-71825.html",
+      "sourcePrice": 655000,
+      "vatIncluded": true
+    },
+    {
+      "id": "VIGI C420I",
+      "status": "priced",
+      "sourceTitle": "Camera IP 2MP TP-LINK VIGI C420I (2.8mm)",
+      "sourceUrl": "https://www.sieuthivienthong.com/camera-ip-2mp-tp-link-vigi-c420i-28mm-71829.html",
+      "sourcePrice": 555000,
+      "vatIncluded": true
+    },
+    {
+      "id": "VIGI C230I",
+      "status": "priced",
+      "sourceTitle": "Camera IP 3MP TP-LINK VIGI C230I (2.8mm)",
+      "sourceUrl": "https://www.sieuthivienthong.com/camera-ip-3mp-tp-link-vigi-c230i-28mm-71822.html",
+      "sourcePrice": 785000,
+      "vatIncluded": true
+    },
+    {
+      "id": "VIGI C340I",
+      "status": "priced",
+      "sourceTitle": "Camera IP 4MP TP-LINK VIGI C340I (2.8mm)",
+      "sourceUrl": "https://www.sieuthivienthong.com/camera-ip-4mp-tp-link-vigi-c340i-28mm-73281.html",
+      "sourcePrice": 870000,
+      "vatIncluded": true
+    },
+    {
+      "id": "VIGI C430I",
+      "status": "priced",
+      "sourceTitle": "Camera IP 3MP TP-LINK VIGI C430I (2.8mm)",
+      "sourceUrl": "https://www.sieuthivienthong.com/camera-ip-3mp-tp-link-vigi-c430i-28mm-71817.html",
+      "sourcePrice": 635000,
+      "vatIncluded": true
+    },
+    {
+      "id": "Deco E4",
+      "status": "priced",
+      "sourceTitle": "Hệ thống Wi-Fi Mesh AC1200 TP-Link Deco E4 (1-Pack)",
+      "sourceUrl": "https://www.sieuthivienthong.com/he-thong-wi-fi-mesh-ac1200-tp-link-deco-e4-1-pack-36791.html",
+      "sourcePrice": 658000,
+      "vatIncluded": true
+    },
+    {
+      "id": "Deco X20",
+      "status": "priced",
+      "sourceTitle": "Hệ thống Wi-Fi 6 Mesh AX1800 TP-LINK Deco X20 (1-pack)",
+      "sourceUrl": "https://www.sieuthivienthong.com/he-thong-wi-fi-6-mesh-ax1800-tp-link-deco-x20-1-pack-49325.html",
+      "sourcePrice": 1465000,
+      "vatIncluded": true
+    },
+    {
+      "id": "Deco X60",
+      "status": "priced",
+      "sourceTitle": "Hệ thống Mesh Wi-Fi 6 AX5400 TP-LINK Deco X60 (3-pack)",
+      "sourceUrl": "https://www.sieuthivienthong.com/he-thong-mesh-wi-fi-6-ax5400-tp-link-deco-x60-3-pack-49317.html",
+      "sourcePrice": 5570000,
+      "vatIncluded": true
+    },
+    {
+      "id": "Deco M4",
+      "status": "priced",
+      "sourceTitle": "Hệ thống Mesh Wi-Fi AC1200 TP-LINK Deco M4 (1-Pack)",
+      "sourceUrl": "https://www.sieuthivienthong.com/he-thong-mesh-wi-fi-ac1200-tp-link-deco-m4-1-pack-32127.html",
+      "sourcePrice": 885000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-ES05G",
+      "status": "priced",
+      "sourceTitle": "5-Port GE Unmanaged Non-PoE Switch RUIJIE RG-ES05G-L",
+      "sourceUrl": "https://www.sieuthivienthong.com/5-port-ge-unmanaged-non-poe-switch-ruijie-rg-es05g-l-84199.html",
+      "sourcePrice": 258000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-ES08G",
+      "status": "priced",
+      "sourceTitle": "8-Port GE Unmanaged Non-PoE Switch RUIJIE RG-ES08G-L",
+      "sourceUrl": "https://www.sieuthivienthong.com/8-port-ge-unmanaged-non-poe-switch-ruijie-rg-es08g-l-84201.html",
+      "sourcePrice": 445000,
+      "vatIncluded": true
+    },
+    {
+      "id": "IPC-S2XP-6M0WED",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/camera-ip-wifi-3mp3mp-imou-ipc-s2xp-6m0wed-83976.html"
+    },
+    {
+      "id": "IPC-A22EP-L",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/camera-ip-pt-wifi-2mp-imou-ipc-a22ep-l-89173.html"
+    },
+    {
+      "id": "IPC-S2XP-10M0WED",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/camera-ip-wifi-5mp5mp-imou-ipc-s2xp-10m0wed-83973.html"
+    },
+    {
+      "id": "IPC-GS2DP-3K0W",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/camera-ip-pt-wifi-3mp-imou-ipc-gs2dp-3k0w-89170.html"
+    },
+    {
+      "id": "H6C Pro 3K",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/camera-ip-wifi-quay-quet-5mp-ezviz-h6c-pro-3k-87435.html"
+    },
+    {
+      "id": "DS-7608NI-K2",
+      "status": "contact",
+      "sourceTitle": "Đầu ghi hình camera IP 8 kênh HIKVISION DS-7608NI-K2/8P",
+      "sourceUrl": "https://www.sieuthivienthong.com/dau-ghi-hinh-camera-ip-8-kenh-hikvision-ds-7608ni-k28p-20319.html"
+    },
+    {
+      "id": "DS-2CD1021G0-I",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/camera-ip-2mp-hikvision-ds-2cd1021g0-i-79760.html"
+    },
+    {
+      "id": "Module-LTE-Yeastar",
+      "status": "priced",
+      "sourceTitle": "Module LTE Yeastar",
+      "sourceUrl": "https://www.sieuthivienthong.com/module-lte-yeastar-81150.html",
+      "sourcePrice": 5850000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-ANT16S-120",
+      "status": "contact",
+      "sourceTitle": "Sector Antenna RUIJIE RG-ANT16S-120",
+      "sourceUrl": "https://www.sieuthivienthong.com/sector-antenna-ruijie-rg-ant16s-120-84231.html"
+    },
+    {
+      "id": "NIS-GE-SFP-550M-MM850",
+      "status": "contact",
+      "sourceTitle": "SFP Transceiver Module RUIJIE NIS-GE-SFP-550M-MM850",
+      "sourceUrl": "https://www.sieuthivienthong.com/sfp-transceiver-module-ruijie-nis-ge-sfp-550m-mm850-84252.html"
+    },
+    {
+      "id": "RG-ANT13-360",
+      "status": "contact",
+      "sourceTitle": "Omnidirectiona Antenna RUIJIE RG-ANT13-360",
+      "sourceUrl": "https://www.sieuthivienthong.com/omnidirectiona-antenna-ruijie-rg-ant13-360-84233.html"
+    },
+    {
+      "id": "RG-ANTx3-5800D",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/outdoor-directional-antenna-ruijie-rg-antx3-5800d-55703.html"
+    },
+    {
+      "id": "RG-ANTx3-2400＆5800(O)",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/antenna-ruijie-rg-antx3-24005800o-55697.html"
+    },
+    {
+      "id": "RG-ANT20S-90",
+      "status": "contact",
+      "sourceTitle": "Sector Antenna RUIJIE RG-ANT20S-90",
+      "sourceUrl": "https://www.sieuthivienthong.com/sector-antenna-ruijie-rg-ant20s-90-84229.html"
+    },
+    {
+      "id": "RG-AP630(IDA2)",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/outdoor-wireless-access-point-ruijie-rg-ap630ida2-55692.html"
+    },
+    {
+      "id": "RG-AP180",
+      "status": "contact",
+      "sourceTitle": "Access Point Mounting Kit RUIJIE RG-AP180-MNT",
+      "sourceUrl": "https://www.sieuthivienthong.com/access-point-mounting-kit-ruijie-rg-ap180-mnt-87220.html"
+    },
+    {
+      "id": "RG-AP820-L(V3)",
+      "status": "contact",
+      "sourceTitle": "AX3000 Wi-Fi 6 Indoor Access Point RUIJIE RG-AP820-L(V3)",
+      "sourceUrl": "https://www.sieuthivienthong.com/ax3000-wi-fi-6-indoor-access-point-ruijie-rg-ap820-lv3-64628.html"
+    },
+    {
+      "id": "RG-AP880-L",
+      "status": "contact",
+      "sourceTitle": "Wifi 6E Indoor Access Point RUIJIE RG-AP880-L",
+      "sourceUrl": "https://www.sieuthivienthong.com/wifi-6e-indoor-access-point-ruijie-rg-ap880-l-90056.html"
+    },
+    {
+      "id": "RG-AirMetro460F",
+      "status": "contact",
+      "sourceTitle": "Wireless Bridge CPE RUIJIE RG-AirMetro460F",
+      "sourceUrl": "https://www.sieuthivienthong.com/wireless-bridge-cpe-ruijie-rg-airmetro460f-84226.html"
+    },
+    {
+      "id": "RG-AirMetro550G-B",
+      "status": "contact",
+      "sourceTitle": "867Mbps Wireless Bridge RUIJIE RG-AirMetro550G-B",
+      "sourceUrl": "https://www.sieuthivienthong.com/867mbps-wireless-bridge-ruijie-rg-airmetro550g-b-84222.html"
+    },
+    {
+      "id": "RG-EG105G-P V2",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/reyee-cloud-managed-poe-router-ruijie-rg-eg105g-p-v2-66731.html"
+    },
+    {
+      "id": "RG-AirMetro460G",
+      "status": "contact",
+      "sourceTitle": "Wireless Bridge CPE RUIJIE RG-AirMetro460G",
+      "sourceUrl": "https://www.sieuthivienthong.com/wireless-bridge-cpe-ruijie-rg-airmetro460g-84224.html"
+    },
+    {
+      "id": "RG-EG105GW-X",
+      "status": "priced",
+      "sourceTitle": "Business Router RUIJIE RG-EG105GW-X",
+      "sourceUrl": "https://www.sieuthivienthong.com/business-router-ruijie-rg-eg105gw-x-79648.html",
+      "sourcePrice": 3270000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-EG105GW(T)",
+      "status": "priced",
+      "sourceTitle": "Business Router RUIJIE RG-EG105GW(T)",
+      "sourceUrl": "https://www.sieuthivienthong.com/business-router-ruijie-rg-eg105gwt-69679.html",
+      "sourcePrice": 2035000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-EG209GS",
+      "status": "priced",
+      "sourceTitle": "9-Port Gigabit Cloud Managed SFP Router RUIJIE RG-EG209GS",
+      "sourceUrl": "https://www.sieuthivienthong.com/9-port-gigabit-cloud-managed-sfp-router-ruijie-rg-eg209gs-68577.html",
+      "sourcePrice": 2175000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-EG210G-P",
+      "status": "priced",
+      "sourceTitle": "Cloud Managed PoE Router RUIJIE Reyee RG-EG210G-P-V3",
+      "sourceUrl": "https://www.sieuthivienthong.com/cloud-managed-poe-router-ruijie-reyee-rg-eg210g-p-v3-86938.html",
+      "sourcePrice": 3480000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-EG2100-P V2",
+      "status": "contact",
+      "sourceTitle": "8-port Gigabit Smart Gateway RUIJIE RG-EG2100-P V2",
+      "sourceUrl": "https://www.sieuthivienthong.com/8-port-gigabit-smart-gateway-ruijie-rg-eg2100-p-v2-36032.html"
+    },
+    {
+      "id": "RG-EG3000XE",
+      "status": "contact",
+      "sourceTitle": "Gateway RUIJIE RG-EG3000XE",
+      "sourceUrl": "https://www.sieuthivienthong.com/gateway-ruijie-rg-eg3000xe-41202.html"
+    },
+    {
+      "id": "RG-EG210G-P-V3",
+      "status": "priced",
+      "sourceTitle": "Cloud Managed PoE Router RUIJIE Reyee RG-EG210G-P-V3",
+      "sourceUrl": "https://www.sieuthivienthong.com/cloud-managed-poe-router-ruijie-reyee-rg-eg210g-p-v3-86938.html",
+      "sourcePrice": 3480000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-EG305GH-P-E",
+      "status": "priced",
+      "sourceTitle": "Cloud Managed PoE Office Router RUIJIE RG-EG305GH-P-E",
+      "sourceUrl": "https://www.sieuthivienthong.com/cloud-managed-poe-office-router-ruijie-rg-eg305gh-p-e-66733.html",
+      "sourcePrice": 4240000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-EG310GH-P-E",
+      "status": "priced",
+      "sourceTitle": "Cloud Managed PoE Office Router RUIJIE RG-EG310GH-P-E",
+      "sourceUrl": "https://www.sieuthivienthong.com/cloud-managed-poe-office-router-ruijie-rg-eg310gh-p-e-66734.html",
+      "sourcePrice": 5350000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-EG3250",
+      "status": "contact",
+      "sourceTitle": "8-port 1000BASE-T Smart Gateway RUIJIE RG-EG3250",
+      "sourceUrl": "https://www.sieuthivienthong.com/8-port-1000base-t-smart-gateway-ruijie-rg-eg3250-36034.html"
+    },
+    {
+      "id": "RG-ES05",
+      "status": "contact",
+      "sourceTitle": "5-port FE Unmanaged Switch RUIJIE RG-ES05",
+      "sourceUrl": "https://www.sieuthivienthong.com/5-port-fe-unmanaged-switch-ruijie-rg-es05-61434.html"
+    },
+    {
+      "id": "RG-ES05F",
+      "status": "priced",
+      "sourceTitle": "5-Port FE Unmanaged Non-PoE Switch RUIJIE RG-ES05F",
+      "sourceUrl": "https://www.sieuthivienthong.com/5-port-fe-unmanaged-non-poe-switch-ruijie-rg-es05f-84198.html",
+      "sourcePrice": 168000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-EG3230",
+      "status": "contact",
+      "sourceTitle": "10-port Gigabit Cloud Managed Gateway RUIJIE RG-EG3230",
+      "sourceUrl": "https://www.sieuthivienthong.com/10-port-gigabit-cloud-managed-gateway-ruijie-rg-eg3230-48258.html"
+    },
+    {
+      "id": "RG-ES08F",
+      "status": "contact",
+      "sourceTitle": "8-Port FE Unmanaged Non-PoE Switch RUIJIE RG-ES08F",
+      "sourceUrl": "https://www.sieuthivienthong.com/8-port-fe-unmanaged-non-poe-switch-ruijie-rg-es08f-84200.html"
+    },
+    {
+      "id": "RG-ES08G-L",
+      "status": "priced",
+      "sourceTitle": "8-Port GE Unmanaged Non-PoE Switch RUIJIE RG-ES08G-L",
+      "sourceUrl": "https://www.sieuthivienthong.com/8-port-ge-unmanaged-non-poe-switch-ruijie-rg-es08g-l-84201.html",
+      "sourcePrice": 445000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-ES105GD",
+      "status": "priced",
+      "sourceTitle": "5-port Gigabit Unmanaged Switch RUIJIE RG-ES105GD",
+      "sourceUrl": "https://www.sieuthivienthong.com/5-port-gigabit-unmanaged-switch-ruijie-rg-es105gd-45172.html",
+      "sourcePrice": 485000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-ES05G-L",
+      "status": "priced",
+      "sourceTitle": "5-Port GE Unmanaged Non-PoE Switch RUIJIE RG-ES05G-L",
+      "sourceUrl": "https://www.sieuthivienthong.com/5-port-ge-unmanaged-non-poe-switch-ruijie-rg-es05g-l-84199.html",
+      "sourcePrice": 258000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-ES106F-P",
+      "status": "contact",
+      "sourceTitle": "4-Port 10/100Mbps PoE Switch RUIJIE RG-ES106F-P",
+      "sourceUrl": "https://www.sieuthivienthong.com/4-port-10100mbps-poe-switch-ruijie-rg-es106f-p-84202.html"
+    },
+    {
+      "id": "RG-ES106D-P V2",
+      "status": "contact",
+      "sourceTitle": "4-port 10/100Mbps PoE Switch RUIJIE RG-ES106D-P V2",
+      "sourceUrl": "https://www.sieuthivienthong.com/4-port-10100mbps-poe-switch-ruijie-rg-es106d-p-v2-83995.html"
+    },
+    {
+      "id": "RG-ES108GD",
+      "status": "priced",
+      "sourceTitle": "8-port Gigabit Unmanaged Switch RUIJIE RG-ES108GD",
+      "sourceUrl": "https://www.sieuthivienthong.com/8-port-gigabit-unmanaged-switch-ruijie-rg-es108gd-45174.html",
+      "sourcePrice": 650000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-ES110FG-P",
+      "status": "priced",
+      "sourceTitle": "8-Port 10/100Mbps Switch RUIJIE RG-ES110FG-P",
+      "sourceUrl": "https://www.sieuthivienthong.com/8-port-10100mbps-switch-ruijie-rg-es110fg-p-85502.html",
+      "sourcePrice": 1490000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-ES110D-P",
+      "status": "contact",
+      "sourceTitle": "8-Port FE PoE Unmanaged Switch RUIJIE RG-ES110D-P",
+      "sourceUrl": "https://www.sieuthivienthong.com/8-port-fe-poe-unmanaged-switch-ruijie-rg-es110d-p-62924.html"
+    },
+    {
+      "id": "RG-ES110GDS-P",
+      "status": "contact",
+      "sourceTitle": "8-Port GE PoE Unmanaged Switch RUIJIE RG-ES110GDS-P",
+      "sourceUrl": "https://www.sieuthivienthong.com/8-port-ge-poe-unmanaged-switch-ruijie-rg-es110gds-p-69673.html"
+    },
+    {
+      "id": "RG-ES110F-P",
+      "status": "priced",
+      "sourceTitle": "8-Port 10/100Mbps Switch RUIJIE RG-ES110F-P",
+      "sourceUrl": "https://www.sieuthivienthong.com/8-port-10100mbps-switch-ruijie-rg-es110f-p-85499.html",
+      "sourcePrice": 1090000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-ES110GS-P-L",
+      "status": "contact",
+      "sourceTitle": "8-Port GE Switch RUIJIE RG-ES110GS-P-L",
+      "sourceUrl": "https://www.sieuthivienthong.com/8-port-ge-switch-ruijie-rg-es110gs-p-l-85505.html"
+    },
+    {
+      "id": "RG-ES118GS-P",
+      "status": "priced",
+      "sourceTitle": "16-Port GE Switch RUIJIE RG-ES118GS-P-L",
+      "sourceUrl": "https://www.sieuthivienthong.com/16-port-ge-switch-ruijie-rg-es118gs-p-l-85509.html",
+      "sourcePrice": 3680000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-ES116G",
+      "status": "priced",
+      "sourceTitle": "16-Port GE Unmanaged Switch RUIJIE RG-ES116G-L",
+      "sourceUrl": "https://www.sieuthivienthong.com/16-port-ge-unmanaged-switch-ruijie-rg-es116g-l-85496.html",
+      "sourcePrice": 1330000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-ES118FGS-LP",
+      "status": "priced",
+      "sourceTitle": "16-Port 10/100Mbps Switch RUIJIE RG-ES118FGS-LP",
+      "sourceUrl": "https://www.sieuthivienthong.com/16-port-10100mbps-switch-ruijie-rg-es118fgs-lp-85512.html",
+      "sourcePrice": 3040000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-ES118S-LP",
+      "status": "contact",
+      "sourceTitle": "16-Port FE PoE Unmanaged Switch RUIJIE RG-ES118S-LP",
+      "sourceUrl": "https://www.sieuthivienthong.com/16-port-fe-poe-unmanaged-switch-ruijie-rg-es118s-lp-62925.html"
+    },
+    {
+      "id": "RG-ES126FGS-LP",
+      "status": "contact",
+      "sourceTitle": "24-Port 10/100Mbps Switch RUIJIE RG-ES126FGS-LP",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-10100mbps-switch-ruijie-rg-es126fgs-lp-85518.html"
+    },
+    {
+      "id": "RG-ES118GS-P-L",
+      "status": "priced",
+      "sourceTitle": "16-Port GE Switch RUIJIE RG-ES118GS-P-L",
+      "sourceUrl": "https://www.sieuthivienthong.com/16-port-ge-switch-ruijie-rg-es118gs-p-l-85509.html",
+      "sourcePrice": 3680000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-ES126FGS-P",
+      "status": "priced",
+      "sourceTitle": "24-Port 10/100Mbps Switch RUIJIE RG-ES126FGS-P",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-10100mbps-switch-ruijie-rg-es126fgs-p-85517.html",
+      "sourcePrice": 4610000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-ES206GC-P",
+      "status": "contact",
+      "sourceTitle": "4-Port GE PoE Smart Cloud Switch RUIJIE RG-ES206GC-P",
+      "sourceUrl": "https://www.sieuthivienthong.com/4-port-ge-poe-smart-cloud-switch-ruijie-rg-es206gc-p-62929.html"
+    },
+    {
+      "id": "RG-ES126S-P V2",
+      "status": "contact",
+      "sourceTitle": "24-Port 10/100Mbps PoE Switch RUIJIE RG-ES126S-P V2",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-10100mbps-poe-switch-ruijie-rg-es126s-p-v2-78868.html"
+    },
+    {
+      "id": "RG-ES126S-LP V2",
+      "status": "contact",
+      "sourceTitle": "24-port 10/100Mbps PoE Switch RUIJIE RG-ES126S-LP V2",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-10100mbps-poe-switch-ruijie-rg-es126s-lp-v2-83999.html"
+    },
+    {
+      "id": "RG-ES210GC-LP",
+      "status": "contact",
+      "sourceTitle": "8-Port GE PoE Smart Cloud Switch RUIJIE RG-ES210GC-LP",
+      "sourceUrl": "https://www.sieuthivienthong.com/8-port-ge-poe-smart-cloud-switch-ruijie-rg-es210gc-lp-62931.html"
+    },
+    {
+      "id": "RG-ES224GC",
+      "status": "priced",
+      "sourceTitle": "24-Port GE Switch RUIJIE RG-ES224GC-V2",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-ge-switch-ruijie-rg-es224gc-v2-84204.html",
+      "sourcePrice": 2760000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-ES216GC",
+      "status": "contact",
+      "sourceTitle": "16-Port GE Switch RUIJIE RG-ES216GC-V2",
+      "sourceUrl": "https://www.sieuthivienthong.com/16-port-ge-switch-ruijie-rg-es216gc-v2-84203.html"
+    },
+    {
+      "id": "RG-EST100-E",
+      "status": "priced",
+      "sourceTitle": "2.4GHz Dual-stream Wireless Bridge RUIJIE RG-EST100-E",
+      "sourceUrl": "https://www.sieuthivienthong.com/2.4ghz-dual-stream-wireless-bridge-ruijie-rg-est100-e-84017.html",
+      "sourcePrice": 1025000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-EST350",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/bo-thu-phat-song-khong-day-ngoai-troi-ruijie-rg-est350-v2-63540.html"
+    },
+    {
+      "id": "RG-EW1200R",
+      "status": "contact",
+      "sourceTitle": "1200Mbps Dual-band Mesh Wi-Fi Extender RUIJIE RG-EW1200R",
+      "sourceUrl": "https://www.sieuthivienthong.com/1200mbps-dual-band-mesh-wi-fi-extender-ruijie-rg-ew1200r-69682.html"
+    },
+    {
+      "id": "RG-EST350 V2",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/bo-thu-phat-song-khong-day-ngoai-troi-ruijie-rg-est350-v2-63540.html"
+    },
+    {
+      "id": "RG-EW3000GX PRO",
+      "status": "priced",
+      "sourceTitle": "Gaming Router RUIJIE RG-EW3000GX PRO",
+      "sourceUrl": "https://www.sieuthivienthong.com/gaming-router-ruijie-rg-ew3000gx-pro-84197.html",
+      "sourcePrice": 1760000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-EW1800GX PRO",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/mesh-router-ruijie-rg-ew1800gx-pro-58305.html"
+    },
+    {
+      "id": "RG-EW300T",
+      "status": "priced",
+      "sourceTitle": "N300 Wireless 4G LTE Router RUIJIE RG-EW300T",
+      "sourceUrl": "https://www.sieuthivienthong.com/n300-wireless-4g-lte-router-ruijie-rg-ew300t-88229.html",
+      "sourcePrice": 1085000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-NBR6120-E",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/5-port-gigabit-ethernet-cloud-managed-router-ruijie-rg-nbr6120-e-78871.html"
+    },
+    {
+      "id": "RG-NBS3100-48GT4SFP-P",
+      "status": "contact",
+      "sourceTitle": "48-Port GE PoE+ Switch RUIJIE RG-NBS3100-48GT4SFP-P",
+      "sourceUrl": "https://www.sieuthivienthong.com/48-port-ge-poe-switch-ruijie-rg-nbs3100-48gt4sfp-p-79619.html"
+    },
+    {
+      "id": "RG-NBS3200-48GT4XS-P",
+      "status": "contact",
+      "sourceTitle": "48-port GE Managed PoE Switch RUIJIE RG-NBS3200-48GT4XS-P",
+      "sourceUrl": "https://www.sieuthivienthong.com/48-port-ge-managed-poe-switch-ruijie-rg-nbs3200-48gt4xs-p-48298.html"
+    },
+    {
+      "id": "RG-NBS5100-24GT4SFP-P",
+      "status": "contact",
+      "sourceTitle": "24-Port GE PoE Switch RUIJIE RG-NBS5100-24GT4SFP-P",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-ge-poe-switch-ruijie-rg-nbs5100-24gt4sfp-p-79622.html"
+    },
+    {
+      "id": "RG-NBS3200-24GT4XS-P",
+      "status": "contact",
+      "sourceTitle": "24-port GE PoE Managed Switch RUIJIE RG-NBS3200-24GT4XS-P",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-ge-poe-managed-switch-ruijie-rg-nbs3200-24gt4xs-p-48295.html"
+    },
+    {
+      "id": "RG-NBS5100-48GT4SFP",
+      "status": "contact",
+      "sourceTitle": "48-port Gigabit Managed Switch RUIJIE RG-NBS5100-48GT4SFP",
+      "sourceUrl": "https://www.sieuthivienthong.com/48-port-gigabit-managed-switch-ruijie-rg-nbs5100-48gt4sfp-48278.html"
+    },
+    {
+      "id": "RG-NBS5200-24GT4XS-P",
+      "status": "contact",
+      "sourceTitle": "24-port GE PoE Switch RUIJIE RG-NBS5200-24GT4XS-P",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-ge-poe-switch-ruijie-rg-nbs5200-24gt4xs-p-78870.html"
+    },
+    {
+      "id": "RG-NIS-PA120-48",
+      "status": "contact",
+      "sourceTitle": "AC/DC 120W DIN-Rail Power Supply RUIJIE RG-NIS-PA120-48",
+      "sourceUrl": "https://www.sieuthivienthong.com/ac-dc-120w-din-rail-power-supply-ruijie-rg-nis-pa120-48-84258.html"
+    },
+    {
+      "id": "RG-NBS5200-48GT4XS-UP",
+      "status": "contact",
+      "sourceTitle": "48-Port GE PoE Switch RUIJIE RG-NBS5200-48GT4XS-UP",
+      "sourceUrl": "https://www.sieuthivienthong.com/48-port-ge-poe-switch-ruijie-rg-nbs5200-48gt4xs-up-84261.html"
+    },
+    {
+      "id": "RG-NIS-PA120-54",
+      "status": "contact",
+      "sourceTitle": "AC/DC 120W DIN-Rail Power Supply RUIJIE RG-NIS-PA120-54",
+      "sourceUrl": "https://www.sieuthivienthong.com/acdc-120w-din-rail-power-supply-ruijie-rg-nis-pa120-54-88430.html"
+    },
+    {
+      "id": "RG-NIS-PA240-48",
+      "status": "contact",
+      "sourceTitle": "AC/DC 240W DIN-Rail Power Supply RUIJIE RG-NIS-PA240-48",
+      "sourceUrl": "https://www.sieuthivienthong.com/acdc-240w-din-rail-power-supply-ruijie-rg-nis-pa240-48-84259.html"
+    },
+    {
+      "id": "RG-NIS2100-8GT2SFP-HP",
+      "status": "contact",
+      "sourceTitle": "8-Port GE Switch RUIJIE RG-NIS2100-8GT2SFP-HP",
+      "sourceUrl": "https://www.sieuthivienthong.com/8-port-ge-switch-ruijie-rg-nis2100-8gt2sfp-hp-88429.html"
+    },
+    {
+      "id": "RG-NIS3100-4GT2SFP-HP",
+      "status": "contact",
+      "sourceTitle": "Industrial-Grade Switch RUIJIE RG-NIS3100-4GT2SFP-HP",
+      "sourceUrl": "https://www.sieuthivienthong.com/industrial-grade-switch-ruijie-rg-nis3100-4gt2sfp-hp-84250.html"
+    },
+    {
+      "id": "RG-NIS-PA240-54",
+      "status": "contact",
+      "sourceTitle": "AC/DC 240W DIN-Rail Power Supply RUIJIE RG-NIS-PA240-54",
+      "sourceUrl": "https://www.sieuthivienthong.com/acdc-240w-din-rail-power-supply-ruijie-rg-nis-pa240-54-88431.html"
+    },
+    {
+      "id": "RG-NIS2100-4GT2SFP-HP",
+      "status": "contact",
+      "sourceTitle": "4-Port GE Switch RUIJIE RG-NIS2100-4GT2SFP-HP",
+      "sourceUrl": "https://www.sieuthivienthong.com/4-port-ge-switch-ruijie-rg-nis2100-4gt2sfp-hp-88428.html"
+    },
+    {
+      "id": "RG-NIS3100-8GT2SFP-HP",
+      "status": "contact",
+      "sourceTitle": "Industrial-Grade Switch RUIJIE RG-NIS3100-8GT2SFP-HP",
+      "sourceUrl": "https://www.sieuthivienthong.com/industrial-grade-switch-ruijie-rg-nis3100-8gt2sfp-hp-84247.html"
+    },
+    {
+      "id": "RG-POE-AT30",
+      "status": "priced",
+      "sourceTitle": "Nguồn PoE RUIJIE RG-POE-AT30",
+      "sourceUrl": "https://www.sieuthivienthong.com/nguon-poe-ruijie-rg-poe-at30-74127.html",
+      "sourcePrice": 465000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-RAP1200(F)",
+      "status": "priced",
+      "sourceTitle": "Wallplate Access Point RUIJIE RG-RAP1200(F)",
+      "sourceUrl": "https://www.sieuthivienthong.com/wallplate-access-point-ruijie-rg-rap1200f-48267.html",
+      "sourcePrice": 975000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-NIS3100-8GT4SFP-HP",
+      "status": "contact",
+      "sourceTitle": "Industrial-Grade Switch RUIJIE RG-NIS3100-8GT4SFP-HP",
+      "sourceUrl": "https://www.sieuthivienthong.com/industrial-grade-switch-ruijie-rg-nis3100-8gt4sfp-hp-84245.html"
+    },
+    {
+      "id": "RG-RAP2260(H)",
+      "status": "contact",
+      "sourceTitle": "Ceiling Access Point RUIJIE RG-RAP2260(H)",
+      "sourceUrl": "https://www.sieuthivienthong.com/ceiling-access-point-ruijie-rg-rap2260h-79641.html"
+    },
+    {
+      "id": "RG-RAP2260(E)",
+      "status": "contact",
+      "sourceTitle": "Ceiling Mount Access Point RUIJIE RG-RAP2260(E)",
+      "sourceUrl": "https://www.sieuthivienthong.com/ceiling-mount-access-point-ruijie-rg-rap2260e-62936.html"
+    },
+    {
+      "id": "RG-RAP2266",
+      "status": "priced",
+      "sourceTitle": "Bộ phát WiFi 6 RUIJIE RG-RAP2266",
+      "sourceUrl": "https://www.sieuthivienthong.com/bo-phat-wifi-6-ruijie-rg-rap2266-83731.html",
+      "sourcePrice": 2840000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-S1818G",
+      "status": "contact",
+      "sourceTitle": "16-port GE Unmanaged Switch RUIJIE RG-S1818G",
+      "sourceUrl": "https://www.sieuthivienthong.com/16-port-ge-unmanaged-switch-ruijie-rg-s1818g-36010.html"
+    },
+    {
+      "id": "RG-RAP52-OD",
+      "status": "priced",
+      "sourceTitle": "Outdoor Access Point RUIJIE RG-RAP52-OD",
+      "sourceUrl": "https://www.sieuthivienthong.com/outdoor-access-point-ruijie-rg-rap52-od-84213.html",
+      "sourcePrice": 2410000,
+      "vatIncluded": true
+    },
+    {
+      "id": "RG-RAP6260(H)",
+      "status": "contact",
+      "sourceTitle": "Outdoor Access Point RUIJIE RG-RAP6260(H)",
+      "sourceUrl": "https://www.sieuthivienthong.com/outdoor-access-point-ruijie-rg-rap6260h-79644.html"
+    },
+    {
+      "id": "RG-S2910-48GT4XS-E",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/48-port-ge-switch-ruijie-rg-s2910-48gt4xs-e-43309.html"
+    },
+    {
+      "id": "RG-RAP6260(G)",
+      "status": "contact",
+      "sourceTitle": "Outdoor Access Point RUIJIE RG-RAP6260(G)",
+      "sourceUrl": "https://www.sieuthivienthong.com/outdoor-access-point-ruijie-rg-rap6260g-64629.html"
+    },
+    {
+      "id": "RG-S2910-24GT4SFP-UP-H",
+      "status": "contact",
+      "sourceTitle": "24-port GE Switch RUIJIE RG-S2910-24GT4SFP-UP-H(V3.0)",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-ge-switch-ruijie-rg-s2910-24gt4sfp-up-hv30-63547.html"
+    },
+    {
+      "id": "RG-S1920-18GT2SFP",
+      "status": "contact",
+      "sourceTitle": "16-port GE Managed Switch RUIJIE RG-S1920-18GT2SFP",
+      "sourceUrl": "https://www.sieuthivienthong.com/16-port-ge-managed-switch-ruijie-rg-s1920-18gt2sfp-39135.html"
+    },
+    {
+      "id": "RG-S2910-24GT4XS-UP-H",
+      "status": "contact",
+      "sourceTitle": "24-port GE Switch RUIJIE RG-S2910-24GT4XS-UP-H(V3.0)",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-ge-switch-ruijie-rg-s2910-24gt4xs-up-hv30-63543.html"
+    },
+    {
+      "id": "RG-S2910C-24GT2XS-HP-E",
+      "status": "contact",
+      "sourceTitle": "24-Port GE PoE Switch Ruijie RG-S2910C-24GT2XS-HP-E",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-ge-poe-switch-ruijie-rg-s2910c-24gt2xs-hp-e-43312.html"
+    },
+    {
+      "id": "RG-S2910-10GT2SFP-P-E",
+      "status": "contact",
+      "sourceTitle": "8-Port GE PoE Switch Ruijie RG-S2910-10GT2SFP-P-E",
+      "sourceUrl": "https://www.sieuthivienthong.com/8-port-ge-poe-switch-ruijie-rg-s2910-10gt2sfp-p-e-43326.html"
+    },
+    {
+      "id": "RG-S2910C-48GT2XS-HP-E",
+      "status": "contact",
+      "sourceTitle": "48-Port GE PoE Switch Ruijie RG-S2910C-48GT2XS-HP-E",
+      "sourceUrl": "https://www.sieuthivienthong.com/48-port-ge-poe-switch-ruijie-rg-s2910c-48gt2xs-hp-e-43313.html"
+    },
+    {
+      "id": "RG-S2928G-E V3",
+      "status": "contact",
+      "sourceTitle": "24-Port GE Switch Ruijie RG-S2928G-E V3",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-ge-switch-ruijie-rg-s2928g-e-v3-43302.html"
+    },
+    {
+      "id": "RG-S2952G-E V3",
+      "status": "contact",
+      "sourceTitle": "48-Port GE SFP Switch Ruijie RG-S2952G-E V3",
+      "sourceUrl": "https://www.sieuthivienthong.com/48-port-ge-sfp-switch-ruijie-rg-s2952g-e-v3-43303.html"
+    },
+    {
+      "id": "RG-S5750C-28SFP4XS-H",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/28-port-ge-sfp-switch-ruijie-rg-s5750c-28sfp4xs-h-43364.html"
+    },
+    {
+      "id": "RG-WALL 1600-M5100",
+      "status": "contact",
+      "sourceTitle": "License thiết bị tường lửa RUIJIE RG-WALL 1600-M5100-LIS-1Y",
+      "sourceUrl": "https://www.sieuthivienthong.com/license-thiet-bi-tuong-lua-ruijie-rg-wall-1600-m5100-lis-1y-84046.html"
+    },
+    {
+      "id": "RG-S6120-20XS4VS2QXS",
+      "status": "contact",
+      "sourceTitle": "Switch RUIJIE RG-S6120-20XS4VS2QXS",
+      "sourceUrl": "https://www.sieuthivienthong.com/switch-ruijie-rg-s6120-20xs4vs2qxs-55719.html"
+    },
+    {
+      "id": "RG-WALL 1600-M6600",
+      "status": "contact",
+      "sourceTitle": "License thiết bị tường lửa RUIJIE RG-WALL 1600-M6600-LIS-1Y",
+      "sourceUrl": "https://www.sieuthivienthong.com/license-thiet-bi-tuong-lua-ruijie-rg-wall-1600-m6600-lis-1y-84048.html"
+    },
+    {
+      "id": "RG-WALL 1600-X9300",
+      "status": "contact",
+      "sourceTitle": "License thiết bị tường lửa RUIJIE RG-WALL 1600-X9300-LIS-1Y",
+      "sourceUrl": "https://www.sieuthivienthong.com/license-thiet-bi-tuong-lua-ruijie-rg-wall-1600-x9300-lis-1y-84051.html"
+    },
+    {
+      "id": "RG-WALL 1600-S3100",
+      "status": "contact",
+      "sourceTitle": "Thiết bị tường lửa RUIJIE RG-WALL 1600-S3100-LIS-1Y",
+      "sourceUrl": "https://www.sieuthivienthong.com/thiet-bi-tuong-lua-ruijie-rg-wall-1600-s3100-lis-1y-87219.html"
+    },
+    {
+      "id": "RG-WALL 1600-S3600",
+      "status": "contact",
+      "sourceTitle": "License thiết bị tường lửa RUIJIE RG-WALL 1600-S3600-LIS-1Y",
+      "sourceUrl": "https://www.sieuthivienthong.com/license-thiet-bi-tuong-lua-ruijie-rg-wall-1600-s3600-lis-1y-84045.html"
+    },
+    {
+      "id": "RG-WS6816",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/wireless-controller-ruijie-rg-ws6816-55708.html"
+    },
+    {
+      "id": "RG-WS6108",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/high-performance-wireless-controller-ruijie-rg-ws6108-55707.html"
+    },
+    {
+      "id": "RG-WALL 1600-S3200",
+      "status": "contact",
+      "sourceTitle": "License thiết bị tường lửa RUIJIE RG-WALL 1600-S3200-LIS-1Y",
+      "sourceUrl": "https://www.sieuthivienthong.com/license-thiet-bi-tuong-lua-ruijie-rg-wall-1600-s3200-lis-1y-84044.html"
+    },
+    {
+      "id": "WD10PURZ",
+      "status": "contact",
+      "sourceTitle": "Ổ cứng chuyên dụng 1TB Western Purple WD10PURZ",
+      "sourceUrl": "https://www.sieuthivienthong.com/o-cung-chuyen-dung-1tb-western-purple-wd10purz-23216.html"
+    },
+    {
+      "id": "RG-WS6008",
+      "status": "unparsed",
+      "url": "https://www.sieuthivienthong.com/wireless-access-controller-ruijie-rg-ws6008-36036.html"
+    },
+    {
+      "id": "WD64PURZ",
+      "status": "contact",
+      "sourceTitle": "Ổ cứng chuyên dụng 6TB Western Purple WD64PURZ",
+      "sourceUrl": "https://www.sieuthivienthong.com/o-cung-chuyen-dung-6tb-western-purple-wd64purz-74681.html"
+    },
+    {
+      "id": "WD85PURZ",
+      "status": "contact",
+      "sourceTitle": "Ổ cứng chuyên dụng 8TB Western Purple WD85PURZ",
+      "sourceUrl": "https://www.sieuthivienthong.com/o-cung-chuyen-dung-8tb-western-purple-wd85purz-85243.html"
+    },
+    {
+      "id": "ST4000VX016",
+      "status": "contact",
+      "sourceTitle": "Ổ cứng chuyên dụng 4TB SKYHAWK SEAGATE ST4000VX016",
+      "sourceUrl": "https://www.sieuthivienthong.com/o-cung-chuyen-dung-4tb-skyhawk-seagate-st4000vx016-69539.html"
+    },
+    {
+      "id": "HUAWEI-AP160",
+      "status": "priced",
+      "sourceTitle": "Access Point Wifi HUAWEI AP160",
+      "sourceUrl": "https://www.sieuthivienthong.com/access-point-wifi-huawei-ap160-90627.html",
+      "sourcePrice": 2640000,
+      "vatIncluded": true
+    },
+    {
+      "id": "SDSQQNR-064G-GN6IA",
+      "status": "contact",
+      "sourceTitle": "Thẻ nhớ Micro SD 64GB SANDISK SDSQQNR-064G-GN6IA",
+      "sourceUrl": "https://www.sieuthivienthong.com/the-nho-micro-sd-64gb-sandisk-sdsqqnr-064g-gn6ia-61752.html"
+    },
+    {
+      "id": "HUAWEI-AP361",
+      "status": "priced",
+      "sourceTitle": "Access Point Wifi HUAWEI AP361",
+      "sourceUrl": "https://www.sieuthivienthong.com/access-point-wifi-huawei-ap361-90626.html",
+      "sourcePrice": 2660000,
+      "vatIncluded": true
+    },
+    {
+      "id": "HUAWEI-S220S-24P4JX",
+      "status": "contact",
+      "sourceTitle": "24-Port GE PoE Switch HUAWEI S220S-24P4JX",
+      "sourceUrl": "https://www.sieuthivienthong.com/24-port-ge-poe-switch-huawei-s220s-24p4jx-90605.html"
+    },
+    {
+      "id": "HUAWEI-S380-S8T2T",
+      "status": "priced",
+      "sourceTitle": "Multi-Service Gateway HUAWEI S380-S8T2T",
+      "sourceUrl": "https://www.sieuthivienthong.com/multi-service-gateway-huawei-s380-s8t2t-90642.html",
+      "sourcePrice": 7500000,
+      "vatIncluded": true
+    },
+    {
+      "id": "HUAWEI-S380-L4T1T",
+      "status": "priced",
+      "sourceTitle": "Multi-Service Gateway HUAWEI S380-L4T1T",
+      "sourceUrl": "https://www.sieuthivienthong.com/multi-service-gateway-huawei-s380-l4t1t-90640.html",
+      "sourcePrice": 4830000,
+      "vatIncluded": true
+    },
+    {
+      "id": "HUAWEI-AP371",
+      "status": "priced",
+      "sourceTitle": "Access Point Wifi HUAWEI AP371",
+      "sourceUrl": "https://www.sieuthivienthong.com/access-point-wifi-huawei-ap371-90633.html",
+      "sourcePrice": 4150000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PM2-S(AU)",
+      "status": "priced",
+      "sourceTitle": "3G/4G Communication Module HIKVISION DS-PM2-S(AU) (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/3g-4g-communication-module-hikvision-ds-pm2-sau-gen2-83145.html",
+      "sourcePrice": 2160000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PM1-RT-HWB",
+      "status": "priced",
+      "sourceTitle": "433MHz Tri-X Wireless Receiver HIKVISION DS-PM1-RT-HWB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/433mhz-tri-x-wireless-receiver-hikvision-ds-pm1-rt-hwb-gen2-83149.html",
+      "sourcePrice": 1230000,
+      "vatIncluded": true
+    },
+    {
+      "id": "CS-L2-11FCP",
+      "status": "priced",
+      "sourceTitle": "Khóa cửa điện tử vân tay EZVIZ L2 (CS-L2-11FCP (A0)(Black))",
+      "sourceUrl": "https://www.sieuthivienthong.com/khoa-cua-dien-tu-van-tay-ezviz-l2-cs-l2-11fcp-a0black-60066.html",
+      "sourcePrice": 2080000,
+      "vatIncluded": true
+    },
+    {
+      "id": "SH-PHA6640-LP",
+      "status": "priced",
+      "sourceTitle": "AX Hybrid Pro Control Panel HIKVISION SH-PHA6640-LP (DS-PHA64-LP) (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/ax-hybrid-pro-control-panel-hikvision-sh-pha6640-lp-ds-pha64-lp-gen2-83141.html",
+      "sourcePrice": 3250000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PWA96-Kit-WB",
+      "status": "priced",
+      "sourceTitle": "Bộ KIT báo động không dây HIKVISION DS-PWA96-Kit-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/bo-kit-bao-dong-khong-day-hikvision-ds-pwa96-kit-wb-gen2-54573.html",
+      "sourcePrice": 5850000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PR1-WB",
+      "status": "priced",
+      "sourceTitle": "Bộ khuếch đại tín hiệu không dây HIKVISION DS-PR1-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/bo-khuech-dai-tin-hieu-khong-day-hikvision-ds-pr1-wb-gen2-54603.html",
+      "sourcePrice": 1670000,
+      "vatIncluded": true
+    },
+    {
+      "id": "SH-PS661-R",
+      "status": "priced",
+      "sourceTitle": "Còi kiêm đèn chớp HIKVISION SH-PS661-R (DS-PS1-R)",
+      "sourceUrl": "https://www.sieuthivienthong.com/coi-kiem-den-chop-hikvision-sh-ps661-r-ds-ps1-r-67055.html",
+      "sourcePrice": 520000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PDMCS-EG2-WB",
+      "status": "priced",
+      "sourceTitle": "Công tắc từ không dây HIKVISION DS-PDMCS-EG2-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/cong-tac-tu-khong-day-hikvision-ds-pdmcs-eg2-wb-gen2-54584.html",
+      "sourcePrice": 505000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PDMC-EG2-WB",
+      "status": "priced",
+      "sourceTitle": "Công tắc từ không dây HIKVISION DS-PDMC-EG2-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/cong-tac-tu-khong-day-hikvision-ds-pdmc-eg2-wb-gen2-54587.html",
+      "sourcePrice": 565000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PDMCK-EG2-WB",
+      "status": "priced",
+      "sourceTitle": "Công tắc từ kết hợp báo rung HIKVISION DS-PDMCK-EG2-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/cong-tac-tu-ket-hop-bao-rung-hikvision-ds-pdmck-eg2-wb-gen2-54590.html",
+      "sourcePrice": 648000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PDCL12-EG2-WB",
+      "status": "priced",
+      "sourceTitle": "Cảm biến chuyển động không dây HIKVISION DS-PDCL12-EG2-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/cam-bien-chuyen-dong-khong-day-hikvision-ds-pdcl12-eg2-wb-gen2-86578.html",
+      "sourcePrice": 665000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PDPG12PF-EG2-WB",
+      "status": "priced",
+      "sourceTitle": "Cảm biến hồng ngoại + báo vỡ kính HIKVISION DS-PDPG12PF-EG2-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/cam-bien-hong-ngoai-bao-vo-kinh-hikvision-ds-pdpg12pf-eg2-wb-gen2-66506.html",
+      "sourcePrice": 1470000,
+      "vatIncluded": true
+    },
+    {
+      "id": "SH-PDP618-EG2",
+      "status": "priced",
+      "sourceTitle": "Cảm biến hồng ngoại HIKVISION SH-PDP618-EG2 (DS-PDP18-EG2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/cam-bien-hong-ngoai-hikvision-sh-pdp618-eg2-ds-pdp18-eg2-61121.html",
+      "sourcePrice": 330000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PDD12P-EG2-WB",
+      "status": "priced",
+      "sourceTitle": "Cảm biến hồng ngoại không dây HIKVISION DS-PDD12P-EG2-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/cam-bien-hong-ngoai-khong-day-hikvision-ds-pdd12p-eg2-wb-gen2-56834.html",
+      "sourcePrice": 1440000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PDPG12P-EG2-WB",
+      "status": "priced",
+      "sourceTitle": "Cảm biến hồng ngoại báo vỡ kính không dây HIKVISION DS-PDPG12P-EG2-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/cam-bien-hong-ngoai-bao-vo-kinh-khong-day-hikvision-ds-pdpg12p-eg2-wb-gen2-54599.html",
+      "sourcePrice": 1250000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PDC15-EG2-WB",
+      "status": "priced",
+      "sourceTitle": "Cảm biến hồng ngoại không dây HIKVISION DS-PDC15-EG2-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/cam-bien-hong-ngoai-khong-day-hikvision-ds-pdc15-eg2-wb-gen2-54591.html",
+      "sourcePrice": 880000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PDP15P-EG2-WB",
+      "status": "priced",
+      "sourceTitle": "Cảm biến hồng ngoại không dây HIKVISION DS-PDP15P-EG2-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/cam-bien-hong-ngoai-khong-day-hikvision-ds-pdp15p-eg2-wb-gen2-54592.html",
+      "sourcePrice": 710000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PDB-IN-Wristband",
+      "status": "priced",
+      "sourceTitle": "Emergency Button Wristband HIKVISION DS-PDB-IN-Wristband (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/emergency-button-wristband-hikvision-ds-pdb-in-wristband-gen2-66511.html",
+      "sourcePrice": 270000,
+      "vatIncluded": true
+    },
+    {
+      "id": "SH-PD200-WS",
+      "status": "priced",
+      "sourceTitle": "Cảm biến từ có dây HIKVISION SH-PD200-WS (DS-PD1-MC-WS)",
+      "sourceUrl": "https://www.sieuthivienthong.com/cam-bien-tu-co-day-hikvision-sh-pd200-ws-ds-pd1-mc-ws-61103.html",
+      "sourcePrice": 120000,
+      "vatIncluded": true
+    },
+    {
+      "id": "SH-PD300-MS",
+      "status": "priced",
+      "sourceTitle": "Cảm biến từ có dây HIKVISION SH-PD300-MS (DS-PD1-MC-MS)",
+      "sourceUrl": "https://www.sieuthivienthong.com/cam-bien-tu-co-day-hikvision-sh-pd300-ms-ds-pd1-mc-ms-61104.html",
+      "sourcePrice": 155000,
+      "vatIncluded": true
+    },
+    {
+      "id": "SH-PD400-RS",
+      "status": "priced",
+      "sourceTitle": "Cảm biến từ có dây HIKVISION SH-PD400-RS (DS-PD1-MC-RS)",
+      "sourceUrl": "https://www.sieuthivienthong.com/cam-bien-tu-co-day-hikvision-sh-pd400-rs-ds-pd1-mc-rs-61105.html",
+      "sourcePrice": 260000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PS1-E-WB",
+      "status": "priced",
+      "sourceTitle": "Loa báo động không dây trong nhà HIKVISION DS-PS1-E-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/loa-bao-dong-khong-day-trong-nha-hikvision-ds-ps1-e-wb-gen2-56835.html",
+      "sourcePrice": 1680000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PS1-I-WB",
+      "status": "priced",
+      "sourceTitle": "Loa báo động không dây trong nhà HIKVISION DS-PS1-I-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/loa-bao-dong-khong-day-trong-nha-hikvision-ds-ps1-i-wb-gen2-54604.html",
+      "sourcePrice": 940000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-MDT200",
+      "status": "priced",
+      "sourceTitle": "Máy quét mã vạch cầm tay không dây HIKVISION DS-MDT200 (DS-MDT200/4&64/GLE)",
+      "sourceUrl": "https://www.sieuthivienthong.com/may-quet-ma-vach-cam-tay-khong-day-hikvision-ds-mdt200-ds-mdt2004-64gle-87797.html",
+      "sourcePrice": 9108000,
+      "vatIncluded": false
+    },
+    {
+      "id": "DS-PKF1-WB",
+      "status": "priced",
+      "sourceTitle": "Remote điều khiển từ xa HIKVISION DS-PKF1-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/remote-dieu-khien-tu-xa-hikvision-ds-pkf1-wb-gen2-54580.html",
+      "sourcePrice": 545000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PWA96-M2H-WB",
+      "status": "priced",
+      "sourceTitle": "Tủ báo động AX Hybrid Panel 96 vùng HIKVISION DS-PWA96-M2H-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/tu-bao-dong-ax-hybrid-panel-96-vung-hikvision-ds-pwa96-m2h-wb-gen2-67054.html",
+      "sourcePrice": 5575000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PDSMK-S-WB",
+      "status": "priced",
+      "sourceTitle": "Đầu báo khói không dây HIKVISION DS-PDSMK-S-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/dau-bao-khoi-khong-day-hikvision-ds-pdsmk-s-wb-gen2-67057.html",
+      "sourcePrice": 1230000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PK1-E-WB",
+      "status": "priced",
+      "sourceTitle": "Wireless Keypad HIKVISION DS-PK1-E-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/wireless-keypad-hikvision-ds-pk1-e-wb-gen2-66503.html",
+      "sourcePrice": 1650000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PDB-EX-Wallbracket",
+      "status": "priced",
+      "sourceTitle": "Đế cho cảm biến hồng ngoại ngoài trời HIKVISION DS-PDB-EX-Wallbracket (Gen1)",
+      "sourceUrl": "https://www.sieuthivienthong.com/de-cho-cam-bien-hong-ngoai-ngoai-troi-hikvision-ds-pdb-ex-wallbracket-gen1-36969.html",
+      "sourcePrice": 390000,
+      "vatIncluded": true
+    },
+    {
+      "id": "DS-PDBG8-EG2-WB",
+      "status": "priced",
+      "sourceTitle": "Đầu báo kính vỡ không dây HIKVISION DS-PDBG8-EG2-WB (Gen2)",
+      "sourceUrl": "https://www.sieuthivienthong.com/dau-bao-kinh-vo-khong-day-hikvision-ds-pdbg8-eg2-wb-gen2-54596.html",
+      "sourcePrice": 700000,
+      "vatIncluded": true
+    },
+    {
+      "id": "U7 Pro Max",
+      "status": "priced",
+      "sourceTitle": "Bộ phát WiFi Ubiquiti UniFi U7 Pro Max (U7-Pro-Max)",
+      "sourceUrl": "https://www.sieuthivienthong.com/bo-phat-wifi-ubiquiti-unifi-u7-pro-max-u7-pro-max-89033.html",
+      "sourcePrice": 9960000,
+      "vatIncluded": true
+    },
+    {
+      "id": "Next-Generation Gateway Lite",
+      "status": "priced",
+      "sourceTitle": "UniFi Next-Generation Gateway Lite (UXG Lite)",
+      "sourceUrl": "https://www.sieuthivienthong.com/unifi-next-generation-gateway-lite-uxg-lite-87234.html",
+      "sourcePrice": 5150000,
+      "vatIncluded": true
+    }
+  ]
+}

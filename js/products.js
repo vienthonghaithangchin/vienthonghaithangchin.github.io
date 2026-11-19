@@ -19,11 +19,12 @@ document.addEventListener("DOMContentLoaded", initializeProducts);
 
 async function initializeProducts() {
   try {
-    const [response, huaweiResponse, importedProductsResponse, manualProductsResponse, priceOverridesResponse] = await Promise.all([
+    const [response, huaweiResponse, importedProductsResponse, manualProductsResponse, rackProductsResponse, priceOverridesResponse] = await Promise.all([
       fetch("/data/products-index.json?v=20261109-2"),
       fetch("/data/huawei-products.json?v=20261109-2"),
       fetch("/data/products-import-20261030.json?v=20261109-2"),
       fetch("/data/products-manual-20261102.json?v=20261109-2"),
+      fetch("/data/products-rack-20261119.json?v=20261119-1"),
       fetch("/data/price-overrides-20261030.json?v=20261109-2"),
     ]);
 
@@ -34,8 +35,9 @@ async function initializeProducts() {
     const huaweiProducts = huaweiResponse.ok ? await huaweiResponse.json() : {};
     const importedProducts = importedProductsResponse.ok ? await importedProductsResponse.json() : {};
     const manualProducts = manualProductsResponse.ok ? await manualProductsResponse.json() : {};
+    const rackProducts = rackProductsResponse.ok ? await rackProductsResponse.json() : {};
     const priceOverrides = priceOverridesResponse.ok ? await priceOverridesResponse.json() : {};
-    const productsById = { ...(await response.json()), ...huaweiProducts, ...importedProducts, ...manualProducts };
+    const productsById = { ...(await response.json()), ...huaweiProducts, ...importedProducts, ...manualProducts, ...rackProducts };
     Object.entries(priceOverrides).forEach(([id, override]) => {
       if (productsById[id] && override && typeof override === "object") {
         productsById[id] = { ...productsById[id], ...override };

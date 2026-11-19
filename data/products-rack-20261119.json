@@ -1,6 +1,6 @@
 {
   "TMC-53258": {
-    "name": "Tủ Rack treo tường 19” 4U TMC2 Rack 4U-D400",
+    "name": "Tủ Rack treo tường 19” 4U TMC-C Rack 4U-D400",
     "code": "MAT-TMC-RAC-0001",
     "price": 1050000,
     "warranty": "Đang cập nhật",
@@ -90,7 +90,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53258.jpg"
   },
   "TMC-23120": {
-    "name": "Tủ Rack 19” 20U TMC Rack 20U-D600",
+    "name": "Tủ Rack 19” 20U TMC-B Rack 20U-D600",
     "code": "MAT-TMC-RAC-0002",
     "price": 5400000,
     "warranty": "Đang cập nhật",
@@ -184,7 +184,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23120.jpg"
   },
   "TMC-23139": {
-    "name": "Tủ Rack treo tường 19” 6U TMC Rack 6U-D400",
+    "name": "Tủ Rack treo tường 19” 6U TMC-B Rack 6U-D400",
     "code": "MAT-TMC-RAC-0003",
     "price": 1340000,
     "warranty": "Đang cập nhật",
@@ -282,7 +282,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23139.jpg"
   },
   "TMC-23140": {
-    "name": "Tủ Rack treo tường 19” 9U TMC Rack 9U-D450",
+    "name": "Tủ Rack treo tường 19” 9U TMC-B Rack 9U-D450",
     "code": "MAT-TMC-RAC-0004",
     "price": 1730000,
     "warranty": "Đang cập nhật",
@@ -380,7 +380,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23140.jpg"
   },
   "TMC-23115": {
-    "name": "Tủ Rack 19” 27U TMC Rack 27U-D1000",
+    "name": "Tủ Rack 19” 27U TMC-B Rack 27U-D1000",
     "code": "MAT-TMC-RAC-0005",
     "price": 7240000,
     "warranty": "Đang cập nhật",
@@ -483,7 +483,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23115.jpg"
   },
   "TMC-53260": {
-    "name": "Tủ Rack treo tường 19” 2U TMC2 Rack 2U-D370",
+    "name": "Tủ Rack treo tường 19” 2U TMC-C Rack 2U-D370",
     "code": "MAT-TMC-RAC-0006",
     "price": 400000,
     "warranty": "Đang cập nhật",
@@ -550,7 +550,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53260.jpg"
   },
   "TMC-53202": {
-    "name": "Tủ Rack 19” 42U TMC Rack 42U-W800-D1000",
+    "name": "Tủ Rack 19” 42U TMC-B Rack 42U-W800-D1000",
     "code": "MAT-TMC-RAC-0007",
     "price": 12370000,
     "warranty": "Đang cập nhật",
@@ -696,7 +696,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53301.jpg"
   },
   "TMC-53255": {
-    "name": "Tủ Rack treo tường 19” 6U TMC2 Rack 6U-D500",
+    "name": "Tủ Rack treo tường 19” 6U TMC-C Rack 6U-D500",
     "code": "MAT-TMC-RAC-0008",
     "price": 1350000,
     "warranty": "Đang cập nhật",
@@ -857,7 +857,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53321.jpg"
   },
   "TMC-23141": {
-    "name": "Tủ Rack treo tường 19” 10U TMC Rack 10U-D500",
+    "name": "Tủ Rack treo tường 19” 10U TMC-B Rack 10U-D500",
     "code": "MAT-TMC-RAC-0009",
     "price": 2040000,
     "warranty": "Đang cập nhật",
@@ -935,7 +935,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23141.jpg"
   },
   "TMC-23106": {
-    "name": "Tủ Rack 19” 42U-W600-D1000 TMC TM4210BN-B",
+    "name": "Tủ Rack 19” 42U-W600-D1000 TMC-B TM4210BN-B",
     "code": "MAT-TMC-RAC-0010",
     "price": 9670000,
     "warranty": "Đang cập nhật",
@@ -1022,7 +1022,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23106.jpg"
   },
   "TMC-53212": {
-    "name": "Tủ Rack treo tường 19” 12U TMC Rack 12U-D600",
+    "name": "Tủ Rack treo tường 19” 12U TMC-B Rack 12U-D600",
     "code": "MAT-TMC-RAC-0011",
     "price": 2520000,
     "warranty": "Đang cập nhật",
@@ -1104,7 +1104,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53212.jpg"
   },
   "TMC-23107": {
-    "name": "Tủ Rack 19” 42U TMC Rack 42U-D800",
+    "name": "Tủ Rack 19” 42U TMC-B Rack 42U-D800",
     "code": "MAT-TMC-RAC-0012",
     "price": 9010000,
     "warranty": "Đang cập nhật",
@@ -1199,7 +1199,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23107.jpg"
   },
   "TMC-23138": {
-    "name": "Tủ Rack 19” 10U TMC Rack 10U-D500",
+    "name": "Tủ Rack 19” 10U TMC-B Rack 10U-D500",
     "code": "MAT-TMC-RAC-0013",
     "price": 2210000,
     "warranty": "Đang cập nhật",
@@ -1285,7 +1285,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23138.jpg"
   },
   "TMC-53217": {
-    "name": "Tủ Rack treo tường 19” 6U TMC Rack 6U-D600",
+    "name": "Tủ Rack treo tường 19” 6U TMC-B Rack 6U-D600",
     "code": "MAT-TMC-RAC-0014",
     "price": 1590000,
     "warranty": "Đang cập nhật",
@@ -1450,7 +1450,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53323.jpg"
   },
   "TMC-23123": {
-    "name": "Tủ Rack 19” 15U TMC Rack 15U-D600",
+    "name": "Tủ Rack 19” 15U TMC-B Rack 15U-D600",
     "code": "MAT-TMC-RAC-0015",
     "price": 3350000,
     "warranty": "Đang cập nhật",
@@ -1536,7 +1536,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23123.jpg"
   },
   "TMC-23109": {
-    "name": "Tủ Rack 19” 36U TMC Rack 36U-D1000",
+    "name": "Tủ Rack 19” 36U TMC-B Rack 36U-D1000",
     "code": "MAT-TMC-RAC-0016",
     "price": 9050000,
     "warranty": "Đang cập nhật",
@@ -1631,7 +1631,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23109.jpg"
   },
   "TMC-23116": {
-    "name": "Tủ Rack 19” 27U TMC Rack 27U-D800",
+    "name": "Tủ Rack 19” 27U TMC-B Rack 27U-D800",
     "code": "MAT-TMC-RAC-0017",
     "price": 6930000,
     "warranty": "Đang cập nhật",
@@ -1734,7 +1734,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23116.jpg"
   },
   "TMC-23112": {
-    "name": "Tủ Rack 19” 32U TMC Rack 32U-D1000",
+    "name": "Tủ Rack 19” 32U TMC-B Rack 32U-D1000",
     "code": "MAT-TMC-RAC-0018",
     "price": 8700000,
     "warranty": "Đang cập nhật",
@@ -1999,7 +1999,7 @@
     "thumbnail": "/img/rack/tmc/TMC-64000.jpg"
   },
   "TMC-23124": {
-    "name": "Tủ Rack 19” 12U TMC Rack 12U-D600",
+    "name": "Tủ Rack 19” 12U TMC-B Rack 12U-D600",
     "code": "MAT-TMC-RAC-0019",
     "price": 2540000,
     "warranty": "Đang cập nhật",
@@ -2077,7 +2077,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23124.jpg"
   },
   "TMC-23118": {
-    "name": "Tủ Rack 19” 20U TMC Rack 20U-D1000",
+    "name": "Tủ Rack 19” 20U TMC-B Rack 20U-D1000",
     "code": "MAT-TMC-RAC-0020",
     "price": 6290000,
     "warranty": "Đang cập nhật",
@@ -2164,7 +2164,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23118.jpg"
   },
   "TMC-23142": {
-    "name": "Tủ Rack treo tường 19” 12U TMC Rack 12U-D500",
+    "name": "Tủ Rack treo tường 19” 12U TMC-B Rack 12U-D500",
     "code": "MAT-TMC-RAC-0021",
     "price": 2260000,
     "warranty": "Đang cập nhật",
@@ -2329,7 +2329,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53335.jpg"
   },
   "TMC-23119": {
-    "name": "Tủ Rack 19” 20U TMC Rack 20U-D800",
+    "name": "Tủ Rack 19” 20U TMC-B Rack 20U-D800",
     "code": "MAT-TMC-RAC-0022",
     "price": 5860000,
     "warranty": "Đang cập nhật",
@@ -2423,7 +2423,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23119.jpg"
   },
   "TMC-80851": {
-    "name": "Tủ Rack treo tường 19” 4U TMC2 Rack 4U-D600",
+    "name": "Tủ Rack treo tường 19” 4U TMC-C Rack 4U-D600",
     "code": "MAT-TMC-RAC-0023",
     "price": "Vui lòng gọi",
     "warranty": "Đang cập nhật",
@@ -2495,7 +2495,7 @@
     "thumbnail": "/img/rack/tmc/TMC-80851.jpg"
   },
   "TMC-53216": {
-    "name": "Tủ Rack treo tường 19” 10U TMC Rack 10U-D600",
+    "name": "Tủ Rack treo tường 19” 10U TMC-B Rack 10U-D600",
     "code": "MAT-TMC-RAC-0024",
     "price": 2260000,
     "warranty": "Đang cập nhật",
@@ -2632,7 +2632,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53298.jpg"
   },
   "TMC-23108": {
-    "name": "Tủ Rack 19” 42U TMC Rack 42U-D600",
+    "name": "Tủ Rack 19” 42U TMC-B Rack 42U-D600",
     "code": "MAT-TMC-RAC-0025",
     "price": 8620000,
     "warranty": "Đang cập nhật",
@@ -2727,7 +2727,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23108.jpg"
   },
   "TMC-82960": {
-    "name": "Tủ Rack treo tường 19” 2U TMC2 Rack 2U-D375",
+    "name": "Tủ Rack treo tường 19” 2U TMC-C Rack 2U-D375",
     "code": "MAT-TMC-RAC-0026",
     "price": 430000,
     "warranty": "Đang cập nhật",
@@ -2793,7 +2793,7 @@
     "thumbnail": "/img/rack/tmc/TMC-82960.jpg"
   },
   "TMC-81513": {
-    "name": "Tủ Rack ngoài trời 19” 9U-D450 TMC TM945OD",
+    "name": "Tủ Rack ngoài trời 19” 9U-D450 TMC-B TM945OD",
     "code": "MAT-TMC-RAC-0027",
     "price": 2350000,
     "warranty": "Đang cập nhật",
@@ -2860,7 +2860,7 @@
     "thumbnail": "/img/rack/tmc/TMC-81513.jpg"
   },
   "TMC-23110": {
-    "name": "Tủ Rack 19” 36U TMC Rack 36U-D800",
+    "name": "Tủ Rack 19” 36U TMC-B Rack 36U-D800",
     "code": "MAT-TMC-RAC-0028",
     "price": 8490000,
     "warranty": "Đang cập nhật",
@@ -2955,7 +2955,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23110.jpg"
   },
   "TMC-23122": {
-    "name": "Tủ Rack 19” 15U TMC Rack 15U-D800",
+    "name": "Tủ Rack 19” 15U TMC-B Rack 15U-D800",
     "code": "MAT-TMC-RAC-0029",
     "price": 3680000,
     "warranty": "Đang cập nhật",
@@ -3041,7 +3041,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23122.jpg"
   },
   "TMC-23114": {
-    "name": "Tủ Rack 19” 32U TMC Rack 32U-D600",
+    "name": "Tủ Rack 19” 32U TMC-B Rack 32U-D600",
     "code": "MAT-TMC-RAC-0030",
     "price": 7560000,
     "warranty": "Đang cập nhật",
@@ -3136,7 +3136,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23114.jpg"
   },
   "TMC-81517": {
-    "name": "Tủ Rack ngoài trời 19” 15U-D600 TMC TM156OD",
+    "name": "Tủ Rack ngoài trời 19” 15U-D600 TMC-B TM156OD",
     "code": "MAT-TMC-RAC-0031",
     "price": 3730000,
     "warranty": "Đang cập nhật",
@@ -3207,7 +3207,7 @@
     "thumbnail": "/img/rack/tmc/TMC-81517.jpg"
   },
   "TMC-53257": {
-    "name": "Tủ Rack treo tường 19” 6U TMC2 Rack 6U-D400",
+    "name": "Tủ Rack treo tường 19” 6U TMC-C Rack 6U-D400",
     "code": "MAT-TMC-RAC-0032",
     "price": 1220000,
     "warranty": "Đang cập nhật",
@@ -3297,7 +3297,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53257.jpg"
   },
   "TMC-53251": {
-    "name": "Tủ Rack treo tường 19” 10U TMC2 Rack 10U-D600",
+    "name": "Tủ Rack treo tường 19” 10U TMC-C Rack 10U-D600",
     "code": "MAT-TMC-RAC-0033",
     "price": 1900000,
     "warranty": "Đang cập nhật",
@@ -3383,7 +3383,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53251.jpg"
   },
   "TMC-23117": {
-    "name": "Tủ Rack 19” 27U TMC Rack 27U-D600",
+    "name": "Tủ Rack 19” 27U TMC-B Rack 27U-D600",
     "code": "MAT-TMC-RAC-0034",
     "price": 6530000,
     "warranty": "Đang cập nhật",
@@ -3553,7 +3553,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53318.jpg"
   },
   "TMC-23113": {
-    "name": "Tủ Rack 19” 32U TMC Rack 32U-D800",
+    "name": "Tủ Rack 19” 32U TMC-B Rack 32U-D800",
     "code": "MAT-TMC-RAC-0035",
     "price": 7950000,
     "warranty": "Đang cập nhật",
@@ -3698,7 +3698,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53361.jpg"
   },
   "TMC-56402": {
-    "name": "Tủ Rack treo tường 19” 9U TMC2 Rack 9U-D450",
+    "name": "Tủ Rack treo tường 19” 9U TMC-C Rack 9U-D450",
     "code": "MAT-TMC-RAC-0036",
     "price": 1570000,
     "warranty": "Đang cập nhật",
@@ -3933,7 +3933,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23162.jpg"
   },
   "TMC-81515": {
-    "name": "Tủ Rack ngoài trời 19” 10U-D600 TMC TM106OD",
+    "name": "Tủ Rack ngoài trời 19” 10U-D600 TMC-B TM106OD",
     "code": "MAT-TMC-RAC-0037",
     "price": 2570000,
     "warranty": "Đang cập nhật",
@@ -4000,7 +4000,7 @@
     "thumbnail": "/img/rack/tmc/TMC-81515.jpg"
   },
   "TMC-53210": {
-    "name": "Tủ Rack 19” 10U TMC Rack 10U-D600",
+    "name": "Tủ Rack 19” 10U TMC-B Rack 10U-D600",
     "code": "MAT-TMC-RAC-0038",
     "price": 2460000,
     "warranty": "Đang cập nhật",
@@ -4086,7 +4086,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53210.jpg"
   },
   "TMC-53204": {
-    "name": "Tủ Rack 19” 27U TMC Rack 27U-D600 (Khung liền)",
+    "name": "Tủ Rack 19” 27U TMC-B Rack 27U-D600 (Khung liền)",
     "code": "MAT-TMC-RAC-0039",
     "price": 5160000,
     "warranty": "Đang cập nhật",
@@ -4181,7 +4181,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53204.jpg"
   },
   "TMC-53207": {
-    "name": "Tủ Rack 19” 20U TMC Rack 20U-D600 (Khung liền)",
+    "name": "Tủ Rack 19” 20U TMC-B Rack 20U-D600 (Khung liền)",
     "code": "MAT-TMC-RAC-0040",
     "price": 4270000,
     "warranty": "Đang cập nhật",
@@ -4267,7 +4267,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53207.jpg"
   },
   "TMC-63998": {
-    "name": "Tủ Rack 19” 42U TMC Rack 42U-W800-D1100",
+    "name": "Tủ Rack 19” 42U TMC-B Rack 42U-W800-D1100",
     "code": "MAT-TMC-RAC-0041",
     "price": 13090000,
     "warranty": "Đang cập nhật",
@@ -4365,7 +4365,7 @@
     "thumbnail": "/img/rack/tmc/TMC-63998.jpg"
   },
   "TMC-23121": {
-    "name": "Tủ Rack 19” 15U TMC Rack 15U-D1000",
+    "name": "Tủ Rack 19” 15U TMC-B Rack 15U-D1000",
     "code": "MAT-TMC-RAC-0042",
     "price": 4030000,
     "warranty": "Đang cập nhật",
@@ -4451,7 +4451,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23121.jpg"
   },
   "TMC-53250": {
-    "name": "Tủ Rack treo tường 19” 12U TMC2 Rack 12U-D400",
+    "name": "Tủ Rack treo tường 19” 12U TMC-C Rack 12U-D400",
     "code": "MAT-TMC-RAC-0043",
     "price": "Vui lòng gọi",
     "warranty": "Đang cập nhật",
@@ -4597,7 +4597,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23148.jpg"
   },
   "TMC-53247": {
-    "name": "Tủ Rack treo tường 19” 12U TMC2 Rack 12U-D600",
+    "name": "Tủ Rack treo tường 19” 12U TMC-C Rack 12U-D600",
     "code": "MAT-TMC-RAC-0044",
     "price": 2030000,
     "warranty": "Đang cập nhật",
@@ -4936,7 +4936,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23143.jpg"
   },
   "TMC-53222": {
-    "name": "Tủ Rack 19” 42U TMC2 Rack 42U-D1000",
+    "name": "Tủ Rack 19” 42U TMC-C Rack 42U-D1000",
     "code": "MAT-TMC-RAC-0045",
     "price": 8320000,
     "warranty": "Đang cập nhật",
@@ -5108,7 +5108,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23147.jpg"
   },
   "TMC-23125": {
-    "name": "Tủ Rack 19” 12U TMC Rack 12U-D500",
+    "name": "Tủ Rack 19” 12U TMC-B Rack 12U-D500",
     "code": "MAT-TMC-RAC-0046",
     "price": "Vui lòng gọi",
     "warranty": "Đang cập nhật",
@@ -5176,7 +5176,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23125.jpg"
   },
   "TMC-53244": {
-    "name": "Tủ Rack 19” 10U TMC2 Rack 10U-D600",
+    "name": "Tủ Rack 19” 10U TMC-C Rack 10U-D600",
     "code": "MAT-TMC-RAC-0047",
     "price": 1980000,
     "warranty": "Đang cập nhật",
@@ -5258,7 +5258,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53244.jpg"
   },
   "TMC-53239": {
-    "name": "Tủ Rack 19” 20U TMC2 Rack 20U-D600 (Khung liền)",
+    "name": "Tủ Rack 19” 20U TMC-C Rack 20U-D600 (Khung liền)",
     "code": "MAT-TMC-RAC-0048",
     "price": 4100000,
     "warranty": "Đang cập nhật",
@@ -5336,7 +5336,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53239.jpg"
   },
   "TMC-53233": {
-    "name": "Tủ Rack 19” 27U TMC2 Rack 27U-D800",
+    "name": "Tủ Rack 19” 27U TMC-C Rack 27U-D800",
     "code": "MAT-TMC-RAC-0049",
     "price": 5750000,
     "warranty": "Đang cập nhật",
@@ -5509,7 +5509,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53344.jpg"
   },
   "TMC-53220": {
-    "name": "Tủ Rack 19” 42U TMC2 Rack 42U-D600",
+    "name": "Tủ Rack 19” 42U TMC-C Rack 42U-D600",
     "code": "MAT-TMC-RAC-0050",
     "price": 7240000,
     "warranty": "Đang cập nhật",
@@ -5591,7 +5591,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53220.jpg"
   },
   "TMC-53221": {
-    "name": "Tủ Rack 19” 42U TMC2 Rack 42U-D800",
+    "name": "Tủ Rack 19” 42U TMC-C Rack 42U-D800",
     "code": "MAT-TMC-RAC-0051",
     "price": 7690000,
     "warranty": "Đang cập nhật",
@@ -5673,7 +5673,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53221.jpg"
   },
   "TMC-53242": {
-    "name": "Tủ Rack 19” 15U TMC2 Rack 15U-D600 (Khung liền)",
+    "name": "Tủ Rack 19” 15U TMC-C Rack 15U-D600 (Khung liền)",
     "code": "MAT-TMC-RAC-0052",
     "price": 3080000,
     "warranty": "Đang cập nhật",
@@ -5751,7 +5751,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53242.jpg"
   },
   "TMC-53234": {
-    "name": "Tủ Rack 19” 27U TMC2 Rack 27U-D600",
+    "name": "Tủ Rack 19” 27U TMC-C Rack 27U-D600",
     "code": "MAT-TMC-RAC-0053",
     "price": 5350000,
     "warranty": "Đang cập nhật",
@@ -5833,7 +5833,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53234.jpg"
   },
   "TMC-82948": {
-    "name": "Tủ Rack ngoài trời 19” 6U-D400 TMC TM640OD",
+    "name": "Tủ Rack ngoài trời 19” 6U-D400 TMC-B TM640OD",
     "code": "MAT-TMC-RAC-0054",
     "price": 1640000,
     "warranty": "Đang cập nhật",
@@ -5998,7 +5998,7 @@
     "thumbnail": "/img/rack/tmc/TMC-81520.jpg"
   },
   "TMC-82945": {
-    "name": "Tủ Rack 19” 42U TMC Rack 42U-W800-D1200 (TM42812BN-B)",
+    "name": "Tủ Rack 19” 42U TMC-B Rack 42U-W800-D1200 (TM42812BN-B)",
     "code": "MAT-TMC-RAC-0055",
     "price": 13720000,
     "warranty": "Đang cập nhật",
@@ -6097,7 +6097,7 @@
     "thumbnail": "/img/rack/tmc/TMC-82945.jpg"
   },
   "TMC-53243": {
-    "name": "Tủ Rack 19” 12U TMC2 Rack 12U-D600",
+    "name": "Tủ Rack 19” 12U TMC-C Rack 12U-D600",
     "code": "MAT-TMC-RAC-0056",
     "price": 2070000,
     "warranty": "Đang cập nhật",
@@ -6175,7 +6175,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53243.jpg"
   },
   "TMC-53253": {
-    "name": "Tủ Rack treo tường 19” 10U TMC2 Rack 10U-D500",
+    "name": "Tủ Rack treo tường 19” 10U TMC-C Rack 10U-D500",
     "code": "MAT-TMC-RAC-0057",
     "price": 1700000,
     "warranty": "Đang cập nhật",
@@ -6265,7 +6265,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53253.jpg"
   },
   "TMC-53237": {
-    "name": "Tủ Rack 19” 20U TMC2 Rack 20U-D600",
+    "name": "Tủ Rack 19” 20U TMC-C Rack 20U-D600",
     "code": "MAT-TMC-RAC-0058",
     "price": 4570000,
     "warranty": "Đang cập nhật",
@@ -6347,7 +6347,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53237.jpg"
   },
   "TMC-53245": {
-    "name": "Tủ Rack 19” 10U TMC2 Rack 10U-D500",
+    "name": "Tủ Rack 19” 10U TMC-C Rack 10U-D500",
     "code": "MAT-TMC-RAC-0059",
     "price": 1740000,
     "warranty": "Đang cập nhật",
@@ -6429,7 +6429,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53245.jpg"
   },
   "TMC-23111": {
-    "name": "Tủ Rack 19” 36U TMC Rack 36U-D600",
+    "name": "Tủ Rack 19” 36U TMC-B Rack 36U-D600",
     "code": "MAT-TMC-RAC-0060",
     "price": 7980000,
     "warranty": "Đang cập nhật",
@@ -6516,7 +6516,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23111.jpg"
   },
   "TMC-82946": {
-    "name": "Tủ Rack 19” 42U TMC Rack 42U-W600-D1200 (TM4212BN-B)",
+    "name": "Tủ Rack 19” 42U TMC-B Rack 42U-W600-D1200 (TM4212BN-B)",
     "code": "MAT-TMC-RAC-0061",
     "price": 10750000,
     "warranty": "Đang cập nhật",
@@ -6678,7 +6678,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53271.jpg"
   },
   "TMC-53236": {
-    "name": "Tủ Rack 19” 20U TMC2 Rack 20U-D800",
+    "name": "Tủ Rack 19” 20U TMC-C Rack 20U-D800",
     "code": "MAT-TMC-RAC-0062",
     "price": 4950000,
     "warranty": "Đang cập nhật",
@@ -6760,7 +6760,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53236.jpg"
   },
   "TMC-81518": {
-    "name": "Tủ Rack ngoài trời 19” 15U-D800 TMC TM158OD",
+    "name": "Tủ Rack ngoài trời 19” 15U-D800 TMC-B TM158OD",
     "code": "MAT-TMC-RAC-0063",
     "price": 4210000,
     "warranty": "Đang cập nhật",
@@ -6983,7 +6983,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53273.jpg"
   },
   "TMC-53208": {
-    "name": "Tủ Rack 19” 20U TMC Rack 20U-D800 (Khung liền)",
+    "name": "Tủ Rack 19” 20U TMC-B Rack 20U-D800 (Khung liền)",
     "code": "MAT-TMC-RAC-0064",
     "price": 4770000,
     "warranty": "Đang cập nhật",
@@ -7069,7 +7069,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53208.jpg"
   },
   "TMC-53227": {
-    "name": "Tủ Rack 19” 32U TMC2 Rack 32U-D800",
+    "name": "Tủ Rack 19” 32U TMC-C Rack 32U-D800",
     "code": "MAT-TMC-RAC-0065",
     "price": 6730000,
     "warranty": "Đang cập nhật",
@@ -7201,7 +7201,7 @@
     "thumbnail": "/img/rack/tmc/TMC-81525.jpg"
   },
   "TMC-53230": {
-    "name": "Tủ Rack 19” 27U TMC2 Rack 27U-D1000",
+    "name": "Tủ Rack 19” 27U TMC-C Rack 27U-D1000",
     "code": "MAT-TMC-RAC-0066",
     "price": 6160000,
     "warranty": "Đang cập nhật",
@@ -7287,7 +7287,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53230.jpg"
   },
   "TMC-53240": {
-    "name": "Tủ Rack 19” 15U TMC2 Rack 15U-D800 (Khung liền)",
+    "name": "Tủ Rack 19” 15U TMC-C Rack 15U-D800 (Khung liền)",
     "code": "MAT-TMC-RAC-0067",
     "price": 3260000,
     "warranty": "Đang cập nhật",
@@ -7373,7 +7373,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53240.jpg"
   },
   "TMC-82954": {
-    "name": "Tủ Rack ngoài trời 19” 20U-D600 TMC TM206OD",
+    "name": "Tủ Rack ngoài trời 19” 20U-D600 TMC-B TM206OD",
     "code": "MAT-TMC-RAC-0068",
     "price": 4860000,
     "warranty": "Đang cập nhật",
@@ -7577,7 +7577,7 @@
     "thumbnail": "/img/rack/tmc/TMC-45478.jpg"
   },
   "TMC-53228": {
-    "name": "Tủ Rack 19” 32U TMC2 Rack 32U-D600",
+    "name": "Tủ Rack 19” 32U TMC-C Rack 32U-D600",
     "code": "MAT-TMC-RAC-0069",
     "price": 6290000,
     "warranty": "Đang cập nhật",
@@ -7882,7 +7882,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23144.jpg"
   },
   "TMC-53235": {
-    "name": "Tủ Rack 19” 20U TMC2 Rack 20U-D1000",
+    "name": "Tủ Rack 19” 20U TMC-C Rack 20U-D1000",
     "code": "MAT-TMC-RAC-0070",
     "price": 5240000,
     "warranty": "Đang cập nhật",
@@ -7964,7 +7964,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53235.jpg"
   },
   "TMC-82952": {
-    "name": "Tủ Rack ngoài trời 19” 12U-D600 TMC TM126OD",
+    "name": "Tủ Rack ngoài trời 19” 12U-D600 TMC-B TM126OD",
     "code": "MAT-TMC-RAC-0071",
     "price": 3060000,
     "warranty": "Đang cập nhật",
@@ -8023,7 +8023,7 @@
     "thumbnail": "/img/rack/tmc/TMC-82952.jpg"
   },
   "TMC-53224": {
-    "name": "Tủ Rack 19” 36U TMC2 Rack 36U-D800",
+    "name": "Tủ Rack 19” 36U TMC-C Rack 36U-D800",
     "code": "MAT-TMC-RAC-0072",
     "price": 7240000,
     "warranty": "Đang cập nhật",
@@ -8109,7 +8109,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53224.jpg"
   },
   "TMC-53223": {
-    "name": "Tủ Rack 19” 36U TMC2 Rack 36U-D1000",
+    "name": "Tủ Rack 19” 36U TMC-C Rack 36U-D1000",
     "code": "MAT-TMC-RAC-0073",
     "price": 7690000,
     "warranty": "Đang cập nhật",
@@ -8195,7 +8195,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53223.jpg"
   },
   "TMC-53226": {
-    "name": "Tủ Rack 19” 32U TMC2 Rack 32U-D1000",
+    "name": "Tủ Rack 19” 32U TMC-C Rack 32U-D1000",
     "code": "MAT-TMC-RAC-0074",
     "price": 7240000,
     "warranty": "Đang cập nhật",
@@ -8466,7 +8466,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53270.jpg"
   },
   "TMC-82947": {
-    "name": "Tủ Rack 19\" 42U TMC Rack 42U-W600-D1100 (TM4211BN-B)",
+    "name": "Tủ Rack 19\" 42U TMC-B Rack 42U-W600-D1100 (TM4211BN-B)",
     "code": "MAT-TMC-RAC-0075",
     "price": 10420000,
     "warranty": "Đang cập nhật",
@@ -8553,7 +8553,7 @@
     "thumbnail": "/img/rack/tmc/TMC-82947.jpg"
   },
   "TMC-53225": {
-    "name": "Tủ Rack 19” 36U TMC2 Rack 36U-D600",
+    "name": "Tủ Rack 19” 36U TMC-C Rack 36U-D600",
     "code": "MAT-TMC-RAC-0076",
     "price": 6590000,
     "warranty": "Đang cập nhật",
@@ -8957,7 +8957,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53267.jpg"
   },
   "TMC-53281": {
-    "name": "Khung gắn thiết bị 42U Open Rack TMC TMC-42OP đôi",
+    "name": "Khung gắn thiết bị 42U Open Rack TMC-B TMC-42OP đôi",
     "code": "MAT-TMC-RAC-0077",
     "price": 3590000,
     "warranty": "Đang cập nhật",
@@ -9144,7 +9144,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53263.jpg"
   },
   "TMC-53278": {
-    "name": "Khung gắn thiết bị 27U Open Rack TMC TMC-27OP đôi",
+    "name": "Khung gắn thiết bị 27U Open Rack TMC-B TMC-27OP đôi",
     "code": "MAT-TMC-RAC-0078",
     "price": 2800000,
     "warranty": "Đang cập nhật",
@@ -9263,7 +9263,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53320.jpg"
   },
   "TMC-53277": {
-    "name": "Khung gắn thiết bị 27U Open Rack TMC TMC-27OP đơn",
+    "name": "Khung gắn thiết bị 27U Open Rack TMC-B TMC-27OP đơn",
     "code": "MAT-TMC-RAC-0079",
     "price": 1980000,
     "warranty": "Đang cập nhật",
@@ -9430,7 +9430,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23158.jpg"
   },
   "TMC-53280": {
-    "name": "Khung gắn thiết bị 42U Open Rack TMC TMC-42OP đơn",
+    "name": "Khung gắn thiết bị 42U Open Rack TMC-B TMC-42OP đơn",
     "code": "MAT-TMC-RAC-0080",
     "price": 2550000,
     "warranty": "Đang cập nhật",

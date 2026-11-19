@@ -24,7 +24,7 @@ async function initializeProducts() {
       fetch("/data/huawei-products.json?v=20261109-2"),
       fetch("/data/products-import-20261030.json?v=20261109-2"),
       fetch("/data/products-manual-20261102.json?v=20261109-2"),
-      fetch("/data/products-rack-20261119.json?v=20261119-1"),
+      fetch("/data/products-rack-20261119.json?v=20261119-2"),
       fetch("/data/price-overrides-20261030.json?v=20261109-2"),
     ]);
 
@@ -48,6 +48,8 @@ async function initializeProducts() {
       const indexedProduct = productsById[embeddedProduct.id] || {};
       productsById[embeddedProduct.id] = {
         ...embeddedProduct.product,
+        image: embeddedProduct.product.image || indexedProduct.image,
+        thumbnail: embeddedProduct.product.thumbnail || indexedProduct.thumbnail,
         price: indexedProduct.price ?? embeddedProduct.product.price,
         previousPrice: indexedProduct.previousPrice ?? embeddedProduct.product.previousPrice,
         priceValidUntil: indexedProduct.priceValidUntil ?? embeddedProduct.product.priceValidUntil,

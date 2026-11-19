@@ -649,7 +649,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53202.jpg"
   },
   "TMC-53301": {
-    "name": "Thanh quản lý cáp ngang 1U-Commscope TMC TMC-PCM",
+    "name": "Thanh quản lý cáp ngang 1U-Commscope TMC-B TMC-PCM",
     "code": "MAT-TMC-ACC-0001",
     "price": "Vui lòng gọi",
     "warranty": "Đang cập nhật",
@@ -786,7 +786,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53255.jpg"
   },
   "TMC-53321": {
-    "name": "Ổ điện rack PDU 6 cổng có CB TMC TMC-PDU6CB",
+    "name": "Ổ điện rack PDU 6 cổng có CB TMC-B TMC-PDU6CB",
     "code": "MAT-TMC-ACC-0002",
     "price": 600000,
     "warranty": "Đang cập nhật",
@@ -1383,7 +1383,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53217.jpg"
   },
   "TMC-53323": {
-    "name": "Ổ cắm điện Rack PDU 12 cổng có CB 32A TMC-PDU12CB",
+    "name": "Ổ cắm điện Rack PDU 12 cổng có CB 32A TMC-B TMC-PDU12CB",
     "code": "MAT-TMC-ACC-0003",
     "price": 1130000,
     "warranty": "Đang cập nhật",
@@ -1829,7 +1829,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23112.jpg"
   },
   "TMC-53334": {
-    "name": "Ổ cắm điện Rack PDU 8 cổng 20A TMC-PDU8",
+    "name": "Ổ cắm điện Rack PDU 8 cổng 20A TMC-B TMC-PDU8",
     "code": "MAT-TMC-ACC-0004",
     "price": 650000,
     "warranty": "Đang cập nhật",
@@ -1908,7 +1908,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53334.jpg"
   },
   "TMC-64000": {
-    "name": "Ổ cắm điện Rack PDU 12 cổng TMC-PDU12CB19INCH",
+    "name": "Ổ cắm điện Rack PDU 12 cổng TMC-B TMC-PDU12CB19INCH",
     "code": "MAT-TMC-ACC-0005",
     "price": 1130000,
     "warranty": "Đang cập nhật",
@@ -2246,7 +2246,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23142.jpg"
   },
   "TMC-53335": {
-    "name": "Ổ cắm điện Rack PDU 6 cổng có CB 20A TMC TMC-PDU6CBC13",
+    "name": "Ổ cắm điện Rack PDU 6 cổng có CB 20A TMC-B TMC-PDU6CBC13",
     "code": "MAT-TMC-ACC-0006",
     "price": 670000,
     "warranty": "Đang cập nhật",
@@ -2577,7 +2577,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53216.jpg"
   },
   "TMC-53298": {
-    "name": "Thanh quản lý cáp ngang 1U TMC TMC-HCM1U",
+    "name": "Thanh quản lý cáp ngang 1U TMC-B TMC-HCM1U",
     "code": "MAT-TMC-ACC-0007",
     "price": 240000,
     "warranty": "Đang cập nhật",
@@ -3486,7 +3486,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23117.jpg"
   },
   "TMC-53318": {
-    "name": "Ổ điện rack PDU 6 cổng chuẩn 19 inch TMC TMC-PDU62",
+    "name": "Ổ điện rack PDU 6 cổng chuẩn 19 inch TMC-B TMC-PDU62",
     "code": "MAT-TMC-ACC-0008",
     "price": 350000,
     "warranty": "Đang cập nhật",
@@ -3648,7 +3648,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23113.jpg"
   },
   "TMC-53361": {
-    "name": "Ốc cài rack M6 TMC ECU M6",
+    "name": "Ốc cài rack M6 TMC-B ECU M6",
     "code": "MAT-TMC-ACC-0009",
     "price": 10000,
     "warranty": "Đang cập nhật",
@@ -3788,7 +3788,7 @@
     "thumbnail": "/img/rack/tmc/TMC-56402.jpg"
   },
   "TMC-53325": {
-    "name": "Ổ cắm điện PDU 24 cổng có CB 32A TMC TMC-PDU24CB",
+    "name": "Ổ cắm điện PDU 24 cổng có CB 32A TMC-B TMC-PDU24CB",
     "code": "MAT-TMC-ACC-0010",
     "price": 2520000,
     "warranty": "Đang cập nhật",
@@ -3883,7 +3883,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53325.jpg"
   },
   "TMC-23162": {
-    "name": "Quạt tản nhiệt TMC-FAN120",
+    "name": "Quạt tản nhiệt TMC-B TMC-FAN120",
     "code": "MAT-TMC-ACC-0011",
     "price": 190000,
     "warranty": "Đang cập nhật",
@@ -4515,7 +4515,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53250.jpg"
   },
   "TMC-23148": {
-    "name": "Khay cố định TMC F600 chuẩn 19”, 1U, D400mm",
+    "name": "Khay cố định TMC-B F600 chuẩn 19”, 1U, D400mm",
     "code": "MAT-TMC-ACC-0012",
     "price": 330000,
     "warranty": "Đang cập nhật",
@@ -4687,7 +4687,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53247.jpg"
   },
   "TMC-23146": {
-    "name": "Khay cố định TMC F1000 chuẩn 19”, 1U, D760mm",
+    "name": "Khay cố định TMC-B F1000 chuẩn 19”, 1U, D760mm",
     "code": "MAT-TMC-ACC-0013",
     "price": 470000,
     "warranty": "Đang cập nhật",
@@ -4769,7 +4769,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23146.jpg"
   },
   "TMC-46004": {
-    "name": "Thanh nguồn PDU 12 cổng C13 TMC-PDU12CBUC13",
+    "name": "Thanh nguồn PDU 12 cổng C13 TMC-B TMC-PDU12CBUC13",
     "code": "MAT-TMC-ACC-0014",
     "price": "Vui lòng gọi",
     "warranty": "Đang cập nhật",
@@ -4857,7 +4857,7 @@
     "thumbnail": "/img/rack/tmc/TMC-46004.jpg"
   },
   "TMC-23143": {
-    "name": "Khay trượt D780mm TMC TMC-S1000B-B",
+    "name": "Khay trượt D780mm TMC-B TMC-S1000B-B",
     "code": "MAT-TMC-ACC-0015",
     "price": 630000,
     "warranty": "Đang cập nhật",
@@ -5026,7 +5026,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53222.jpg"
   },
   "TMC-23147": {
-    "name": "Khay cố định TMC F800 chuẩn 19\", 1U, D600mm",
+    "name": "Khay cố định TMC-B F800 chuẩn 19\", 1U, D600mm",
     "code": "MAT-TMC-ACC-0016",
     "price": 410000,
     "warranty": "Đang cập nhật",
@@ -5418,7 +5418,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53233.jpg"
   },
   "TMC-53344": {
-    "name": "Thanh nguồn PDU 20 cổng TMC-PDU20CBC13C19",
+    "name": "Thanh nguồn PDU 20 cổng TMC-B TMC-PDU20CBC13C19",
     "code": "MAT-TMC-ACC-0017",
     "price": 2080000,
     "warranty": "Đang cập nhật",
@@ -5896,7 +5896,7 @@
     "thumbnail": "/img/rack/tmc/TMC-82948.jpg"
   },
   "TMC-53329": {
-    "name": "Ổ cắm điện Rack PDU 7 cổng TMC-PDU7C",
+    "name": "Ổ cắm điện Rack PDU 7 cổng TMC-B TMC-PDU7C",
     "code": "MAT-TMC-ACC-0018",
     "price": "Vui lòng gọi",
     "warranty": "Đang cập nhật",
@@ -5948,7 +5948,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53329.jpg"
   },
   "TMC-81520": {
-    "name": "Thanh quản lý cáp dọc 42U TMC TMC-VCM42U",
+    "name": "Thanh quản lý cáp dọc 42U TMC-B TMC-VCM42U",
     "code": "MAT-TMC-ACC-0019",
     "price": 520000,
     "warranty": "Đang cập nhật",
@@ -6607,7 +6607,7 @@
     "thumbnail": "/img/rack/tmc/TMC-82946.jpg"
   },
   "TMC-53271": {
-    "name": "Khay cố định TMC2 800 chuẩn 19”, 1U, D600mm",
+    "name": "Khay cố định TMC-C 800 chuẩn 19”, 1U, D600mm",
     "code": "MAT-TMC-ACC-0020",
     "price": 340000,
     "warranty": "Đang cập nhật",
@@ -6831,7 +6831,7 @@
     "thumbnail": "/img/rack/tmc/TMC-81518.jpg"
   },
   "TMC-23145": {
-    "name": "Khay trượt TMC-S600 chuẩn 19”, 1U, D400mm",
+    "name": "Khay trượt TMC-B TMC-S600 chuẩn 19”, 1U, D400mm",
     "code": "MAT-TMC-ACC-0021",
     "price": 500000,
     "warranty": "Đang cập nhật",
@@ -6909,7 +6909,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23145.jpg"
   },
   "TMC-53273": {
-    "name": "Khay cố định TMC2 500 chuẩn 19”, 1U, D350mm",
+    "name": "Khay cố định TMC-C 500 chuẩn 19”, 1U, D350mm",
     "code": "MAT-TMC-ACC-0022",
     "price": 250000,
     "warranty": "Đang cập nhật",
@@ -7151,7 +7151,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53227.jpg"
   },
   "TMC-81525": {
-    "name": "Thanh quản lý cáp dọc 20U TMC TMC-VCM20",
+    "name": "Thanh quản lý cáp dọc 20U TMC-B TMC-VCM20",
     "code": "MAT-TMC-ACC-0023",
     "price": 420000,
     "warranty": "Đang cập nhật",
@@ -7436,7 +7436,7 @@
     "thumbnail": "/img/rack/tmc/TMC-82954.jpg"
   },
   "TMC-81526": {
-    "name": "Ổ cắm điện Rack 12 cổng C13 TMC TMC-PDU12CBC13",
+    "name": "Ổ cắm điện Rack 12 cổng C13 TMC-B TMC-PDU12CBC13",
     "code": "MAT-TMC-ACC-0024",
     "price": 1210000,
     "warranty": "Đang cập nhật",
@@ -7527,7 +7527,7 @@
     "thumbnail": "/img/rack/tmc/TMC-81526.jpg"
   },
   "TMC-45478": {
-    "name": "Nắp che 1U TMC",
+    "name": "Nắp che 1U TMC-B",
     "code": "MAT-TMC-ACC-0025",
     "price": 60000,
     "warranty": "Đang cập nhật",
@@ -7659,7 +7659,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53228.jpg"
   },
   "TMC-53342": {
-    "name": "Ổ cắm điện Rack PDU 12 cổng 20A TMC TMC-PDU12C13C19",
+    "name": "Ổ cắm điện Rack PDU 12 cổng 20A TMC-B TMC-PDU12C13C19",
     "code": "MAT-TMC-ACC-0026",
     "price": 1210000,
     "warranty": "Đang cập nhật",
@@ -7722,7 +7722,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53342.jpg"
   },
   "TMC-53272": {
-    "name": "Khay cố định TMC2 600 chuẩn 19”, 1U, D400mm",
+    "name": "Khay cố định TMC-C 600 chuẩn 19”, 1U, D400mm",
     "code": "MAT-TMC-ACC-0027",
     "price": 260000,
     "warranty": "Đang cập nhật",
@@ -7800,7 +7800,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53272.jpg"
   },
   "TMC-23144": {
-    "name": "Khay trượt TMC-S800 chuẩn 19”, 1U, D600mm",
+    "name": "Khay trượt TMC-B TMC-S800 chuẩn 19”, 1U, D600mm",
     "code": "MAT-TMC-ACC-0028",
     "price": 590000,
     "warranty": "Đang cập nhật",
@@ -8277,7 +8277,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53226.jpg"
   },
   "TMC-81521": {
-    "name": "Thanh quản lý cáp dọc 36U TMC TMC-VCM36U",
+    "name": "Thanh quản lý cáp dọc 36U TMC-B TMC-VCM36U",
     "code": "MAT-TMC-ACC-0029",
     "price": 500000,
     "warranty": "Đang cập nhật",
@@ -8336,7 +8336,7 @@
     "thumbnail": "/img/rack/tmc/TMC-81521.jpg"
   },
   "TMC-23160": {
-    "name": "Thanh quản lý cáp ngang 19” 1U TMC-CMC1U",
+    "name": "Thanh quản lý cáp ngang 19” 1U TMC-B TMC-CMC1U",
     "code": "MAT-TMC-ACC-0030",
     "price": "Vui lòng gọi",
     "warranty": "Đang cập nhật",
@@ -8388,7 +8388,7 @@
     "thumbnail": "/img/rack/tmc/TMC-23160.jpg"
   },
   "TMC-53270": {
-    "name": "Khay cố định TMC2 1000 chuẩn 19”, 1U, D780mm",
+    "name": "Khay cố định TMC-C 1000 chuẩn 19”, 1U, D780mm",
     "code": "MAT-TMC-ACC-0031",
     "price": 410000,
     "warranty": "Đang cập nhật",
@@ -8639,7 +8639,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53225.jpg"
   },
   "TMC-86111": {
-    "name": "Ổ cắm điện Rack PDU 12 cổng 20A TMC TMC-PDU12C13",
+    "name": "Ổ cắm điện Rack PDU 12 cổng 20A TMC-B TMC-PDU12C13",
     "code": "MAT-TMC-ACC-0032",
     "price": 930000,
     "warranty": "Đang cập nhật",
@@ -8722,7 +8722,7 @@
     "thumbnail": "/img/rack/tmc/TMC-86111.jpg"
   },
   "TMC-53269": {
-    "name": "Khay trượt TMC2 600 chuẩn 19”, 1U, D400mm",
+    "name": "Khay trượt TMC-C 600 chuẩn 19”, 1U, D400mm",
     "code": "MAT-TMC-ACC-0033",
     "price": 420000,
     "warranty": "Đang cập nhật",
@@ -8800,7 +8800,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53269.jpg"
   },
   "TMC-53275": {
-    "name": "Khay cố định TMC2 400 chuẩn 19”, 1U, D250mm",
+    "name": "Khay cố định TMC-C 400 chuẩn 19”, 1U, D250mm",
     "code": "MAT-TMC-ACC-0034",
     "price": 190000,
     "warranty": "Đang cập nhật",
@@ -8879,7 +8879,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53275.jpg"
   },
   "TMC-53267": {
-    "name": "Khay trượt TMC2 800 chuẩn 19”, 1U, D600mm",
+    "name": "Khay trượt TMC-C 800 chuẩn 19”, 1U, D600mm",
     "code": "MAT-TMC-ACC-0035",
     "price": 550000,
     "warranty": "Đang cập nhật",
@@ -9016,7 +9016,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53281.jpg"
   },
   "TMC-81522": {
-    "name": "Thanh quản lý cáp dọc 32U TMC TMC-VCM32U",
+    "name": "Thanh quản lý cáp dọc 32U TMC-B TMC-VCM32U",
     "code": "MAT-TMC-ACC-0036",
     "price": 470000,
     "warranty": "Đang cập nhật",
@@ -9066,7 +9066,7 @@
     "thumbnail": "/img/rack/tmc/TMC-81522.jpg"
   },
   "TMC-53263": {
-    "name": "Khay trượt TMC2 1000 chuẩn 19”, 1U, D780mm",
+    "name": "Khay trượt TMC-C 1000 chuẩn 19”, 1U, D780mm",
     "code": "MAT-TMC-ACC-0037",
     "price": 580000,
     "warranty": "Đang cập nhật",
@@ -9203,7 +9203,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53278.jpg"
   },
   "TMC-53320": {
-    "name": "Ổ điện rack PDU 6 cổng chuẩn 19 inch TMC TMC-PDU63",
+    "name": "Ổ điện rack PDU 6 cổng chuẩn 19 inch TMC-B TMC-PDU63",
     "code": "MAT-TMC-ACC-0038",
     "price": "Vui lòng gọi",
     "warranty": "Đang cập nhật",
@@ -9318,7 +9318,7 @@
     "thumbnail": "/img/rack/tmc/TMC-53277.jpg"
   },
   "TMC-64001": {
-    "name": "Ổ cắm điện Rack PDU 24 cổng TMC-PDU24C13C20",
+    "name": "Ổ cắm điện Rack PDU 24 cổng TMC-B TMC-PDU24C13C20",
     "code": "MAT-TMC-ACC-0039",
     "price": "Vui lòng gọi",
     "warranty": "Đang cập nhật",
@@ -9374,7 +9374,7 @@
     "thumbnail": "/img/rack/tmc/TMC-64001.jpg"
   },
   "TMC-23158": {
-    "name": "Khay cố định TMC F500 chuẩn 19”, 1U, D350mm",
+    "name": "Khay cố định TMC-B F500 chuẩn 19”, 1U, D350mm",
     "code": "MAT-TMC-ACC-0040",
     "price": "Vui lòng gọi",
     "warranty": "Đang cập nhật",

@@ -24,7 +24,7 @@ async function initializeProducts() {
       fetch("/data/huawei-products.json?v=20261109-2"),
       fetch("/data/products-import-20261030.json?v=20261109-2"),
       fetch("/data/products-manual-20261102.json?v=20261109-2"),
-      fetch("/data/products-rack-20261119.json?v=20261119-2"),
+      fetch("/data/products-rack-20261119.json?v=20261119-3"),
       fetch("/data/price-overrides-20261030.json?v=20261109-2"),
     ]);
 

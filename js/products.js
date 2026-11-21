@@ -10,6 +10,7 @@ const catalogState = {
   selectedProductTypes: new Set(),
   selectedTechnicalValues: new Set(),
   technicalFilterKind: "",
+  rackFilters: new Map(),
   keyword: "",
   sortMode: "",
   infiniteScrollPaused: false,
@@ -720,6 +721,13 @@ function initializeCatalogToolbar() {
   toolbar.setAttribute("aria-label", "Bộ lọc sản phẩm");
   const technicalFilterHost = document.createElement("div");
   technicalFilterHost.className = "catalog-technical-filter";
+  const renderTechnicalFilters = () => {
+    if (container.dataset.rackFilters === "true") {
+      renderRackFilters(scopedProducts, technicalFilterHost);
+    } else {
+      renderCatalogTechnicalFilter(scopedProducts, technicalFilterHost);
+    }
+  };
 
   const brands = [...new Set(scopedProducts.map((product) => product.brand).filter(Boolean))]
     .sort((a, b) => a.localeCompare(b, "vi"));
@@ -730,7 +738,7 @@ function initializeCatalogToolbar() {
       brands.map((brand) => [brand, brand]),
       (values) => {
         catalogState.selectedBrands = new Set(values.map(normalize));
-        renderCatalogTechnicalFilter(scopedProducts, technicalFilterHost);
+        renderTechnicalFilters();
         applyCatalogFilter();
       },
     ));
@@ -746,14 +754,14 @@ function initializeCatalogToolbar() {
       productTypes.map((productType) => [productType, categoryLabel(productType)]),
       (values) => {
         catalogState.selectedProductTypes = new Set(values.map(normalize));
-        renderCatalogTechnicalFilter(scopedProducts, technicalFilterHost);
+        renderTechnicalFilters();
         applyCatalogFilter();
       },
     ));
   }
 
   toolbar.appendChild(technicalFilterHost);
-  renderCatalogTechnicalFilter(scopedProducts, technicalFilterHost);
+  renderTechnicalFilters();
 
   const sortSelect = createCatalogSelect("sortPrice", "Sắp xếp", [
     ["", "Mặc định"],
@@ -948,6 +956,76 @@ function productTechnicalValue(product, kind) {
   return null;
 }
 
+const rackFacetDefinitions = [
+  ["series", "Dòng sản phẩm", ""],
+  ["units", "Chiều cao tủ (U)", "U"],
+  ["width", "Chiều rộng (mm)", " mm"],
+  ["depth", "Chiều sâu (mm)", " mm"],
+  ["installation", "Kiểu lắp đặt", ""],
+];
+
+function rackFacetValues(product) {
+  const name = String(product.name || "");
+  const series = name.match(/\bTMC-[BC](?=\s|$)/i)?.[0].toUpperCase();
+  const facets = { series: series ? [series] : [] };
+  if (normalize(product.productType) !== "tủ rack") return facets;
+
+  const rows = productSpecificationRows(product).map(([label, value]) => [normalizeTechnicalText(label), String(value)]);
+  const units = name.match(/\b(\d+)\s*U\b/i)?.[1]
+    || rows.find(([label, value]) => /^(so u|chieu cao(?: tu)?)$/.test(label) && /^\s*\d+\s*U\b/i.test(value))?.[1].match(/\d+/)?.[0];
+  const width = rows.find(([label]) => label === "chieu rong")?.[1].match(/^\s*(\d+)\s*mm\b/i)?.[1];
+  const depth = rows.find(([label]) => label === "chieu sau")?.[1].match(/^\s*(\d+)\s*mm\b/i)?.[1];
+  for (const [label, value] of rows) {
+    if (!label.startsWith("kich thuoc")) continue;
+    const labeled = value.match(/\bW\s*(\d+)\s*[x×]\s*H\s*\d+\s*[x×]\s*D\s*(\d+)\s*mm\b/i);
+    const plain = value.match(/^\s*(\d+)\s*[x×]\s*(\d+)\s*[x×]\s*(\d+)\s*mm\b/i);
+    if (labeled || plain) {
+      facets.width = [width || labeled?.[1] || plain[label.includes("cao x rong x sau") ? 2 : 1]];
+      facets.depth = [depth || labeled?.[2] || plain[3]];
+      break;
+    }
+  }
+  facets.width ||= width ? [width] : [];
+  facets.depth ||= depth ? [depth] : [];
+  facets.units = units ? [units] : [];
+  const mounting = normalizeTechnicalText([name, ...rows.filter(([label]) => /^(kieu lap dat|lap dat|loai tu|loai san pham)$/.test(label)).map(([, value]) => value)].join(" ")).replaceAll("đ", "d");
+  facets.installation = [];
+  if (/treo tuong|gan tuong/.test(mounting)) facets.installation.push("Treo tường");
+  if (/(?:tu|rack) dung\b|dat san|dung san|dat be/.test(mounting)) facets.installation.push("Đặt sàn / đặt bệ");
+  if (/lap tru|gan tru/.test(mounting)) facets.installation.push("Lắp trụ");
+  return facets;
+}
+
+function renderRackFilters(scopedProducts, host) {
+  const products = scopedProducts.filter((product) =>
+    (!catalogState.selectedBrands.size || catalogState.selectedBrands.has(normalize(product.brand))) &&
+    (!catalogState.selectedProductTypes.size || catalogState.selectedProductTypes.has(normalize(product.productType || product.category))),
+  ).map(rackFacetValues);
+  host.replaceChildren();
+  for (const [key, label, unit] of rackFacetDefinitions) {
+    const options = [...new Set(products.flatMap((facets) => facets[key] || []))]
+      .sort((a, b) => a.localeCompare(b, "vi", { numeric: true }));
+    if (!options.includes(catalogState.rackFilters.get(key))) catalogState.rackFilters.delete(key);
+    if (!options.length) continue;
+    const { wrapper, select } = createCatalogSelect(`rack-filter-${key}`, label, [
+      ["", "Tất cả"], ...options.map((value) => [value, `${value}${unit}`]),
+    ]);
+    select.value = catalogState.rackFilters.get(key) || "";
+    select.addEventListener("change", () => {
+      if (select.value) catalogState.rackFilters.set(key, select.value);
+      else catalogState.rackFilters.delete(key);
+      applyCatalogFilter();
+    });
+    host.appendChild(wrapper);
+  }
+}
+
+function matchesRackFilters(product) {
+  if (!catalogState.rackFilters.size) return true;
+  const facets = rackFacetValues(product);
+  return [...catalogState.rackFilters].every(([key, value]) => facets[key]?.includes(value));
+}
+
 function renderCatalogTechnicalFilter(scopedProducts, host) {
   const kind = selectedTechnicalKind(scopedProducts);
   if (kind !== catalogState.technicalFilterKind) {
@@ -1057,7 +1135,8 @@ function applyCatalogFilter(options = {}) {
     const matchesKeyword = keywordTokens.every((token) => haystack.includes(token));
     const matchesIndustry = !pageIndustry || normalize(product.industry) === pageIndustry;
     return matchesBrand && matchesSelectedBrand && matchesPageCategory && matchesIndustry && matchesCategory &&
-      matchesProductType && matchesTechnicalFilter && matchesKeyword;
+      matchesProductType && matchesTechnicalFilter && matchesKeyword &&
+      (container.dataset.rackFilters !== "true" || matchesRackFilters(product));
   });
 
   applySort(catalogState.sortMode);

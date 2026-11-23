@@ -778,17 +778,16 @@
     "hidden": true
   },
   "DH-IPC-HFW2449S-S-IL": {
-    "price": "Vui lòng gọi",
-    "sourcePrice": null,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-40mp-dahua-dh-ipc-hfw2449s-s-il-66350.html",
-    "priceSourceTitle": "Camera IP 4MP DAHUA DH-IPC-HFW2449S-S-IL",
-    "priceMarkupPercent": null,
-    "priceRounding": null,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": false,
-    "priceVatNote": "",
-    "hidden": true,
-    "previousPrice": 1770000
+    "price": 1860000,
+    "sourcePrice": 1725000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW1439TL1-PV": {
     "price": 1540000,
@@ -2765,16 +2764,16 @@
     "hidden": true
   },
   "IPC-F32FP": {
-    "price": 830000,
-    "sourcePrice": 770000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-full-color-3mp-imou-ipc-f32fp-85709.html",
-    "priceSourceTitle": "Camera IP WiFi Full Color 3MP IMOU IPC-F32FP",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "IPC-F52P": {
     "price": 730000,
@@ -2801,17 +2800,16 @@
     "hidden": true
   },
   "IPC-S3EP-5M0WE": {
-    "price": 930000,
-    "sourcePrice": 858000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-full-color-5mp-imou-ipc-s3ep-5m0we-80230.html",
-    "priceSourceTitle": "Camera IP Wifi Full Color 5MP IMOU IPC-S3EP-5M0WE",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false,
-    "previousPrice": 950000
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "IPC-A42P-L": {
     "price": 600000,
@@ -2874,16 +2872,16 @@
     "hidden": true
   },
   "IPC-K2MP-5H1WE": {
-    "price": 640000,
-    "sourcePrice": 595000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-pt-wifi-5mp-imou-ipc-k2mp-5h1we-89135.html",
-    "priceSourceTitle": "Camera IP PT WiFi 5MP IMOU IPC-K2MP-5H1WE",
+    "price": 680000,
+    "sourcePrice": 625000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 640000,
+    "priceValidUntil": ""
   },
   "IPC-S2VBP-5M0WR (Tích hợp pin)": {
     "price": "Vui lòng gọi",
@@ -2923,17 +2921,16 @@
     "previousPrice": 850000
   },
   "IPC-S7XEP-10M0WED": {
-    "price": 1590000,
-    "sourcePrice": 1470000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-pt-5mp5mp-imou-ipc-s7xep-10m0wed-86623.html",
-    "priceSourceTitle": "Camera IP WiFi PT 5MP+5MP IMOU IPC-S7XEP-10M0WED",
+    "price": 1610000,
+    "sourcePrice": 1490000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "previousPrice": 1490000,
-    "hidden": false
+    "previousPrice": 1590000,
+    "hidden": false,
+    "priceValidUntil": ""
   },
   "IPC-S51FEP": {
     "price": 1020000,
@@ -2985,16 +2982,16 @@
     "hidden": false
   },
   "IPC-K2MP-3H1WE": {
-    "price": 550000,
-    "sourcePrice": 510000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-pt-wifi-3mp-imou-ipc-k2mp-3h1we-89134.html",
-    "priceSourceTitle": "Camera IP PT WiFi 3MP IMOU IPC-K2MP-3H1WE",
+    "price": 570000,
+    "sourcePrice": 525000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 550000,
+    "priceValidUntil": ""
   },
   "IPC-GK2CP-3C0WR": {
     "price": "Vui lòng gọi",
@@ -3070,53 +3067,52 @@
     "hidden": true
   },
   "IPC-K7FP-3H0WE": {
-    "price": 860000,
-    "sourcePrice": 794000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-pt-full-color-3mp-imou-ipc-k7fp-3h0we-86617.html",
-    "priceSourceTitle": "Camera IP WiFi PT Full Color 3MP IMOU IPC-K7FP-3H0WE",
+    "price": 940000,
+    "sourcePrice": 870000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 860000,
+    "priceValidUntil": ""
   },
   "IPC-F22FP": {
-    "price": 640000,
-    "sourcePrice": 590000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-2mp-imou-ipc-f22fp-50178.html",
-    "priceSourceTitle": "Camera IP Wifi 2MP IMOU IPC-F22FP",
+    "price": 730000,
+    "sourcePrice": 680000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 640000,
+    "priceValidUntil": ""
   },
   "IPC-S7XEP-6M0WED": {
-    "price": 1430000,
-    "sourcePrice": 1320000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-pt-3mp3mp-imou-ipc-s7xep-6m0wed-86622.html",
-    "priceSourceTitle": "Camera IP WiFi PT 3MP+3MP IMOU IPC-S7XEP-6M0WED",
+    "price": 1460000,
+    "sourcePrice": 1350000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "previousPrice": 1440000,
-    "hidden": false
+    "previousPrice": 1430000,
+    "hidden": false,
+    "priceValidUntil": ""
   },
   "IPC-S7XFP-8U0WED": {
-    "price": "Vui lòng gọi",
-    "sourcePrice": null,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-pt-4mp4mp-imou-ipc-s7xfp-8u0wed-88010.html",
-    "priceSourceTitle": "Camera IP Wifi PT 4MP+4MP IMOU IPC-S7XFP-8U0WED",
-    "priceMarkupPercent": null,
-    "priceRounding": null,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": false,
-    "priceVatNote": "",
-    "hidden": true
+    "price": 1930000,
+    "sourcePrice": 1790000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "IPC-S2XP-10M0WED": {
     "price": "Vui lòng gọi",
@@ -3276,16 +3272,16 @@
     "hidden": true
   },
   "IPC-S7XCP-6M1TED-EU": {
-    "price": 1640000,
-    "sourcePrice": 1520000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-pt-4g-3mp-3mp-imou-ipc-s7xcp-6m1ted-eu-90429.html",
-    "priceSourceTitle": "Camera IP PT 4G 3MP+3MP IMOU IPC-S7XCP-6M1TED-EU",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "IPC-S6DP-3M0WEB": {
     "price": "Vui lòng gọi",
@@ -8227,17 +8223,16 @@
     "hidden": true
   },
   "DS-2CE10KF0T-FS": {
-    "price": 940000,
+    "price": 950000,
     "sourcePrice": 875000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-hd-tvi-3k-colorvu-hikvision-ds-2ce10kf0t-fs-58944.html",
-    "priceSourceTitle": "Camera HD-TVI 3K ColorVu Hikvision DS-2CE10KF0T-FS",
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 950000
+    "previousPrice": 940000,
+    "priceValidUntil": ""
   },
   "DS-2CE70KF0T-MFS": {
     "price": "Vui lòng gọi",
@@ -10627,17 +10622,16 @@
     "hidden": false
   },
   "Vigor3912S": {
-    "price": 28560000,
-    "sourcePrice": 26440000,
-    "priceSource": "https://www.sieuthivienthong.com/router-can-bang-tai-draytek-vigor3912s-86414.html",
-    "priceSourceTitle": "Router cân bằng tải DrayTek Vigor3912S",
+    "price": 29110000,
+    "sourcePrice": 26950000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "previousPrice": 28600000,
-    "hidden": false
+    "previousPrice": 28560000,
+    "hidden": false,
+    "priceValidUntil": ""
   },
   "Vigor1100AX": {
     "price": 2830000,
@@ -11704,16 +11698,16 @@
     "hidden": true
   },
   "RB5009UG+S+IN": {
-    "price": "Vui lòng gọi",
-    "sourcePrice": null,
-    "priceSource": "https://www.sieuthivienthong.com/router-mikrotik-rb5009ug-s-in-73285.html",
-    "priceSourceTitle": "Router Mikrotik RB5009UG+S+IN",
-    "priceMarkupPercent": null,
-    "priceRounding": null,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": false,
-    "priceVatNote": "",
-    "hidden": true
+    "price": 6290000,
+    "sourcePrice": 5820000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "RB750-Gr3 hEX": {
     "price": 2430000,
@@ -12361,28 +12355,28 @@
     "hidden": true
   },
   "EAP110": {
-    "price": 620000,
-    "sourcePrice": 575000,
-    "priceSource": "https://www.sieuthivienthong.com/300mbps-wireless-n-access-point-tp-link-eap110-15175.html",
-    "priceSourceTitle": "300Mbps Wireless N Access Point TP-LINK EAP110",
+    "price": 710000,
+    "sourcePrice": 660000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 620000,
+    "priceValidUntil": ""
   },
   "EAP115-Bridge KIT": {
-    "price": 2300000,
-    "sourcePrice": 2130000,
-    "priceSource": "https://www.sieuthivienthong.com/5ghz-300mbps-access-point-tp-link-eap115-bridge-kit-88336.html",
-    "priceSourceTitle": "5GHz 300Mbps Wireless Bridge TP-LINK EAP115-Bridge KIT",
+    "price": 2660000,
+    "sourcePrice": 2460000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 2300000,
+    "priceValidUntil": ""
   },
   "EAP610": {
     "price": 2170000,
@@ -12398,28 +12392,28 @@
     "previousPrice": 2180000
   },
   "EAP650": {
-    "price": 2350000,
-    "sourcePrice": 2180000,
-    "priceSource": "https://www.sieuthivienthong.com/ax3000-ceiling-mount-wifi-6-access-point-tp-link-eap650-65821.html",
-    "priceSourceTitle": "AX3000 Ceiling Mount WiFi 6 Access Point TP-LINK EAP650",
+    "price": 2480000,
+    "sourcePrice": 2300000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 2350000,
+    "priceValidUntil": ""
   },
   "EAP670": {
-    "price": 3370000,
-    "sourcePrice": 3120000,
-    "priceSource": "https://www.sieuthivienthong.com/ax5400-ceiling-mount-wifi-6-access-point-tp-link-eap670-66250.html",
-    "priceSourceTitle": "AX5400 Ceiling Mount WiFi 6 Access Point TP-LINK EAP670",
+    "price": 3540000,
+    "sourcePrice": 3280000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 3370000,
+    "priceValidUntil": ""
   },
   "Deco X50-POE (1-pack)": {
     "price": "Vui lòng gọi",
@@ -12458,28 +12452,28 @@
     "hidden": false
   },
   "EAP225": {
-    "price": 1330000,
-    "sourcePrice": 1235000,
-    "priceSource": "https://www.sieuthivienthong.com/access-point-wifi-gan-tran-ac1350-tp-link-eap225-21455.html",
-    "priceSourceTitle": "Access Point Wifi gắn trần AC1350 TP-LINK EAP225",
+    "price": 1430000,
+    "sourcePrice": 1320000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1330000,
+    "priceValidUntil": ""
   },
   "Deco BE25 (2-pack)": {
-    "price": 5480000,
-    "sourcePrice": 5070000,
-    "priceSource": "https://www.sieuthivienthong.com/he-thong-mesh-wi-fi-7-be5000-tp-link-deco-be25-2-pack-88289.html",
-    "priceSourceTitle": "Hệ thống Mesh Wi-Fi 7 BE5000 TP-LINK Deco BE25 (2-pack)",
+    "price": 5920000,
+    "sourcePrice": 5480000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 5480000,
+    "priceValidUntil": ""
   },
   "Deco X10 (1-pack)": {
     "price": "Vui lòng gọi",
@@ -12494,40 +12488,40 @@
     "hidden": true
   },
   "Deco BE25 (3-pack)": {
-    "price": 8060000,
-    "sourcePrice": 7463500,
-    "priceSource": "https://www.sieuthivienthong.com/he-thong-mesh-wi-fi-7-be5000-tp-link-deco-be25-3-pack-88290.html",
-    "priceSourceTitle": "Hệ thống Mesh Wi-Fi 7 BE5000 TP-LINK Deco BE25 (3-pack)",
+    "price": 8450000,
+    "sourcePrice": 7820000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 8060000,
+    "priceValidUntil": ""
   },
   "Deco X10 (2-pack)": {
-    "price": 2330000,
-    "sourcePrice": 2155000,
-    "priceSource": "https://www.sieuthivienthong.com/he-thong-mesh-wifi-6-ax1500-tp-link-deco-x10-2-pack-79357.html",
-    "priceSourceTitle": "Hệ thống Mesh WiFi 6 AX1500 TP-LINK Deco X10 (2-pack)",
+    "price": 2530000,
+    "sourcePrice": 2340000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 2330000,
+    "priceValidUntil": ""
   },
   "Deco X10 (3-pack)": {
-    "price": 3490000,
-    "sourcePrice": 3230000,
-    "priceSource": "https://www.sieuthivienthong.com/he-thong-mesh-wifi-6-ax1500-tp-link-deco-x10-3-pack-79358.html",
-    "priceSourceTitle": "Hệ thống Mesh WiFi 6 AX1500 TP-LINK Deco X10 (3-pack)",
+    "price": 3670000,
+    "sourcePrice": 3400000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 3490000,
+    "priceValidUntil": ""
   },
   "Deco S7 (1-pack)": {
     "price": "Vui lòng gọi",
@@ -12542,16 +12536,16 @@
     "hidden": true
   },
   "Deco M5 (3-Pack)": {
-    "price": 3830000,
-    "sourcePrice": 3542000,
-    "priceSource": "https://www.sieuthivienthong.com/he-thong-wi-fi-mesh-ac1300-tp-link-deco-m5-3-pack-27098.html",
-    "priceSourceTitle": "Hệ thống Wi-Fi Mesh AC1300 TP-LINK Deco M5 (3-Pack)",
+    "price": 4370000,
+    "sourcePrice": 4050000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 3830000,
+    "priceValidUntil": ""
   },
   "TL-POE4818G": {
     "price": "Vui lòng gọi",
@@ -12578,40 +12572,40 @@
     "hidden": true
   },
   "TL-WN823N": {
-    "price": 190000,
-    "sourcePrice": 179000,
-    "priceSource": "https://www.sieuthivienthong.com/300mbps-mini-wireless-n-usb-tp-link-tl-wn823n-6922.html",
-    "priceSourceTitle": "300Mbps Mini Wireless N USB TP-LINK TL-WN823N",
+    "price": 210000,
+    "sourcePrice": 195000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 190000,
+    "priceValidUntil": ""
   },
   "Archer TX55E": {
-    "price": 640000,
-    "sourcePrice": 588000,
-    "priceSource": "https://www.sieuthivienthong.com/ax3000-wi-fi-6-ble-52-pcie-adapter-tp-link-archer-tx55e-66236.html",
-    "priceSourceTitle": "AX3000 WiFi 6 Bluetooth PCIe Adapter TP-Link Archer TX55E",
+    "price": 690000,
+    "sourcePrice": 640000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 640000,
+    "priceValidUntil": ""
   },
   "TX401": {
-    "price": 1530000,
-    "sourcePrice": 1415000,
-    "priceSource": "https://www.sieuthivienthong.com/10gbps-pci-express-network-adapter-tp-link-tx401-49265.html",
-    "priceSourceTitle": "10Gbps PCI Express Network Adapter TP-LINK TX401",
+    "price": 1750000,
+    "sourcePrice": 1620000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1530000,
+    "priceValidUntil": ""
   },
   "Archer TX20E": {
     "price": "Vui lòng gọi",
@@ -12650,16 +12644,16 @@
     "hidden": true
   },
   "OC200": {
-    "price": 3010000,
-    "sourcePrice": 2783000,
-    "priceSource": "https://www.sieuthivienthong.com/omada-cloud-controller-tp-link-oc200-31243.html",
-    "priceSourceTitle": "Omada Cloud Controller TP-LINK OC200",
+    "price": 3050000,
+    "sourcePrice": 2820000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 3010000,
+    "priceValidUntil": ""
   },
   "UH6120C": {
     "price": "Vui lòng gọi",
@@ -12686,16 +12680,16 @@
     "hidden": true
   },
   "UH9120C": {
-    "price": 840000,
-    "sourcePrice": 775000,
-    "priceSource": "https://www.sieuthivienthong.com/hub-usb-type-c-9-cong-tp-link-uh9120c-88365.html",
-    "priceSourceTitle": "Hub USB Type-C 9 cổng TP-LINK UH9120C",
+    "price": 910000,
+    "sourcePrice": 840000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 840000,
+    "priceValidUntil": ""
   },
   "OC300": {
     "price": "Vui lòng gọi",
@@ -12710,16 +12704,16 @@
     "hidden": true
   },
   "TL-POE160S": {
-    "price": 460000,
-    "sourcePrice": 428000,
-    "priceSource": "https://www.sieuthivienthong.com/poe-injector-tp-link-tl-poe160s-55560.html",
-    "priceSourceTitle": "PoE+ Injector TP-LINK TL-POE160S",
+    "price": 520000,
+    "sourcePrice": 480000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 460000,
+    "priceValidUntil": ""
   },
   "UE306": {
     "price": "Vui lòng gọi",
@@ -12770,16 +12764,16 @@
     "hidden": true
   },
   "Archer TX20U Nano": {
-    "price": 490000,
-    "sourcePrice": 453000,
-    "priceSource": "https://www.sieuthivienthong.com/usb-wi-fi-6-ax1800-tp-link-archer-tx20u-nano-81635.html",
-    "priceSourceTitle": "USB Wi-Fi 6 AX1800 TP-LINK Archer TX20U Nano",
+    "price": 500000,
+    "sourcePrice": 465000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 490000,
+    "priceValidUntil": ""
   },
   "Archer TX10UB Nano": {
     "price": "Vui lòng gọi",
@@ -12794,28 +12788,28 @@
     "hidden": true
   },
   "Archer T2U Plus": {
-    "price": 280000,
-    "sourcePrice": 262000,
-    "priceSource": "https://www.sieuthivienthong.com/usb-wi-fi-bang-tan-kep-ac600-tp-link-archer-t2u-plus-36793.html",
-    "priceSourceTitle": "USB Wi-Fi băng tần kép AC600 TP-Link Archer T2U Plus",
+    "price": 340000,
+    "sourcePrice": 315000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 280000,
+    "priceValidUntil": ""
   },
   "ER605": {
-    "price": 1500000,
-    "sourcePrice": 1390000,
-    "priceSource": "https://www.sieuthivienthong.com/omada-gigabit-vpn-router-tp-link-er605-58007.html",
-    "priceSourceTitle": "Omada Gigabit VPN Router TP-LINK ER605",
+    "price": 1490000,
+    "sourcePrice": 1380000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1500000,
+    "priceValidUntil": ""
   },
   "ER7212PC": {
     "price": "Vui lòng gọi",
@@ -12878,16 +12872,16 @@
     "hidden": true
   },
   "TL-WR846N": {
-    "price": 400000,
-    "sourcePrice": 375000,
-    "priceSource": "https://www.sieuthivienthong.com/300mbps-multi-mode-wi-fi-router-tp-link-tl-wr846n-88311.html",
-    "priceSourceTitle": "300Mbps Multi-Mode Wi-Fi Router TP-LINK TL-WR846N",
+    "price": 450000,
+    "sourcePrice": 420000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 400000,
+    "priceValidUntil": ""
   },
   "TL-ER7206": {
     "price": "Vui lòng gọi",
@@ -12902,40 +12896,40 @@
     "hidden": true
   },
   "TL-MR105": {
-    "price": 970000,
-    "sourcePrice": 895000,
-    "priceSource": "https://www.sieuthivienthong.com/300mbps-wireless-n-4g-lte-router-tp-link-tl-mr105-79364.html",
-    "priceSourceTitle": "300Mbps Wireless N 4G LTE Router TP-LINK TL-MR105",
+    "price": 1170000,
+    "sourcePrice": 1085000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 970000,
+    "priceValidUntil": ""
   },
   "TL-MR6400": {
-    "price": 1750000,
-    "sourcePrice": 1620000,
-    "priceSource": "https://www.sieuthivienthong.com/300mbps-wireless-n-4g-lte-router-tp-link-tl-mr6400-16172.html",
-    "priceSourceTitle": "300Mbps Wireless N 4G LTE Router TP-Link TL-MR6400",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "TL-WR841N": {
-    "price": 360000,
-    "sourcePrice": 337000,
-    "priceSource": "https://www.sieuthivienthong.com/300mbps-wireless-n-router-tp-link-tl-wr841n-3457.html",
-    "priceSourceTitle": "300Mbps Wireless N Router TP-LINK TL-WR841N",
+    "price": 380000,
+    "sourcePrice": 355000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 360000,
+    "priceValidUntil": ""
   },
   "Archer MR600": {
     "price": "Vui lòng gọi",
@@ -12974,29 +12968,28 @@
     "hidden": true
   },
   "Archer MR400": {
-    "price": 2260000,
-    "sourcePrice": 2090000,
-    "priceSource": "https://www.sieuthivienthong.com/ac1200-wifi-dual-band-4g-lte-router-tp-link-archer-mr400-58000.html",
-    "priceSourceTitle": "AC1200 Wifi Dual Band 4G LTE Router TP-LINK Archer MR400",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "Archer C64": {
     "price": "Vui lòng gọi",
     "sourcePrice": null,
-    "priceSource": "https://www.sieuthivienthong.com/ac1200-wireless-mu-mimo-wifi-router-tp-link-archer-c64-61712.html",
-    "priceSourceTitle": "AC1200 Wireless MU-MIMO WiFi Router TP-Link Archer C64",
     "priceMarkupPercent": null,
     "priceRounding": null,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": false,
     "priceVatNote": "",
     "hidden": true,
-    "previousPrice": 680000
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
+  },
+  "Archer C64": {
+    "price": 920000,
+    "sourcePrice": 850000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "Archer AX23": {
     "price": 1330000,
@@ -13011,16 +13004,16 @@
     "hidden": false
   },
   "Archer AX53": {
-    "price": 1420000,
-    "sourcePrice": 1315000,
-    "priceSource": "https://www.sieuthivienthong.com/ax3000-dual-band-gigabit-wi-fi-6-router-tp-link-archer-ax53-61711.html",
-    "priceSourceTitle": "AX3000 Dual Band Gigabit Wi-Fi 6 Router TP-LINK Archer AX53",
+    "price": 1570000,
+    "sourcePrice": 1450000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1420000,
+    "priceValidUntil": ""
   },
   "Archer Air R5": {
     "price": 3010000,
@@ -13035,28 +13028,28 @@
     "hidden": false
   },
   "Archer AX55": {
-    "price": "Vui lòng gọi",
-    "sourcePrice": null,
-    "priceSource": "https://www.sieuthivienthong.com/ax3000-gigabit-wi-fi-6-router-tp-link-archer-ax55-61702.html",
-    "priceSourceTitle": "AX3000 Gigabit Wi-Fi 6 Router TP-LINK Archer AX55",
-    "priceMarkupPercent": null,
-    "priceRounding": null,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": false,
-    "priceVatNote": "",
-    "hidden": true
-  },
-  "Archer AX72": {
-    "price": 2460000,
-    "sourcePrice": 2280000,
-    "priceSource": "https://www.sieuthivienthong.com/ax5400-dual-band-gigabit-wi-fi-6-router-tp-link-archer-ax72-59933.html",
-    "priceSourceTitle": "AX5400 Dual-Band Gigabit Wi-Fi 6 Router TP-LINK Archer AX72",
+    "price": 2000000,
+    "sourcePrice": 1850000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
+  },
+  "Archer AX72": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "Archer AX80": {
     "price": "Vui lòng gọi",
@@ -13083,52 +13076,52 @@
     "hidden": true
   },
   "Archer BE400": {
-    "price": 4100000,
-    "sourcePrice": 3800000,
-    "priceSource": "https://www.sieuthivienthong.com/be6500-dual-band-wi-fi-7-router-tp-link-archer-be400-88302.html",
-    "priceSourceTitle": "BE6500 Dual-Band Wi-Fi 7 Router TP-LINK Archer BE400",
+    "price": 4270000,
+    "sourcePrice": 3950000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 4100000,
+    "priceValidUntil": ""
   },
   "Archer AX55 Pro": {
-    "price": 2040000,
-    "sourcePrice": 1890000,
-    "priceSource": "https://www.sieuthivienthong.com/multi-gigabit-ax3000-wi-fi-6-router-tp-link-archer-ax55-pro-88307.html",
-    "priceSourceTitle": "Multi-Gigabit AX3000 Wi-Fi 6 Router TP-LINK Archer AX55 Pro",
+    "price": 2210000,
+    "sourcePrice": 2050000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 2040000,
+    "priceValidUntil": ""
   },
   "TL-SM331T": {
-    "price": 390000,
-    "sourcePrice": 365000,
-    "priceSource": "https://www.sieuthivienthong.com/1000base-t-rj45-sfp-module-tp-link-tl-sm331t-66248.html",
-    "priceSourceTitle": "1000BASE-T RJ45 SFP Module TP-LINK TL-SM331T",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "TL-WR1502X": {
-    "price": 1270000,
-    "sourcePrice": 1175000,
-    "priceSource": "https://www.sieuthivienthong.com/router-di-dong-wi-fi-6-ax1500-tp-link-tl-wr1502x-90079.html",
-    "priceSourceTitle": "Router di động Wi-Fi 6 AX1500 TP-LINK TL-WR1502X",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "TL-SM5220-3M": {
     "price": "Vui lòng gọi",
@@ -13167,112 +13160,112 @@
     "hidden": true
   },
   "TL-SM321A-2": {
-    "price": 280000,
-    "sourcePrice": 258000,
-    "priceSource": "https://www.sieuthivienthong.com/module-quang-sfp-tp-link-tl-sm321a-2-55567.html",
-    "priceSourceTitle": "Module quang SFP TP-LINK TL-SM321A-2",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "TL-SM321B-2": {
-    "price": 280000,
-    "sourcePrice": 258000,
-    "priceSource": "https://www.sieuthivienthong.com/module-quang-sfp-tp-link-tl-sm321b-2-55568.html",
-    "priceSourceTitle": "Module quang SFP TP-LINK TL-SM321B-2",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "TL-SM5110-LR": {
-    "price": 710000,
-    "sourcePrice": 660000,
-    "priceSource": "https://www.sieuthivienthong.com/module-quang-sfp-10g-lr-lc-tp-link-tl-sm5110-lr-55565.html",
-    "priceSourceTitle": "Module quang SFP+ 10G LR LC TP-Link TL-SM5110-LR",
+    "price": 720000,
+    "sourcePrice": 670000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 710000,
+    "priceValidUntil": ""
   },
   "LS1210GP": {
-    "price": "Vui lòng gọi",
-    "sourcePrice": null,
-    "priceSource": "https://www.sieuthivienthong.com/10-port-gigabit-desktop-switch-tp-link-ls1210gp-84804.html",
-    "priceSourceTitle": "10-Port Gigabit Desktop Switch TP-LINK LS1210GP",
-    "priceMarkupPercent": null,
-    "priceRounding": null,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": false,
-    "priceVatNote": "",
-    "hidden": true
+    "price": 1230000,
+    "sourcePrice": 1140000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "TL-SM5110-SR": {
-    "price": "Vui lòng gọi",
-    "sourcePrice": null,
-    "priceSource": "https://www.sieuthivienthong.com/module-quang-sfp-10g-sr-lc-tp-link-tl-sm5110-sr-55564.html",
-    "priceSourceTitle": "Module quang SFP+ 10G SR LC TP-LINK TL-SM5110-SR",
-    "priceMarkupPercent": null,
-    "priceRounding": null,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": false,
-    "priceVatNote": "",
-    "hidden": true
+    "price": 730000,
+    "sourcePrice": 680000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "TL-SG1210MP": {
-    "price": 2510000,
-    "sourcePrice": 2320000,
-    "priceSource": "https://www.sieuthivienthong.com/10-port-ge-with-8-port-poe-switch-tp-link-tl-sg1210mp-58005.html",
-    "priceSourceTitle": "10-Port GE with 8-Port PoE+ Switch TP-LINK TL-SG1210MP",
+    "price": 2520000,
+    "sourcePrice": 2330000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 2510000,
+    "priceValidUntil": ""
   },
   "TL-SF1016DS": {
-    "price": 950000,
-    "sourcePrice": 880000,
-    "priceSource": "https://www.sieuthivienthong.com/16-port-10100mbps-switch-tp-link-tl-sf1016ds-6877.html",
-    "priceSourceTitle": "16-Port 10/100Mbps Switch TP-LINK TL-SF1016DS",
+    "price": 990000,
+    "sourcePrice": 920000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 950000,
+    "priceValidUntil": ""
   },
   "TL-SF1016D": {
-    "price": 510000,
-    "sourcePrice": 475000,
-    "priceSource": "https://www.sieuthivienthong.com/16-port-10100mbps-switch-tp-link-tl-sf1016d-3436.html",
-    "priceSourceTitle": "16-Port 10/100Mbps Switch TP-LINK TL-SF1016D",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "TL-SG1218MP": {
-    "price": 3820000,
-    "sourcePrice": 3540000,
-    "priceSource": "https://www.sieuthivienthong.com/16-port-ge-poe-rackmount-switch-tp-link-tl-sg1218mp-55545.html",
-    "priceSourceTitle": "16-Port GE PoE+ Rackmount Switch TP-LINK TL-SG1218MP",
+    "price": 4010000,
+    "sourcePrice": 3710000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 3820000,
+    "priceValidUntil": ""
   },
   "TL-SG1016PE": {
     "price": "Vui lòng gọi",
@@ -13287,28 +13280,28 @@
     "hidden": true
   },
   "TL-SG116P": {
-    "price": "Vui lòng gọi",
-    "sourcePrice": null,
-    "priceSource": "https://www.sieuthivienthong.com/16-port-gigabit-poe-desktop-switch-tp-link-tl-sg116p-79369.html",
-    "priceSourceTitle": "16-Port Gigabit PoE Desktop Switch TP-Link TL-SG116P",
-    "priceMarkupPercent": null,
-    "priceRounding": null,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": false,
-    "priceVatNote": "",
-    "hidden": true
-  },
-  "TL-SL1218P": {
-    "price": 3600000,
-    "sourcePrice": 3330000,
-    "priceSource": "https://www.sieuthivienthong.com/16-port-poe-10100mbps-switch-tp-link-tl-sl1218p-55552.html",
-    "priceSourceTitle": "16-Port PoE+ 10/100Mbps Switch TP-LINK TL-SL1218P",
+    "price": 2880000,
+    "sourcePrice": 2670000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
+  },
+  "TL-SL1218P": {
+    "price": 3800000,
+    "sourcePrice": 3520000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 3600000,
+    "priceValidUntil": ""
   },
   "TL-SG1016D": {
     "price": 1470000,
@@ -13324,40 +13317,40 @@
     "previousPrice": 1380000
   },
   "TL-SL1226P": {
-    "price": 4290000,
-    "sourcePrice": 3970000,
-    "priceSource": "https://www.sieuthivienthong.com/24-port-10100mbps-poe-switch-tp-link-tl-sl1226p-55550.html",
-    "priceSourceTitle": "24-Port 10/100Mbps PoE+ Switch TP-LINK TL-SL1226P",
+    "price": 4700000,
+    "sourcePrice": 4350000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 4290000,
+    "priceValidUntil": ""
   },
   "TL-SG1024": {
-    "price": 2320000,
-    "sourcePrice": 2150000,
-    "priceSource": "https://www.sieuthivienthong.com/24-port-gigabit-rackmount-switch-tp-link-tl-sg1024-11294.html",
-    "priceSourceTitle": "24-Port Gigabit Rackmount Switch TP-LINK TL-SG1024",
+    "price": 2410000,
+    "sourcePrice": 2230000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 2320000,
+    "priceValidUntil": ""
   },
   "TL-SF1024D": {
-    "price": 1070000,
-    "sourcePrice": 990000,
-    "priceSource": "https://www.sieuthivienthong.com/24-port-10100mbps-switch-tp-link-tl-sf1024d-6878.html",
-    "priceSourceTitle": "24-Port 10/100Mbps Switch TP-LINK TL-SF1024D",
+    "price": 1170000,
+    "sourcePrice": 1080000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1070000,
+    "priceValidUntil": ""
   },
   "TL-SG1024D": {
     "price": 1990000,
@@ -13385,16 +13378,16 @@
     "hidden": true
   },
   "TL-SF1048": {
-    "price": 2410000,
-    "sourcePrice": 2235000,
-    "priceSource": "https://www.sieuthivienthong.com/48-port-10100mbps-switch-tp-link-tl-sf1048-3438.html",
-    "priceSourceTitle": "48-Port 10/100Mbps Switch TP-LINK TL-SF1048",
+    "price": 2650000,
+    "sourcePrice": 2450000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 2410000,
+    "priceValidUntil": ""
   },
   "TL-SG3452X": {
     "price": "Vui lòng gọi",
@@ -13409,28 +13402,28 @@
     "hidden": true
   },
   "LS105LP": {
-    "price": 470000,
-    "sourcePrice": 438000,
-    "priceSource": "https://www.sieuthivienthong.com/5-port-10100mbps-desktop-switch-tp-link-ls105lp-84813.html",
-    "priceSourceTitle": "5-Port 10/100Mbps Desktop Switch TP-LINK LS105LP",
+    "price": 510000,
+    "sourcePrice": 470000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 470000,
+    "priceValidUntil": ""
   },
   "TL-SF1005P": {
-    "price": 740000,
-    "sourcePrice": 685000,
-    "priceSource": "https://www.sieuthivienthong.com/5-port-10100mbps-poe-desktop-switch-tp-link-tl-sf1005p-27105.html",
-    "priceSourceTitle": "5-Port 10/100Mbps PoE Desktop Switch TP-LINK TL-SF1005P",
+    "price": 760000,
+    "sourcePrice": 700000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 740000,
+    "priceValidUntil": ""
   },
   "TL-SF1005D": {
     "price": 160000,
@@ -13469,16 +13462,16 @@
     "hidden": true
   },
   "TL-SX105": {
-    "price": 5850000,
-    "sourcePrice": 5420000,
-    "priceSource": "https://www.sieuthivienthong.com/5-port-10g-desktop-switch-tp-link-tl-sx105-55509.html",
-    "priceSourceTitle": "5-Port 10G Desktop Switch TP-LINK TL-SX105",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "TL-SG105PE": {
     "price": "Vui lòng gọi",
@@ -13530,16 +13523,16 @@
     "hidden": true
   },
   "TL-SG1005D": {
-    "price": 290000,
-    "sourcePrice": 265000,
-    "priceSource": "https://www.sieuthivienthong.com/5-port-gigabit-switch-tp-link-tl-sg1005d-3439.html",
-    "priceSourceTitle": "5-Port Gigabit Switch TP-LINK TL-SG1005D",
+    "price": 310000,
+    "sourcePrice": 285000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 290000,
+    "priceValidUntil": ""
   },
   "TL-SG105": {
     "price": 380000,
@@ -13554,40 +13547,40 @@
     "hidden": false
   },
   "TL-SF1008P": {
-    "price": 850000,
-    "sourcePrice": 790000,
-    "priceSource": "https://www.sieuthivienthong.com/8-port-10100mbps-poe-switch-tp-link-tl-sf1008p-6891.html",
-    "priceSourceTitle": "8-Port 10/100Mbps PoE Switch TP-LINK TL-SF1008P",
+    "price": 950000,
+    "sourcePrice": 880000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 850000,
+    "priceValidUntil": ""
   },
   "LS106LP": {
-    "price": 510000,
-    "sourcePrice": 468000,
-    "priceSource": "https://www.sieuthivienthong.com/6-port-10100mbps-desktop-switch-tp-link-ls106lp-84812.html",
-    "priceSourceTitle": "6-Port 10/100Mbps Desktop Switch TP-LINK LS106LP",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "LS108G": {
-    "price": 460000,
-    "sourcePrice": 428000,
-    "priceSource": "https://www.sieuthivienthong.com/8-port-101001000mbps-desktop-switch-tp-link-ls108g-36841.html",
-    "priceSourceTitle": "8-Port 10/100/1000Mbps Desktop Switch TP-LINK LS108G",
+    "price": 510000,
+    "sourcePrice": 475000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 460000,
+    "priceValidUntil": ""
   },
   "TL-SF1008D": {
     "price": 190000,
@@ -13602,16 +13595,16 @@
     "hidden": false
   },
   "TL-SL1311P": {
-    "price": 1020000,
-    "sourcePrice": 945000,
-    "priceSource": "https://www.sieuthivienthong.com/8-port-10100mbps-poe-switch-tp-link-tl-sl1311p-79371.html",
-    "priceSourceTitle": "8-Port 10/100Mbps PoE Switch TP-LINK TL-SL1311P",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "TL-SX1008": {
     "price": "Vui lòng gọi",
@@ -13664,27 +13657,25 @@
   },
   "TL-SG108E": {
     "price": 760000,
-    "sourcePrice": 700000,
-    "priceSource": "https://www.sieuthivienthong.com/8-port-gigabit-easy-smart-switch-tp-link-tl-sg108e-13171.html",
-    "priceSourceTitle": "8-Port Gigabit Easy Smart Switch TP-LINK TL-SG108E",
+    "sourcePrice": 705000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false
   },
   "LS108GP": {
-    "price": 910000,
-    "sourcePrice": 845000,
-    "priceSource": "https://www.sieuthivienthong.com/8-port-gigabit-poe-desktop-switch-tp-link-ls108gp-84805.html",
-    "priceSourceTitle": "8-Port Gigabit PoE Desktop Switch TP-LINK LS108GP",
+    "price": 970000,
+    "sourcePrice": 900000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 910000,
+    "priceValidUntil": ""
   },
   "TL-SG1210PP": {
     "price": "Vui lòng gọi",
@@ -13699,16 +13690,16 @@
     "hidden": true
   },
   "TL-SG1008P": {
-    "price": 1050000,
-    "sourcePrice": 975000,
-    "priceSource": "https://www.sieuthivienthong.com/8-port-gigabit-poe-switch-tp-link-tl-sg1008p-13182.html",
-    "priceSourceTitle": "8-Port Gigabit PoE Switch TP-LINK TL-SG1008P",
+    "price": 1060000,
+    "sourcePrice": 985000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1050000,
+    "priceValidUntil": ""
   },
   "TL-SG2008": {
     "price": "Vui lòng gọi",
@@ -13723,28 +13714,28 @@
     "hidden": true
   },
   "TL-SL1311MP": {
-    "price": 1860000,
-    "sourcePrice": 1720000,
-    "priceSource": "https://www.sieuthivienthong.com/8-port-poe-10100mbps-switch-tp-link-tl-sl1311mp-55557.html",
-    "priceSourceTitle": "8-Port PoE+ 10/100Mbps Switch TP-LINK TL-SL1311MP",
+    "price": 1920000,
+    "sourcePrice": 1780000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1860000,
+    "priceValidUntil": ""
   },
   "TL-SG1008D": {
-    "price": 490000,
-    "sourcePrice": 455000,
-    "priceSource": "https://www.sieuthivienthong.com/8-port-gigabit-switch-tp-link-tl-sg1008d-3440.html",
-    "priceSourceTitle": "8-Port Gigabit Switch TP-LINK TL-SG1008D",
+    "price": 480000,
+    "sourcePrice": 445000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 490000,
+    "priceValidUntil": ""
   },
   "LS109P": {
     "price": "Vui lòng gọi",
@@ -13759,16 +13750,16 @@
     "hidden": true
   },
   "TL-SG1008MP": {
-    "price": 2110000,
-    "sourcePrice": 1950000,
-    "priceSource": "https://www.sieuthivienthong.com/8-port-gigabit-poe-switch-tp-link-tl-sg1008mp-36857.html",
-    "priceSourceTitle": "8-Port Gigabit PoE+ Switch TP-LINK TL-SG1008MP",
+    "price": 2430000,
+    "sourcePrice": 2250000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 2110000,
+    "priceValidUntil": ""
   },
   "ES205G": {
     "price": 550000,
@@ -13808,16 +13799,16 @@
     "hidden": true
   },
   "ES210GMP": {
-    "price": 2550000,
-    "sourcePrice": 2360000,
-    "priceSource": "https://www.sieuthivienthong.com/omada-8-port-ge-poe-managed-switch-tp-link-es210gmp-88323.html",
-    "priceSourceTitle": "Omada 8-Port GE PoE Managed Switch TP-LINK ES210GMP",
+    "price": 2610000,
+    "sourcePrice": 2420000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 2550000,
+    "priceValidUntil": ""
   },
   "U7 Lite": {
     "price": 4080000,
@@ -16884,16 +16875,16 @@
     "priceVatNote": "Đã gồm VAT"
   },
   "RG-EW3000GX": {
-    "price": 1480000,
+    "price": 1490000,
     "sourcePrice": 1375000,
-    "priceSource": "https://www.sieuthivienthong.com/home-router-wi-fi-6-ruijie-rg-ew3000gx-89165.html",
-    "priceSourceTitle": "Home Router Wi-Fi 6 RUIJIE RG-EW3000GX",
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1480000,
+    "priceValidUntil": ""
   },
   "RG-EW300T": {
     "price": 1170000,
@@ -18354,17 +18345,16 @@
     "hidden": false
   },
   "DH-IPC-HDBW3449E-AS-IL": {
-    "price": 2290000,
+    "price": 2300000,
     "sourcePrice": 2125000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-40mp-dahua-dh-ipc-hdbw3449e-as-il-89668.html",
-    "priceSourceTitle": "Camera IP 4MP DAHUA DH-IPC-HDBW3449E-AS-IL",
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 2300000
+    "previousPrice": 2290000,
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW2441DG-4G-SP-B": {
     "price": 4610000,
@@ -18672,16 +18662,16 @@
     "hidden": false
   },
   "DHI-HY-1420": {
-    "price": 400000,
+    "price": 410000,
     "sourcePrice": 375000,
-    "priceSource": "https://www.sieuthivienthong.com/mo-dun-vao-ra-dia-chi-dahua-dhi-hy-1420-87974.html",
-    "priceSourceTitle": "Mô đun vào/ra địa chỉ DAHUA DHI-HY-1420",
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 400000,
+    "priceValidUntil": ""
   },
   "DHI-ASI3203E-W": {
     "price": 1630000,
@@ -19473,16 +19463,16 @@
     "hidden": false
   },
   "F3 Pro": {
-    "price": 810000,
-    "sourcePrice": 750000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-hanh-trinh-hikvision-f3-pro-54467.html",
-    "priceSourceTitle": "Camera hành trình HIKVISION F3 Pro",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "AE-DC5322-G2": {
     "price": 1460000,
@@ -20409,16 +20399,16 @@
     "hidden": false
   },
   "TL-SG1210MPE": {
-    "price": 2510000,
-    "sourcePrice": 2320000,
-    "priceSource": "https://www.sieuthivienthong.com/10-port-ge-with-8-port-poe-switch-tp-link-tl-sg1210mpe-70254.html",
-    "priceSourceTitle": "10-Port GE with 8-Port PoE+ Switch TP-LINK TL-SG1210MPE",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "XG-SFP-LR-SM1310": {
     "price": 2460000,
@@ -20445,16 +20435,16 @@
     "hidden": false
   },
   "TL-FC111PB-20": {
-    "price": 570000,
-    "sourcePrice": 525000,
-    "priceSource": "https://www.sieuthivienthong.com/10-100mbps-wdm-with-1-port-poe-media-converter-tp-link-tl-fc111pb-20-55577.html",
-    "priceSourceTitle": "10/100Mbps WDM with 1-Port PoE Media Converter TP-LINK TL-FC111PB-20",
+    "price": 620000,
+    "sourcePrice": 575000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 570000,
+    "priceValidUntil": ""
   },
   "MC100CM": {
     "price": 470000,
@@ -20469,16 +20459,16 @@
     "hidden": false
   },
   "TL-FC1420": {
-    "price": 3010000,
-    "sourcePrice": 2790000,
-    "priceSource": "https://www.sieuthivienthong.com/14-slot-rackmount-chassis-tp-link-tl-fc1420-55580.html",
-    "priceSourceTitle": "14-Slot Rackmount Chassis TP-LINK TL-FC1420",
+    "price": 3420000,
+    "sourcePrice": 3170000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 3010000,
+    "priceValidUntil": ""
   },
   "TL-WN725N": {
     "price": 150000,
@@ -20493,137 +20483,136 @@
     "hidden": false
   },
   "TL-MC1400": {
-    "price": 4500000,
-    "sourcePrice": 4170000,
-    "priceSource": "https://www.sieuthivienthong.com/14-slot-rackmount-chassis-tp-link-tl-mc1400-6934.html",
-    "priceSourceTitle": "14-Slot Rackmount Chassis TP-LINK TL-MC1400",
+    "price": 4530000,
+    "sourcePrice": 4190000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 4500000,
+    "priceValidUntil": ""
   },
   "TL-WN781ND": {
-    "price": 200000,
-    "sourcePrice": 183000,
-    "priceSource": "https://www.sieuthivienthong.com/150mbps-wireless-n-pci-card-tp-link-tl-wn781nd-13091.html",
-    "priceSourceTitle": "150Mbps Wireless N PCI Card TP-LINK TL-WN781ND",
+    "price": 240000,
+    "sourcePrice": 220000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 200000,
+    "priceValidUntil": ""
   },
   "TL-SL1218MP": {
-    "price": 3940000,
-    "sourcePrice": 3650000,
-    "priceSource": "https://www.sieuthivienthong.com/16-port-10100mbps-poe-switch-tp-link-tl-sl1218mp-36858.html",
-    "priceSourceTitle": "16-Port 10/100Mbps PoE+ Switch TP-LINK TL-SL1218MP",
+    "price": 4130000,
+    "sourcePrice": 3820000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 3940000,
+    "priceValidUntil": ""
   },
   "TL-SG1218MPE": {
-    "price": 4470000,
-    "sourcePrice": 4140000,
-    "priceSource": "https://www.sieuthivienthong.com/16-port-ge-poe-smart-switch-tp-link-tl-sg1218mpe-55543.html",
-    "priceSourceTitle": "16-Port GE PoE+ Smart Switch TP-LINK TL-SG1218MPE",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "CPE210": {
-    "price": 850000,
-    "sourcePrice": 785000,
-    "priceSource": "https://www.sieuthivienthong.com/2.4ghz-300mbps-9dbi-outdoor-cpe-tp-link-cpe210-15176.html",
-    "priceSourceTitle": "2.4GHz 300Mbps 9dBi Outdoor CPE TP-LINK CPE210",
+    "price": 900000,
+    "sourcePrice": 830000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 850000,
+    "priceValidUntil": ""
   },
   "TL-SG1016DE": {
-    "price": 1850000,
-    "sourcePrice": 1710000,
-    "priceSource": "https://www.sieuthivienthong.com/16-port-gigabit-easy-smart-switch-tp-link-tl-sg1016de-13348.html",
-    "priceSourceTitle": "16-Port Gigabit Easy Smart Switch TP-Link TL-SG1016DE",
+    "price": 1860000,
+    "sourcePrice": 1720000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1850000,
+    "priceValidUntil": ""
   },
   "TL-SG1024DE": {
-    "price": 2260000,
-    "sourcePrice": 2090000,
-    "priceSource": "https://www.sieuthivienthong.com/24-port-gigabit-easy-smart-switch-tp-link-tl-sg1024de-13172.html",
-    "priceSourceTitle": "24-Port Gigabit Easy Smart Switch TP-LINK TL-SG1024DE",
+    "price": 2290000,
+    "sourcePrice": 2120000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "previousPrice": 2250000,
-    "hidden": false
+    "previousPrice": 2260000,
+    "hidden": false,
+    "priceValidUntil": ""
   },
   "TL-MR100": {
-    "price": 960000,
-    "sourcePrice": 885000,
-    "priceSource": "https://www.sieuthivienthong.com/300mbps-wi-fi-4g-lte-router-tp-link-tl-mr100-49356.html",
-    "priceSourceTitle": "300Mbps Wi-Fi 4G LTE Router TP-LINK TL-MR100",
+    "price": 1160000,
+    "sourcePrice": 1070000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 960000,
+    "priceValidUntil": ""
   },
   "TL-WA855RE": {
-    "price": 320000,
-    "sourcePrice": 298000,
-    "priceSource": "https://www.sieuthivienthong.com/300mbps-wi-fi-range-extender-tp-link-tl-wa855re-16920.html",
-    "priceSourceTitle": "300Mbps Wi-Fi Range Extender TP-LINK TL-WA855RE",
+    "price": 430000,
+    "sourcePrice": 395000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 320000,
+    "priceValidUntil": ""
   },
   "TL-WR840N": {
-    "price": 310000,
-    "sourcePrice": 285000,
-    "priceSource": "https://www.sieuthivienthong.com/300mbps-wireless-n-router-tp-link-tl-wr840n-11284.html",
-    "priceSourceTitle": "300Mbps Wireless N Router TP-LINK TL-WR840N",
+    "price": 340000,
+    "sourcePrice": 315000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 310000,
+    "priceValidUntil": ""
   },
   "TL-SG1048": {
-    "price": 7210000,
-    "sourcePrice": 6680000,
-    "priceSource": "https://www.sieuthivienthong.com/48-port-gigabit-switch-tp-link-tl-sg1048-6879.html",
-    "priceSourceTitle": "48-Port Gigabit Switch TP-LINK TL-SG1048",
+    "price": 7200000,
+    "sourcePrice": 6670000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 7210000,
+    "priceValidUntil": ""
   },
   "TL-WR845N": {
     "price": 420000,
@@ -20662,385 +20651,386 @@
     "hidden": false
   },
   "LS1005": {
-    "price": 130000,
-    "sourcePrice": 124000,
-    "priceSource": "https://www.sieuthivienthong.com/5-port-10100mbps-desktop-switch-tp-link-ls1005-49361.html",
-    "priceSourceTitle": "5-Port 10/100Mbps Desktop Switch TP-LINK LS1005",
+    "price": 170000,
+    "sourcePrice": 158000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 130000,
+    "priceValidUntil": ""
   },
   "TL-SF1005LP": {
-    "price": 590000,
-    "sourcePrice": 548000,
-    "priceSource": "https://www.sieuthivienthong.com/5-port-fe-with-4-port-poe-switch-tp-link-tl-sf1005lp-49236.html",
-    "priceSourceTitle": "5-Port FE with 4-port PoE Switch TP-LINK TL-SF1005LP",
+    "price": 690000,
+    "sourcePrice": 640000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 590000,
+    "priceValidUntil": ""
   },
   "TL-SG1005P": {
-    "price": 840000,
-    "sourcePrice": 780000,
-    "priceSource": "https://www.sieuthivienthong.com/5-port-ge-with-4-port-poe-switch-tp-link-tl-sg1005p-27104.html",
-    "priceSourceTitle": "5-Port GE with 4-Port PoE Switch TP-LINK TL-SG1005P",
+    "price": 890000,
+    "sourcePrice": 820000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 840000,
+    "priceValidUntil": ""
   },
   "LS1005G": {
-    "price": 260000,
-    "sourcePrice": 238000,
-    "priceSource": "https://www.sieuthivienthong.com/5-port-gigabit-desktop-switch-tp-link-ls1005g-49269.html",
-    "priceSourceTitle": "5-Port Gigabit Desktop Switch TP-LINK LS1005G",
+    "price": 270000,
+    "sourcePrice": 250000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 260000,
+    "priceValidUntil": ""
   },
   "TL-SG1005LP": {
-    "price": 670000,
-    "sourcePrice": 620000,
-    "priceSource": "https://www.sieuthivienthong.com/5-port-ge-with-4-port-poe-switch-tp-link-tl-sg1005lp-49242.html",
-    "priceSourceTitle": "5-Port GE with 4-port PoE+ Switch TP-LINK TL-SG1005LP",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "LS105GP": {
-    "price": 640000,
-    "sourcePrice": 588000,
-    "priceSource": "https://www.sieuthivienthong.com/5-port-gigabit-desktop-switch-tp-link-ls105gp-84807.html",
-    "priceSourceTitle": "5-Port Gigabit Desktop Switch TP-LINK LS105GP",
+    "price": 680000,
+    "sourcePrice": 625000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 640000,
+    "priceValidUntil": ""
   },
   "TL-SG108PE": {
-    "price": 1020000,
-    "sourcePrice": 945000,
-    "priceSource": "https://www.sieuthivienthong.com/8-port-ge-with-4-port-poe-switch-tp-link-tl-sg108pe-21476.html",
-    "priceSourceTitle": "8-Port GE with 4-port PoE Switch TP-LINK TL-SG108PE",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "CPE510": {
-    "price": 1330000,
-    "sourcePrice": 1230000,
-    "priceSource": "https://www.sieuthivienthong.com/5ghz-wireless-13dbi-outdoor-300mbps-cpe-tp-link-cpe510-15177.html",
-    "priceSourceTitle": "5GHz Wireless 13dBi Outdoor 300Mbps CPE TP-LINK CPE510",
+    "price": 1430000,
+    "sourcePrice": 1320000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1330000,
+    "priceValidUntil": ""
   },
   "LS1008": {
     "price": 190000,
-    "sourcePrice": 173000,
-    "priceSource": "https://www.sieuthivienthong.com/8-port-10100mbps-desktop-switch-tp-link-ls1008-49359.html",
-    "priceSourceTitle": "8-Port 10/100Mbps Desktop Switch TP-LINK LS1008",
+    "sourcePrice": 174000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false
   },
   "LS110P": {
-    "price": 780000,
-    "sourcePrice": 720000,
-    "priceSource": "https://www.sieuthivienthong.com/8-port-poe-10100mbps-switch-tp-link-ls110p-90123.html",
-    "priceSourceTitle": "8-Port PoE+ 10/100Mbps Switch TP-LINK LS110P",
+    "price": 840000,
+    "sourcePrice": 780000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 780000,
+    "priceValidUntil": ""
   },
   "TL-SF1008LP": {
-    "price": 770000,
-    "sourcePrice": 710000,
-    "priceSource": "https://www.sieuthivienthong.com/8-port-fe-with-4-port-poe-switch-tp-link-tl-sf1008lp-49239.html",
-    "priceSourceTitle": "8-port FE with 4-port PoE Switch TP-LINK TL-SF1008LP",
+    "price": 860000,
+    "sourcePrice": 795000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 770000,
+    "priceValidUntil": ""
   },
   "LS1008G": {
-    "price": 430000,
-    "sourcePrice": 395000,
-    "priceSource": "https://www.sieuthivienthong.com/8-port-gigabit-desktop-switch-tp-link-ls1008g-49267.html",
-    "priceSourceTitle": "8-Port Gigabit Desktop Switch TP-LINK LS1008G",
+    "price": 450000,
+    "sourcePrice": 420000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 430000,
+    "priceValidUntil": ""
   },
   "TL-SF1009P": {
-    "price": 840000,
-    "sourcePrice": 775000,
-    "priceSource": "https://www.sieuthivienthong.com/9-port-fe-with-8-port-poe-switch-tp-link-tl-sf1009p-49241.html",
-    "priceSourceTitle": "9-Port FE with 8-Port PoE+ Switch TP-LINK TL-SF1009P",
+    "price": 950000,
+    "sourcePrice": 875000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 840000,
+    "priceValidUntil": ""
   },
   "Archer C54": {
-    "price": 450000,
-    "sourcePrice": 418000,
-    "priceSource": "https://www.sieuthivienthong.com/ac1200-dual-band-wi-fi-router-tp-link-archer-c54-48302.html",
-    "priceSourceTitle": "AC1200 Dual-Band Wi-Fi Router TP-LINK Archer C54",
+    "price": 530000,
+    "sourcePrice": 490000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 450000,
+    "priceValidUntil": ""
   },
   "RE315": {
-    "price": 570000,
-    "sourcePrice": 525000,
-    "priceSource": "https://www.sieuthivienthong.com/ac1200-mesh-wi-fi-range-extender-tp-link-re315-55493.html",
-    "priceSourceTitle": "AC1200 Mesh Wi-Fi Range Extender TP-LINK RE315",
+    "price": 580000,
+    "sourcePrice": 540000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 570000,
+    "priceValidUntil": ""
   },
   "EAP245": {
-    "price": 1750000,
-    "sourcePrice": 1620000,
-    "priceSource": "https://www.sieuthivienthong.com/ac1750-wifi-access-point-gan-tran-tp-link-eap245-21454.html",
-    "priceSourceTitle": "AC1750 WiFi Access Point gắn trần TP-Link EAP245",
+    "price": 1990000,
+    "sourcePrice": 1840000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1750000,
+    "priceValidUntil": ""
   },
   "RE305": {
-    "price": 620000,
-    "sourcePrice": 575000,
-    "priceSource": "https://www.sieuthivienthong.com/ac1200-wi-fi-range-extender-tp-link-re305-31217.html",
-    "priceSourceTitle": "AC1200 Wi-Fi Range Extender TP-LINK RE305",
+    "price": 680000,
+    "sourcePrice": 630000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 620000,
+    "priceValidUntil": ""
   },
   "Archer C80": {
-    "price": 860000,
-    "sourcePrice": 795000,
-    "priceSource": "https://www.sieuthivienthong.com/ac1900-wireless-mu-mimo-wi-fi-router-tp-link-archer-c80-43691.html",
-    "priceSourceTitle": "AC1900 Wireless MU-MIMO Wi-Fi Router TP-Link Archer C80",
+    "price": 1070000,
+    "sourcePrice": 990000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 860000,
+    "priceValidUntil": ""
   },
   "Archer C24": {
-    "price": 480000,
-    "sourcePrice": 445000,
-    "priceSource": "https://www.sieuthivienthong.com/ac750-dual-band-wi-fi-router-tp-link-archer-c24-49351.html",
-    "priceSourceTitle": "AC750 Dual-Band Wi-Fi Router TP-LINK Archer C24",
+    "price": 550000,
+    "sourcePrice": 510000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 480000,
+    "priceValidUntil": ""
   },
   "Archer C20": {
-    "price": 500000,
-    "sourcePrice": 460000,
-    "priceSource": "https://www.sieuthivienthong.com/ac750-wireless-dual-band-router-tp-link-archer-c20-15151.html",
-    "priceSourceTitle": "AC750 Wireless Dual Band Router TP-LINK Archer C20",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "RE505X": {
-    "price": 980000,
-    "sourcePrice": 905000,
-    "priceSource": "https://www.sieuthivienthong.com/ax1500-wi-fi-range-extender-tp-link-re505x-49352.html",
-    "priceSourceTitle": "AX1500 Wi-Fi Range Extender TP-LINK RE505X",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "RE205": {
     "price": 520000,
     "sourcePrice": 480000,
-    "priceSource": "https://www.sieuthivienthong.com/ac750-wi-fi-range-extender-tp-link-re205-43704.html",
-    "priceSourceTitle": "AC750 Wi-Fi Range Extender TP-Link RE205",
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 500000,
+    "priceValidUntil": ""
+  },
+  "RE505X": {
+    "price": 1060000,
+    "sourcePrice": 980000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 980000,
+    "priceValidUntil": ""
+  },
+  "RE205": {
+    "price": 630000,
+    "sourcePrice": 585000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 520000,
+    "priceValidUntil": ""
   },
   "Archer AX10": {
-    "price": 1170000,
-    "sourcePrice": 1080000,
-    "priceSource": "https://www.sieuthivienthong.com/ax1500-next-gen-wi-fi-6-router-tp-link-archer-ax10-49346.html",
-    "priceSourceTitle": "AX1500 Next-Gen Wi-Fi 6 Router TP-Link Archer AX10",
+    "price": 1380000,
+    "sourcePrice": 1275000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1170000,
+    "priceValidUntil": ""
   },
   "RE705X EU": {
-    "price": 1560000,
-    "sourcePrice": 1445000,
-    "priceSource": "https://www.sieuthivienthong.com/ax3000-mesh-wifi-6-extender-tp-link-re705x-eu-66231.html",
-    "priceSourceTitle": "AX3000 Mesh WiFi 6 Extender TP-LINK RE705X EU",
+    "price": 1800000,
+    "sourcePrice": 1670000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1560000,
+    "priceValidUntil": ""
   },
   "Archer AX73": {
-    "price": 3010000,
-    "sourcePrice": 2783000,
-    "priceSource": "https://www.sieuthivienthong.com/ax5400-dual-band-gigabit-wi-fi-6-router-tp-link-archer-ax73-55491.html",
-    "priceSourceTitle": "AX5400 Dual-Band Gigabit Wi-Fi 6 Router TP-LINK Archer AX73",
+    "price": 3330000,
+    "sourcePrice": 3080000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 3010000,
+    "priceValidUntil": ""
   },
   "Archer TX35U Plus": {
-    "price": 570000,
-    "sourcePrice": 528000,
-    "priceSource": "https://www.sieuthivienthong.com/adapter-usb-wi-fi-ax1800-tp-link-archer-tx35u-plus-88318.html",
-    "priceSourceTitle": "Adapter USB Wi-Fi AX1800 TP-LINK Archer TX35U Plus",
+    "price": 600000,
+    "sourcePrice": 555000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 570000,
+    "priceValidUntil": ""
   },
   "TL-WA850RE": {
-    "price": 260000,
-    "sourcePrice": 244000,
-    "priceSource": "https://www.sieuthivienthong.com/bo-mo-rong-song-wifi-toc-do-300mbps-tp-link-tl-wa850re-13099.html",
-    "priceSourceTitle": "Bộ mở rộng sóng Wifi tốc độ 300Mbps TP-LINK TL-WA850RE",
+    "price": 340000,
+    "sourcePrice": 315000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 260000,
+    "priceValidUntil": ""
   },
   "M7350": {
-    "price": 1540000,
-    "sourcePrice": 1425000,
-    "priceSource": "https://www.sieuthivienthong.com/bo-phat-wifi-di-dong-lte-4g-2000mah-tp-link-m7350-15166.html",
-    "priceSourceTitle": "Bộ phát WiFi di động LTE 4G 2000mAh TP-Link M7350",
+    "price": 1590000,
+    "sourcePrice": 1470000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1540000,
+    "priceValidUntil": ""
   },
   "M7000": {
-    "price": 1220000,
-    "sourcePrice": 1130000,
-    "priceSource": "https://www.sieuthivienthong.com/bo-phat-wi-fi-di-dong-4g-lte-tp-link-m7000-49266.html",
-    "priceSourceTitle": "Bộ phát Wi-Fi di động 4G LTE TP-LINK M7000",
+    "price": 1270000,
+    "sourcePrice": 1180000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1220000,
+    "priceValidUntil": ""
   },
   "Tapo C216": {
-    "price": 860000,
-    "sourcePrice": 795000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ai-wifi-pt-3mp-tp-link-tapo-c216-90138.html",
-    "priceSourceTitle": "Camera AI Wifi PT 3MP TP-LINK Tapo C216",
+    "price": 1050000,
+    "sourcePrice": 970000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": true,
+    "previousPrice": 860000,
+    "priceValidUntil": ""
   },
   "Tapo C500": {
-    "price": 890000,
-    "sourcePrice": 820000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-2mp-tp-link-tapo-c500-71796.html",
-    "priceSourceTitle": "Camera IP 2MP TP-LINK Tapo C500",
+    "price": 780000,
+    "sourcePrice": 720000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": true,
+    "previousPrice": 890000,
+    "priceValidUntil": ""
   },
   "VIGI C230I": {
-    "price": 850000,
-    "sourcePrice": 785000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-3mp-tp-link-vigi-c230i-28mm-71822.html",
-    "priceSourceTitle": "Camera IP 3MP TP-LINK VIGI C230I (2.8mm)",
+    "price": 900000,
+    "sourcePrice": 830000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-03T20:02:05+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": true,
+    "previousPrice": 850000,
+    "priceValidUntil": ""
   },
   "VIGI C420I": {
     "price": 600000,
@@ -21054,26 +21044,26 @@
     "priceVatNote": "Đã gồm VAT"
   },
   "VIGI C220I": {
-    "price": 710000,
-    "sourcePrice": 655000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-2mp-tp-link-vigi-c220i-28mm-71825.html",
-    "priceSourceTitle": "Camera IP 2MP TP-LINK VIGI C220I (2.8mm)",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-03T20:02:05+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "VIGI C430I": {
     "price": 690000,
-    "sourcePrice": 635000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-3mp-tp-link-vigi-c430i-28mm-71817.html",
-    "priceSourceTitle": "Camera IP 3MP TP-LINK VIGI C430I (2.8mm)",
+    "sourcePrice": 638000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-03T20:02:05+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": true
   },
   "Tapo C222": {
     "price": 520000,
@@ -21087,48 +21077,52 @@
     "priceVatNote": "Đã gồm VAT"
   },
   "Tapo C320WS": {
-    "price": 920000,
-    "sourcePrice": 850000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-4mp-tp-link-tapo-c320ws-65829.html",
-    "priceSourceTitle": "Camera IP 4MP TP-LINK Tapo C320WS",
+    "price": 1120000,
+    "sourcePrice": 1040000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": true,
+    "previousPrice": 920000,
+    "priceValidUntil": ""
   },
   "Tapo C530WS": {
-    "price": 1050000,
-    "sourcePrice": 975000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-50mp-tp-link-tapo-c530ws-88377.html",
-    "priceSourceTitle": "Camera IP WiFi 5.0MP TP-LINK Tapo C530WS",
+    "price": 1170000,
+    "sourcePrice": 1085000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": true,
+    "previousPrice": 1050000,
+    "priceValidUntil": ""
   },
   "Tapo TC70": {
-    "price": 480000,
-    "sourcePrice": 445000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-1080p-tp-link-tapo-tc70-58009.html",
-    "priceSourceTitle": "Camera IP Wifi 1080P TP-LINK Tapo TC70",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "Tapo C230": {
-    "price": 700000,
-    "sourcePrice": 645000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-5mp-tp-link-tapo-c230-88399.html",
-    "priceSourceTitle": "Camera IP 5MP TP-LINK Tapo C230",
+    "price": 810000,
+    "sourcePrice": 750000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": true,
+    "previousPrice": 700000,
+    "priceValidUntil": ""
   },
   "VIGI C340I": {
     "price": 940000,
@@ -21153,37 +21147,40 @@
     "priceVatNote": "Đã gồm VAT"
   },
   "Tapo C520WS": {
-    "price": 1030000,
-    "sourcePrice": 950000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-40mp-tp-link-tapo-c520ws-79373.html",
-    "priceSourceTitle": "Camera IP Wifi 4.0MP TP-LINK Tapo C520WS",
+    "price": 1060000,
+    "sourcePrice": 980000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": true,
+    "previousPrice": 1030000,
+    "priceValidUntil": ""
   },
   "Tapo C225": {
-    "price": 1040000,
-    "sourcePrice": 965000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-4mp-tp-link-tapo-c225-70270.html",
-    "priceSourceTitle": "Camera IP Wifi 4MP TP-LINK Tapo C225",
+    "price": 1100000,
+    "sourcePrice": 1020000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": true,
+    "previousPrice": 1040000,
+    "priceValidUntil": ""
   },
   "Tapo C325WB": {
-    "price": 1660000,
-    "sourcePrice": 1535000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-4mp-tp-link-tapo-c325wb-79377.html",
-    "priceSourceTitle": "Camera IP Wifi 4MP TP-LINK Tapo C325WB",
+    "price": 1710000,
+    "sourcePrice": 1580000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": true,
+    "previousPrice": 1660000,
+    "priceValidUntil": ""
   },
   "VIGI C540-W": {
     "price": 3020000,
@@ -21197,40 +21194,40 @@
     "priceVatNote": "Đã gồm VAT"
   },
   "Archer TBE400E": {
-    "price": 1460000,
-    "sourcePrice": 1350000,
-    "priceSource": "https://www.sieuthivienthong.com/card-mang-pcie-tp-link-archer-tbe400e-90106.html",
-    "priceSourceTitle": "Card mạng PCIe TP-LINK Archer TBE400E",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "Archer TX3000E": {
-    "price": 920000,
-    "sourcePrice": 850000,
-    "priceSource": "https://www.sieuthivienthong.com/card-mang-pcie-wi-fi-6-ax3000-tp-link-archer-tx3000e-49261.html",
-    "priceSourceTitle": "Card mạng PCIe Wi-Fi 6 AX3000 TP-LINK Archer TX3000E",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "MC200CM": {
-    "price": 670000,
-    "sourcePrice": 620000,
-    "priceSource": "https://www.sieuthivienthong.com/gigabit-multi-mode-media-converter-tp-link-mc200cm-6931.html",
-    "priceSourceTitle": "Gigabit Multi-mode Media Converter TP-Link MC200CM",
+    "price": 680000,
+    "sourcePrice": 625000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 670000,
+    "priceValidUntil": ""
   },
   "MC210CS": {
     "price": 520000,
@@ -21246,84 +21243,88 @@
     "previousPrice": 560000
   },
   "MC220L": {
-    "price": 340000,
-    "sourcePrice": 318000,
-    "priceSource": "https://www.sieuthivienthong.com/gbit-singlemode-sfp-media-converter-tp-link-mc220l-6933.html",
-    "priceSourceTitle": "Gigabit SFP Media Converter TP-LINK MC220L",
+    "price": 410000,
+    "sourcePrice": 375000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 340000,
+    "priceValidUntil": ""
   },
   "UH7020C": {
-    "price": 700000,
-    "sourcePrice": 645000,
-    "priceSource": "https://www.sieuthivienthong.com/hub-usb-type-c-7-cong-tp-link-uh7020c-90135.html",
-    "priceSourceTitle": "Hub USB Type-C 7 cổng TP-LINK UH7020C",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "Deco X60": {
-    "price": 6020000,
-    "sourcePrice": 5570000,
-    "priceSource": "https://www.sieuthivienthong.com/he-thong-mesh-wi-fi-6-ax5400-tp-link-deco-x60-3-pack-49317.html",
-    "priceSourceTitle": "Hệ thống Mesh Wi-Fi 6 AX5400 TP-LINK Deco X60 (3-pack)",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-03T20:02:05+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "Deco M4": {
-    "price": 960000,
-    "sourcePrice": 885000,
-    "priceSource": "https://www.sieuthivienthong.com/he-thong-mesh-wi-fi-ac1200-tp-link-deco-m4-1-pack-32127.html",
-    "priceSourceTitle": "Hệ thống Mesh Wi-Fi AC1200 TP-LINK Deco M4 (1-Pack)",
+    "price": 1160000,
+    "sourcePrice": 1070000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-03T20:02:05+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
-  },
-  "Deco X20": {
-    "price": 1580000,
-    "sourcePrice": 1465000,
-    "priceSource": "https://www.sieuthivienthong.com/he-thong-wi-fi-6-mesh-ax1800-tp-link-deco-x20-1-pack-49325.html",
-    "priceSourceTitle": "Hệ thống Wi-Fi 6 Mesh AX1800 TP-LINK Deco X20 (1-pack)",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-03T20:02:05+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
-  },
-  "ES220GMP": {
-    "price": 4210000,
-    "sourcePrice": 3900000,
-    "priceSource": "https://www.sieuthivienthong.com/omada-16-port-ge-poe-switch-tp-link-es220gmp-88322.html",
-    "priceSourceTitle": "Omada 16-Port GE PoE Switch TP-LINK ES220GMP",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 960000,
+    "priceValidUntil": ""
   },
-  "Deco E4": {
-    "price": 710000,
-    "sourcePrice": 658000,
-    "priceSource": "https://www.sieuthivienthong.com/he-thong-wi-fi-mesh-ac1200-tp-link-deco-e4-1-pack-36791.html",
-    "priceSourceTitle": "Hệ thống Wi-Fi Mesh AC1200 TP-Link Deco E4 (1-Pack)",
+  "Deco X20": {
+    "price": 1810000,
+    "sourcePrice": 1680000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-03T20:02:05+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 1580000,
+    "priceValidUntil": ""
+  },
+  "ES220GMP": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
+  },
+  "Deco E4": {
+    "price": 810000,
+    "sourcePrice": 750000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 710000,
+    "priceValidUntil": ""
   },
   "ES228GMP": {
     "price": 7560000,
@@ -21350,52 +21351,48 @@
     "hidden": false
   },
   "MC211CS-2": {
-    "price": 420000,
-    "sourcePrice": 393000,
-    "priceSource": "https://www.sieuthivienthong.com/omada-gigabit-wdm-media-converter-tp-link-mc211cs-2-90134.html",
-    "priceSourceTitle": "Omada Gigabit WDM Media Converter TP-LINK MC211CS-2",
+    "price": 460000,
+    "sourcePrice": 425000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 420000,
+    "priceValidUntil": ""
   },
   "MC211CS-20": {
     "price": 520000,
-    "sourcePrice": 480000,
-    "priceSource": "https://www.sieuthivienthong.com/omada-gigabit-wdm-media-converter-tp-link-mc211cs-20-90132.html",
-    "priceSourceTitle": "Omada Gigabit WDM Media Converter TP-LINK MC211CS-20",
+    "sourcePrice": 485000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false
   },
   "MC212CS-20": {
     "price": 520000,
-    "sourcePrice": 480000,
-    "priceSource": "https://www.sieuthivienthong.com/omada-gigabit-wdm-media-converter-tp-link-mc212cs-20-90131.html",
-    "priceSourceTitle": "Omada Gigabit WDM Media Converter TP-LINK MC212CS-20",
+    "sourcePrice": 485000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false
   },
   "MC212CS-2": {
-    "price": 420000,
-    "sourcePrice": 393000,
-    "priceSource": "https://www.sieuthivienthong.com/omada-gigabit-wdm-media-converter-tp-link-mc212cs-2-90133.html",
-    "priceSourceTitle": "Omada Gigabit WDM Media Converter TP-LINK MC212CS-2",
+    "price": 460000,
+    "sourcePrice": 425000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 420000,
+    "priceValidUntil": ""
   },
   "TL-POE150S": {
     "price": 380000,
@@ -21410,65 +21407,64 @@
     "hidden": false
   },
   "NX200": {
-    "price": 6740000,
-    "sourcePrice": 6240000,
-    "priceSource": "https://www.sieuthivienthong.com/router-5g-ax1800-wi-fi-tp-link-nx200-90108.html",
-    "priceSourceTitle": "Router 5G AX1800 Wi-Fi TP-LINK NX200",
+    "price": 7400000,
+    "sourcePrice": 6850000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "Archer BE800": {
-    "price": 11830000,
-    "sourcePrice": 10950000,
-    "priceSource": "https://www.sieuthivienthong.com/router-wi-fi-7-be19000-tp-link-archer-be800-90062.html",
-    "priceSourceTitle": "Router Wi-Fi 7 BE19000 TP-LINK Archer BE800",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "TL-WR820N": {
-    "price": 270000,
-    "sourcePrice": 248000,
-    "priceSource": "https://www.sieuthivienthong.com/router-wi-fi-chuan-n-300mbps-tp-link-tl-wr820n-31239.html",
-    "priceSourceTitle": "Router Wi-Fi Chuẩn N 300Mbps TP-LINK TL-WR820N",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "TL-SM311LS": {
-    "price": 300000,
-    "sourcePrice": 274000,
-    "priceSource": "https://www.sieuthivienthong.com/single-mode-minigbic-sfp-module-tp-link-tl-sm311ls-6895.html",
-    "priceSourceTitle": "Single-mode MiniGBIC SFP Module TP-LINK TL-SM311LS",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "MC111CS": {
-    "price": 440000,
-    "sourcePrice": 410000,
-    "priceSource": "https://www.sieuthivienthong.com/single-mode-wdm-media-converter-tp-link-mc111cs-6929.html",
-    "priceSourceTitle": "Single-mode WDM Media Converter TP-LINK MC111CS",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 460000
+    "previousPrice": 6740000,
+    "priceValidUntil": ""
+  },
+  "Archer BE800": {
+    "price": 12830000,
+    "sourcePrice": 11880000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 11830000,
+    "priceValidUntil": ""
+  },
+  "TL-WR820N": {
+    "price": 310000,
+    "sourcePrice": 285000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 270000,
+    "priceValidUntil": ""
+  },
+  "TL-SM311LS": {
+    "price": 400000,
+    "sourcePrice": 370000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 300000,
+    "priceValidUntil": ""
+  },
+  "MC111CS": {
+    "price": 470000,
+    "sourcePrice": 435000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 440000,
+    "priceValidUntil": ""
   },
   "MC112CS": {
     "price": 440000,
@@ -21496,75 +21492,76 @@
     "hidden": false
   },
   "TL-WN821N": {
-    "price": 200000,
-    "sourcePrice": 188000,
-    "priceSource": "https://www.sieuthivienthong.com/usb-wi-fi-chuan-n-toc-do-300mbps-tp-link-tl-wn821n-13084.html",
-    "priceSourceTitle": "USB Wi-Fi chuẩn N tốc độ 300Mbps TP-LINK TL-WN821N",
+    "price": 220000,
+    "sourcePrice": 200000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 200000,
+    "priceValidUntil": ""
   },
   "TL-WN822N": {
-    "price": 260000,
-    "sourcePrice": 239000,
-    "priceSource": "https://www.sieuthivienthong.com/usb-wi-fi-do-loi-cao-300mbps-tp-link-tl-wn822n-11277.html",
-    "priceSourceTitle": "USB Wi-Fi độ lợi cao 300Mbps TP-LINK TL-WN822N",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "Archer T3U": {
-    "price": 350000,
-    "sourcePrice": 328000,
-    "priceSource": "https://www.sieuthivienthong.com/wireless-usb-adapter-tp-link-archer-t3u-31211.html",
-    "priceSourceTitle": "Wireless USB Adapter TP-LINK Archer T3U",
+    "price": 420000,
+    "sourcePrice": 390000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 350000,
+    "priceValidUntil": ""
   },
   "Archer T3U Plus": {
-    "price": 400000,
-    "sourcePrice": 368000,
-    "priceSource": "https://www.sieuthivienthong.com/usb-wifi-bang-tan-kep-ac1300-tp-link-archer-t3u-plus-49354.html",
-    "priceSourceTitle": "USB WiFi băng tần kép AC1300 TP-Link Archer T3U Plus",
+    "price": 410000,
+    "sourcePrice": 380000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 400000,
+    "priceValidUntil": ""
   },
   "Archer BE220": {
-    "price": 1710000,
-    "sourcePrice": 1580000,
-    "priceSource": "https://www.sieuthivienthong.com/wi-fi-7-router-tp-link-archer-be220-90070.html",
-    "priceSourceTitle": "Wi-Fi 7 Router TP-LINK Archer BE220",
+    "price": 2210000,
+    "sourcePrice": 2050000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1710000,
+    "priceValidUntil": ""
   },
   "VIGI NVR4032H": {
-    "price": 7910000,
-    "sourcePrice": 7320000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-camera-ip-32-kenh-tp-link-vigi-nvr4032h-77443.html",
-    "priceSourceTitle": "Đầu ghi hình camera IP 32 kênh TP-LINK VIGI NVR4032H",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "UACC-OM-SM-1G-S": {
     "price": 1240000,
@@ -21614,15 +21611,16 @@
     "hidden": false
   },
   "Next-Generation Gateway Lite": {
-    "price": 5780000,
-    "sourcePrice": 5350000,
-    "priceSource": "https://www.sieuthivienthong.com/unifi-next-generation-gateway-lite-uxg-lite-87234.html",
-    "priceSourceTitle": "UniFi Next-Generation Gateway Lite (UXG Lite)",
+    "price": 5560000,
+    "sourcePrice": 5150000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-03T20:02:05+07:00",
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
     "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 5780000,
+    "priceValidUntil": ""
   },
   "P1205-B3": {
     "price": "Vui lòng gọi",
@@ -25229,5 +25227,185 @@
   },
   "DS10HKVS-VX2": {
     "hidden": true
+  },
+  "TMC-53301": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "TMC-80851": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "TMC-53250": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "TMC-46004": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "TMC-23125": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "TMC-53329": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "TMC-23160": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "TMC-53320": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "TMC-64001": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "TMC-23158": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "PRO-93565": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "PRO-93564": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "PRO-93563": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "PRO-93182": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "PRO-93561": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "PRO-93562": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "PRO-93908": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "PRO-95127": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
   }
 }

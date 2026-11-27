@@ -498,40 +498,40 @@
     "hidden": true
   },
   "DH-IPC-HFW1230TL2-A": {
-    "price": 740000,
-    "sourcePrice": 685000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-2mp-dahua-dh-ipc-hfw1230tl2-a-90450.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-HFW1230TL2-A",
+    "price": 750000,
+    "sourcePrice": 690000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 740000,
+    "priceValidUntil": ""
   },
   "DH-IPC-B1E29-A-IL": {
-    "price": 790000,
-    "sourcePrice": 735000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-20mp-dahua-dh-ipc-b1e29-a-il-89356.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-B1E29-A-IL",
+    "price": 800000,
+    "sourcePrice": 745000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 790000,
+    "priceValidUntil": ""
   },
   "DH-IPC-HDW2449T-S-IL": {
-    "price": 1810000,
-    "sourcePrice": 1680000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-40mp-dahua-dh-ipc-hdw2449t-s-il-66352.html",
-    "priceSourceTitle": "Camera IP 4MP DAHUA DH-IPC-HDW2449T-S-IL",
+    "price": 1830000,
+    "sourcePrice": 1690000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1810000,
+    "priceValidUntil": ""
   },
   "DH-H3AE": {
     "price": "Vui lòng gọi",
@@ -547,126 +547,124 @@
     "previousPrice": 460000
   },
   "DH-IPC-HFW1239TL1-A-IL-VN": {
-    "price": 910000,
-    "sourcePrice": 845000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-20mp-dahua-dh-ipc-hfw1239tl1-a-il-vn-87648.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-HFW1239TL1-A-IL-VN",
+    "price": 940000,
+    "sourcePrice": 870000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 910000,
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW1439TL1-A-IL-VN": {
-    "price": 1250000,
-    "sourcePrice": 1155000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-40mp-dahua-dh-ipc-hfw1439tl1-a-il-vn-89373.html",
-    "priceSourceTitle": "Camera IP 4MP DAHUA DH-IPC-HFW1439TL1-A-IL-VN",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "DH-IPC-HDW1439V-A-IL": {
-    "price": 1250000,
-    "sourcePrice": 1155000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-40mp-dahua-dh-ipc-hdw1439v-a-il-89334.html",
-    "priceSourceTitle": "Camera IP 4MP DAHUA DH-IPC-HDW1439V-A-IL",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false,
-    "previousPrice": 1240000
-  },
-  "DH-IPC-HFW2449T-AS-IL": {
-    "price": 2130000,
-    "sourcePrice": 1975000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-40mp-dahua-dh-ipc-hfw2449t-as-il-75232.html",
-    "priceSourceTitle": "Camera IP 4MP DAHUA DH-IPC-HFW2449T-AS-IL",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "DH-IPC-HFW1239MP-A-IL": {
-    "price": 1020000,
-    "sourcePrice": 945000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-20mp-dahua-dh-ipc-hfw1239mp-a-il-89361.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-HFW1239MP-A-IL",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "DH-IPC-HFW1239TL1-A-IL": {
     "price": "Vui lòng gọi",
     "sourcePrice": null,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-20mp-dahua-dh-ipc-hfw1239tl1-a-il-87546.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-HFW1239TL1-A-IL",
     "priceMarkupPercent": null,
     "priceRounding": null,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": false,
     "priceVatNote": "",
-    "hidden": true
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
-  "DH-IPC-B1E29-A-IL-VN": {
-    "price": 790000,
-    "sourcePrice": 735000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-20mp-dahua-dh-ipc-b1e29-a-il-vn-89357.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-B1E29-A-IL-VN",
+  "DH-IPC-HDW1439V-A-IL": {
+    "price": 1260000,
+    "sourcePrice": 1165000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "DH-IPC-HDW1230T2-A": {
-    "price": 830000,
-    "sourcePrice": 770000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-2mp-dahua-dh-ipc-hdw1230t2-a-90451.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-HDW1230T2-A",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "DH-IPC-HFW2241T-ZS": {
-    "price": 2940000,
-    "sourcePrice": 2720000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-20mp-dahua-dh-ipc-hfw2241t-zs-83743.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-HFW2241T-ZS",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "DH-IPC-HFW2449TL-S-PRO": {
-    "price": 2010000,
-    "sourcePrice": 1860000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-40mp-dahua-dh-ipc-hfw2449tl-s-pro-87967.html",
-    "priceSourceTitle": "Camera IP 4MP DAHUA DH-IPC-HFW2449TL-S-PRO",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 1990000
+    "previousPrice": 1250000,
+    "priceValidUntil": ""
+  },
+  "DH-IPC-HFW2449T-AS-IL": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
+  },
+  "DH-IPC-HFW1239MP-A-IL": {
+    "price": 1040000,
+    "sourcePrice": 960000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 1020000,
+    "priceValidUntil": ""
+  },
+  "DH-IPC-HFW1239TL1-A-IL": {
+    "price": 940000,
+    "sourcePrice": 870000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
+  },
+  "DH-IPC-B1E29-A-IL-VN": {
+    "price": 800000,
+    "sourcePrice": 745000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 790000,
+    "priceValidUntil": ""
+  },
+  "DH-IPC-HDW1230T2-A": {
+    "price": 800000,
+    "sourcePrice": 745000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 830000,
+    "priceValidUntil": ""
+  },
+  "DH-IPC-HFW2241T-ZS": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
+  },
+  "DH-IPC-HFW2449TL-S-PRO": {
+    "price": 1990000,
+    "sourcePrice": 1840000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 2010000,
+    "priceValidUntil": ""
   },
   "DH-SD2A500NB-GNY-A-PV": {
     "price": "Vui lòng gọi",
@@ -705,16 +703,16 @@
     "hidden": false
   },
   "DH-IPC-HFW2849T-AS-IL": {
-    "price": 2970000,
-    "sourcePrice": 2750000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-80mp-dahua-dh-ipc-hfw2849t-as-il-89485.html",
-    "priceSourceTitle": "Camera IP 8MP DAHUA DH-IPC-HFW2849T-AS-IL",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW1230M-A": {
     "price": "Vui lòng gọi",
@@ -729,28 +727,28 @@
     "hidden": true
   },
   "DH-IPC-HDBW2449E-S-IL": {
-    "price": 1800000,
-    "sourcePrice": 1670000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-4mp-dahua-dh-ipc-hdbw2449e-s-il-89285.html",
-    "priceSourceTitle": "Camera IP 4MP DAHUA DH-IPC-HDBW2449E-S-IL",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-IPC-HDW2449T-S-PRO": {
-    "price": 1990000,
-    "sourcePrice": 1840000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-40mp-dahua-dh-ipc-hdw2449t-s-pro-87965.html",
-    "priceSourceTitle": "Camera IP 4MP DAHUA DH-IPC-HDW2449T-S-PRO",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-IPC-HDW1439V-A-IL-VN": {
     "price": "Vui lòng gọi",
@@ -862,28 +860,28 @@
     "hidden": true
   },
   "DH-IPC-HFW1439MP-A-IL": {
-    "price": 1500000,
-    "sourcePrice": 1385000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-40mp-dahua-dh-ipc-hfw1439mp-a-il-89374.html",
-    "priceSourceTitle": "Camera IP 4MP DAHUA DH-IPC-HFW1439MP-A-IL",
+    "price": 1460000,
+    "sourcePrice": 1355000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1500000,
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW1539DTK1-SW-PV": {
-    "price": "Vui lòng gọi",
-    "sourcePrice": null,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-50mp-dahua-dh-ipc-hfw1539dtk1-sw-pv-89289.html",
-    "priceSourceTitle": "Camera IP WiFi 5MP Dahua DH-IPC-HFW1539DTK1-SW-PV",
-    "priceMarkupPercent": null,
-    "priceRounding": null,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": false,
-    "priceVatNote": "",
-    "hidden": true
+    "price": 1070000,
+    "sourcePrice": 995000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-IPC-HDBW1439E1-A-IL": {
     "price": "Vui lòng gọi",
@@ -910,17 +908,16 @@
     "hidden": true
   },
   "DH-IPC-HFW2249T-AS-IL": {
-    "price": 1810000,
-    "sourcePrice": 1680000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-20mp-dahua-dh-ipc-hfw2249t-as-il-75231.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-HFW2249T-AS-IL",
+    "price": 1830000,
+    "sourcePrice": 1690000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 1800000
+    "previousPrice": 1810000,
+    "priceValidUntil": ""
   },
   "DH-SD3E405DB-GNY-A-PV1": {
     "price": "Vui lòng gọi",
@@ -935,17 +932,16 @@
     "hidden": true
   },
   "DH-IPC-HFW1439TL1-A-IL": {
-    "price": "Vui lòng gọi",
-    "sourcePrice": null,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-40mp-dahua-dh-ipc-hfw1439tl1-a-il-89372.html",
-    "priceSourceTitle": "Camera IP 4MP DAHUA DH-IPC-HFW1439TL1-A-IL",
-    "priceMarkupPercent": null,
-    "priceRounding": null,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": false,
-    "priceVatNote": "",
-    "hidden": true,
-    "previousPrice": 1230000
+    "price": 1330000,
+    "sourcePrice": 1230000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-H4AE": {
     "price": 480000,
@@ -996,28 +992,28 @@
     "hidden": true
   },
   "DH-P5AS-PV": {
-    "price": 1060000,
-    "sourcePrice": 985000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-50mp-dahua-dh-p5as-pv-89640.html",
-    "priceSourceTitle": "Camera IP WiFi 5MP DAHUA DH-P5AS-PV",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW1339DTK1-SW-PV": {
-    "price": 950000,
-    "sourcePrice": 880000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-30mp-dahua-dh-ipc-hfw1339dtk1-sw-pv-89286.html",
-    "priceSourceTitle": "Camera IP WiFi 3MP DAHUA DH-IPC-HFW1339DTK1-SW-PV",
+    "price": 960000,
+    "sourcePrice": 890000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 950000,
+    "priceValidUntil": ""
   },
   "DH-H5AE": {
     "price": 520000,
@@ -1032,16 +1028,16 @@
     "hidden": false
   },
   "DH-IPC-HDW1539DA-SW-PV": {
-    "price": 990000,
-    "sourcePrice": 920000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-50mp-dahua-dh-ipc-hdw1539da-sw-pv-89642.html",
-    "priceSourceTitle": "Camera IP WiFi 5MP DAHUA DH-IPC-HDW1539DA-SW-PV",
+    "price": 970000,
+    "sourcePrice": 900000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 990000,
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW1431M-A": {
     "price": "Vui lòng gọi",
@@ -1056,29 +1052,28 @@
     "hidden": true
   },
   "DH-P3B-PV": {
-    "price": 810000,
-    "sourcePrice": 750000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-pt-wifi-30mp-dahua-dh-p3b-pv-87540.html",
-    "priceSourceTitle": "Camera IP PT Wifi 3MP DAHUA DH-P3B-PV",
+    "price": 800000,
+    "sourcePrice": 745000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 770000
+    "previousPrice": 810000,
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW1239TL1-PV": {
-    "price": 1170000,
-    "sourcePrice": 1085000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-20mp-dahua-dh-ipc-hfw1239tl1-pv-89363.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-HFW1239TL1-PV",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-IPC-HDW1339DA-SAW-IL": {
     "price": "Vui lòng gọi",
@@ -1106,16 +1101,16 @@
     "previousPrice": 870000
   },
   "DH-IPC-HDBW1239E1-A-IL": {
-    "price": 890000,
-    "sourcePrice": 825000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-2mp-dahua-dh-ipc-hdbw1239e1-a-il-90449.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-HDBW1239E1-A-IL",
+    "price": 930000,
+    "sourcePrice": 865000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 890000,
+    "priceValidUntil": ""
   },
   "DH-IPC-HDW2849TM-S-IL": {
     "price": 2680000,
@@ -1238,16 +1233,16 @@
     "hidden": true
   },
   "DH-IPC-HDW1239V-PV": {
-    "price": 1200000,
-    "sourcePrice": 1110000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-20mp-dahua-dh-ipc-hdw1239v-pv-89364.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-HDW1239V-PV",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW2441T-AS": {
     "price": "Vui lòng gọi",
@@ -1286,16 +1281,16 @@
     "hidden": false
   },
   "DH-IPC-PTS2249B-E2-S-PV-PRO": {
-    "price": 2350000,
-    "sourcePrice": 2180000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-22mp-dahua-dh-ipc-pts2249b-e2-s-pv-pro-90384.html",
-    "priceSourceTitle": "Camera IP 2+2MP DAHUA DH-IPC-PTS2249B-E2-S-PV-PRO",
+    "price": 2830000,
+    "sourcePrice": 2620000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 2350000,
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW1239TC1-A-LED": {
     "price": "Vui lòng gọi",
@@ -1310,28 +1305,28 @@
     "hidden": true
   },
   "DH-IPC-HDW1539DA-SAW-IL": {
-    "price": 940000,
-    "sourcePrice": 870000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-50mp-dahua-dh-ipc-hdw1539da-saw-il-90142.html",
-    "priceSourceTitle": "Camera IP Wifi 5MP DAHUA DH-IPC-HDW1539DA-SAW-IL",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-IPC-HDW1230T2-S5-VN": {
-    "price": 610000,
-    "sourcePrice": 565000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-20mp-dahua-dh-ipc-hdw1230t2-s5-vn-87957.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-HDW1230T2-S5-VN",
+    "price": 630000,
+    "sourcePrice": 585000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 610000,
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW1230TC-A": {
     "price": "Vui lòng gọi",
@@ -1358,16 +1353,16 @@
     "hidden": true
   },
   "DH-IPC-T1E29-A-IL-VN": {
-    "price": 790000,
-    "sourcePrice": 735000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-20mp-dahua-dh-ipc-t1e29-a-il-vn-89359.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-T1E29-A-IL-VN",
+    "price": 850000,
+    "sourcePrice": 785000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 790000,
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW1230DS-SAW": {
     "price": "Vui lòng gọi",
@@ -1394,16 +1389,16 @@
     "hidden": true
   },
   "IPC-HDW2431TP-AS-S2": {
-    "price": 1380000,
-    "sourcePrice": 1280000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-40mp-dahua-ipc-hdw2431tp-as-s2-36834.html",
-    "priceSourceTitle": "Camera IP 4MP DAHUA IPC-HDW2431TP-AS-S2",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW2241T-AS": {
     "price": "Vui lòng gọi",
@@ -1454,16 +1449,16 @@
     "hidden": true
   },
   "DH-P8F-PV": {
-    "price": 2110000,
-    "sourcePrice": 1950000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-8mp-dahua-dh-p8f-pv-90353.html",
-    "priceSourceTitle": "Camera IP 8MP DAHUA DH-P8F-PV",
+    "price": 2120000,
+    "sourcePrice": 1960000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 2110000,
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW2449S-S-LED": {
     "price": 1870000,
@@ -1490,16 +1485,16 @@
     "hidden": false
   },
   "DH-P5AE-PV-4G": {
-    "price": 1200000,
-    "sourcePrice": 1110000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-4g-50mp-dahua-dh-p5ae-pv-4g-89712.html",
-    "priceSourceTitle": "Camera IP 4G 5MP DAHUA DH-P5AE-PV-4G",
+    "price": 1220000,
+    "sourcePrice": 1130000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1200000,
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW2249S-S-LED": {
     "price": "Vui lòng gọi",
@@ -1634,25 +1629,23 @@
     "hidden": true
   },
   "DH-IPC-HDW1230SP-S5-VN": {
-    "price": 720000,
-    "sourcePrice": 670000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-20mp-dahua-dh-ipc-hdw1230sp-s5-vn-73949.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-HDW1230SP-S5-VN",
+    "price": 800000,
+    "sourcePrice": 740000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 720000,
+    "priceValidUntil": ""
   },
   "DH-P3AE-PV-4G": {
     "price": 1100000,
-    "sourcePrice": 1015000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-4g-30mp-dahua-dh-p3ae-pv-4g-89711.html",
-    "priceSourceTitle": "Camera IP 4G 3MP DAHUA DH-P3AE-PV-4G",
+    "sourcePrice": 1020000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false
@@ -1718,16 +1711,16 @@
     "hidden": true
   },
   "DH-IPC-HDW1430T1-A-S5": {
-    "price": 1020000,
-    "sourcePrice": 946200,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-40mp-dahua-dh-ipc-hdw1430t1-a-s5-78213.html",
-    "priceSourceTitle": "Camera IP 4MP DAHUA DH-IPC-HDW1430T1-A-S5",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-P5AE-PV": {
     "price": "Vui lòng gọi",
@@ -1742,17 +1735,16 @@
     "hidden": true
   },
   "DHI-NVR4232-4KS3": {
-    "price": 4670000,
-    "sourcePrice": 4320000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-camera-ip-32-kenh-dahua-dhi-nvr4232-4ks3-82909.html",
-    "priceSourceTitle": "Đầu ghi hình camera IP 32 kênh DAHUA DHI-NVR4232-4KS3",
+    "price": 4730000,
+    "sourcePrice": 4380000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 4410000
+    "previousPrice": 4670000,
+    "priceValidUntil": ""
   },
   "DHI-NVR4116HS-4KS3": {
     "price": "Vui lòng gọi",
@@ -1767,30 +1759,28 @@
     "hidden": true
   },
   "DHI-NVR1108HS-S3/H": {
-    "price": 1380000,
-    "sourcePrice": 1280000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-camera-ip-8-kenh-dahua-dhi-nvr1108hs-s3h-48655.html",
-    "priceSourceTitle": "Đầu ghi hình camera IP 8 kênh DAHUA DHI-NVR1108HS-S3/H",
+    "price": 1530000,
+    "sourcePrice": 1420000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 1360000
+    "previousPrice": 1380000,
+    "priceValidUntil": ""
   },
   "DHI-NVR4108HS-4KS3-VN": {
-    "price": 2720000,
-    "sourcePrice": 2520000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-ip-8-kenh-dahua-dhi-nvr4108hs-4ks3-vn-87991.html",
-    "priceSourceTitle": "Đầu ghi hình IP 8 kênh DAHUA DHI-NVR4108HS-4KS3-VN",
+    "price": 2760000,
+    "sourcePrice": 2560000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 2690000
+    "previousPrice": 2720000,
+    "priceValidUntil": ""
   },
   "DHI-NVR1104HS-S3/H-VN": {
     "price": 800000,
@@ -1806,16 +1796,16 @@
     "previousPrice": 790000
   },
   "DHI-NVR2108HS-4KS3": {
-    "price": 2170000,
-    "sourcePrice": 2010000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-camera-ip-8-kenh-dahua-dhi-nvr2108hs-4ks3-84183.html",
-    "priceSourceTitle": "Đầu ghi hình camera IP 8 kênh DAHUA DHI-NVR2108HS-4KS3",
+    "price": 2310000,
+    "sourcePrice": 2140000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 2170000,
+    "priceValidUntil": ""
   },
   "DHI-NVR4108HS-4KS3": {
     "price": "Vui lòng gọi",
@@ -1830,16 +1820,16 @@
     "hidden": true
   },
   "DHI-NVR5232-EI": {
-    "price": 9100000,
-    "sourcePrice": 8430000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-camera-ip-32-kenh-dahua-dhi-nvr5232-ei-72424.html",
-    "priceSourceTitle": "Đầu ghi hình camera IP 32 kênh DAHUA DHI-NVR5232-EI",
+    "price": 9340000,
+    "sourcePrice": 8650000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 9100000,
+    "priceValidUntil": ""
   },
   "DHI-NVR5464-EI": {
     "price": "Vui lòng gọi",
@@ -1867,17 +1857,16 @@
     "previousPrice": 2750000
   },
   "DHI-NVR4216-4KS3": {
-    "price": 4220000,
-    "sourcePrice": 3910000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-camera-ip-16-kenh-dahua-dhi-nvr4216-4ks3-82908.html",
-    "priceSourceTitle": "Đầu ghi hình camera IP 16 kênh DAHUA DHI-NVR4216-4KS3",
+    "price": 4450000,
+    "sourcePrice": 4120000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 4080000
+    "previousPrice": 4220000,
+    "priceValidUntil": ""
   },
   "DHI-NVR4104HS-4KS3": {
     "price": "Vui lòng gọi",
@@ -1905,16 +1894,16 @@
     "hidden": true
   },
   "DHI-NVR4116HS-4KS3-VN": {
-    "price": 3330000,
-    "sourcePrice": 3080000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-ip-16-kenh-dahua-dhi-nvr4116hs-4ks3-vn-87994.html",
-    "priceSourceTitle": "Đầu ghi hình IP 16 kênh DAHUA DHI-NVR4116HS-4KS3-VN",
+    "price": 3480000,
+    "sourcePrice": 3220000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 3330000,
+    "priceValidUntil": ""
   },
   "DHI-NVR5432-EI": {
     "price": "Vui lòng gọi",
@@ -1941,42 +1930,40 @@
     "hidden": true
   },
   "DHI-NVR1104HS-S3/H": {
-    "price": 800000,
-    "sourcePrice": 740000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-camera-ip-4-kenh-dahua-dhi-nvr1104hs-s3h-50184.html",
-    "priceSourceTitle": "Đầu ghi hình camera IP 4 kênh DAHUA DHI-NVR1104HS-S3/H",
+    "price": 990000,
+    "sourcePrice": 920000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 790000
+    "previousPrice": 800000,
+    "priceValidUntil": ""
   },
   "DHI-NVR4432-4KS3": {
-    "price": 8340000,
-    "sourcePrice": 7720000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-camera-ip-32-kenh-dahua-dhi-nvr4432-4ks3-89567.html",
-    "priceSourceTitle": "Đầu ghi hình camera IP 32 kênh DAHUA DHI-NVR4432-4KS3",
+    "price": 9050000,
+    "sourcePrice": 8380000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "DHI-NVR4208-4KS3": {
-    "price": 3870000,
-    "sourcePrice": 3580000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-camera-ip-8-kenh-dahua-dhi-nvr4208-4ks3-82906.html",
-    "priceSourceTitle": "Đầu ghi hình camera IP 8 kênh DAHUA DHI-NVR4208-4KS3",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 3590000
+    "previousPrice": 8340000,
+    "priceValidUntil": ""
+  },
+  "DHI-NVR4208-4KS3": {
+    "price": 4300000,
+    "sourcePrice": 3980000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 3870000,
+    "priceValidUntil": ""
   },
   "DHI-NVR5832-EI": {
     "price": "Vui lòng gọi",
@@ -2004,17 +1991,16 @@
     "hidden": true
   },
   "DHI-NVR1108HS-S3/H-VN": {
-    "price": 1380000,
-    "sourcePrice": 1280000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-camera-ip-8-kenh-dahua-dhi-nvr1108hs-s3-h-vn-73972.html",
-    "priceSourceTitle": "Đầu ghi hình camera IP 8 kênh DAHUA DHI-NVR1108HS-S3/H-VN",
+    "price": 1530000,
+    "sourcePrice": 1420000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 1360000
+    "previousPrice": 1380000,
+    "priceValidUntil": ""
   },
   "DHI-NVR1108HS-W-S2-FCC": {
     "price": "Vui lòng gọi",
@@ -2113,28 +2099,28 @@
     "hidden": true
   },
   "DHI-NVR4216-EI": {
-    "price": 5240000,
-    "sourcePrice": 4850000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-camera-ip-16-kenh-dahua-dhi-nvr4216-ei-80219.html",
-    "priceSourceTitle": "Đầu ghi hình camera IP 16 kênh DAHUA DHI-NVR4216-EI",
+    "price": 5560000,
+    "sourcePrice": 5150000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 5240000,
+    "priceValidUntil": ""
   },
   "DHI-NVR4208-EI": {
-    "price": 4080000,
-    "sourcePrice": 3780000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-camera-ip-8-kenh-dahua-dhi-nvr4208-ei-80218.html",
-    "priceSourceTitle": "Đầu ghi hình camera IP 8 kênh DAHUA DHI-NVR4208-EI",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DHI-NVR4108HS-EI": {
     "price": "Vui lòng gọi",
@@ -2475,16 +2461,16 @@
     "hidden": true
   },
   "DH-PFS3006-4ET-60": {
-    "price": 900000,
-    "sourcePrice": 830000,
-    "priceSource": "https://www.sieuthivienthong.com/4-port-fe-unmanaged-switch-dahua-dh-pfs3006-4et-60-59181.html",
-    "priceSourceTitle": "4-Port FE Unmanaged Switch DAHUA DH-PFS3006-4ET-60",
+    "price": 710000,
+    "sourcePrice": 660000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 900000,
+    "priceValidUntil": ""
   },
   "DH-S3006-4ET-36": {
     "price": "Vui lòng gọi",
@@ -2715,16 +2701,16 @@
     "hidden": true
   },
   "IPC-A52P": {
-    "price": 620000,
-    "sourcePrice": 570000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-pt-wifi-5mp-imou-ipc-a52p-85704.html",
-    "priceSourceTitle": "Camera IP PT WiFi 5MP IMOU IPC-A52P",
+    "price": 640000,
+    "sourcePrice": 590000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 620000,
+    "priceValidUntil": ""
   },
   "IPC-A32EP-L": {
     "price": 470000,
@@ -2800,14 +2786,14 @@
     "hidden": true
   },
   "IPC-S3EP-5M0WE": {
-    "price": "Vui lòng gọi",
-    "sourcePrice": null,
-    "priceMarkupPercent": null,
-    "priceRounding": null,
-    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
-    "vatIncluded": false,
-    "priceVatNote": "",
-    "hidden": true,
+    "price": 960000,
+    "sourcePrice": 890000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
     "previousPrice": "Vui lòng gọi",
     "priceValidUntil": ""
   },
@@ -8694,16 +8680,16 @@
     "hidden": true
   },
   "DS-2CD2T21G1-I (C)": {
-    "price": 1770000,
-    "sourcePrice": 1640000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-2mp-hikvision-ds-2cd2t21g1-i-c-43274.html",
-    "priceSourceTitle": "Camera IP 2MP HIKVISION DS-2CD2T21G1-I (C)",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DS-2CD2T23G2-2LI2U": {
     "price": "Vui lòng gọi",
@@ -12256,16 +12242,16 @@
     "hidden": true
   },
   "RG-ES224GC-V2": {
-    "price": 2980000,
-    "sourcePrice": 2760000,
-    "priceSource": "https://www.sieuthivienthong.com/24-port-ge-switch-ruijie-rg-es224gc-v2-84204.html",
-    "priceSourceTitle": "24-Port GE Switch RUIJIE RG-ES224GC-V2",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "RG-ES116G-L": {
     "price": 1440000,
@@ -16783,15 +16769,16 @@
     "hidden": true
   },
   "RG-ES224GC": {
-    "price": 2980000,
-    "sourcePrice": 2760000,
-    "priceSource": "https://www.sieuthivienthong.com/24-port-ge-switch-ruijie-rg-es224gc-v2-84204.html",
-    "priceSourceTitle": "24-Port GE Switch RUIJIE RG-ES224GC-V2",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-03T20:02:05+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT"
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "RG-EST100-E": {
     "price": 1110000,
@@ -17980,17 +17967,16 @@
     "hidden": false
   },
   "DH-CS4006-4ET2GT-36": {
-    "price": 630000,
-    "sourcePrice": 585000,
-    "priceSource": "https://www.sieuthivienthong.com/4-port-fe-poe-managed-switch-dahua-dh-cs4006-4et2gt-36-89389.html",
-    "priceSourceTitle": "4-Port FE PoE Managed Switch DAHUA DH-CS4006-4ET2GT-36",
+    "price": 640000,
+    "sourcePrice": 590000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 610000
+    "previousPrice": 630000,
+    "priceValidUntil": ""
   },
   "DH-PFS3005-5GT-L": {
     "price": 300000,
@@ -18053,66 +18039,64 @@
     "hidden": false
   },
   "DH-HAC-B1A21P-U-IL-A": {
-    "price": 350000,
-    "sourcePrice": 320000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-hdcvi-2mp-dahua-dh-hac-b1a21p-u-il-a-89346.html",
-    "priceSourceTitle": "Camera HDCVI 2MP DAHUA DH-HAC-B1A21P-U-IL-A",
+    "price": 380000,
+    "sourcePrice": 350000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 350000,
+    "priceValidUntil": ""
   },
   "DH-HAC-HDW1200TQP-IL-T-VN": {
-    "price": 520000,
-    "sourcePrice": 480000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-hdcvi-2mp-dahua-dh-hac-hdw1200tqp-il-t-vn-90416.html",
-    "priceSourceTitle": "Camera HDCVI 2MP DAHUA DH-HAC-HDW1200TQP-IL-T-VN",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-HAC-B1A21P-U-IL-A-VN": {
-    "price": 350000,
-    "sourcePrice": 320000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-hdcvi-2mp-dahua-dh-hac-b1a21p-u-il-a-vn-89347.html",
-    "priceSourceTitle": "Camera HDCVI 2MP DAHUA DH-HAC-B1A21P-U-IL-A-VN",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-HAC-HFW1200RLP-IL-T": {
-    "price": 420000,
-    "sourcePrice": 390000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-hdcvi-2mp-dahua-dh-hac-hfw1200rlp-il-t-90411.html",
-    "priceSourceTitle": "Camera HDCVI 2MP DAHUA DH-HAC-HFW1200RLP-IL-T",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false,
-    "previousPrice": 380000
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-HAC-HFW1200RLP-IL-T-VN": {
-    "price": 420000,
-    "sourcePrice": 390000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-hdcvi-2mp-dahua-dh-hac-hfw1200rlp-il-t-vn-90413.html",
-    "priceSourceTitle": "Camera HDCVI 2MP DAHUA DH-HAC-HFW1200RLP-IL-T-VN",
+    "price": 510000,
+    "sourcePrice": 470000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 380000
+    "previousPrice": 420000,
+    "priceValidUntil": ""
   },
   "DH-HAC-HFW1249XP-IL-A-PRO": {
     "price": 940000,
@@ -18151,16 +18135,16 @@
     "hidden": false
   },
   "DH-HAC-HFW1200TLMP-IL-T": {
-    "price": 500000,
-    "sourcePrice": 460000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-hdcvi-2mp-dahua-dh-hac-hfw1200tlmp-il-t-90404.html",
-    "priceSourceTitle": "Camera HDCVI 2MP DAHUA DH-HAC-HFW1200TLMP-IL-T",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-HAC-T1A21P-U-IL-A": {
     "price": 350000,
@@ -18199,16 +18183,16 @@
     "hidden": false
   },
   "DH-HAC-HFW1500THP-IL-A": {
-    "price": 890000,
-    "sourcePrice": 825000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-hdcvi-5mp-dahua-dh-hac-hfw1500thp-il-a-90423.html",
-    "priceSourceTitle": "Camera HDCVI 5MP DAHUA DH-HAC-HFW1500THP-IL-A",
+    "price": 850000,
+    "sourcePrice": 785000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 890000,
+    "priceValidUntil": ""
   },
   "DH-HAC-T1A21P-VN": {
     "price": 340000,
@@ -18248,16 +18232,16 @@
     "hidden": false
   },
   "DH-IPC-HDBW2241E-S": {
-    "price": 1330000,
-    "sourcePrice": 1230000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-20mp-dahua-dh-ipc-hdbw2241e-s-85810.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-HDBW2241E-S",
+    "price": 1360000,
+    "sourcePrice": 1260000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1330000,
+    "priceValidUntil": ""
   },
   "DH-IPC-HDPW1230R1-S5": {
     "price": 760000,
@@ -18285,16 +18269,16 @@
     "hidden": false
   },
   "DH-IPC-PT1239H-PV": {
-    "price": 1150000,
-    "sourcePrice": 1065000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-2mp-dahua-dh-ipc-pt1239h-pv-90462.html",
-    "priceSourceTitle": "Camera IP 2MP DAHUA DH-IPC-PT1239H-PV",
+    "price": 1230000,
+    "sourcePrice": 1135000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 1150000,
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW2249M-S-B-PRO": {
     "price": 1980000,
@@ -18321,52 +18305,52 @@
     "hidden": false
   },
   "DH-P3F-PV": {
-    "price": 1610000,
-    "sourcePrice": 1495000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-3mp-dahua-dh-p3f-pv-90351.html",
-    "priceSourceTitle": "Camera IP 3MP DAHUA DH-P3F-PV",
+    "price": 1600000,
+    "sourcePrice": 1480000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "DH-IPC-HDBW2449F-AS-IL": {
-    "price": 1850000,
-    "sourcePrice": 1715000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-40mp-dahua-dh-ipc-hdbw2449f-as-il-89476.html",
-    "priceSourceTitle": "Camera IP 4.0MP DAHUA DH-IPC-HDBW2449F-AS-IL",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "DH-IPC-HDBW3449E-AS-IL": {
-    "price": 2300000,
-    "sourcePrice": 2125000,
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 2290000,
+    "previousPrice": 1610000,
+    "priceValidUntil": ""
+  },
+  "DH-IPC-HDBW2449F-AS-IL": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
+  },
+  "DH-IPC-HDBW3449E-AS-IL": {
+    "price": 2350000,
+    "sourcePrice": 2180000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 2300000,
     "priceValidUntil": ""
   },
   "DH-IPC-HFW2441DG-4G-SP-B": {
-    "price": 4610000,
-    "sourcePrice": 4270000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-4g-4mp-dahua-dh-ipc-hfw2441dg-4g-sp-b-90383.html",
-    "priceSourceTitle": "Camera IP 4G 4MP DAHUA DH-IPC-HFW2441DG-4G-SP-B",
+    "price": 4580000,
+    "sourcePrice": 4240000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 4610000,
+    "priceValidUntil": ""
   },
   "DH-IPC-HDW2849T-S-PRO": {
     "price": 2740000,
@@ -18382,53 +18366,52 @@
     "previousPrice": 2750000
   },
   "DH-P5F-PV": {
-    "price": 1670000,
-    "sourcePrice": 1550000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-5mp-dahua-dh-p5f-pv-90352.html",
-    "priceSourceTitle": "Camera IP 5MP DAHUA DH-P5F-PV",
+    "price": 1660000,
+    "sourcePrice": 1540000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "DH-IPC-HFW2849M-S-B-PRO": {
-    "price": 2890000,
-    "sourcePrice": 2680000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-8mp-dahua-dh-ipc-hfw2849m-s-b-pro-90359.html",
-    "priceSourceTitle": "Camera IP 8MP DAHUA DH-IPC-HFW2849M-S-B-PRO",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "DH-P3D-3F-PV-4G": {
-    "price": 1830000,
-    "sourcePrice": 1690000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-pt-4g-3mp3mp-dahua-dh-p3d-3f-pv-4g-90203.html",
-    "priceSourceTitle": "Camera IP PT 4G 3MP+3MP DAHUA DH-P3D-3F-PV-4G",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
-  },
-  "DHI-VTO2211G-WP-S2": {
-    "price": 2720000,
-    "sourcePrice": 2520000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-chuong-cua-ip-khong-day-dahua-dhi-vto2211g-wp-s2-89397.html",
-    "priceSourceTitle": "Camera chuông cửa IP không dây DAHUA DHI-VTO2211G-WP-S2",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 2650000
+    "previousPrice": 1670000,
+    "priceValidUntil": ""
+  },
+  "DH-IPC-HFW2849M-S-B-PRO": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
+  },
+  "DH-P3D-3F-PV-4G": {
+    "price": 1890000,
+    "sourcePrice": 1750000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 1830000,
+    "priceValidUntil": ""
+  },
+  "DHI-VTO2211G-WP-S2": {
+    "price": 2750000,
+    "sourcePrice": 2550000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "previousPrice": 2720000,
+    "priceValidUntil": ""
   },
   "DH-H3B": {
     "price": 540000,
@@ -18443,28 +18426,28 @@
     "hidden": false
   },
   "DH-H5B": {
-    "price": 690000,
-    "sourcePrice": 640000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-pt-wifi-50mp-dahua-dh-h5b-87538.html",
-    "priceSourceTitle": "Camera IP PT Wifi 5MP DAHUA DH-H5B",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-F4C-LED": {
-    "price": 720000,
-    "sourcePrice": 668000,
-    "priceSource": "https://www.sieuthivienthong.com/camera-ip-wifi-40mp-dahua-dh-f4c-led-82873.html",
-    "priceSourceTitle": "Camera IP WiFi 4MP DAHUA DH-F4C-LED",
+    "price": 770000,
+    "sourcePrice": 710000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 720000,
+    "priceValidUntil": ""
   },
   "DHI-VTO2311R-WP": {
     "price": 2150000,
@@ -18479,17 +18462,16 @@
     "hidden": false
   },
   "DH-PFM922I-5EUN-C": {
-    "price": 1110000,
-    "sourcePrice": 1030000,
-    "priceSource": "https://www.sieuthivienthong.com/cap-mang-cat5e-utp-dahua-dh-pfm922i-5eun-c-66343.html",
-    "priceSourceTitle": "Cáp mạng CAT5E UTP DAHUA DH-PFM922I-5EUN-C",
+    "price": 1060000,
+    "sourcePrice": 980000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 1040000
+    "previousPrice": 1110000,
+    "priceValidUntil": ""
   },
   "DH-PFM920I-6UN-CN": {
     "price": 3220000,
@@ -18517,17 +18499,16 @@
     "hidden": true
   },
   "DH-PFM920I-6UN1-N": {
-    "price": 3110000,
-    "sourcePrice": 2880000,
-    "priceSource": "https://www.sieuthivienthong.com/cap-mang-cat6-utp-dahua-dh-pfm920i-6un1-n-89645.html",
-    "priceSourceTitle": "Cáp mạng CAT6 UTP DAHUA DH-PFM920I-6UN1-N",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "previousPrice": 3050000,
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "previousPrice": "Vui lòng gọi",
+    "hidden": true,
+    "priceValidUntil": ""
   },
   "DH-PFM922I-6UN-C": {
     "price": 1260000,
@@ -18542,16 +18523,16 @@
     "hidden": false
   },
   "DHI-HY-C151": {
-    "price": 330000,
-    "sourcePrice": 308000,
-    "priceSource": "https://www.sieuthivienthong.com/coi-bao-chay-kem-den-chop-dahua-dhi-hy-c151-87950.html",
-    "priceSourceTitle": "Còi báo cháy kèm đèn chớp DAHUA DHI-HY-C151",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DHI-HY-1200": {
     "price": 390000,
@@ -18578,16 +18559,16 @@
     "hidden": false
   },
   "DHI-VTH2421FW-P": {
-    "price": 2540000,
-    "sourcePrice": 2350000,
-    "priceSource": "https://www.sieuthivienthong.com/man-hinh-mau-chuong-cua-dahua-dhi-vth2421fw-p-65676.html",
-    "priceSourceTitle": "Màn hình màu chuông cửa DAHUA DHI-VTH2421FW-P",
+    "price": 2750000,
+    "sourcePrice": 2550000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 2540000,
+    "priceValidUntil": ""
   },
   "DHI-LM19-A202F": {
     "price": 1300000,
@@ -18686,28 +18667,28 @@
     "hidden": false
   },
   "DHI-HY-C102-6": {
-    "price": 5020000,
-    "sourcePrice": 4645000,
-    "priceSource": "https://www.sieuthivienthong.com/tu-bao-chay-thuong-6-kenh-dahua-dhi-hy-c102-6-87935.html",
-    "priceSourceTitle": "Tủ báo cháy thường 6 kênh DAHUA DHI-HY-C102-6",
+    "price": 5670000,
+    "sourcePrice": 5250000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 5020000,
+    "priceValidUntil": ""
   },
   "DHI-HY-C102-8": {
-    "price": 5510000,
-    "sourcePrice": 5100000,
-    "priceSource": "https://www.sieuthivienthong.com/tu-bao-chay-thuong-8-kenh-dahua-dhi-hy-c102-8-87936.html",
-    "priceSourceTitle": "Tủ báo cháy thường 8 kênh DAHUA DHI-HY-C102-8",
+    "price": 5490000,
+    "sourcePrice": 5080000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 5510000,
+    "priceValidUntil": ""
   },
   "DHI-ASI3213A-W": {
     "price": 3400000,
@@ -18722,26 +18703,23 @@
     "hidden": false
   },
   "DH-XVR1B08-I/T-VN": {
-    "price": 1290000,
-    "sourcePrice": 1190000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-penta-brid-8-kenh-dahua-dh-xvr1b08-it-vn-90432.html",
-    "priceSourceTitle": "Đầu ghi hình Penta-brid 8 kênh DAHUA DH-XVR1B08-I/T-VN",
+    "price": 1650000,
+    "sourcePrice": 1530000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false,
-    "previousPrice": 1280000
+    "previousPrice": 1290000,
+    "priceValidUntil": ""
   },
   "DHI-HY-C155": {
     "price": 250000,
-    "sourcePrice": 235000,
-    "priceSource": "https://www.sieuthivienthong.com/den-bao-chay-dahua-dhi-hy-c155-89069.html",
-    "priceSourceTitle": "Đèn báo cháy DAHUA DHI-HY-C155",
+    "sourcePrice": 230000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
     "hidden": false
@@ -18795,16 +18773,16 @@
     "hidden": false
   },
   "DH-XVR4116HS-I-VN": {
-    "price": 2110000,
-    "sourcePrice": 1950000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-penta-brid-16-kenh-dahua-dh-xvr4116hs-i-vn-78206.html",
-    "priceSourceTitle": "Đầu ghi hình Penta-brid 16 kênh DAHUA DH-XVR4116HS-I-VN",
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "HP5": {
     "price": 3660000,
@@ -18831,16 +18809,16 @@
     "hidden": false
   },
   "DH-XVR4116HS-I/T": {
-    "price": 2570000,
-    "sourcePrice": 2380000,
-    "priceSource": "https://www.sieuthivienthong.com/dau-ghi-hinh-penta-brid-16-kenh-dahua-dh-xvr4116hs-it-90487.html",
-    "priceSourceTitle": "Đầu ghi hình Penta-brid 16 kênh DAHUA DH-XVR4116HS-I/T",
+    "price": 2790000,
+    "sourcePrice": 2580000,
     "priceMarkupPercent": 8,
     "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-15T12:06:50+07:00",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
     "vatIncluded": true,
     "priceVatNote": "Đã gồm VAT",
-    "hidden": false
+    "hidden": false,
+    "previousPrice": 2570000,
+    "priceValidUntil": ""
   },
   "DL04 Pro": {
     "price": 3150000,
@@ -21159,27 +21137,27 @@
     "priceValidUntil": ""
   },
   "Tapo C225": {
-    "price": 1100000,
-    "sourcePrice": 1020000,
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
     "hidden": true,
-    "previousPrice": 1040000,
+    "previousPrice": "Vui lòng gọi",
     "priceValidUntil": ""
   },
   "Tapo C325WB": {
-    "price": 1710000,
-    "sourcePrice": 1580000,
-    "priceMarkupPercent": 8,
-    "priceRounding": 10000,
-    "priceUpdatedAt": "2026-11-23T08:24:03+07:00",
-    "vatIncluded": true,
-    "priceVatNote": "Đã gồm VAT",
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "vatIncluded": false,
+    "priceVatNote": "",
     "hidden": true,
-    "previousPrice": 1660000,
+    "previousPrice": "Vui lòng gọi",
     "priceValidUntil": ""
   },
   "VIGI C540-W": {
@@ -21647,7 +21625,16 @@
     "hidden": true
   },
   "DS-2DE4215IWG1-EHUN": {
-    "hidden": true
+    "hidden": false,
+    "price": 9230000,
+    "sourcePrice": 8550000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "DH-IPC-HFW1230TL2-A-VN": {
     "hidden": true
@@ -21662,7 +21649,16 @@
     "hidden": true
   },
   "IPC-PS3EP-3M0": {
-    "hidden": true
+    "hidden": false,
+    "price": 680000,
+    "sourcePrice": 628000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "IPC-PS8DP-5V0": {
     "hidden": true
@@ -21680,10 +21676,28 @@
     "hidden": true
   },
   "IPC-S3EP-5M0WE-PRO": {
-    "hidden": true
+    "hidden": false,
+    "price": 1020000,
+    "sourcePrice": 945000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "IPC-A82P-PRO": {
-    "hidden": true
+    "hidden": false,
+    "price": 860000,
+    "sourcePrice": 795000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "IPC-F52P-PRO": {
     "hidden": true
@@ -22004,19 +22018,55 @@
     "hidden": true
   },
   "RG-ES206MG-P": {
-    "hidden": true
+    "hidden": false,
+    "price": 2330000,
+    "sourcePrice": 2160000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "RG-ES209MG-P": {
-    "hidden": true
+    "hidden": false,
+    "price": 4350000,
+    "sourcePrice": 4030000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "RG-ES220GS-LP": {
-    "hidden": true
+    "hidden": false,
+    "price": 3940000,
+    "sourcePrice": 3645000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "RG-ES226GC-P": {
     "hidden": true
   },
   "RG-ES228GS-LP": {
-    "hidden": true
+    "hidden": false,
+    "price": 5400000,
+    "sourcePrice": 5000000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "RG-EST330F-P": {
     "hidden": true
@@ -22031,7 +22081,16 @@
     "hidden": true
   },
   "RG-EW6000GX": {
-    "hidden": true
+    "hidden": false,
+    "price": 2570000,
+    "sourcePrice": 2375000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "RG-IS2700-4GT4SFP-P": {
     "hidden": true
@@ -22040,13 +22099,31 @@
     "hidden": true
   },
   "RG-NBS3200-24GT4XS-P-V2": {
-    "hidden": true
+    "hidden": false,
+    "price": 9340000,
+    "sourcePrice": 8650000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "RG-RAP62-OD": {
     "hidden": true
   },
   "RG-RAP72": {
-    "hidden": true
+    "hidden": false,
+    "price": 3540000,
+    "sourcePrice": 3280000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "RG-S1808G": {
     "hidden": true
@@ -23063,19 +23140,55 @@
     "hidden": true
   },
   "STVT-74828": {
-    "hidden": true
+    "hidden": false,
+    "price": 6640000,
+    "sourcePrice": 6150000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "STVT-87656": {
-    "hidden": true
+    "hidden": false,
+    "price": 7830000,
+    "sourcePrice": 7250000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "STVT-73193": {
-    "hidden": true
+    "hidden": false,
+    "price": 5040000,
+    "sourcePrice": 4670000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "STVT-24958": {
     "hidden": true
   },
   "STVT-24954": {
-    "hidden": true
+    "hidden": false,
+    "price": 1530000,
+    "sourcePrice": 1420000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "STVT-62010": {
     "hidden": true
@@ -23084,7 +23197,16 @@
     "hidden": true
   },
   "STVT-30236": {
-    "hidden": true
+    "hidden": false,
+    "price": 530000,
+    "sourcePrice": 490000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "STVT-25836": {
     "hidden": true
@@ -23705,7 +23827,16 @@
     "hidden": true
   },
   "MAT-22693": {
-    "hidden": true
+    "hidden": false,
+    "price": 4190000,
+    "sourcePrice": 3880000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "MAT-59542": {
     "hidden": true
@@ -23912,7 +24043,16 @@
     "hidden": true
   },
   "MAT-10684": {
-    "hidden": true
+    "hidden": false,
+    "price": 1760000,
+    "sourcePrice": 1630000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "MAT-10685": {
     "hidden": true
@@ -23945,7 +24085,16 @@
     "hidden": true
   },
   "MAT-36911": {
-    "hidden": true
+    "hidden": false,
+    "price": 1900000,
+    "sourcePrice": 1760000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
   },
   "MAT-85300": {
     "hidden": true
@@ -25407,5 +25556,1331 @@
     "priceVatNote": "",
     "hidden": true,
     "priceUpdatedAt": "2026-11-23T08:24:03+07:00"
+  },
+  "DH-CS4010-8ET2GT-110": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
+  },
+  "DH-CS4010-8ET2GT-60": {
+    "price": 1020000,
+    "sourcePrice": 940000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 960000,
+    "priceValidUntil": ""
+  },
+  "DHI-VTH2421FB-P": {
+    "price": 2650000,
+    "sourcePrice": 2450000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 2530000,
+    "priceValidUntil": ""
+  },
+  "DS-3E0505-O": {
+    "price": 410000,
+    "sourcePrice": 375000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 400000,
+    "priceValidUntil": ""
+  },
+  "DS-3E0516R-O": {
+    "price": 1350000,
+    "sourcePrice": 1250000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1370000,
+    "priceValidUntil": ""
+  },
+  "DS-3E0524R-O": {
+    "price": 1670000,
+    "sourcePrice": 1550000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1730000,
+    "priceValidUntil": ""
+  },
+  "DS-3E1520P-EI": {
+    "price": 4620000,
+    "sourcePrice": 4280000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 4700000,
+    "priceValidUntil": ""
+  },
+  "DS-7616NXI-K2/16P(D)": {
+    "price": 9740000,
+    "sourcePrice": 9020000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 9690000,
+    "priceValidUntil": ""
+  },
+  "DS-7616NXI-K2/VPro": {
+    "price": 8260000,
+    "sourcePrice": 7650000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 7340000,
+    "priceValidUntil": ""
+  },
+  "Dream Machine Pro (UDM-Pro)": {
+    "price": 18310000,
+    "sourcePrice": 16950000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 16570000,
+    "priceValidUntil": ""
+  },
+  "HIK-LOCK-86574": {
+    "price": 660000,
+    "sourcePrice": 610000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 580000,
+    "priceValidUntil": ""
+  },
+  "IPC-K7FP-8V0N": {
+    "price": 1110000,
+    "sourcePrice": 1030000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1090000,
+    "priceValidUntil": ""
+  },
+  "IPC-PS3EP-5M0": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
+  },
+  "IPC-PS70FP-10M0": {
+    "price": 1560000,
+    "sourcePrice": 1440000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1580000,
+    "priceValidUntil": ""
+  },
+  "IPC-PS7FP-5M0": {
+    "price": 1060000,
+    "sourcePrice": 985000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1050000,
+    "priceValidUntil": ""
+  },
+  "IPC-S2XEP-10M0S": {
+    "price": 1010000,
+    "sourcePrice": 935000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 920000,
+    "priceValidUntil": ""
+  },
+  "IPC-S3EP-3M0WE-PRO": {
+    "price": 940000,
+    "sourcePrice": 870000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 910000,
+    "priceValidUntil": ""
+  },
+  "IPC-U7LP-6V0NE": {
+    "price": 1320000,
+    "sourcePrice": 1220000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1380000,
+    "priceValidUntil": ""
+  },
+  "IPC-UA7E-5M0T2-EU/FSP14": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
+  },
+  "KX-AD2003N-A-VN": {
+    "price": 940000,
+    "sourcePrice": 870000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 920000,
+    "priceValidUntil": ""
+  },
+  "MAT-19781": {
+    "price": 1460000,
+    "sourcePrice": 1350000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1390000,
+    "priceValidUntil": ""
+  },
+  "MAT-22633": {
+    "price": 4860000,
+    "sourcePrice": 4500000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 4530000,
+    "priceValidUntil": ""
+  },
+  "MAT-22653": {
+    "price": 180000,
+    "sourcePrice": 170000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 150000,
+    "priceValidUntil": ""
+  },
+  "MAT-22654": {
+    "price": 950000,
+    "sourcePrice": 884000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 630000,
+    "priceValidUntil": ""
+  },
+  "MAT-22655": {
+    "price": 3070000,
+    "sourcePrice": 2840000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 2640000,
+    "priceValidUntil": ""
+  },
+  "MAT-22657": {
+    "price": 60000,
+    "sourcePrice": 55000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 50000,
+    "priceValidUntil": ""
+  },
+  "MAT-22666": {
+    "price": 3210000,
+    "sourcePrice": 2976000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 3120000,
+    "priceValidUntil": ""
+  },
+  "MAT-22667": {
+    "price": 3940000,
+    "sourcePrice": 3650000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 3730000,
+    "priceValidUntil": ""
+  },
+  "MAT-22668": {
+    "price": 5990000,
+    "sourcePrice": 5550000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 5860000,
+    "priceValidUntil": ""
+  },
+  "MAT-22669": {
+    "price": 7420000,
+    "sourcePrice": 6870000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 7280000,
+    "priceValidUntil": ""
+  },
+  "MAT-22689": {
+    "price": 80000,
+    "sourcePrice": 70000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 70000,
+    "priceValidUntil": ""
+  },
+  "MAT-22694": {
+    "price": 22140000,
+    "sourcePrice": 20500000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 21400000,
+    "priceValidUntil": ""
+  },
+  "MAT-22695": {
+    "price": 4160000,
+    "sourcePrice": 3850000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 4260000,
+    "priceValidUntil": ""
+  },
+  "MAT-39823": {
+    "price": 4020000,
+    "sourcePrice": 3720000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 3660000,
+    "priceValidUntil": ""
+  },
+  "MAT-39825": {
+    "price": 7970000,
+    "sourcePrice": 7380000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 7330000,
+    "priceValidUntil": ""
+  },
+  "MAT-39832": {
+    "price": 3760000,
+    "sourcePrice": 3480000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 3400000,
+    "priceValidUntil": ""
+  },
+  "MAT-39833": {
+    "price": 1370000,
+    "sourcePrice": 1270000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1210000,
+    "priceValidUntil": ""
+  },
+  "MAT-47031": {
+    "price": 3210000,
+    "sourcePrice": 2970000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 3110000,
+    "priceValidUntil": ""
+  },
+  "MAT-50168": {
+    "price": 750000,
+    "sourcePrice": 696000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 690000,
+    "priceValidUntil": ""
+  },
+  "MAT-50170": {
+    "price": 980000,
+    "sourcePrice": 912000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 890000,
+    "priceValidUntil": ""
+  },
+  "MAT-50172": {
+    "price": 1100000,
+    "sourcePrice": 1020000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1000000,
+    "priceValidUntil": ""
+  },
+  "MAT-50173": {
+    "price": 1350000,
+    "sourcePrice": 1250000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1240000,
+    "priceValidUntil": ""
+  },
+  "MAT-50176": {
+    "price": 8260000,
+    "sourcePrice": 7650000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 7510000,
+    "priceValidUntil": ""
+  },
+  "MAT-50182": {
+    "price": 910000,
+    "sourcePrice": 840000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 830000,
+    "priceValidUntil": ""
+  },
+  "MAT-50183": {
+    "price": 1170000,
+    "sourcePrice": 1080000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1050000,
+    "priceValidUntil": ""
+  },
+  "MAT-50185": {
+    "price": 1920000,
+    "sourcePrice": 1780000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1780000,
+    "priceValidUntil": ""
+  },
+  "MAT-51772": {
+    "price": 3990000,
+    "sourcePrice": 3690000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 3620000,
+    "priceValidUntil": ""
+  },
+  "MAT-51773": {
+    "price": 1100000,
+    "sourcePrice": 1020000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 970000,
+    "priceValidUntil": ""
+  },
+  "MAT-54499": {
+    "price": 220000,
+    "sourcePrice": 200000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 200000,
+    "priceValidUntil": ""
+  },
+  "MAT-54519": {
+    "price": 140000,
+    "sourcePrice": 130000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 130000,
+    "priceValidUntil": ""
+  },
+  "MAT-54522": {
+    "price": 260000,
+    "sourcePrice": 238000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 230000,
+    "priceValidUntil": ""
+  },
+  "MAT-54530": {
+    "price": 440000,
+    "sourcePrice": 406000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 420000,
+    "priceValidUntil": ""
+  },
+  "MAT-54537": {
+    "price": 770000,
+    "sourcePrice": 710000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 690000,
+    "priceValidUntil": ""
+  },
+  "MAT-54542": {
+    "price": 350000,
+    "sourcePrice": 322000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 330000,
+    "priceValidUntil": ""
+  },
+  "MAT-54546": {
+    "price": 380000,
+    "sourcePrice": 351000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 360000,
+    "priceValidUntil": ""
+  },
+  "MAT-54558": {
+    "price": 420000,
+    "sourcePrice": 390000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 390000,
+    "priceValidUntil": ""
+  },
+  "MAT-54562": {
+    "price": 560000,
+    "sourcePrice": 520000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 550000,
+    "priceValidUntil": ""
+  },
+  "MAT-59277": {
+    "price": 140000,
+    "sourcePrice": 130000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 120000,
+    "priceValidUntil": ""
+  },
+  "MAT-59291": {
+    "price": 160000,
+    "sourcePrice": 145000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 130000,
+    "priceValidUntil": ""
+  },
+  "MAT-59294": {
+    "price": 160000,
+    "sourcePrice": 150000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 130000,
+    "priceValidUntil": ""
+  },
+  "MAT-59296": {
+    "price": 160000,
+    "sourcePrice": 150000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 130000,
+    "priceValidUntil": ""
+  },
+  "MAT-59300": {
+    "price": 170000,
+    "sourcePrice": 160000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 160000,
+    "priceValidUntil": ""
+  },
+  "MAT-59303": {
+    "price": 180000,
+    "sourcePrice": 170000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 170000,
+    "priceValidUntil": ""
+  },
+  "MAT-59333": {
+    "price": 5420000,
+    "sourcePrice": 5020000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 5380000,
+    "priceValidUntil": ""
+  },
+  "MAT-59343": {
+    "price": 1290000,
+    "sourcePrice": 1190000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1310000,
+    "priceValidUntil": ""
+  },
+  "MAT-66101": {
+    "price": 5210000,
+    "sourcePrice": 4820000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 4750000,
+    "priceValidUntil": ""
+  },
+  "MAT-73036": {
+    "price": 80000,
+    "sourcePrice": 75000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 70000,
+    "priceValidUntil": ""
+  },
+  "MAT-73715": {
+    "price": 2830000,
+    "sourcePrice": 2620000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 2610000,
+    "priceValidUntil": ""
+  },
+  "MAT-75714": {
+    "price": 500000,
+    "sourcePrice": 465000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 510000,
+    "priceValidUntil": ""
+  },
+  "MAT-75716": {
+    "price": 620000,
+    "sourcePrice": 570000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 610000,
+    "priceValidUntil": ""
+  },
+  "MAT-75717": {
+    "price": 550000,
+    "sourcePrice": 510000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 530000,
+    "priceValidUntil": ""
+  },
+  "MAT-75720": {
+    "price": 530000,
+    "sourcePrice": 490000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 510000,
+    "priceValidUntil": ""
+  },
+  "MAT-75898": {
+    "price": 180000,
+    "sourcePrice": 170000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 160000,
+    "priceValidUntil": ""
+  },
+  "MAT-75899": {
+    "price": 1100000,
+    "sourcePrice": 1020000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1050000,
+    "priceValidUntil": ""
+  },
+  "MAT-75900": {
+    "price": 1970000,
+    "sourcePrice": 1820000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1890000,
+    "priceValidUntil": ""
+  },
+  "MAT-75901": {
+    "price": 140000,
+    "sourcePrice": 130000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 130000,
+    "priceValidUntil": ""
+  },
+  "MAT-76529": {
+    "price": 1870000,
+    "sourcePrice": 1730000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1810000,
+    "priceValidUntil": ""
+  },
+  "MAT-83133": {
+    "price": 3060000,
+    "sourcePrice": 2830000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 3070000,
+    "priceValidUntil": ""
+  },
+  "MAT-88014": {
+    "price": 3400000,
+    "sourcePrice": 3150000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 3340000,
+    "priceValidUntil": ""
+  },
+  "MAT-90349": {
+    "price": 3400000,
+    "sourcePrice": 3150000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 3340000,
+    "priceValidUntil": ""
+  },
+  "PROLOCK-40182": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
+  },
+  "PROLOCK-7549": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
+  },
+  "STVT-24957": {
+    "price": 1460000,
+    "sourcePrice": 1355000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1470000,
+    "priceValidUntil": ""
+  },
+  "STVT-24961": {
+    "price": 450000,
+    "sourcePrice": 420000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 480000,
+    "priceValidUntil": ""
+  },
+  "STVT-30235": {
+    "price": 990000,
+    "sourcePrice": 915000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00"
+  },
+  "STVT-34282": {
+    "price": 1140000,
+    "sourcePrice": 1060000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1150000,
+    "priceValidUntil": ""
+  },
+  "STVT-34423": {
+    "price": 3700000,
+    "sourcePrice": 3430000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 3410000,
+    "priceValidUntil": ""
+  },
+  "STVT-35059": {
+    "price": 10080000,
+    "sourcePrice": 9330000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 10100000,
+    "priceValidUntil": ""
+  },
+  "STVT-35187": {
+    "price": 1390000,
+    "sourcePrice": 1290000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1400000,
+    "priceValidUntil": ""
+  },
+  "STVT-36525": {
+    "price": 1370000,
+    "sourcePrice": 1265000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00"
+  },
+  "STVT-45194": {
+    "price": 250000,
+    "sourcePrice": 235000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 260000,
+    "priceValidUntil": ""
+  },
+  "STVT-48517": {
+    "price": 8020000,
+    "sourcePrice": 7430000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 8050000,
+    "priceValidUntil": ""
+  },
+  "STVT-48521": {
+    "price": 4600000,
+    "sourcePrice": 4260000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 4610000,
+    "priceValidUntil": ""
+  },
+  "STVT-51285": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
+  },
+  "STVT-52871": {
+    "price": 790000,
+    "sourcePrice": 730000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00"
+  },
+  "STVT-63801": {
+    "price": 1390000,
+    "sourcePrice": 1290000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1400000,
+    "priceValidUntil": ""
+  },
+  "STVT-63802": {
+    "price": 1390000,
+    "sourcePrice": 1290000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1300000,
+    "priceValidUntil": ""
+  },
+  "STVT-66546": {
+    "price": "Vui lòng gọi",
+    "sourcePrice": null,
+    "priceMarkupPercent": null,
+    "priceRounding": null,
+    "vatIncluded": false,
+    "priceVatNote": "",
+    "hidden": true,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": "Vui lòng gọi",
+    "priceValidUntil": ""
+  },
+  "STVT-72407": {
+    "price": 2150000,
+    "sourcePrice": 1990000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 2160000,
+    "priceValidUntil": ""
+  },
+  "STVT-72409": {
+    "price": 2150000,
+    "sourcePrice": 1990000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 2160000,
+    "priceValidUntil": ""
+  },
+  "STVT-72411": {
+    "price": 1610000,
+    "sourcePrice": 1490000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1510000,
+    "priceValidUntil": ""
+  },
+  "STVT-80597": {
+    "price": 570000,
+    "sourcePrice": 530000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 580000,
+    "priceValidUntil": ""
+  },
+  "STVT-82738": {
+    "price": 4290000,
+    "sourcePrice": 3970000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 4170000,
+    "priceValidUntil": ""
+  },
+  "STVT-84151": {
+    "price": 640000,
+    "sourcePrice": 590000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 670000,
+    "priceValidUntil": ""
+  },
+  "STVT-85239": {
+    "price": 250000,
+    "sourcePrice": 230000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 260000,
+    "priceValidUntil": ""
+  },
+  "STVT-85830": {
+    "price": 1270000,
+    "sourcePrice": 1180000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1320000,
+    "priceValidUntil": ""
+  },
+  "STVT-85831": {
+    "price": 1750000,
+    "sourcePrice": 1620000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 1760000,
+    "priceValidUntil": ""
+  },
+  "STVT-88110": {
+    "price": 6900000,
+    "sourcePrice": 6385000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 6910000,
+    "priceValidUntil": ""
+  },
+  "STVT-89105": {
+    "price": 6300000,
+    "sourcePrice": 5830000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 6210000,
+    "priceValidUntil": ""
+  },
+  "STVT-90032": {
+    "price": 3760000,
+    "sourcePrice": 3480000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 3660000,
+    "priceValidUntil": ""
+  },
+  "STVT-90566": {
+    "price": 4230000,
+    "sourcePrice": 3920000,
+    "priceMarkupPercent": 8,
+    "priceRounding": 10000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "hidden": false,
+    "priceUpdatedAt": "2026-11-27T08:14:44+07:00",
+    "previousPrice": 4240000,
+    "priceValidUntil": ""
   }
 }

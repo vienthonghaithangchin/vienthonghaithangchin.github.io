@@ -1,0 +1,3170 @@
+{
+  "KS-71BE": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Còi báo động không dây"
+      ],
+      [
+        "Tần số hoạt động",
+        "433,92MHz"
+      ],
+      [
+        "Nguồn cung cấp",
+        "220VAC"
+      ],
+      [
+        "Dòng điện tĩnh",
+        "≤ 13mA"
+      ],
+      [
+        "Ắc-quy dự phòng",
+        "12V – 1,3Ah, có sẵn pin dự phòng kèm theo"
+      ],
+      [
+        "Âm lượng còi báo",
+        "≥ 100dB"
+      ],
+      [
+        "Khoảng cách giao tiếp RF",
+        "≤ 500m trong khu vực thông thoáng (in open area)"
+      ],
+      [
+        "Kích thước (D × R × C)",
+        "220x145x56mm"
+      ],
+      [
+        "Trọng lượng",
+        "470g (không bao gồm ắc-quy)"
+      ],
+      [
+        "Hệ thống tương thích",
+        "Các tủ báo động PICOTECH và KARASSN tương thích"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Còi báo động không dây.",
+      "Tần số hoạt động: 433,92MHz.",
+      "Nguồn cung cấp: 220VAC.",
+      "Dòng điện tĩnh: ≤ 13mA.",
+      "Ắc-quy dự phòng: 12V – 1,3Ah, có sẵn pin dự phòng kèm theo."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-24954": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Card mở rộng 8 vùng có dây"
+      ],
+      [
+        "Số vùng mở rộng",
+        "08 vùng"
+      ],
+      [
+        "Nguồn cung cấp",
+        "10.5–15VDC"
+      ],
+      [
+        "Dòng tĩnh",
+        "≤ 50mA"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-10°C đến +50°C"
+      ],
+      [
+        "Kích thước (Dài × Rộng × Cao)",
+        "98 × 72 × 26 mm"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Card mở rộng 8 vùng có dây.",
+      "Số vùng mở rộng: 08 vùng.",
+      "Nguồn cung cấp: 10.5–15VDC.",
+      "Dòng tĩnh: ≤ 50mA.",
+      "Nhiệt độ hoạt động: -10°C đến +50°C."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-24957": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Mô-đun mở rộng 8 ngõ ra Relay"
+      ],
+      [
+        "Số lượng ngõ ra Relay",
+        "08 ngõ"
+      ],
+      [
+        "Nguồn cung cấp",
+        "10.5–15VDC"
+      ],
+      [
+        "Dòng tĩnh",
+        "≤ 30mA"
+      ],
+      [
+        "Kiểu tiếp điểm Relay",
+        "NO/NC"
+      ],
+      [
+        "Khả năng chịu tải Relay",
+        "3A – 250VAC / 30VDC"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-10°C đến +50°C"
+      ],
+      [
+        "Kích thước (Dài × Rộng × Cao)",
+        "98 × 81 × 26 mm"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Mô-đun mở rộng 8 ngõ ra Relay.",
+      "Số lượng ngõ ra Relay: 08 ngõ.",
+      "Nguồn cung cấp: 10.5–15VDC.",
+      "Dòng tĩnh: ≤ 30mA.",
+      "Kiểu tiếp điểm Relay: NO/NC."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-24958": {
+    "specifications": [
+      [
+        "Tần số hoạt động",
+        "433,92 MHz"
+      ],
+      [
+        "Khoảng cách kết nối về trung tâm",
+        "≥ 100m (trong khu vực không vật cản)"
+      ],
+      [
+        "Khoảng cách phát hiện",
+        "≤ 8m"
+      ],
+      [
+        "Góc dò",
+        "110°"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 6V (sử dụng 4 pin khô AAA) hoặc Adapter DC 9–12V"
+      ],
+      [
+        "Dòng điện tĩnh",
+        "≤ 50µA"
+      ],
+      [
+        "Dòng điện hoạt động",
+        "≤ 13mA"
+      ],
+      [
+        "Cảnh báo pin yếu",
+        "Đèn LED"
+      ],
+      [
+        "Khả năng tương thích",
+        "Kết nối với các tủ báo động PICOTECH và KARASSN"
+      ]
+    ],
+    "description": [
+      "Tần số hoạt động: 433,92 MHz.",
+      "Khoảng cách kết nối về trung tâm: ≥ 100m (trong khu vực không vật cản).",
+      "Khoảng cách phát hiện: ≤ 8m.",
+      "Góc dò: 110°.",
+      "Nguồn cấp: DC 6V (sử dụng 4 pin khô AAA) hoặc Adapter DC 9–12V."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-24959": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Công tắc từ cửa không dây"
+      ],
+      [
+        "Tần số hoạt động",
+        "433,92MHz"
+      ],
+      [
+        "Khoảng cách kết nối về trung tâm",
+        "≥ 100m (trong khu vực thông thoáng)"
+      ],
+      [
+        "Chức năng báo trạng thái cửa",
+        "Báo tình trạng cửa mở khi kết nối với trung tâm PICOTECH"
+      ],
+      [
+        "Kết nối có dây",
+        "Hỗ trợ ngõ kết nối NC"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 3V, sử dụng 2 pin AAA 1,5V"
+      ],
+      [
+        "Dòng tĩnh",
+        "≤ 3µA"
+      ],
+      [
+        "Dòng hoạt động",
+        "≤ 8mA"
+      ],
+      [
+        "Khả năng tương thích",
+        "Các tủ trung tâm báo động PICOTECH và KARASSN"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Công tắc từ cửa không dây.",
+      "Tần số hoạt động: 433,92MHz.",
+      "Khoảng cách kết nối về trung tâm: ≥ 100m (trong khu vực thông thoáng).",
+      "Chức năng báo trạng thái cửa: Báo tình trạng cửa mở khi kết nối với trung tâm PICOTECH.",
+      "Kết nối có dây: Hỗ trợ ngõ kết nối NC."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-24960": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu báo khói quang 2 dây"
+      ],
+      [
+        "Điện áp cung cấp",
+        "10–30VDC"
+      ],
+      [
+        "Dòng tĩnh",
+        "≤20µA"
+      ],
+      [
+        "Dòng hoạt động",
+        "35mA @ 12VDC; 83mA @ 24VDC"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-10°C đến +50°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "0–95% RH"
+      ],
+      [
+        "Kích thước",
+        "Ø100 × 48mm"
+      ],
+      [
+        "Khả năng kết nối",
+        "Tủ trung tâm báo cháy có dây 24V, ví dụ Chungmei, Horing Lih…"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu báo khói quang 2 dây.",
+      "Điện áp cung cấp: 10–30VDC.",
+      "Dòng tĩnh: ≤20µA.",
+      "Dòng hoạt động: 35mA @ 12VDC; 83mA @ 24VDC.",
+      "Nhiệt độ hoạt động: -10°C đến +50°C."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-25834": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu dò Photo Beam 3 tia"
+      ],
+      [
+        "Hiển thị mức tín hiệu",
+        "7 đèn LED, hiển thị chi tiết mức tín hiệu"
+      ],
+      [
+        "Khoảng cách phát hiện ngoài trời (Outdoor)",
+        "200 m"
+      ],
+      [
+        "Khoảng cách phát hiện trong nhà (Indoor)",
+        "600 m"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 10.5–24V"
+      ],
+      [
+        "Dòng tiêu thụ",
+        "Tối đa 90 mA"
+      ],
+      [
+        "Tốc độ đáp ứng",
+        "50–700 ms"
+      ],
+      [
+        "Góc điều chỉnh trục quang ngang (Horizontal)",
+        "±90°"
+      ],
+      [
+        "Góc điều chỉnh trục quang dọc (Vertical)",
+        "±10°"
+      ],
+      [
+        "Ngõ ra báo động",
+        "NO/NC, AC/DC 30V, tối đa 0.5A"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-25°C đến +55°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "95%"
+      ],
+      [
+        "Kích thước (R × C × S)",
+        "90 × 270 × 100 mm"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Nhựa ABS"
+      ],
+      [
+        "Khả năng tương thích",
+        "Các tủ trung tâm báo động có dây tương thích như PICOTECH, KARASSN, HEYI, Paradox, NetworX…"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu dò Photo Beam 3 tia.",
+      "Hiển thị mức tín hiệu: 7 đèn LED, hiển thị chi tiết mức tín hiệu.",
+      "Khoảng cách phát hiện ngoài trời (Outdoor): 200 m.",
+      "Khoảng cách phát hiện trong nhà (Indoor): 600 m.",
+      "Nguồn cấp: DC 10.5–24V."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-25835": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu dò Photo Beam 3 tia"
+      ],
+      [
+        "Hiển thị mức tín hiệu",
+        "10 đèn LED"
+      ],
+      [
+        "Khoảng cách phát hiện ngoài trời (Outdoor)",
+        "200 m"
+      ],
+      [
+        "Khoảng cách phát hiện trong nhà (Indoor)",
+        "600 m"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 10.5–24V"
+      ],
+      [
+        "Dòng tiêu thụ",
+        "Tối đa 90 mA"
+      ],
+      [
+        "Tốc độ đáp ứng",
+        "50–700 ms"
+      ],
+      [
+        "Góc điều chỉnh trục quang ngang (Horizontal)",
+        "±90°"
+      ],
+      [
+        "Góc điều chỉnh trục quang dọc (Vertical)",
+        "±10°"
+      ],
+      [
+        "Ngõ ra báo động",
+        "NO/NC, AC/DC 30V, tối đa 0.5A"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-25°C đến +55°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "95%"
+      ],
+      [
+        "Kích thước (R × C × S)",
+        "90 × 270 × 100 mm"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Nhựa ABS"
+      ],
+      [
+        "Khả năng tương thích",
+        "Các tủ trung tâm báo động có dây tương thích như PICOTECH, KARASSN, HEYI, Paradox, NetworX…"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu dò Photo Beam 3 tia.",
+      "Hiển thị mức tín hiệu: 10 đèn LED.",
+      "Khoảng cách phát hiện ngoài trời (Outdoor): 200 m.",
+      "Khoảng cách phát hiện trong nhà (Indoor): 600 m.",
+      "Nguồn cấp: DC 10.5–24V."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-25836": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu dò Photo Beam 3 tia"
+      ],
+      [
+        "Hiển thị mức tín hiệu",
+        "Đồng hồ LED 7 đoạn"
+      ],
+      [
+        "Khoảng cách phát hiện ngoài trời (Outdoor)",
+        "200 m"
+      ],
+      [
+        "Khoảng cách phát hiện trong nhà (Indoor)",
+        "600 m"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 10.5–24V"
+      ],
+      [
+        "Dòng tiêu thụ",
+        "Tối đa 90 mA"
+      ],
+      [
+        "Tốc độ đáp ứng",
+        "50–700 ms"
+      ],
+      [
+        "Góc điều chỉnh trục quang ngang (Horizontal)",
+        "±90°"
+      ],
+      [
+        "Góc điều chỉnh trục quang dọc (Vertical)",
+        "±10°"
+      ],
+      [
+        "Ngõ ra báo động",
+        "NO/NC, AC/DC 30V, tối đa 0.5A"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-25°C đến +55°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "95%"
+      ],
+      [
+        "Kích thước (R × C × S)",
+        "95 × 275 × 97 mm"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Nhựa ABS"
+      ],
+      [
+        "Khả năng tương thích",
+        "Các tủ trung tâm báo động có dây tương thích như PICOTECH, KARASSN, HEYI, Paradox, NetworX…"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu dò Photo Beam 3 tia.",
+      "Hiển thị mức tín hiệu: Đồng hồ LED 7 đoạn.",
+      "Khoảng cách phát hiện ngoài trời (Outdoor): 200 m.",
+      "Khoảng cách phát hiện trong nhà (Indoor): 600 m.",
+      "Nguồn cấp: DC 10.5–24V."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-25837": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu dò Photo Beam 4 tia"
+      ],
+      [
+        "Hiển thị mức tín hiệu",
+        "Đèn LED"
+      ],
+      [
+        "Khoảng cách phát hiện ngoài trời (Outdoor)",
+        "150 m"
+      ],
+      [
+        "Khoảng cách phát hiện trong nhà (Indoor)",
+        "450 m"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 10.5–24V"
+      ],
+      [
+        "Dòng tiêu thụ",
+        "Tối đa 100 mA"
+      ],
+      [
+        "Tốc độ đáp ứng",
+        "50–700 ms"
+      ],
+      [
+        "Góc điều chỉnh trục quang ngang (Horizontal)",
+        "±90°"
+      ],
+      [
+        "Góc điều chỉnh trục quang dọc (Vertical)",
+        "±10°"
+      ],
+      [
+        "Ngõ ra báo động",
+        "NO/NC, AC/DC 30V, tối đa 0.5A"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-25°C đến +55°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "95%"
+      ],
+      [
+        "Kích thước (R × C × S)",
+        "100 × 350 × 104 mm"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Nhựa ABS"
+      ],
+      [
+        "Khả năng tương thích",
+        "Các tủ trung tâm báo động có dây tương thích như PICOTECH, KARASSN, HEYI, Paradox, NetworX…"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu dò Photo Beam 4 tia.",
+      "Hiển thị mức tín hiệu: Đèn LED.",
+      "Khoảng cách phát hiện ngoài trời (Outdoor): 150 m.",
+      "Khoảng cách phát hiện trong nhà (Indoor): 450 m.",
+      "Nguồn cấp: DC 10.5–24V."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-25838": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu dò hàng rào quang điện 4 tia"
+      ],
+      [
+        "Hiển thị mức tín hiệu",
+        "Đèn LED"
+      ],
+      [
+        "Khoảng cách phát hiện ngoài trời (Outdoor)",
+        "200 m"
+      ],
+      [
+        "Khoảng cách phát hiện trong nhà (Indoor)",
+        "600 m"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 10,5–24V"
+      ],
+      [
+        "Dòng tiêu thụ",
+        "Tối đa 100 mA"
+      ],
+      [
+        "Tốc độ đáp ứng",
+        "50–700 ms"
+      ],
+      [
+        "Góc điều chỉnh trục quang ngang (Horizontal)",
+        "±90°"
+      ],
+      [
+        "Góc điều chỉnh trục quang dọc (Vertical)",
+        "±10°"
+      ],
+      [
+        "Ngõ ra báo động",
+        "NO/NC, AC/DC 30V, tối đa 0,5A"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-25°C đến +55°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "95%"
+      ],
+      [
+        "Kích thước (Rộng × Cao × Sâu)",
+        "100 × 350 × 104 mm"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Nhựa ABS"
+      ],
+      [
+        "Khả năng tương thích",
+        "Tủ trung tâm báo động có dây PICOTECH, KARASSN, HEYI, Paradox, NetworX và các hệ thống tương thích"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu dò hàng rào quang điện 4 tia.",
+      "Hiển thị mức tín hiệu: Đèn LED.",
+      "Khoảng cách phát hiện ngoài trời (Outdoor): 200 m.",
+      "Khoảng cách phát hiện trong nhà (Indoor): 600 m.",
+      "Nguồn cấp: DC 10,5–24V."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-30235": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu dò hồng ngoại kép không dây, tích hợp chức năng loại trừ vật nuôi"
+      ],
+      [
+        "Tần số hoạt động",
+        "433,92 MHz"
+      ],
+      [
+        "Khoảng cách kết nối về trung tâm",
+        "≥ 300m (trong khu vực không vật cản)"
+      ],
+      [
+        "Khoảng cách phát hiện",
+        "8–12m"
+      ],
+      [
+        "Góc dò",
+        "110°"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 3V (sử dụng 2 pin AA)"
+      ],
+      [
+        "Dòng điện tĩnh",
+        "≤ 80µA"
+      ],
+      [
+        "Công tắc Tamper",
+        "NC"
+      ],
+      [
+        "Độ cao lắp đặt",
+        "2,2m"
+      ],
+      [
+        "Chức năng Anti-Pet",
+        "Loại trừ vật nuôi có trọng lượng dưới 35kg"
+      ],
+      [
+        "Khả năng tương thích",
+        "Kết nối với các tủ báo động PICOTECH và KARASSN"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu dò hồng ngoại kép không dây, tích hợp chức năng loại trừ vật nuôi.",
+      "Tần số hoạt động: 433,92 MHz.",
+      "Khoảng cách kết nối về trung tâm: ≥ 300m (trong khu vực không vật cản).",
+      "Khoảng cách phát hiện: 8–12m.",
+      "Góc dò: 110°."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-30236": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Cảm biến rung không dây"
+      ],
+      [
+        "Tần số RF",
+        "433,92 MHz"
+      ],
+      [
+        "Điều chỉnh độ nhạy",
+        "3 mức"
+      ],
+      [
+        "Cảnh báo pin yếu",
+        "Có"
+      ],
+      [
+        "Khoảng cách kết nối về trung tâm",
+        "≥ 100m (trong khu vực không vật cản)"
+      ],
+      [
+        "Dòng điện tĩnh",
+        "≤ 10µA"
+      ],
+      [
+        "Dòng điện hoạt động",
+        "≤ 18mA"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 3V"
+      ],
+      [
+        "Pin sử dụng",
+        "2 pin Lithium CR2032"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-20°C đến +60°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "≤ 80%"
+      ],
+      [
+        "Khả năng tương thích",
+        "Kết nối với các tủ báo động PICOTECH và KARASSN"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Cảm biến rung không dây.",
+      "Tần số RF: 433,92 MHz.",
+      "Điều chỉnh độ nhạy: 3 mức.",
+      "Cảnh báo pin yếu: Có.",
+      "Khoảng cách kết nối về trung tâm: ≥ 100m (trong khu vực không vật cản)."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-34282": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu báo rò rỉ, tràn và ngập nước không dây"
+      ],
+      [
+        "Tần số RF",
+        "433,92 MHz"
+      ],
+      [
+        "Khoảng cách kết nối về trung tâm",
+        "≤ 100m (trong khu vực mở, không vật cản)"
+      ],
+      [
+        "Cường độ âm báo",
+        "≥ 90dB"
+      ],
+      [
+        "Dòng điện tĩnh",
+        "≤ 10µA"
+      ],
+      [
+        "Dòng điện hoạt động",
+        "≤ 100mA"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 3V"
+      ],
+      [
+        "Pin sử dụng",
+        "2 pin AAA 1,5V"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-20°C đến +60°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "≤ 80%"
+      ],
+      [
+        "Hình thức cảnh báo",
+        "Báo động tại chỗ và truyền tín hiệu không dây về trung tâm"
+      ],
+      [
+        "Khả năng tương thích",
+        "Kết nối với các tủ báo động PICOTECH, KARASSN và HEYI"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu báo rò rỉ, tràn và ngập nước không dây.",
+      "Tần số RF: 433,92 MHz.",
+      "Khoảng cách kết nối về trung tâm: ≤ 100m (trong khu vực mở, không vật cản).",
+      "Cường độ âm báo: ≥ 90dB.",
+      "Dòng điện tĩnh: ≤ 10µA."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-34285": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu Photo Beam 2 tia không dây"
+      ],
+      [
+        "Nguồn năng lượng",
+        "Năng lượng mặt trời"
+      ],
+      [
+        "Pin sạc",
+        "Lithium DC 3.7V"
+      ],
+      [
+        "Tần số RF",
+        "433.92 MHz"
+      ],
+      [
+        "Khoảng cách kết nối vô tuyến",
+        "≥ 300 m trong khu vực thông thoáng (in open area)"
+      ],
+      [
+        "Trung tâm báo động tương thích",
+        "PICOTECH, KARASSN"
+      ],
+      [
+        "Khoảng cách phát hiện ngoài trời (Outdoor)",
+        "60 m"
+      ],
+      [
+        "Khoảng cách phát hiện trong nhà (Indoor)",
+        "180 m"
+      ],
+      [
+        "Dòng tĩnh bộ phát",
+        "≤ 0.5 mA"
+      ],
+      [
+        "Dòng tĩnh bộ thu",
+        "≤ 0.3 mA"
+      ],
+      [
+        "Tốc độ đáp ứng",
+        "100 ms"
+      ],
+      [
+        "Góc điều chỉnh trục quang ngang (Horizontal)",
+        "±90°"
+      ],
+      [
+        "Góc điều chỉnh trục quang dọc (Vertical)",
+        "±10°"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Vỏ kỹ thuật chống nhiễu tia UV từ ánh sáng mặt trời"
+      ],
+      [
+        "Cấp bảo vệ",
+        "IP65"
+      ],
+      [
+        "Khả năng hoạt động ngoài trời",
+        "Hỗ trợ hoạt động trong điều kiện bụi bẩn, mưa gió, tuyết và sương mù"
+      ],
+      [
+        "Thời gian hoạt động khi nhiều mây",
+        "Khoảng 2–3 tuần nhờ pin sạc Lithium, theo thông tin sản phẩm"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-25°C đến +65°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "95% RH"
+      ],
+      [
+        "Kích thước (R × C × S)",
+        "74 × 272 × 98 mm"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu Photo Beam 2 tia không dây.",
+      "Nguồn năng lượng: Năng lượng mặt trời.",
+      "Pin sạc: Lithium DC 3.7V.",
+      "Tần số RF: 433.92 MHz.",
+      "Khoảng cách kết nối vô tuyến: ≥ 300 m trong khu vực thông thoáng (in open area)."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-35059": {
+    "specifications": [
+      [
+        "Giao thức báo động",
+        "Tương thích giao thức Ademco Contact ID"
+      ],
+      [
+        "Kết nối mạng",
+        "Mạng kép TCP/IP và GSM/GPRS"
+      ],
+      [
+        "Phần mềm quản lý",
+        "Ứng dụng di động, phần mềm cài đặt và phần mềm giám sát tập trung CMS trên PC"
+      ],
+      [
+        "Mã truy cập",
+        "1 mã lập trình (Program Code), 8 mã người dùng (User Code)"
+      ],
+      [
+        "Khả năng mở rộng",
+        "Tối đa 96 đầu dò không dây và 8 remote điều khiển"
+      ],
+      [
+        "Thuộc tính vùng",
+        "Hỗ trợ thiết lập nhiều thuộc tính vùng"
+      ],
+      [
+        "Số điện thoại cảnh báo",
+        "Cài đặt trước tối đa 8 số điện thoại"
+      ],
+      [
+        "Chế độ báo động",
+        "Home Arm và Away Arm"
+      ],
+      [
+        "Bàn phím có dây",
+        "Kết nối tối đa 4 bàn phím KS-33E"
+      ],
+      [
+        "Ngõ ra",
+        "Relay NO/NC và 1 cổng PGM"
+      ],
+      [
+        "Thời gian đáp ứng vùng có dây",
+        "100–900 ms"
+      ],
+      [
+        "Hẹn giờ bật/tắt",
+        "2 lần mỗi ngày, có thể thiết lập theo các ngày trong tuần"
+      ],
+      [
+        "Bộ nhớ sự kiện",
+        "Lưu 100 sự kiện báo động gần nhất"
+      ],
+      [
+        "Truyền dữ liệu",
+        "Truyền dữ liệu đến trung tâm giám sát qua TCP/IP; hỗ trợ IP tĩnh và DDNS"
+      ],
+      [
+        "Tần số RF",
+        "433,92 MHz"
+      ],
+      [
+        "Nguồn cấp",
+        "220VAC ±15%, 50/60Hz"
+      ],
+      [
+        "Bình điện dự phòng",
+        "12V – 4,5Ah / 7Ah / 7,5Ah, mua rời"
+      ],
+      [
+        "Kích thước",
+        "320 × 220 × 86,5 mm (Dài × Rộng × Cao)"
+      ],
+      [
+        "Trọng lượng",
+        "1,1 kg"
+      ],
+      [
+        "Hệ điều hành di động",
+        "iOS và Android"
+      ],
+      [
+        "Phần mềm máy tính",
+        "Phần mềm cài đặt và phần mềm giám sát tập trung CMS trên PC"
+      ]
+    ],
+    "description": [
+      "Giao thức báo động: Tương thích giao thức Ademco Contact ID.",
+      "Kết nối mạng: Mạng kép TCP/IP và GSM/GPRS.",
+      "Phần mềm quản lý: Ứng dụng di động, phần mềm cài đặt và phần mềm giám sát tập trung CMS trên PC.",
+      "Mã truy cập: 1 mã lập trình (Program Code), 8 mã người dùng (User Code).",
+      "Khả năng mở rộng: Tối đa 96 đầu dò không dây và 8 remote điều khiển."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-35186": {
+    "specifications": [
+      [
+        "Kích thước (Dài × Rộng × Cao)",
+        "141 × 140 × 25 mm"
+      ],
+      [
+        "Nguồn điện",
+        "DC 5V / 1A"
+      ],
+      [
+        "Pin dự phòng",
+        "Lithium 3.7V / 800mAh"
+      ],
+      [
+        "Dòng tĩnh",
+        "≤ 60 µA"
+      ],
+      [
+        "Dòng hoạt động",
+        "≤ 50 mA"
+      ],
+      [
+        "Âm lượng còi báo động",
+        "≥ 70 dB"
+      ],
+      [
+        "Thời gian chờ",
+        "Từ 1 năm trở lên khi pin được sạc đầy"
+      ],
+      [
+        "Tần số RF",
+        "433.92 MHz"
+      ],
+      [
+        "Khoảng cách truyền tín hiệu không dây",
+        "≤ 250 m trong khu vực thông thoáng"
+      ],
+      [
+        "Nhiệt độ làm việc",
+        "-20°C đến +55°C"
+      ],
+      [
+        "Độ ẩm tương đối",
+        "40–80% RH"
+      ]
+    ],
+    "description": [
+      "Kích thước (Dài × Rộng × Cao): 141 × 140 × 25 mm.",
+      "Nguồn điện: DC 5V / 1A.",
+      "Pin dự phòng: Lithium 3.7V / 800mAh.",
+      "Dòng tĩnh: ≤ 60 µA.",
+      "Dòng hoạt động: ≤ 50 mA."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-35187": {
+    "specifications": [
+      [
+        "Nguồn cung cấp",
+        "DC 10.5V – 15V (từ tủ trung tâm)"
+      ],
+      [
+        "Dòng hoạt động",
+        "50 mA"
+      ],
+      [
+        "Chiều dài cáp kết nối",
+        "≤ 200 m (sử dụng cáp đồng 22 AWG)"
+      ],
+      [
+        "Nhiệt độ làm việc",
+        "-10°C đến +50°C"
+      ],
+      [
+        "Kích thước (Dài × Rộng × Cao)",
+        "141 × 140 × 25 mm"
+      ],
+      [
+        "Hỗ trợ thẻ RFID",
+        "8 thẻ RFID"
+      ]
+    ],
+    "description": [
+      "Nguồn cung cấp: DC 10.5V – 15V (từ tủ trung tâm).",
+      "Dòng hoạt động: 50 mA.",
+      "Chiều dài cáp kết nối: ≤ 200 m (sử dụng cáp đồng 22 AWG).",
+      "Nhiệt độ làm việc: -10°C đến +50°C.",
+      "Kích thước (Dài × Rộng × Cao): 141 × 140 × 25 mm."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-36525": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu dò Photo Beam 2 tia"
+      ],
+      [
+        "Hiển thị trạng thái",
+        "3 đèn LED"
+      ],
+      [
+        "Khoảng cách phát hiện ngoài trời (Outdoor)",
+        "100 m"
+      ],
+      [
+        "Khoảng cách phát hiện trong nhà (Indoor)",
+        "300 m"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 10.5–24V"
+      ],
+      [
+        "Dòng tiêu thụ",
+        "Tối đa 65 mA"
+      ],
+      [
+        "Tốc độ đáp ứng",
+        "50–700 ms"
+      ],
+      [
+        "Góc điều chỉnh trục quang ngang (Horizontal)",
+        "±90°"
+      ],
+      [
+        "Góc điều chỉnh trục quang dọc (Vertical)",
+        "±10°"
+      ],
+      [
+        "Ngõ ra báo động",
+        "NO/NC, DC 30V, tối đa 0.5A"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-25°C đến +55°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "95%"
+      ],
+      [
+        "Kích thước (R × C × S)",
+        "80 × 171 × 77 mm"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Nhựa ABS"
+      ],
+      [
+        "Khả năng tương thích",
+        "Các tủ trung tâm báo động có dây tương thích như PICOTECH, KARASSN, HEYI, Paradox, NetworX…"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu dò Photo Beam 2 tia.",
+      "Hiển thị trạng thái: 3 đèn LED.",
+      "Khoảng cách phát hiện ngoài trời (Outdoor): 100 m.",
+      "Khoảng cách phát hiện trong nhà (Indoor): 300 m.",
+      "Nguồn cấp: DC 10.5–24V."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-36527": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu dò Photo Beam 2 tia"
+      ],
+      [
+        "Hiển thị trạng thái và mức tín hiệu",
+        "7 đèn LED"
+      ],
+      [
+        "Khoảng cách phát hiện ngoài trời (Outdoor)",
+        "100 m"
+      ],
+      [
+        "Khoảng cách phát hiện trong nhà (Indoor)",
+        "300 m"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 10.5–24V"
+      ],
+      [
+        "Dòng tiêu thụ",
+        "Tối đa 65 mA"
+      ],
+      [
+        "Tốc độ đáp ứng",
+        "50–700 ms"
+      ],
+      [
+        "Góc điều chỉnh trục quang ngang (Horizontal)",
+        "±90°"
+      ],
+      [
+        "Góc điều chỉnh trục quang dọc (Vertical)",
+        "±10°"
+      ],
+      [
+        "Ngõ ra báo động",
+        "NO/NC, DC 30V, tối đa 0.5A"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-25°C đến +55°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "95%"
+      ],
+      [
+        "Kích thước (R × C × S)",
+        "83 × 194 × 81 mm"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Nhựa ABS"
+      ],
+      [
+        "Khả năng tương thích",
+        "Các tủ trung tâm báo động có dây tương thích như PICOTECH, KARASSN, HEYI, Paradox, NetworX…"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu dò Photo Beam 2 tia.",
+      "Hiển thị trạng thái và mức tín hiệu: 7 đèn LED.",
+      "Khoảng cách phát hiện ngoài trời (Outdoor): 100 m.",
+      "Khoảng cách phát hiện trong nhà (Indoor): 300 m.",
+      "Nguồn cấp: DC 10.5–24V."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-45194": {
+    "specifications": [
+      [
+        "Tần số hoạt động",
+        "433,92 MHz"
+      ],
+      [
+        "Khoảng cách kết nối về trung tâm",
+        "≥ 100 m trong khu vực thông thoáng"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 6V (sử dụng 2 pin CR2016, 3V/pin)"
+      ],
+      [
+        "Dòng tĩnh",
+        "< 1 µA"
+      ],
+      [
+        "Dòng hoạt động",
+        "< 1 mA"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-10°C đến +60°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "< 80% RH, không ngưng tụ"
+      ],
+      [
+        "Thiết bị tương thích",
+        "Tủ trung tâm báo động PICOTECH, KARASSN và HEYI"
+      ]
+    ],
+    "description": [
+      "Tần số hoạt động: 433,92 MHz.",
+      "Khoảng cách kết nối về trung tâm: ≥ 100 m trong khu vực thông thoáng.",
+      "Nguồn cấp: DC 6V (sử dụng 2 pin CR2016, 3V/pin).",
+      "Dòng tĩnh: < 1 µA.",
+      "Dòng hoạt động: < 1 mA."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-48517": {
+    "specifications": [
+      [
+        "Màn hình hiển thị",
+        "LCD, tích hợp bàn phím lập trình"
+      ],
+      [
+        "Giao thức báo động",
+        "Ademco Contact ID"
+      ],
+      [
+        "Kết nối mạng",
+        "TCP/IP + GSM/GPRS/SMS"
+      ],
+      [
+        "Số vùng có dây",
+        "08 vùng"
+      ],
+      [
+        "Số vùng không dây",
+        "32 vùng"
+      ],
+      [
+        "Khả năng mở rộng",
+        "Đăng ký tối đa 96 đầu dò không dây"
+      ],
+      [
+        "Cấu hình vùng",
+        "Hỗ trợ thiết lập nhiều thuộc tính và đặt tên vùng"
+      ],
+      [
+        "Mã lập trình",
+        "01 Program Code"
+      ],
+      [
+        "Mã người dùng",
+        "08 User Code"
+      ],
+      [
+        "Số điện thoại báo động",
+        "Cài đặt tối đa 08 số điện thoại (gọi điện và nhắn tin)"
+      ],
+      [
+        "Remote điều khiển",
+        "Hỗ trợ tối đa 08 remote"
+      ],
+      [
+        "Chế độ báo động",
+        "Home Arm và Away Arm"
+      ],
+      [
+        "Hẹn giờ",
+        "Bật/Tắt hệ thống 2 lần trong ngày và thiết lập theo các ngày trong tuần"
+      ],
+      [
+        "Thời gian đáp ứng vùng có dây",
+        "100–900ms"
+      ],
+      [
+        "Cấu hình ngõ vào",
+        "NO, NC hoặc EOL Resistance"
+      ],
+      [
+        "Ngõ ra relay",
+        "NO/NC"
+      ],
+      [
+        "Ngõ ra PGM",
+        "01 cổng"
+      ],
+      [
+        "Bộ nhớ sự kiện",
+        "Lưu 100 bản ghi sự kiện báo động gần nhất"
+      ],
+      [
+        "Truyền dữ liệu",
+        "Qua giao thức TCP/IP về trung tâm giám sát"
+      ],
+      [
+        "Hỗ trợ mạng",
+        "IP tĩnh và DDNS"
+      ],
+      [
+        "Tần số RF",
+        "433,92MHz"
+      ],
+      [
+        "Nguồn cấp",
+        "220VAC ±15%, 50/60Hz"
+      ],
+      [
+        "Pin sạc dự phòng",
+        "12V – 1.300mAh"
+      ],
+      [
+        "Thời gian hoạt động dự phòng",
+        "Hơn 08 giờ ở chế độ Standby"
+      ],
+      [
+        "Nhiệt độ làm việc",
+        "-10°C đến +50°C"
+      ],
+      [
+        "Độ ẩm làm việc",
+        "40–70%"
+      ],
+      [
+        "Kích thước",
+        "210 (Dài) × 150 (Rộng) × 52 (Cao) mm"
+      ],
+      [
+        "Trọng lượng",
+        "1,4kg"
+      ]
+    ],
+    "description": [
+      "Màn hình hiển thị: LCD, tích hợp bàn phím lập trình.",
+      "Giao thức báo động: Ademco Contact ID.",
+      "Kết nối mạng: TCP/IP + GSM/GPRS/SMS.",
+      "Số vùng có dây: 08 vùng.",
+      "Số vùng không dây: 32 vùng."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-48521": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Photo Beam 4 tia không dây, sử dụng năng lượng mặt trời"
+      ],
+      [
+        "Tần số hoạt động",
+        "433.92MHz"
+      ],
+      [
+        "Mã hóa tín hiệu",
+        "1527"
+      ],
+      [
+        "Khoảng cách kết nối không dây",
+        "100m (trong điều kiện không gian mở)"
+      ],
+      [
+        "Phạm vi phát hiện",
+        "10m (ngoài trời)"
+      ],
+      [
+        "Góc điều chỉnh trục quang",
+        "180°"
+      ],
+      [
+        "Tốc độ phát hiện",
+        "100ms"
+      ],
+      [
+        "Điều kiện báo động",
+        "Khi 2 chùm tia liền kề bị chắn đồng thời"
+      ],
+      [
+        "Bộ lọc nhiễu",
+        "Bộ lọc nhiễu ánh sáng kỹ thuật số"
+      ],
+      [
+        "Nguồn cấp – Bộ phát (Transmitter)",
+        "Pin LiFePO4 3.2V – 500mAh"
+      ],
+      [
+        "Nguồn cấp – Bộ thu (Receiver)",
+        "Pin LiFePO4 3.2V – 1.000mAh"
+      ],
+      [
+        "Dòng tĩnh – Bộ phát",
+        "≤ 0.5mA"
+      ],
+      [
+        "Dòng tĩnh – Bộ thu",
+        "≤ 0.3mA"
+      ],
+      [
+        "Số lần báo động tối đa trong 24 giờ",
+        "< 50 lần"
+      ],
+      [
+        "Bước sóng hồng ngoại",
+        "940nm ± 20nm"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-25°C đến +65°C"
+      ],
+      [
+        "Kích thước",
+        "662 × 46 × 60mm"
+      ],
+      [
+        "Khả năng tương thích",
+        "Các tủ trung tâm báo động PICOTECH và KARASSN tương thích"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Photo Beam 4 tia không dây, sử dụng năng lượng mặt trời.",
+      "Tần số hoạt động: 433.92MHz.",
+      "Mã hóa tín hiệu: 1527.",
+      "Khoảng cách kết nối không dây: 100m (trong điều kiện không gian mở).",
+      "Phạm vi phát hiện: 10m (ngoài trời)."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-48522": {
+    "specifications": [
+      [
+        "Tần số hoạt động",
+        "433,92 MHz"
+      ],
+      [
+        "Khoảng cách kết nối về trung tâm",
+        "> 100m (trong khu vực không vật cản)"
+      ],
+      [
+        "Khoảng cách phát hiện",
+        "≤ 8–12m"
+      ],
+      [
+        "Góc dò",
+        "130° (ngang)"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 3V (sử dụng 2 pin khô AA)"
+      ],
+      [
+        "Dòng điện tĩnh",
+        "≤ 80µA"
+      ],
+      [
+        "Cảnh báo pin yếu",
+        "Đèn LED"
+      ],
+      [
+        "Độ cao lắp đặt",
+        "Khoảng 2–2,5m"
+      ],
+      [
+        "Khả năng tương thích",
+        "Kết nối với tất cả các tủ báo động PICOTECH và KARASSN"
+      ]
+    ],
+    "description": [
+      "Tần số hoạt động: 433,92 MHz.",
+      "Khoảng cách kết nối về trung tâm: > 100m (trong khu vực không vật cản).",
+      "Khoảng cách phát hiện: ≤ 8–12m.",
+      "Góc dò: 130° (ngang).",
+      "Nguồn cấp: DC 3V (sử dụng 2 pin khô AA)."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-48526": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu dò hàng rào quang điện 4 tia"
+      ],
+      [
+        "Hiển thị mức tín hiệu",
+        "10 đèn LED"
+      ],
+      [
+        "Khoảng cách phát hiện ngoài trời (Outdoor)",
+        "200 m"
+      ],
+      [
+        "Khoảng cách phát hiện trong nhà (Indoor)",
+        "600 m"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 10,5–24V"
+      ],
+      [
+        "Dòng tiêu thụ",
+        "Tối đa 100 mA"
+      ],
+      [
+        "Tốc độ đáp ứng",
+        "35–700 ms"
+      ],
+      [
+        "Góc điều chỉnh trục quang ngang (Horizontal)",
+        "±90°"
+      ],
+      [
+        "Góc điều chỉnh trục quang dọc (Vertical)",
+        "±10°"
+      ],
+      [
+        "Ngõ ra báo động",
+        "NO/NC, AC/DC 30V, tối đa 0,5A"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-25°C đến +55°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "95%"
+      ],
+      [
+        "Kích thước (Rộng × Cao × Sâu)",
+        "100 × 350 × 104 mm"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Nhựa ABS"
+      ],
+      [
+        "Khả năng tương thích",
+        "Các tủ trung tâm báo động có dây PICOTECH, KARASSN, HEYI, Paradox, NetworX và các hệ thống tương thích"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu dò hàng rào quang điện 4 tia.",
+      "Hiển thị mức tín hiệu: 10 đèn LED.",
+      "Khoảng cách phát hiện ngoài trời (Outdoor): 200 m.",
+      "Khoảng cách phát hiện trong nhà (Indoor): 600 m.",
+      "Nguồn cấp: DC 10,5–24V."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-49740": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Còi báo động âm thanh – ánh sáng không dây trong nhà"
+      ],
+      [
+        "Bộ xử lý",
+        "Vi điều khiển 8 bit"
+      ],
+      [
+        "Đèn cảnh báo",
+        "16 đèn LED hai màu"
+      ],
+      [
+        "Còi báo động",
+        "01 còi âm lượng cao"
+      ],
+      [
+        "Điện áp sử dụng",
+        "100–240VAC"
+      ],
+      [
+        "Dòng tĩnh",
+        "< 50mA"
+      ],
+      [
+        "Dòng hoạt động",
+        "< 150mA"
+      ],
+      [
+        "Cường độ âm báo",
+        "> 100dB"
+      ],
+      [
+        "Tần số RF",
+        "433.92MHz"
+      ],
+      [
+        "Khoảng cách truyền không dây",
+        "≥ 100m (không gian mở)"
+      ],
+      [
+        "Khoảng cách nhận không dây",
+        "≥ 70m (không gian mở)"
+      ],
+      [
+        "Chức năng",
+        "Còi báo động không dây kèm đèn chớp; trung tâm báo động mini; bộ lặp sóng không dây tầm ngắn"
+      ],
+      [
+        "Khả năng kết nối ở chế độ trung tâm mini",
+        "Tối đa 32 cảm biến và 08 remote điều khiển"
+      ],
+      [
+        "Nhiệt độ làm việc",
+        "-20°C đến +55°C"
+      ],
+      [
+        "Độ ẩm tương đối",
+        "40–80%"
+      ],
+      [
+        "Kích thước (Dài × Rộng × Cao)",
+        "73 × 73 × 90 mm"
+      ],
+      [
+        "Khả năng tương thích",
+        "Kết nối với tủ trung tâm báo động PICOTECH ở chức năng còi không dây; kết nối phụ kiện PICOTECH và KARASSN ở chức năng trung tâm báo động mini"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Còi báo động âm thanh – ánh sáng không dây trong nhà.",
+      "Bộ xử lý: Vi điều khiển 8 bit.",
+      "Đèn cảnh báo: 16 đèn LED hai màu.",
+      "Còi báo động: 01 còi âm lượng cao.",
+      "Điện áp sử dụng: 100–240VAC."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-52871": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu báo khói quang không dây"
+      ],
+      [
+        "Tần số hoạt động",
+        "433,92 MHz"
+      ],
+      [
+        "Tần số RF",
+        "433,92 MHz"
+      ],
+      [
+        "Nguồn cung cấp",
+        "DC 3V – 1 pin Lithium CR17450"
+      ],
+      [
+        "Tuổi thọ pin",
+        "5 năm ở chế độ Standby; có thể lên đến 10 năm khi sử dụng 2 pin"
+      ],
+      [
+        "Dòng điện tĩnh",
+        "≤ 10µA"
+      ],
+      [
+        "Dòng điện báo động",
+        "≤ 100mA"
+      ],
+      [
+        "Cường độ âm báo",
+        "85dB (ở khoảng cách 3m)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-10°C đến +50°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "≤ 95% RH"
+      ],
+      [
+        "Kích thước",
+        "125 × 50mm"
+      ],
+      [
+        "Trọng lượng",
+        "196g"
+      ],
+      [
+        "Hình thức cảnh báo",
+        "Báo động độc lập tại chỗ và kết nối với tủ trung tâm"
+      ],
+      [
+        "Khả năng tương thích",
+        "Kết nối với các tủ báo động PICOTECH và KARASSN, ngoại trừ model KS-858E không tương thích"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu báo khói quang không dây.",
+      "Tần số hoạt động: 433,92 MHz.",
+      "Tần số RF: 433,92 MHz.",
+      "Nguồn cung cấp: DC 3V – 1 pin Lithium CR17450.",
+      "Tuổi thọ pin: 5 năm ở chế độ Standby; có thể lên đến 10 năm khi sử dụng 2 pin."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-552": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Còi báo động không dây"
+      ],
+      [
+        "Tần số RF",
+        "433,92MHz"
+      ],
+      [
+        "Nguồn cấp",
+        "220VAC"
+      ],
+      [
+        "Dòng điện tĩnh",
+        "10mA"
+      ],
+      [
+        "Cường độ âm báo",
+        "Trên 80dB"
+      ],
+      [
+        "Khoảng cách giao tiếp",
+        "Trên 200m trong khu vực thông thoáng (in open area)"
+      ],
+      [
+        "Kích thước (D × R × C)",
+        "140 × 80 × 70mm"
+      ],
+      [
+        "Trọng lượng",
+        "200g"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Còi báo động không dây.",
+      "Tần số RF: 433,92MHz.",
+      "Nguồn cấp: 220VAC.",
+      "Dòng điện tĩnh: 10mA.",
+      "Cường độ âm báo: Trên 80dB."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-63801": {
+    "specifications": [
+      [
+        "Nguồn cung cấp",
+        "DC 10,5–15V"
+      ],
+      [
+        "Dòng điện khi báo động",
+        "50mA"
+      ],
+      [
+        "Chiều dài cáp kết nối",
+        "≤ 200m (sử dụng cáp 22AWG)"
+      ],
+      [
+        "Nhiệt độ làm việc",
+        "-10°C đến +50°C"
+      ],
+      [
+        "Độ ẩm làm việc",
+        "≤ 80%"
+      ],
+      [
+        "Hỗ trợ thẻ RFID",
+        "Tối đa 8 thẻ RFID"
+      ],
+      [
+        "Kích thước (D × R × C)",
+        "140 × 92 × 27,1mm"
+      ]
+    ],
+    "description": [
+      "Nguồn cung cấp: DC 10,5–15V.",
+      "Dòng điện khi báo động: 50mA.",
+      "Chiều dài cáp kết nối: ≤ 200m (sử dụng cáp 22AWG).",
+      "Nhiệt độ làm việc: -10°C đến +50°C.",
+      "Độ ẩm làm việc: ≤ 80%."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-63802": {
+    "specifications": [
+      [
+        "Nguồn cung cấp",
+        "AC220V ± 15%,"
+      ],
+      [
+        "Nguồn dự phòng (tùy chọn)",
+        "Pin LiPo 3.7V 700mAh"
+      ],
+      [
+        "Tần số RF",
+        "433.92MHz, Điều chế: OOK"
+      ],
+      [
+        "Kích thước",
+        "90.7(L)*63.0(W)*45.6(H)mm (không tính kích thước ăng-ten và phích cắm)"
+      ],
+      [
+        "* Khoảng cách kết nối",
+        "1 Km (in open area)"
+      ]
+    ],
+    "description": [
+      "Nguồn cung cấp: AC220V ± 15%,.",
+      "Nguồn dự phòng (tùy chọn): Pin LiPo 3.7V 700mAh.",
+      "Tần số RF: 433.92MHz, Điều chế: OOK.",
+      "Kích thước: 90.7(L)*63.0(W)*45.6(H)mm (không tính kích thước ăng-ten và phích cắm).",
+      "* Khoảng cách kết nối: 1 Km (in open area)."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-66546": {
+    "specifications": [
+      [
+        "Số vùng không dây",
+        "96"
+      ],
+      [
+        "Số vùng có dây",
+        "8 tích hợp; mở rộng tới 40"
+      ],
+      [
+        "Kết nối mạng",
+        "Ethernet (LAN)"
+      ],
+      [
+        "Giao thức truyền tin",
+        "Hỗ trợ Ademco Contact ID và SIA"
+      ],
+      [
+        "Màn hình và bàn phím",
+        "Màn hình LCD ma trận điểm 128 × 64; bàn phím lập trình 4 × 4"
+      ],
+      [
+        "Còi báo động",
+        "Tích hợp sẵn còi báo động trung tâm"
+      ],
+      [
+        "Mã truy cập",
+        "01 mã lập trình, 08 mã người dùng có thể phân quyền"
+      ],
+      [
+        "Remote điều khiển",
+        "Hỗ trợ tối đa 08 bộ điều khiển từ xa"
+      ],
+      [
+        "Nhóm vùng phụ",
+        "08 nhóm vùng phụ có thể lập trình độc lập"
+      ],
+      [
+        "Số điện thoại báo động",
+        "Cài đặt trước tối đa 08 số điện thoại; tùy chọn gọi điện hoặc nhắn tin"
+      ],
+      [
+        "Thuộc tính vùng",
+        "Disable, Delay, Burglar, Perimeter, Day-Night, Silent Alarm, Audible Alarm, Fire, Gas, Medical, Doorbell, Key Switch"
+      ],
+      [
+        "Hẹn giờ bật/tắt",
+        "Hẹn giờ bật/tắt hệ thống theo các ngày trong tuần"
+      ],
+      [
+        "Ghi âm cảnh báo",
+        "Ghi âm và phát lại nội dung cảnh báo, thời lượng 20 giây"
+      ],
+      [
+        "Thời gian trì hoãn vào/ra",
+        "Cài đặt từ 00–99 × 3 giây"
+      ],
+      [
+        "Lưu trữ sự kiện",
+        "Lưu 100 bản ghi sự kiện báo động gần nhất"
+      ],
+      [
+        "Nguồn điện",
+        "220VAC ± 15%"
+      ],
+      [
+        "Pin dự phòng",
+        "Bình điện 12V – 7Ah hoặc 7.5Ah (mua thêm)"
+      ],
+      [
+        "Tần số RF",
+        "433,92 MHz"
+      ],
+      [
+        "Kích thước (D × R × C)",
+        "264 × 260 × 78 mm"
+      ],
+      [
+        "Trọng lượng",
+        "3 kg"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-10°C đến +55°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "40–70%"
+      ],
+      [
+        "Ứng dụng di động",
+        "Ứng dụng miễn phí trên smartphone sử dụng hệ điều hành iOS và Android"
+      ]
+    ],
+    "description": [
+      "Số vùng không dây: 96.",
+      "Số vùng có dây: 8 tích hợp; mở rộng tới 40.",
+      "Kết nối mạng: Ethernet (LAN).",
+      "Giao thức truyền tin: Hỗ trợ Ademco Contact ID và SIA.",
+      "Màn hình và bàn phím: Màn hình LCD ma trận điểm 128 × 64; bàn phím lập trình 4 × 4."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-66548": {
+    "specifications": [
+      [
+        "Số vùng không dây",
+        "64"
+      ],
+      [
+        "Số vùng có dây",
+        "24 tích hợp; tối đa 40 vùng tổng cộng khi dùng 2 module PCA-302EM"
+      ],
+      [
+        "Bàn phím lập trình",
+        "PCA-305D, màn hình LCD ma trận điểm, tích hợp đầu đọc thẻ RFID"
+      ],
+      [
+        "Giao thức truyền tin",
+        "SIA IP UDP/TCP"
+      ],
+      [
+        "Khả năng mở rộng",
+        "Kết nối tối đa 2 module Relay PCA-301RM và 4 bàn phím lập trình PCA-305D"
+      ],
+      [
+        "Mật khẩu người dùng",
+        "1 mật khẩu lập trình, 40 mật khẩu người dùng có thể phân quyền"
+      ],
+      [
+        "Điều khiển từ xa và thẻ RFID",
+        "Đăng ký tối đa 8 bộ điều khiển từ xa và 8 thẻ RFID"
+      ],
+      [
+        "Nhóm vùng phụ",
+        "8 nhóm, có thể lập trình độc lập"
+      ],
+      [
+        "Số điện thoại cảnh báo",
+        "Cài đặt trước tối đa 8 số; tùy chọn quay số hoặc nhắn tin"
+      ],
+      [
+        "Thuộc tính vùng",
+        "Disable, Delay, Burglar, Perimeter, Day-Night, Silent Alarm, Audible Alarm, Fire, Gas, Medical, Doorbell, Key Switch, One Button Intercom"
+      ],
+      [
+        "Thời gian trì hoãn vào/ra",
+        "Từ 00–99 × 3 giây"
+      ],
+      [
+        "Hẹn giờ bật/tắt",
+        "Tối đa 4 bộ hẹn giờ, thiết lập cho các ngày trong tuần và ngày cuối tuần"
+      ],
+      [
+        "Cảnh báo trạng thái",
+        "Cảnh báo bật/tắt hệ thống (Arm/Disarm), tình trạng nguồn điện AC và bình điện dự phòng; có thể tùy chọn bật/tắt cảnh báo"
+      ],
+      [
+        "Ngõ ra",
+        "1 ngõ ra relay NO/NC và giao diện PGM"
+      ],
+      [
+        "Ghi âm cảnh báo",
+        "Ghi âm và phát lại nội dung cảnh báo trong 20 giây"
+      ],
+      [
+        "Bộ nhớ sự kiện",
+        "Lưu 600 sự kiện báo động gần nhất"
+      ],
+      [
+        "Tần số RF",
+        "433,92 MHz"
+      ],
+      [
+        "Nguồn điện",
+        "220VAC ±15%"
+      ],
+      [
+        "Bình điện dự phòng",
+        "12V – 7Ah/7,5Ah, mua thêm"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-10°C đến +55°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "40–70%"
+      ],
+      [
+        "Ứng dụng di động",
+        "Ứng dụng miễn phí trên smartphone sử dụng iOS và Android"
+      ]
+    ],
+    "description": [
+      "Số vùng không dây: 64.",
+      "Số vùng có dây: 24 tích hợp; tối đa 40 vùng tổng cộng khi dùng 2 module PCA-302EM.",
+      "Bàn phím lập trình: PCA-305D, màn hình LCD ma trận điểm, tích hợp đầu đọc thẻ RFID.",
+      "Giao thức truyền tin: SIA IP UDP/TCP.",
+      "Khả năng mở rộng: Kết nối tối đa 2 module Relay PCA-301RM và 4 bàn phím lập trình PCA-305D."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-72407": {
+    "specifications": [
+      [
+        "Kết nối",
+        "Mạng di động qua SIM (GSM/4G LTE)"
+      ],
+      [
+        "Vai trò",
+        "Mô-đun truyền thông cho trung tâm báo động tương thích"
+      ],
+      [
+        "Tương thích",
+        "Sử dụng cho Tủ báo động Picotech, PCA-959 Series "
+      ]
+    ],
+    "description": [
+      "Kết nối: Mạng di động qua SIM (GSM/4G LTE).",
+      "Vai trò: Mô-đun truyền thông cho trung tâm báo động tương thích.",
+      "Tương thích: Sử dụng cho Tủ báo động Picotech, PCA-959 Series ."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-72409": {
+    "specifications": [
+      [
+        "Giao tiếp",
+        "Ethernet (LAN)"
+      ],
+      [
+        "Vai trò",
+        "Mở rộng kết nối mạng cho trung tâm báo động tương thích"
+      ],
+      [
+        "Tương thích",
+        "Sử dụng cho Tủ báo động Picotech, PCA-959 Series "
+      ]
+    ],
+    "description": [
+      "Giao tiếp: Ethernet (LAN).",
+      "Vai trò: Mở rộng kết nối mạng cho trung tâm báo động tương thích.",
+      "Tương thích: Sử dụng cho Tủ báo động Picotech, PCA-959 Series ."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-72411": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Bộ lặp tín hiệu không dây (Wireless Repeater)"
+      ],
+      [
+        "Chế độ hoạt động",
+        "2 chế độ: Lặp sóng tự động và lặp sóng cho 24 thiết bị đã ghép nối"
+      ],
+      [
+        "Điện áp làm việc",
+        "100–240VAC"
+      ],
+      [
+        "Dòng tĩnh",
+        "< 20mA"
+      ],
+      [
+        "Dòng làm việc",
+        "< 60mA"
+      ],
+      [
+        "Pin sạc dự phòng",
+        "7.4V/800mAh"
+      ],
+      [
+        "Tần số Radio",
+        "433.92MHz"
+      ],
+      [
+        "Khoảng cách lặp sóng",
+        "Lên đến 850m (trong điều kiện không gian mở)"
+      ],
+      [
+        "Nhiệt độ làm việc",
+        "-20°C đến +55°C"
+      ],
+      [
+        "Độ ẩm làm việc",
+        "40–80%"
+      ],
+      [
+        "Vị trí lắp đặt",
+        "Trong nhà và ngoài trời"
+      ],
+      [
+        "Khả năng tương thích",
+        "Các tủ trung tâm báo động PICOTECH và KARASSN tương thích"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Bộ lặp tín hiệu không dây (Wireless Repeater).",
+      "Chế độ hoạt động: 2 chế độ: Lặp sóng tự động và lặp sóng cho 24 thiết bị đã ghép nối.",
+      "Điện áp làm việc: 100–240VAC.",
+      "Dòng tĩnh: < 20mA.",
+      "Dòng làm việc: < 60mA."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-73191": {
+    "specifications": [
+      [
+        "Số vùng không dây",
+        "96"
+      ],
+      [
+        "Số vùng có dây",
+        "8 tích hợp; tối đa 40 khi dùng PCA-302EM"
+      ],
+      [
+        "Kết nối",
+        "PSTN, LAN và mạng di động qua SIM"
+      ],
+      [
+        "Giao thức truyền tin",
+        "Hỗ trợ Ademco Contact ID và SIA"
+      ],
+      [
+        "Màn hình và bàn phím",
+        "Màn hình LCD ma trận điểm 128 × 64; bàn phím lập trình 4 × 4"
+      ],
+      [
+        "Còi báo động",
+        "Tích hợp sẵn còi báo động trung tâm"
+      ],
+      [
+        "Mã truy cập",
+        "01 mã lập trình, 08 mã người dùng có thể phân quyền"
+      ],
+      [
+        "Remote điều khiển",
+        "Hỗ trợ tối đa 08 bộ điều khiển từ xa"
+      ],
+      [
+        "Nhóm vùng phụ",
+        "08 nhóm vùng phụ có thể lập trình độc lập"
+      ],
+      [
+        "Số điện thoại báo động",
+        "Cài đặt trước tối đa 08 số điện thoại; tùy chọn gọi điện hoặc nhắn tin"
+      ],
+      [
+        "Thuộc tính vùng",
+        "Disable, Delay, Burglar, Perimeter, Day-Night, Silent Alarm, Audible Alarm, Fire, Gas, Medical, Doorbell, Key Switch"
+      ],
+      [
+        "Hẹn giờ bật/tắt",
+        "Hẹn giờ bật/tắt hệ thống theo các ngày trong tuần"
+      ],
+      [
+        "Ghi âm cảnh báo",
+        "Ghi âm và phát lại nội dung cảnh báo, thời lượng 20 giây"
+      ],
+      [
+        "Thời gian trì hoãn vào/ra",
+        "Cài đặt từ 00–99 × 3 giây"
+      ],
+      [
+        "Lưu trữ sự kiện",
+        "Lưu 100 bản ghi sự kiện báo động gần nhất"
+      ],
+      [
+        "Nguồn điện",
+        "220VAC ± 15%"
+      ],
+      [
+        "Pin dự phòng",
+        "Bình điện 12V – 7Ah hoặc 7.5Ah (mua thêm)"
+      ],
+      [
+        "Tần số RF",
+        "433,92 MHz"
+      ],
+      [
+        "Kích thước (D × R × C)",
+        "264 × 260 × 78 mm"
+      ],
+      [
+        "Trọng lượng",
+        "3 kg"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-10°C đến +55°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "40–70%"
+      ],
+      [
+        "Ứng dụng di động",
+        "Ứng dụng miễn phí trên smartphone sử dụng hệ điều hành iOS và Android"
+      ]
+    ],
+    "description": [
+      "Số vùng không dây: 96.",
+      "Số vùng có dây: 8 tích hợp; tối đa 40 khi dùng PCA-302EM.",
+      "Kết nối: PSTN, LAN và mạng di động qua SIM.",
+      "Giao thức truyền tin: Hỗ trợ Ademco Contact ID và SIA.",
+      "Màn hình và bàn phím: Màn hình LCD ma trận điểm 128 × 64; bàn phím lập trình 4 × 4."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-73192": {
+    "specifications": [
+      [
+        "Mạng di động",
+        "4G LTE"
+      ],
+      [
+        "Vùng không dây",
+        "32"
+      ],
+      [
+        "Vùng có dây",
+        "2 vùng chia sẻ"
+      ],
+      [
+        "Giao thức truyền tin",
+        "Tương thích với giao thức Ademco Contact ID"
+      ],
+      [
+        "Giám sát cửa",
+        "Theo dõi trạng thái đóng/mở cửa"
+      ],
+      [
+        "Phương thức cảnh báo",
+        "Gọi điện, gửi tin nhắn SMS hoặc kết hợp cả hai"
+      ],
+      [
+        "Thuộc tính vùng",
+        "8 thuộc tính: Burglar, Delay, Perimeter, Fire, Gas, Duress, Panic, Medical"
+      ],
+      [
+        "Cài đặt vùng",
+        "Có thể thiết lập thuộc tính và đặt tên cho từng vùng"
+      ],
+      [
+        "Chế độ báo động",
+        "Home Arm và Away Arm"
+      ],
+      [
+        "Remote điều khiển",
+        "Hỗ trợ tối đa 8 bộ remote"
+      ],
+      [
+        "Số điện thoại lập trình",
+        "3 số điện thoại"
+      ],
+      [
+        "Số liên lạc hai chiều",
+        "1 số điện thoại"
+      ],
+      [
+        "Số điện thoại báo động",
+        "Tối đa 8 số điện thoại"
+      ],
+      [
+        "Ghi âm cảnh báo",
+        "Ghi âm nội dung cảnh báo khi có báo động, thời lượng 20 giây"
+      ],
+      [
+        "Điều khiển từ xa",
+        "Qua tin nhắn SMS hoặc phần mềm tương thích"
+      ],
+      [
+        "Liên lạc khẩn cấp",
+        "Hỗ trợ liên lạc hai chiều bằng một phím bấm và phím SOS, phù hợp cho trẻ em và người cao tuổi"
+      ],
+      [
+        "Còi báo động tích hợp",
+        "Âm lượng trên 90 dB, điều chỉnh được 3 mức âm lượng"
+      ],
+      [
+        "Kết nối còi phụ",
+        "Hỗ trợ còi không dây; ngõ ra 12 VDC, dòng dưới 150 mA để kết nối còi có dây hoặc đèn báo tương thích"
+      ],
+      [
+        "Báo cáo trạng thái",
+        "Theo dõi tình trạng nguồn cấp và trạng thái bật/tắt hệ thống; hỗ trợ tùy chọn thông báo"
+      ],
+      [
+        "Hẹn giờ tự động",
+        "Lập lịch bật/tắt hệ thống theo các ngày trong tuần"
+      ],
+      [
+        "Bộ nhớ sự kiện",
+        "Lưu 30 bản ghi sự kiện báo động gần nhất, hỗ trợ truy vấn theo thời gian cụ thể"
+      ],
+      [
+        "Pin sạc dự phòng",
+        "7,4 V – 1.200 mAh"
+      ],
+      [
+        "Thời gian hoạt động dự phòng",
+        "Khoảng 8 giờ liên tục ở chế độ chờ (standby), theo thông tin được cung cấp"
+      ],
+      [
+        "Kích thước (D × R × C)",
+        "195 × 136 × 31 mm"
+      ]
+    ],
+    "description": [
+      "Mạng di động: 4G LTE.",
+      "Vùng không dây: 32.",
+      "Vùng có dây: 2 vùng chia sẻ.",
+      "Giao thức truyền tin: Tương thích với giao thức Ademco Contact ID.",
+      "Giám sát cửa: Theo dõi trạng thái đóng/mở cửa."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-73193": {
+    "specifications": [
+      [
+        "Giao thức truyền tin",
+        "Hỗ trợ Ademco Contact ID và SIA"
+      ],
+      [
+        "Màn hình và bàn phím",
+        "Màn hình LCD ma trận điểm 128 × 64; bàn phím lập trình 4 × 4"
+      ],
+      [
+        "Còi báo động",
+        "Tích hợp sẵn còi báo động trung tâm"
+      ],
+      [
+        "Mã truy cập",
+        "01 mã lập trình và 08 mã người dùng có thể phân quyền"
+      ],
+      [
+        "Remote điều khiển",
+        "Hỗ trợ tối đa 08 bộ điều khiển từ xa"
+      ],
+      [
+        "Nhóm vùng phụ",
+        "08 nhóm vùng phụ, có thể lập trình hoạt động độc lập"
+      ],
+      [
+        "Số điện thoại báo động",
+        "Cài đặt trước tối đa 08 số điện thoại; tùy chọn gọi điện hoặc nhắn tin"
+      ],
+      [
+        "Thuộc tính vùng",
+        "Disable, Delay, Burglar, Perimeter, Day-Night, Silent Alarm, Audible Alarm, Fire, Gas, Medical, Doorbell, Key Switch"
+      ],
+      [
+        "Hẹn giờ bật/tắt",
+        "Hẹn giờ bật/tắt hệ thống theo các ngày trong tuần"
+      ],
+      [
+        "Ghi âm cảnh báo",
+        "Ghi âm và phát lại nội dung cảnh báo, thời lượng 20 giây"
+      ],
+      [
+        "Thời gian trì hoãn vào/ra",
+        "Cài đặt từ 00–99 × 3 giây"
+      ],
+      [
+        "Lưu trữ sự kiện",
+        "Lưu 100 bản ghi sự kiện báo động gần nhất"
+      ],
+      [
+        "Nguồn điện",
+        "220VAC ± 15%"
+      ],
+      [
+        "Pin dự phòng",
+        "Bình điện 12V – 7Ah hoặc 7.5Ah, mua thêm"
+      ],
+      [
+        "Tần số RF",
+        "433,92MHz"
+      ],
+      [
+        "Kích thước (D × R × C)",
+        "264 × 260 × 78 mm"
+      ],
+      [
+        "Trọng lượng",
+        "3 kg"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-10°C đến +55°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "40–70%"
+      ],
+      [
+        "Ứng dụng di động",
+        "Ứng dụng miễn phí trên smartphone iOS và Android khi nâng cấp thêm Module LAN hoặc Module SIM GSM/kết nối mạng di động thông qua SIM"
+      ]
+    ],
+    "description": [
+      "Giao thức truyền tin: Hỗ trợ Ademco Contact ID và SIA.",
+      "Màn hình và bàn phím: Màn hình LCD ma trận điểm 128 × 64; bàn phím lập trình 4 × 4.",
+      "Còi báo động: Tích hợp sẵn còi báo động trung tâm.",
+      "Mã truy cập: 01 mã lập trình và 08 mã người dùng có thể phân quyền.",
+      "Remote điều khiển: Hỗ trợ tối đa 08 bộ điều khiển từ xa."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-74828": {
+    "specifications": [
+      [
+        "Kết nối",
+        "Wi-Fi 2,4 GHz (802.11 b/g/n) và 4G LTE"
+      ],
+      [
+        "Số vùng không dây",
+        "32"
+      ],
+      [
+        "Tần số vô tuyến",
+        "433,92 MHz"
+      ],
+      [
+        "Điều khiển trên điện thoại",
+        "Ứng dụng iOS hoặc Android"
+      ],
+      [
+        "Chuẩn Wi-Fi",
+        "IEEE 802.11 b/g/n, 2.4 GHz; hỗ trợ bảo mật WEP/WPA-PSK/WPA2-PSK"
+      ],
+      [
+        "Kết nối mạng di động",
+        "Hỗ trợ các băng tần 850 MHz, 900 MHz, 1.800 MHz và 1.900 MHz"
+      ],
+      [
+        "Đầu đọc thẻ",
+        "Tích hợp đầu đọc thẻ RFID"
+      ],
+      [
+        "Giám sát cửa",
+        "Theo dõi trạng thái đóng/mở cửa"
+      ],
+      [
+        "Điều khiển thiết bị",
+        "Hỗ trợ điều khiển ổ cắm thông minh (Smart Socket) tương thích"
+      ],
+      [
+        "Thuộc tính vùng",
+        "11 thuộc tính: Disable, Delay, Burglar, Smart Perimeter, Fire, Gas, Duress, Panic, Medical, Doorbell và một thuộc tính Duress được lặp lại trong danh sách gốc"
+      ],
+      [
+        "Chế độ báo động",
+        "Home Arm và Away Arm"
+      ],
+      [
+        "Remote điều khiển",
+        "Hỗ trợ tối đa 8 bộ"
+      ],
+      [
+        "Thẻ RFID",
+        "Hỗ trợ tối đa 8 thẻ"
+      ],
+      [
+        "Số điện thoại báo động",
+        "Cài đặt tối đa 8 số"
+      ],
+      [
+        "Hẹn giờ",
+        "Cài đặt bật/tắt hệ thống 2 lần trong ngày"
+      ],
+      [
+        "Bộ nhớ sự kiện",
+        "Lưu 100 bản ghi báo động gần nhất, hỗ trợ truy vấn qua ứng dụng trên smartphone"
+      ],
+      [
+        "Còi báo động tích hợp",
+        "Âm lượng trên 80 dB tại khoảng cách 1 m, điều chỉnh được 3 mức"
+      ],
+      [
+        "Thời gian hoạt động dự phòng",
+        "Trên 8 giờ ở chế độ chờ (standby), theo thông tin được cung cấp"
+      ],
+      [
+        "Kích thước (D × R × C)",
+        "141 × 140 × 25 mm"
+      ],
+      [
+        "Ứng dụng di động",
+        "Miễn phí trên smartphone iOS và Android"
+      ]
+    ],
+    "description": [
+      "Kết nối: Wi-Fi 2,4 GHz (802.11 b/g/n) và 4G LTE.",
+      "Số vùng không dây: 32.",
+      "Tần số vô tuyến: 433,92 MHz.",
+      "Điều khiển trên điện thoại: Ứng dụng iOS hoặc Android.",
+      "Chuẩn Wi-Fi: IEEE 802.11 b/g/n, 2.4 GHz; hỗ trợ bảo mật WEP/WPA-PSK/WPA2-PSK."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-80597": {
+    "specifications": [
+      [
+        "Nguồn cấp",
+        "DC12V"
+      ]
+    ],
+    "description": [
+      "Nguồn cấp: DC12V."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-81301": {
+    "specifications": [
+      [
+        "Tần số hoạt động",
+        "433,92 MHz"
+      ],
+      [
+        "Khoảng cách kết nối về trung tâm",
+        "Lên đến 500 m trong khu vực thông thoáng"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 3V (2 pin CR2032)"
+      ],
+      [
+        "Dòng tĩnh",
+        "3,7 µA"
+      ],
+      [
+        "Dòng hoạt động",
+        "7 mA"
+      ],
+      [
+        "Thiết bị tương thích",
+        "Tủ trung tâm báo động PICOTECH, KARASSN và HEYI"
+      ]
+    ],
+    "description": [
+      "Tần số hoạt động: 433,92 MHz.",
+      "Khoảng cách kết nối về trung tâm: Lên đến 500 m trong khu vực thông thoáng.",
+      "Nguồn cấp: DC 3V (2 pin CR2032).",
+      "Dòng tĩnh: 3,7 µA.",
+      "Dòng hoạt động: 7 mA."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-84151": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu dò hồng ngoại kép không dây"
+      ],
+      [
+        "Công nghệ phát hiện",
+        "Hồng ngoại kép"
+      ],
+      [
+        "Khả năng loại vật nuôi",
+        "Lên đến 35kg"
+      ],
+      [
+        "Tính năng bổ sung",
+        "Tự động bù nhiệt độ, chống ánh sáng trắng"
+      ],
+      [
+        "Tần số hoạt động",
+        "433,92MHz"
+      ],
+      [
+        "Khoảng cách kết nối về trung tâm",
+        "≤ 300m (khu vực thông thoáng)"
+      ],
+      [
+        "Khoảng cách phát hiện",
+        "8–12m"
+      ],
+      [
+        "Góc phát hiện",
+        "Khoảng 110°"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 3V, sử dụng 2 pin AA"
+      ],
+      [
+        "Dòng tĩnh",
+        "≤ 140µA"
+      ],
+      [
+        "Độ cao lắp đặt",
+        "2–2,5m"
+      ],
+      [
+        "Nhiệt độ làm việc",
+        "-10°C đến +55°C"
+      ],
+      [
+        "Kích thước (Dài × Rộng × Cao)",
+        "130 × 64 × 43mm"
+      ],
+      [
+        "Khả năng tương thích",
+        "Trung tâm báo động PICOTECH, KARASSN, HEYI"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu dò hồng ngoại kép không dây.",
+      "Công nghệ phát hiện: Hồng ngoại kép.",
+      "Khả năng loại vật nuôi: Lên đến 35kg.",
+      "Tính năng bổ sung: Tự động bù nhiệt độ, chống ánh sáng trắng.",
+      "Tần số hoạt động: 433,92MHz."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-85239": {
+    "specifications": [
+      [
+        "Tần số hoạt động",
+        "433,92 MHz"
+      ],
+      [
+        "Khoảng cách kết nối về trung tâm",
+        "≥ 100 m trong khu vực thông thoáng"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 12V (sử dụng 1 pin 12V 27A)"
+      ],
+      [
+        "Dòng tĩnh",
+        "≤ 5 µA"
+      ],
+      [
+        "Dòng hoạt động",
+        "≤ 10 mA"
+      ],
+      [
+        "Thiết bị tương thích",
+        "Tủ trung tâm báo động PICOTECH, KARASSN và HEYI"
+      ]
+    ],
+    "description": [
+      "Tần số hoạt động: 433,92 MHz.",
+      "Khoảng cách kết nối về trung tâm: ≥ 100 m trong khu vực thông thoáng.",
+      "Nguồn cấp: DC 12V (sử dụng 1 pin 12V 27A).",
+      "Dòng tĩnh: ≤ 5 µA.",
+      "Dòng hoạt động: ≤ 10 mA."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-85242": {
+    "specifications": [
+      [
+        "Thiết bị tương thích",
+        "Đầu báo khói Picotech PCA-SS169"
+      ],
+      [
+        "Tương thích với đầu báo khói PCA-SS169",
+        "Sử dụng làm nguồn cấp cho thiết bị báo khói không dây tương ứng"
+      ]
+    ],
+    "description": [
+      "Thiết bị tương thích: Đầu báo khói Picotech PCA-SS169.",
+      "Tương thích với đầu báo khói PCA-SS169: Sử dụng làm nguồn cấp cho thiết bị báo khói không dây tương ứng."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-85830": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu dò chuyển động phức hợp Three-Tech"
+      ],
+      [
+        "Công nghệ phát hiện",
+        "Hồng ngoại kép (Double PIR) kết hợp vi sóng (MW)"
+      ],
+      [
+        "Khả năng chống báo động giả",
+        "Hạn chế cảnh báo sai, hỗ trợ loại vật nuôi"
+      ],
+      [
+        "Khả năng loại vật nuôi",
+        "Theo thông số cung cấp: 25kg"
+      ],
+      [
+        "Chức năng chống che",
+        "Anti-Masking"
+      ],
+      [
+        "Chế độ hoạt động",
+        "AND, OR, EI"
+      ],
+      [
+        "Nguồn cấp",
+        "9–16VDC"
+      ],
+      [
+        "Dòng tiêu thụ",
+        "30mA"
+      ],
+      [
+        "Độ cao lắp đặt",
+        "1,5–2,4m"
+      ],
+      [
+        "Vùng nhận diện",
+        "12m × 12m"
+      ],
+      [
+        "Góc phát hiện",
+        "100°"
+      ],
+      [
+        "Tần số vi sóng",
+        "10,525GHz"
+      ],
+      [
+        "Thời gian trễ báo động",
+        "3 giây"
+      ],
+      [
+        "Chống nhiễu RFI/EMI",
+        "0,1–500MHz / 3V/m"
+      ],
+      [
+        "Khả năng chống ánh sáng trắng",
+        "> 10.000 lux"
+      ],
+      [
+        "Ngõ ra báo động",
+        "100mA / 24V"
+      ],
+      [
+        "Ngõ ra chống che (Mask)",
+        "100mA / 24V"
+      ],
+      [
+        "Độ nhạy",
+        "2 mức tùy chọn: H/L"
+      ],
+      [
+        "Tốc độ phát hiện chuyển động",
+        "0,2–3,5m/s"
+      ],
+      [
+        "Nhiệt độ làm việc",
+        "-10°C đến +55°C"
+      ],
+      [
+        "Độ ẩm làm việc",
+        "RH 95%"
+      ],
+      [
+        "Kích thước (H × W × D)",
+        "160 × 65 × 50,5mm"
+      ],
+      [
+        "Khả năng tương thích",
+        "Trung tâm báo động PICOTECH, KARASSN, HEYI"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu dò chuyển động phức hợp Three-Tech.",
+      "Công nghệ phát hiện: Hồng ngoại kép (Double PIR) kết hợp vi sóng (MW).",
+      "Khả năng chống báo động giả: Hạn chế cảnh báo sai, hỗ trợ loại vật nuôi.",
+      "Khả năng loại vật nuôi: Theo thông số cung cấp: 25kg.",
+      "Chức năng chống che: Anti-Masking."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-85831": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu báo gas không dây, báo động độc lập và kết nối tủ trung tâm"
+      ],
+      [
+        "Tần số hoạt động",
+        "433,92 MHz"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "≤ 3W"
+      ],
+      [
+        "Công suất khi báo động",
+        "≤ 4W"
+      ],
+      [
+        "Mức kích hoạt báo động",
+        "8% LEL"
+      ],
+      [
+        "Âm lượng báo động",
+        "> 80dB"
+      ],
+      [
+        "Nguồn cung cấp",
+        "220VAC ± 15%, 50Hz"
+      ],
+      [
+        "Nhiệt độ làm việc",
+        "-10°C đến +55°C"
+      ],
+      [
+        "Độ ẩm tương đối",
+        "≤ 95% (không ngưng tụ)"
+      ],
+      [
+        "Kích thước",
+        "105 × 105 × 34,5mm"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Nhựa ABS chống cháy"
+      ],
+      [
+        "Màu sắc",
+        "Trắng ngà"
+      ],
+      [
+        "Hình thức cảnh báo",
+        "Báo động tại chỗ và truyền tín hiệu không dây về tủ trung tâm"
+      ],
+      [
+        "Khả năng tương thích",
+        "Kết nối với các tủ báo động PICOTECH, KARASSN và HEYI"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu báo gas không dây, báo động độc lập và kết nối tủ trung tâm.",
+      "Tần số hoạt động: 433,92 MHz.",
+      "Công suất tiêu thụ: ≤ 3W.",
+      "Công suất khi báo động: ≤ 4W.",
+      "Mức kích hoạt báo động: 8% LEL."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-88110": {
+    "specifications": [
+      [
+        "Số vùng có dây",
+        "8"
+      ],
+      [
+        "Số vùng không dây",
+        "32"
+      ],
+      [
+        "Kết nối",
+        "LAN (TCP/IP) và 4G LTE"
+      ],
+      [
+        "Kênh cảnh báo",
+        "Gọi điện và SMS tới tối đa 8 số; thông báo ứng dụng, email hoặc CMS"
+      ],
+      [
+        "Nguồn lưới",
+        "220 V AC, 50/60 Hz"
+      ],
+      [
+        "Ắc quy dự phòng hỗ trợ",
+        "12 V, 7,5 Ah"
+      ],
+      [
+        "Điều khiển trên điện thoại",
+        "Ứng dụng iOS hoặc Android"
+      ]
+    ],
+    "description": [
+      "Số vùng có dây: 8.",
+      "Số vùng không dây: 32.",
+      "Kết nối: LAN (TCP/IP) và 4G LTE.",
+      "Kênh cảnh báo: Gọi điện và SMS tới tối đa 8 số; thông báo ứng dụng, email hoặc CMS.",
+      "Nguồn lưới: 220 V AC, 50/60 Hz."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-89105": {
+    "specifications": [
+      [
+        "Số vùng không dây",
+        "96"
+      ],
+      [
+        "Số vùng có dây",
+        "8 tích hợp; tối đa 40 khi dùng PCA-302EM"
+      ],
+      [
+        "Mạng di động",
+        "4G LTE qua SIM"
+      ],
+      [
+        "Giao thức truyền tin",
+        "Hỗ trợ giao thức Ademco Contact ID"
+      ],
+      [
+        "Màn hình và bàn phím",
+        "Màn hình LCD, tích hợp bàn phím lập trình"
+      ],
+      [
+        "Còi báo động trung tâm",
+        "Âm lượng trên 90 dB tại khoảng cách 1 m"
+      ],
+      [
+        "Còi báo động mở rộng",
+        "Hỗ trợ kết nối còi có dây (Wired Siren) và còi không dây (Wireless Siren)"
+      ],
+      [
+        "Số lượng đầu dò không dây",
+        "Mở rộng tối đa 96 đầu dò không dây; mỗi vùng hỗ trợ cài đặt 3 đầu dò"
+      ],
+      [
+        "Remote điều khiển",
+        "Tối đa 8 remote"
+      ],
+      [
+        "Mã lập trình",
+        "1 mã lập trình (Program Code)"
+      ],
+      [
+        "Mã người dùng",
+        "8 mã sử dụng (User Code)"
+      ],
+      [
+        "Nhóm vùng phụ",
+        "8 nhóm vùng phụ độc lập, có thể bật/tắt riêng biệt bằng remote hoặc mã người dùng tương ứng"
+      ],
+      [
+        "Số điện thoại cảnh báo",
+        "Cài đặt tối đa 8 số điện thoại"
+      ],
+      [
+        "Thuộc tính vùng",
+        "Disable, Delay, Burglar, Perimeter, Day-Night, Silent Alarm, Audible Alarm, Fire, Gas, Medical, Doorbell, Key Switch"
+      ],
+      [
+        "Hẹn giờ hoạt động",
+        "Cài đặt lịch bật/tắt hệ thống theo các ngày trong tuần"
+      ],
+      [
+        "Ghi âm cảnh báo",
+        "Hỗ trợ ghi âm và phát lại nội dung cảnh báo, thời lượng 20 giây"
+      ],
+      [
+        "Thời gian trì hoãn vào/ra",
+        "Có thể cài đặt từ (00–99) * 3 giây"
+      ],
+      [
+        "Bộ nhớ sự kiện",
+        "Lưu 100 bản ghi sự kiện báo động gần nhất"
+      ],
+      [
+        "Nguồn điện",
+        "220 VAC ± 15%"
+      ],
+      [
+        "Bình điện dự phòng",
+        "12 V – 7 Ah/7,5 Ah, mua rời"
+      ],
+      [
+        "Kích thước (D × R × C)",
+        "264 × 260 × 78 mm"
+      ],
+      [
+        "Trọng lượng",
+        "3 kg"
+      ],
+      [
+        "Tần số vô tuyến (RF)",
+        "433,92 MHz"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-10°C đến +55°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "40–70%"
+      ],
+      [
+        "Ứng dụng di động",
+        "Ứng dụng miễn phí trên smartphone iOS và Android"
+      ]
+    ],
+    "description": [
+      "Số vùng không dây: 96.",
+      "Số vùng có dây: 8 tích hợp; tối đa 40 khi dùng PCA-302EM.",
+      "Mạng di động: 4G LTE qua SIM.",
+      "Giao thức truyền tin: Hỗ trợ giao thức Ademco Contact ID.",
+      "Màn hình và bàn phím: Màn hình LCD, tích hợp bàn phím lập trình."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-90566": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu dò hàng rào quang điện 4 tia"
+      ],
+      [
+        "Hiển thị mức tín hiệu",
+        "5 đèn LED"
+      ],
+      [
+        "Khoảng cách phát hiện ngoài trời (Outdoor)",
+        "250 m"
+      ],
+      [
+        "Khoảng cách phát hiện trong nhà (Indoor)",
+        "750 m"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 10,5–24V"
+      ],
+      [
+        "Dòng tiêu thụ",
+        "Tối đa 105 mA"
+      ],
+      [
+        "Tốc độ đáp ứng",
+        "35–700 ms"
+      ],
+      [
+        "Góc điều chỉnh trục quang ngang (Horizontal)",
+        "±90°"
+      ],
+      [
+        "Góc điều chỉnh trục quang dọc (Vertical)",
+        "±10°"
+      ],
+      [
+        "Ngõ ra báo động",
+        "NO/NC, AC/DC 24V, tối đa 0,5A"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "-25°C đến +55°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "95%"
+      ],
+      [
+        "Kích thước (Rộng × Cao × Sâu)",
+        "100 × 350 × 104 mm"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Nhựa ABS"
+      ],
+      [
+        "Khả năng tương thích",
+        "Tủ trung tâm báo động có dây PICOTECH, KARASSN, HEYI, Paradox, NetworX và các hệ thống tương thích"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Đầu dò hàng rào quang điện 4 tia.",
+      "Hiển thị mức tín hiệu: 5 đèn LED.",
+      "Khoảng cách phát hiện ngoài trời (Outdoor): 250 m.",
+      "Khoảng cách phát hiện trong nhà (Indoor): 750 m.",
+      "Nguồn cấp: DC 10,5–24V."
+    ],
+    "specificationsChecked": "2026-11-27"
+  },
+  "STVT-946": {
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Công tắc khẩn không dây"
+      ],
+      [
+        "Tần số hoạt động",
+        "433,92MHz"
+      ],
+      [
+        "Khoảng cách kết nối về trung tâm",
+        "≥ 100m trong khu vực thông thoáng (in open area)"
+      ],
+      [
+        "Khả năng tương thích",
+        "Kết nối với tủ báo động Picotech và Karassn tương thích"
+      ]
+    ],
+    "description": [
+      "Loại thiết bị: Công tắc khẩn không dây.",
+      "Tần số hoạt động: 433,92MHz.",
+      "Khoảng cách kết nối về trung tâm: ≥ 100m trong khu vực thông thoáng (in open area).",
+      "Khả năng tương thích: Kết nối với tủ báo động Picotech và Karassn tương thích."
+    ],
+    "specificationsChecked": "2026-11-27"
+  }
+}

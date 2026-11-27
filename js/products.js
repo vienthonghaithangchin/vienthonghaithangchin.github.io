@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", initializeProducts);
 
 async function initializeProducts() {
   try {
-    const [response, huaweiResponse, importedProductsResponse, manualProductsResponse, rackProductsResponse, newProductsResponse, priceOverridesResponse] = await Promise.all([
+    const [response, huaweiResponse, importedProductsResponse, manualProductsResponse, rackProductsResponse, newProductsResponse, priceOverridesResponse, nanoSpecsResponse] = await Promise.all([
       fetch("/data/products-index.json?v=20261109-2"),
       fetch("/data/huawei-products.json?v=20261109-2"),
       fetch("/data/products-import-20261030.json?v=20261109-2"),
@@ -28,6 +28,7 @@ async function initializeProducts() {
       fetch("/data/products-rack-20261119.json?v=20261119-3"),
       fetch("/data/products-new-20261127.json?v=20261127-1").catch(() => null),
       fetch("/data/price-overrides-20261030.json?v=20261109-2"),
+      fetch("/data/specifications-nano-20261127.json?v=20261127-1").catch(() => null),
     ]);
 
     if (!response.ok) {
@@ -65,6 +66,15 @@ async function initializeProducts() {
     if (embeddedProduct?.id && productsById[embeddedProduct.id]?.hidden === true) {
       ensureNoIndexMeta();
     }
+
+    const nanoSpecs = nanoSpecsResponse?.ok ? await nanoSpecsResponse.json().catch(() => ({})) : {};
+    Object.entries(nanoSpecs || {}).forEach(([id, spec]) => {
+      const product = productsById[id];
+      if (!product || !/^(picotech|karassn)$/i.test(product.brand) || !Array.isArray(spec?.specifications)) return;
+      product.specifications = spec.specifications;
+      if (Array.isArray(spec.description) && spec.description.length) product.description = spec.description;
+      product.specificationsChecked = spec.specificationsChecked;
+    });
 
     catalogState.allProducts = Object.entries(productsById)
       .filter(([, product]) => product && typeof product === "object" && product.hidden !== true)

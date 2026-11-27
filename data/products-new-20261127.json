@@ -1,0 +1,7517 @@
+{
+  "DS-7632NXI-K2(E)": {
+    "name": "Đầu ghi hình IP 32 kênh Hikvision DS-7632NXI-K2(E)",
+    "model": "DS-7632NXI-K2(E)",
+    "code": "NVR-HIK-NVR-0121",
+    "brand": "Hikvision",
+    "category": "Nvr",
+    "productType": "Đầu ghi NVR",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/NVR/ds-7632nxi-k2-e/ds-7632nxi-k2-e.html",
+    "price": 5940000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Công nghệ AI: AcuSense, AcuSearch",
+      "Số kênh camera IP: 32 kênh",
+      "Băng thông đầu vào/đầu ra: 256 Mbps / 160 Mbps",
+      "Chuẩn nén video: H.265+, H.265, H.264+, H.264",
+      "Độ phân giải ghi hình: Tối đa 16 MP trên kênh 1"
+    ],
+    "specifications": [
+      [
+        "Công nghệ AI",
+        "AcuSense, AcuSearch"
+      ],
+      [
+        "Số kênh camera IP",
+        "32 kênh"
+      ],
+      [
+        "Băng thông đầu vào/đầu ra",
+        "256 Mbps / 160 Mbps"
+      ],
+      [
+        "Chuẩn nén video",
+        "H.265+, H.265, H.264+, H.264"
+      ],
+      [
+        "Độ phân giải ghi hình",
+        "Tối đa 16 MP trên kênh 1"
+      ],
+      [
+        "Khả năng giải mã",
+        "Tối đa 3 kênh 12 MP@30 fps khi AI tắt"
+      ],
+      [
+        "Xuất hình ảnh",
+        "1 HDMI 4K, 1 VGA; xuất độc lập"
+      ],
+      [
+        "Phát lại đồng thời",
+        "16 kênh"
+      ],
+      [
+        "Nhận diện khuôn mặt",
+        "Thư viện tối đa 50.000 ảnh"
+      ],
+      [
+        "Bảo vệ vành đai",
+        "AI trên đầu ghi hoặc camera tương thích"
+      ],
+      [
+        "Phát hiện chuyển động",
+        "Motion Detection 2.0"
+      ],
+      [
+        "Lưu trữ",
+        "2 cổng SATA, tối đa 16 TB/ổ"
+      ],
+      [
+        "Cổng mạng",
+        "2 RJ45 Gigabit 10/100/1000 Mbps"
+      ],
+      [
+        "Cổng cảnh báo",
+        "4 ngõ vào, 1 ngõ ra"
+      ],
+      [
+        "Âm thanh",
+        "1 ngõ ra RCA, 1 kênh đàm thoại hai chiều"
+      ],
+      [
+        "Cổng USB",
+        "2 USB 2.0"
+      ],
+      [
+        "Nguồn điện",
+        "12 VDC, 3,33 A"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "≤ 15 W, không bao gồm ổ cứng"
+      ],
+      [
+        "Kích thước",
+        "384 × 317 × 52 mm"
+      ],
+      [
+        "Khối lượng",
+        "≤ 2 kg, không bao gồm ổ cứng"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Hikvision/NVR/ds-7632nxi-k2-e/ds-7632nxi-k2-e.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/NVR/ds-7632nxi-k2-e/ds-7632nxi-k2-e.jpg"
+  },
+  "KX-CAi7116H1-VN": {
+    "name": "Đầu ghi hình 16 kênh Kabe Vision KX-CAi7116H1-VN",
+    "model": "KX-CAi7116H1-VN",
+    "code": "CAM-KAB-DVR-0001",
+    "brand": "Kabevision",
+    "category": "Hybrid",
+    "productType": "Đầu ghi DVR/Hybrid",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-KabeT/Hybrid/kx-cai7116h1-vn/kx-cai7116h1-vn.html",
+    "price": 1900000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Loại thiết bị: Đầu ghi hình DVR 16 kênh Penta-brid",
+      "Bộ xử lý / Hệ điều hành: Bộ xử lý nhúng / Linux nhúng",
+      "Ngõ vào camera analog: 16 kênh BNC",
+      "Chuẩn camera hỗ trợ: HDCVI, AHD, TVI, CVBS, IP",
+      "Số kênh camera IP: Tối đa 18 kênh, mỗi kênh đến 6 MP"
+    ],
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Đầu ghi hình DVR 16 kênh Penta-brid"
+      ],
+      [
+        "Bộ xử lý / Hệ điều hành",
+        "Bộ xử lý nhúng / Linux nhúng"
+      ],
+      [
+        "Ngõ vào camera analog",
+        "16 kênh BNC"
+      ],
+      [
+        "Chuẩn camera hỗ trợ",
+        "HDCVI, AHD, TVI, CVBS, IP"
+      ],
+      [
+        "Số kênh camera IP",
+        "Tối đa 18 kênh, mỗi kênh đến 6 MP"
+      ],
+      [
+        "Băng thông đầu vào",
+        "Tối đa 64 Mbps"
+      ],
+      [
+        "Chuẩn nén video",
+        "AI Coding, H.265+, H.265, H.264+, H.264"
+      ],
+      [
+        "Độ phân giải ghi hình",
+        "1080N, 720P, 960H, D1, CIF"
+      ],
+      [
+        "Phát hiện thông minh",
+        "SMD Plus trên 8 kênh analog"
+      ],
+      [
+        "Ngõ ra hình ảnh",
+        "1 HDMI, 1 VGA; tối đa 1920 × 1080"
+      ],
+      [
+        "Ngõ vào/ra âm thanh",
+        "1/1 RCA; hỗ trợ đàm thoại hai chiều"
+      ],
+      [
+        "Lưu trữ",
+        "1 cổng SATA, hỗ trợ ổ cứng tối đa 10 TB"
+      ],
+      [
+        "Kết nối mạng",
+        "1 RJ45 10/100 Mbps; hỗ trợ P2P"
+      ],
+      [
+        "Cổng USB / PTZ",
+        "2 USB 2.0 / 1 RS485"
+      ],
+      [
+        "Nguồn điện",
+        "DC 12V/2A"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "Dưới 10 W, không bao gồm ổ cứng"
+      ],
+      [
+        "Kích thước",
+        "260 × 236 × 48 mm"
+      ],
+      [
+        "Khối lượng tịnh",
+        "1.042 kg, không bao gồm ổ cứng"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "10°C đến +55°C"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-KabeT/Hybrid/kx-cai7116h1-vn/kx-cai7116h1-vn.jpg",
+    "thumbnail": "/img/Camera/Camera-KabeT/Hybrid/kx-cai7116h1-vn/kx-cai7116h1-vn.jpg"
+  },
+  "DS-2CE10KF0T-LFS": {
+    "name": "Camera 3K HIKVISION DS-2CE10KF0T-LFS",
+    "model": "DS-2CE10KF0T-LFS",
+    "code": "CAM-HIK-BUL-0115",
+    "brand": "Hikvision",
+    "category": "Bullet",
+    "productType": "Camera Thân Analog",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/Bullet/ds-2ce10kf0t-lfs/ds-2ce10kf0t-lfs.html",
+    "price": 1050000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Cảm biến hình ảnh: CMOS 3K",
+      "Độ phân giải: 2960 × 1665 (5MP)",
+      "Hệ thống tín hiệu: PAL/NTSC",
+      "Tốc độ khung hình: TVI: 3K@20fps; 4MP@25/30fps",
+      "Độ nhạy sáng tối thiểu: 0,001 Lux (F1.0, AGC bật); 0 Lux khi bật đèn trắng"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "CMOS 3K"
+      ],
+      [
+        "Độ phân giải",
+        "2960 × 1665 (5MP)"
+      ],
+      [
+        "Hệ thống tín hiệu",
+        "PAL/NTSC"
+      ],
+      [
+        "Tốc độ khung hình",
+        "TVI: 3K@20fps; 4MP@25/30fps"
+      ],
+      [
+        "Độ nhạy sáng tối thiểu",
+        "0,001 Lux (F1.0, AGC bật); 0 Lux khi bật đèn trắng"
+      ],
+      [
+        "Ống kính",
+        "Tiêu cự cố định 2,8 mm hoặc 3,6 mm"
+      ],
+      [
+        "Góc quan sát ngang",
+        "105° (2,8 mm); 80° (3,6 mm)"
+      ],
+      [
+        "Đèn hỗ trợ ban đêm",
+        "ColorVu Smart Hybrid Light"
+      ],
+      [
+        "Tầm chiếu sáng",
+        "20m (hồng ngoại và ánh sáng trắng)"
+      ],
+      [
+        "Micro",
+        "Tích hợp, bán kính thu âm lên đến 5m"
+      ],
+      [
+        "Cổng xuất video",
+        "TVI/AHD/CVI/CVBS, chuyển đổi linh hoạt"
+      ],
+      [
+        "Nguồn điện",
+        "12 VDC ±25%, công suất tối đa 3,9W"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi, nước)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "40°C đến 60°C"
+      ],
+      [
+        "Kích thước",
+        "161,1 × 70 × 70 mm"
+      ],
+      [
+        "Trọng lượng",
+        "Khoảng 400 g"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Hikvision/Bullet/ds-2ce10kf0t-lfs/ds-2ce10kf0t-lfs.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/Bullet/ds-2ce10kf0t-lfs/ds-2ce10kf0t-lfs.jpg"
+  },
+  "DS-2CD1021G2H-LIU": {
+    "name": "Camera IP 2MP HIKVISION DS-2CD1021G2H-LIU",
+    "model": "DS-2CD1021G2H-LIU",
+    "code": "CAM-HIK-BUL-0116",
+    "brand": "Hikvision",
+    "category": "Bullet",
+    "productType": "Camera Thân IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/Bullet/ds-2cd1021g2h-liu/ds-2cd1021g2h-liu.html",
+    "price": 900000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Độ phân giải: 2MP (1920 × 1080)",
+      "Cảm biến hình ảnh: 1/2.9” Progressive Scan CMOS",
+      "Ống kính: Tiêu cự cố định 2.8 mm hoặc 4 mm",
+      "Góc quan sát: 2.8 mm: ngang 101°, dọc 56°; 4 mm: ngang 80°, dọc 44°",
+      "Tầm chiếu sáng: Hồng ngoại 20 m; ánh sáng trắng 15 m"
+    ],
+    "specifications": [
+      [
+        "Độ phân giải",
+        "2MP (1920 × 1080)"
+      ],
+      [
+        "Cảm biến hình ảnh",
+        "1/2.9” Progressive Scan CMOS"
+      ],
+      [
+        "Ống kính",
+        "Tiêu cự cố định 2.8 mm hoặc 4 mm"
+      ],
+      [
+        "Góc quan sát",
+        "2.8 mm: ngang 101°, dọc 56°; 4 mm: ngang 80°, dọc 44°"
+      ],
+      [
+        "Tầm chiếu sáng",
+        "Hồng ngoại 20 m; ánh sáng trắng 15 m"
+      ],
+      [
+        "Tốc độ khung hình",
+        "25 fps (50 Hz) hoặc 30 fps (60 Hz) ở độ phân giải 1080p"
+      ],
+      [
+        "Chuẩn nén video",
+        "H.265+, H.265, H.264+, H.264"
+      ],
+      [
+        "Tính năng hình ảnh",
+        "DWDR, BLC, HLC, 3D DNR"
+      ],
+      [
+        "Âm thanh",
+        "Micro tích hợp"
+      ],
+      [
+        "Giao tiếp mạng",
+        "1 cổng RJ45 10/100 Mbps"
+      ],
+      [
+        "Phát hiện sự kiện",
+        "Phát hiện chuyển động, hỗ trợ nhận diện người"
+      ],
+      [
+        "Nguồn cấp",
+        "12 VDC ± 25% hoặc PoE IEEE 802.3af Class 3"
+      ],
+      [
+        "Công suất tiêu thụ tối đa",
+        "5 W (12 VDC); 6.5 W (PoE)"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi, nước)"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Nhựa"
+      ],
+      [
+        "Kích thước",
+        "138.8 × 60.9 × 57.9 mm"
+      ],
+      [
+        "Trọng lượng",
+        "175 g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "2MP",
+    "image": "/img/Camera/Camera-Hikvision/Bullet/ds-2cd1021g2h-liu/ds-2cd1021g2h-liu.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/Bullet/ds-2cd1021g2h-liu/ds-2cd1021g2h-liu.jpg"
+  },
+  "DS-2CD1123G3-LIU": {
+    "name": "Camera IP 2MP HIKVISION DS-2CD1123G3-LIU",
+    "model": "DS-2CD1123G3-LIU",
+    "code": "CAM-HIK-DOM-0073",
+    "brand": "Hikvision",
+    "category": "Dome",
+    "productType": "Camera Dome IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/Dome/ds-2cd1123g3-liu/ds-2cd1123g3-liu.html",
+    "price": 1290000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Cảm biến hình ảnh: 1/2.9” Progressive Scan CMOS",
+      "Độ phân giải tối đa: 1920 × 1080 pixel (2MP)",
+      "Độ nhạy sáng tối thiểu: 0.003 Lux @ F1.6, AGC ON; 0 Lux với hồng ngoại",
+      "Ống kính: Cố định 2.8mm (tùy chọn 4mm)",
+      "Khẩu độ: F1.6"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "1/2.9” Progressive Scan CMOS"
+      ],
+      [
+        "Độ phân giải tối đa",
+        "1920 × 1080 pixel (2MP)"
+      ],
+      [
+        "Độ nhạy sáng tối thiểu",
+        "0.003 Lux @ F1.6, AGC ON; 0 Lux với hồng ngoại"
+      ],
+      [
+        "Ống kính",
+        "Cố định 2.8mm (tùy chọn 4mm)"
+      ],
+      [
+        "Khẩu độ",
+        "F1.6"
+      ],
+      [
+        "Góc quan sát",
+        "103° (ngang)"
+      ],
+      [
+        "Tầm chiếu sáng bổ trợ",
+        "Tối đa 30m"
+      ],
+      [
+        "Công nghệ chiếu sáng",
+        "Smart Hybrid Light, hồng ngoại và ánh sáng trắng"
+      ],
+      [
+        "Chuẩn nén video",
+        "H.265+, H.265, H.264+, H.264"
+      ],
+      [
+        "Tốc độ khung hình luồng chính",
+        "25 fps (50Hz); 30 fps (60Hz) ở 1920 × 1080"
+      ],
+      [
+        "Âm thanh",
+        "Micro tích hợp"
+      ],
+      [
+        "Phát hiện sự kiện",
+        "Phát hiện chuyển động, phân loại người, phương tiện và động vật"
+      ],
+      [
+        "Cổng mạng",
+        "RJ45 Ethernet 10/100 Mbps"
+      ],
+      [
+        "Nguồn cấp",
+        "12V DC ±25% hoặc PoE IEEE 802.3af"
+      ],
+      [
+        "Công suất tiêu thụ tối đa",
+        "6W (12V DC); 7.5W (PoE)"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67, IK10"
+      ],
+      [
+        "Kích thước",
+        "Ø121.5 × 97.6mm"
+      ],
+      [
+        "Trọng lượng",
+        "Khoảng 480g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "2MP",
+    "image": "/img/Camera/Camera-Hikvision/Dome/ds-2cd1123g3-liu/ds-2cd1123g3-liu.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/Dome/ds-2cd1123g3-liu/ds-2cd1123g3-liu.jpg"
+  },
+  "SenseFP M2": {
+    "name": "Máy chấm công vân tay ZKTeco SenseFP M2",
+    "model": "SenseFP M2",
+    "code": "ATT-ZKT-FIN-0044",
+    "brand": "ZKTeco",
+    "category": "Fingerprint",
+    "productType": "Máy chấm công vân tay",
+    "industry": "Máy chấm công",
+    "link": "/San-pham/may-cham-cong/zkteco/fingerprint/sensefp-m2/sensefp-m2.html",
+    "price": 2650000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "12 tháng",
+    "description": [
+      "Loại thiết bị: Máy chấm công vân tay, kiểm soát ra vào",
+      "Màn hình: LCD màu TFT 2,8 inch, độ phân giải 320 × 240",
+      "Phương thức xác thực: Vân tay, thẻ RFID, mật khẩu",
+      "Dung lượng vân tay: 1.500 mẫu tiêu chuẩn, 3.000 mẫu tùy chọn",
+      "Dung lượng thẻ: 3.000 thẻ"
+    ],
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Máy chấm công vân tay, kiểm soát ra vào"
+      ],
+      [
+        "Màn hình",
+        "LCD màu TFT 2,8 inch, độ phân giải 320 × 240"
+      ],
+      [
+        "Phương thức xác thực",
+        "Vân tay, thẻ RFID, mật khẩu"
+      ],
+      [
+        "Dung lượng vân tay",
+        "1.500 mẫu tiêu chuẩn, 3.000 mẫu tùy chọn"
+      ],
+      [
+        "Dung lượng thẻ",
+        "3.000 thẻ"
+      ],
+      [
+        "Dung lượng người dùng",
+        "3.000 người dùng"
+      ],
+      [
+        "Bộ nhớ giao dịch",
+        "150.000 bản ghi"
+      ],
+      [
+        "Tốc độ xác thực vân tay",
+        "Dưới 1 giây"
+      ],
+      [
+        "Bàn phím",
+        "Bàn phím vật lý 16 phím"
+      ],
+      [
+        "Loại thẻ",
+        "ID 125 kHz tiêu chuẩn; IC 13,56 MHz tùy chọn"
+      ],
+      [
+        "Kết nối mạng",
+        "TCP/IP"
+      ],
+      [
+        "Cổng USB",
+        "USB Type-A × 1, chỉ hỗ trợ USB Flash Drive"
+      ],
+      [
+        "Wi-Fi",
+        "IEEE 802.11b/g/n/ax, băng tần 2,4 GHz (tùy chọn)"
+      ],
+      [
+        "Giao tiếp kiểm soát cửa",
+        "Khóa điện × 1, cảm biến cửa × 1, nút nhấn Exit × 1"
+      ],
+      [
+        "Chức năng tiêu chuẩn",
+        "ADMS, DST, tra cứu bản ghi, chuông theo lịch, cảnh báo tháo gỡ, tự động chuyển đổi trạng thái"
+      ],
+      [
+        "Nguồn cấp",
+        "DC12V"
+      ],
+      [
+        "Pin dự phòng",
+        "Pin lithium 2.000 mAh (tùy chọn)"
+      ],
+      [
+        "Thời gian hoạt động bằng pin",
+        "Tối đa 4 giờ; thời gian chờ tối đa 7 giờ"
+      ],
+      [
+        "Thời gian sạc pin",
+        "Khoảng 5 giờ"
+      ],
+      [
+        "Mobile App",
+        "ZKBio Zlink"
+      ],
+      [
+        "Kích thước",
+        "154 × 138 × 34 mm"
+      ],
+      [
+        "Trọng lượng tịnh",
+        "0,40 kg"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/may-cham-cong/zkteco/fingerprint/sensefp-m2/sensefp-m2.jpg",
+    "thumbnail": "/img/may-cham-cong/zkteco/fingerprint/sensefp-m2/sensefp-m2.jpg"
+  },
+  "DS-2CD1T43G3-LIU": {
+    "name": "Camera IP 4MP HIKVISION DS-2CD1T43G3-LIU",
+    "model": "DS-2CD1T43G3-LIU",
+    "code": "CAM-HIK-BUL-0117",
+    "brand": "Hikvision",
+    "category": "Bullet",
+    "productType": "Camera Thân IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/Bullet/ds-2cd1t43g3-liu/ds-2cd1t43g3-liu.html",
+    "price": 1660000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Cảm biến hình ảnh: 1/3 inch CMOS quét liên tục",
+      "Độ phân giải tối đa: 4MP – 2688 × 1520 pixel",
+      "Ống kính: Tiêu cự cố định 4mm (tùy chọn 2.8mm/6mm)",
+      "Góc quan sát ngang: 103° (2,8 mm); 83° (4 mm); 51° (6 mm)",
+      "Khẩu độ: F1.6"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "1/3 inch CMOS quét liên tục"
+      ],
+      [
+        "Độ phân giải tối đa",
+        "4MP – 2688 × 1520 pixel"
+      ],
+      [
+        "Ống kính",
+        "Tiêu cự cố định 4mm (tùy chọn 2.8mm/6mm)"
+      ],
+      [
+        "Góc quan sát ngang",
+        "103° (2,8 mm); 83° (4 mm); 51° (6 mm)"
+      ],
+      [
+        "Khẩu độ",
+        "F1.6"
+      ],
+      [
+        "Tầm chiếu sáng",
+        "Tối đa 50 m; hỗ trợ Smart Hybrid Light"
+      ],
+      [
+        "Chuẩn nén video",
+        "H.265+, H.265, H.264+, H.264; luồng phụ hỗ trợ MJPEG"
+      ],
+      [
+        "Chống ngược sáng",
+        "WDR 120 dB; hỗ trợ BLC, HLC, 3D DNR"
+      ],
+      [
+        "Âm thanh",
+        "1 micro tích hợp; âm thanh đơn kênh (Mono)"
+      ],
+      [
+        "Phát hiện chuyển động",
+        "Motion Detection 3.0; phân loại người và phương tiện"
+      ],
+      [
+        "Giao diện mạng",
+        "1 cổng RJ45 10/100 Mbps"
+      ],
+      [
+        "Giao thức tích hợp",
+        "ONVIF, ISAPI, EZVIZ, ISUP, SDK"
+      ],
+      [
+        "Cấp nguồn",
+        "DC 12 V ±25% hoặc PoE IEEE 802.3af Class 3"
+      ],
+      [
+        "Công suất tối đa",
+        "6.5 W (DC); 7.5 W (PoE)"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi, nước)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "30°C đến 60°C"
+      ],
+      [
+        "Kích thước",
+        "83.7 × 81 × 201.9 mm"
+      ],
+      [
+        "Khối lượng",
+        "Khoảng 390 g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "4MP",
+    "image": "/img/Camera/Camera-Hikvision/Bullet/ds-2cd1t43g3-liu/ds-2cd1t43g3-liu.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/Bullet/ds-2cd1t43g3-liu/ds-2cd1t43g3-liu.jpg"
+  },
+  "DS-2CD1143G3-LIU": {
+    "name": "Camera IP 4MP HIKVISION DS-2CD1143G3-LIU",
+    "model": "DS-2CD1143G3-LIU",
+    "code": "CAM-HIK-DOM-0074",
+    "brand": "Hikvision",
+    "category": "Dome",
+    "productType": "Camera Dome IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/Dome/ds-2cd1143g3-liu/ds-2cd1143g3-liu.html",
+    "price": 1660000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Cảm biến hình ảnh: 1/3” Progressive Scan CMOS",
+      "Độ phân giải tối đa: 4MP (2688 × 1520 pixel)",
+      "Ống kính: Ống kính cố định 2,8 mm hoặc 4 mm",
+      "Góc nhìn ngang: 103° (2,8 mm); 83° (4 mm)",
+      "Khẩu độ: F1.6"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "1/3” Progressive Scan CMOS"
+      ],
+      [
+        "Độ phân giải tối đa",
+        "4MP (2688 × 1520 pixel)"
+      ],
+      [
+        "Ống kính",
+        "Ống kính cố định 2,8 mm hoặc 4 mm"
+      ],
+      [
+        "Góc nhìn ngang",
+        "103° (2,8 mm); 83° (4 mm)"
+      ],
+      [
+        "Khẩu độ",
+        "F1.6"
+      ],
+      [
+        "Tầm chiếu sáng",
+        "Tối đa 30m (hồng ngoại và ánh sáng trắng)"
+      ],
+      [
+        "Tốc độ khung hình tối đa",
+        "25fps"
+      ],
+      [
+        "Chuẩn nén video",
+        "H.265+, H.265, H.264+, H.264; luồng phụ hỗ trợ MJPEG"
+      ],
+      [
+        "Chống ngược sáng",
+        "WDR 120 dB; BLC, HLC, 3D DNR"
+      ],
+      [
+        "Âm thanh",
+        "1 micro tích hợp; âm thanh đơn kênh"
+      ],
+      [
+        "Phát hiện chuyển động",
+        "Motion Detection 3.0; phân loại mục tiêu bằng học sâu"
+      ],
+      [
+        "Cổng mạng",
+        "1 × RJ45 10/100 Mbps"
+      ],
+      [
+        "Giao thức tích hợp",
+        "ONVIF, ISAPI, ISUP, SDK, EZVIZ"
+      ],
+      [
+        "Nguồn cấp",
+        "12 VDC ±25%, tối đa 6 W; PoE IEEE 802.3af, Class 3, tối đa 7,5 W"
+      ],
+      [
+        "Phần mềm quản lý",
+        "iVMS-4200, Hik-Connect"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67, IK10"
+      ],
+      [
+        "Kích thước",
+        "Ø121,5 × 97,6 mm"
+      ],
+      [
+        "Trọng lượng",
+        "Khoảng 480 g"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "30°C đến 60°C"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "4MP",
+    "image": "/img/Camera/Camera-Hikvision/Dome/ds-2cd1143g3-liu/ds-2cd1143g3-liu.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/Dome/ds-2cd1143g3-liu/ds-2cd1143g3-liu.jpg"
+  },
+  "EB8 Pro 4G Kit": {
+    "name": "Camera IP PT 4G & WiFi dùng pin 8MP EZVIZ EB8 Pro 4G Kit",
+    "model": "EB8 Pro 4G Kit",
+    "code": "CAM-EZV-PTZ-0042",
+    "brand": "Ezviz",
+    "category": "PTZ",
+    "productType": "Camera PTZ IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Ezviz/PTZ/eb8-pro-4g-kit/eb8-pro-4g-kit.html",
+    "price": 5020000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Model: CS-EB8-R200-1M8W4GA, CS-EB8/SP (4K,W4GA)",
+      "Cảm biến hình ảnh: 1/2,8” CMOS quét lũy tiến 8MP",
+      "Độ phân giải tối đa: 4K (3840 × 2160 pixel)",
+      "Ống kính: 4 mm, khẩu độ F1.2",
+      "Góc nhìn: Chéo 104°, ngang 83°, dọc 44°"
+    ],
+    "specifications": [
+      [
+        "Model",
+        "CS-EB8-R200-1M8W4GA, CS-EB8/SP (4K,W4GA)"
+      ],
+      [
+        "Cảm biến hình ảnh",
+        "1/2,8” CMOS quét lũy tiến 8MP"
+      ],
+      [
+        "Độ phân giải tối đa",
+        "4K (3840 × 2160 pixel)"
+      ],
+      [
+        "Ống kính",
+        "4 mm, khẩu độ F1.2"
+      ],
+      [
+        "Góc nhìn",
+        "Chéo 104°, ngang 83°, dọc 44°"
+      ],
+      [
+        "Góc quay quét",
+        "Ngang 340°, dọc 75°"
+      ],
+      [
+        "Tầm nhìn ban đêm",
+        "Hồng ngoại 15m, có chế độ nhìn màu"
+      ],
+      [
+        "Tốc độ khung hình",
+        "Tối đa 15 fps"
+      ],
+      [
+        "Chuẩn nén video",
+        "H.264 / H.265"
+      ],
+      [
+        "Phát hiện thông minh",
+        "AI phát hiện người, phương tiện và động vật"
+      ],
+      [
+        "Tính năng",
+        "AOV 2.0, theo dõi người, đàm thoại hai chiều, còi và đèn cảnh báo"
+      ],
+      [
+        "Kết nối Wi-Fi",
+        "2,4 GHz, IEEE 802.11b/g/n/ax (Wi-Fi 6)"
+      ],
+      [
+        "Kết nối di động",
+        "4G LTE, sử dụng Nano SIM"
+      ],
+      [
+        "Lưu trữ",
+        "Khe thẻ microSD tối đa 512GB; EZVIZ CloudPlay cần đăng ký"
+      ],
+      [
+        "Dung lượng pin camera",
+        "10.400 mAh"
+      ],
+      [
+        "Nguồn camera",
+        "DC 5V/2A, bộ chuyển đổi nguồn mua riêng"
+      ],
+      [
+        "Công suất tiêu thụ camera",
+        "Tối đa 10W"
+      ],
+      [
+        "Công suất tấm pin",
+        "8W ± 5%"
+      ],
+      [
+        "Cổng kết nối tấm pin",
+        "Type-C, cáp dài 3m"
+      ],
+      [
+        "Chuẩn bảo vệ camera/tấm pin",
+        "IP65"
+      ],
+      [
+        "Nhiệt độ hoạt động camera",
+        "20°C đến 50°C"
+      ],
+      [
+        "Nhiệt độ hoạt động tấm pin",
+        "20°C đến 60°C"
+      ],
+      [
+        "Kích thước camera",
+        "184 × 102 × 168 mm"
+      ],
+      [
+        "Kích thước tấm pin",
+        "267,3 × 186,5 × 17,5 mm"
+      ],
+      [
+        "Trọng lượng camera/tấm pin",
+        "810g/907g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "8MP",
+    "image": "/img/Camera/Camera-Ezviz/PTZ/eb8-pro-4g-kit/eb8-pro-4g-kit.jpg",
+    "thumbnail": "/img/Camera/Camera-Ezviz/PTZ/eb8-pro-4g-kit/eb8-pro-4g-kit.jpg"
+  },
+  "DS-2CD1147G3-LIUF": {
+    "name": "Camera IP 4MP HIKVISION DS-2CD1147G3-LIUF",
+    "model": "DS-2CD1147G3-LIUF",
+    "code": "CAM-HIK-DOM-0075",
+    "brand": "Hikvision",
+    "category": "Dome",
+    "productType": "Camera Dome IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/Dome/ds-2cd1147g3-liuf/ds-2cd1147g3-liuf.html",
+    "price": 1840000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Cảm biến hình ảnh: 1/3” Progressive Scan CMOS",
+      "Độ phân giải tối đa: 4MP (2560 × 1440)",
+      "Độ nhạy sáng tối thiểu: 0,0005 lux (F1.0, AGC bật); 0 lux khi bật đèn",
+      "Ống kính: Tiêu cự cố định 2,8 mm hoặc 4 mm",
+      "Góc quan sát ngang: 101,5° (2,8 mm); 84,1° (4 mm)"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "1/3” Progressive Scan CMOS"
+      ],
+      [
+        "Độ phân giải tối đa",
+        "4MP (2560 × 1440)"
+      ],
+      [
+        "Độ nhạy sáng tối thiểu",
+        "0,0005 lux (F1.0, AGC bật); 0 lux khi bật đèn"
+      ],
+      [
+        "Ống kính",
+        "Tiêu cự cố định 2,8 mm hoặc 4 mm"
+      ],
+      [
+        "Góc quan sát ngang",
+        "101,5° (2,8 mm); 84,1° (4 mm)"
+      ],
+      [
+        "Tầm chiếu sáng bổ trợ",
+        "Lên đến 30m, hồng ngoại và ánh sáng trắng"
+      ],
+      [
+        "Tính năng hình ảnh",
+        "ColorVu 3.0, WDR 120 dB, 3D DNR, BLC, HLC"
+      ],
+      [
+        "Phát hiện sự kiện",
+        "Phát hiện chuyển động, phân loại người và phương tiện"
+      ],
+      [
+        "Chuẩn nén video",
+        "H.265+, H.265, H.264+, H.264"
+      ],
+      [
+        "Âm thanh",
+        "Micro tích hợp, lọc nhiễu môi trường"
+      ],
+      [
+        "Lưu trữ trên thiết bị",
+        "Khe thẻ nhớ MicroSD tối đa 512 GB"
+      ],
+      [
+        "Kết nối mạng",
+        "1 cổng RJ45 10/100 Mbps"
+      ],
+      [
+        "Nguồn cấp",
+        "12 VDC ±25% hoặc PoE IEEE 802.3af"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "Tối đa 6 W (12 VDC); 7,5 W (PoE)"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi, nước); IK08 (chống va đập)"
+      ],
+      [
+        "Kích thước",
+        "Ø121,5 × 97,6 mm"
+      ],
+      [
+        "Trọng lượng",
+        "Khoảng 550 g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "4MP",
+    "image": "/img/Camera/Camera-Hikvision/Dome/ds-2cd1147g3-liuf/ds-2cd1147g3-liuf.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/Dome/ds-2cd1147g3-liuf/ds-2cd1147g3-liuf.jpg"
+  },
+  "C9c Dual 3K": {
+    "name": "Camera IP PT WiFi 5MP+5MP EZVIZ C9c Dual 3K",
+    "model": "C9c Dual 3K",
+    "code": "CAM-EZV-PTZ-0043",
+    "brand": "Ezviz",
+    "category": "PTZ",
+    "productType": "Camera PTZ IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Ezviz/PTZ/c9c-dual-3k/c9c-dual-3k.html",
+    "price": 1640000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Model: CS-C9c-R105-8H55WFL",
+      "Loại camera: Camera IP Wi-Fi ngoài trời, 2 ống kính",
+      "Độ phân giải: 3K (2880 × 1620)",
+      "Cảm biến hình ảnh: CMOS quét liên tục 1/3 inch",
+      "Ống kính góc rộng: 2,8 mm, F1.6"
+    ],
+    "specifications": [
+      [
+        "Model",
+        "CS-C9c-R105-8H55WFL"
+      ],
+      [
+        "Loại camera",
+        "Camera IP Wi-Fi ngoài trời, 2 ống kính"
+      ],
+      [
+        "Độ phân giải",
+        "3K (2880 × 1620)"
+      ],
+      [
+        "Cảm biến hình ảnh",
+        "CMOS quét liên tục 1/3 inch"
+      ],
+      [
+        "Ống kính góc rộng",
+        "2,8 mm, F1.6"
+      ],
+      [
+        "Ống kính tele",
+        "6 mm, F1.6"
+      ],
+      [
+        "Góc nhìn ống kính rộng",
+        "Ngang 96°, dọc 54°, chéo 110°"
+      ],
+      [
+        "Góc nhìn ống kính tele",
+        "Ngang 52°, dọc 28°, chéo 60°"
+      ],
+      [
+        "Góc quay quét",
+        "Ống kính trên: xoay ngang 240° thủ công, nghiêng cố định 15°; Ống kính dưới: xoay ngang 350°, nghiêng 80°"
+      ],
+      [
+        "Tầm nhìn ban đêm",
+        "Hồng ngoại 30m; có màu 40m"
+      ],
+      [
+        "Phát hiện thông minh",
+        "AI phát hiện người, phương tiện và chuyển động"
+      ],
+      [
+        "Tính năng âm thanh",
+        "Đàm thoại hai chiều"
+      ],
+      [
+        "Cảnh báo",
+        "Còi báo động và đèn chớp"
+      ],
+      [
+        "Chuẩn nén video",
+        "H.265 / H.264"
+      ],
+      [
+        "Kết nối mạng",
+        "Wi-Fi 2,4 GHz / 5 GHz; Ethernet RJ45 10/100 Mbps"
+      ],
+      [
+        "Lưu trữ",
+        "Khe thẻ nhớ MicroSD tối đa 512 GB; EZVIZ CloudPlay"
+      ],
+      [
+        "Nguồn điện",
+        "DC 12 V / 1,5 A"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "Tối đa 18 W"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "30°C đến 50°C"
+      ],
+      [
+        "Kích thước",
+        "147 × 116 × 142 mm"
+      ],
+      [
+        "Trọng lượng",
+        "626 g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "5MP",
+    "image": "/img/Camera/Camera-Ezviz/PTZ/c9c-dual-3k/c9c-dual-3k.jpg",
+    "thumbnail": "/img/Camera/Camera-Ezviz/PTZ/c9c-dual-3k/c9c-dual-3k.jpg"
+  },
+  "C9c Dual 2K": {
+    "name": "Camera IP PT WiFi 3MP+3MP EZVIZ C9c Dual 2K",
+    "model": "C9c Dual 2K",
+    "code": "CAM-EZV-PTZ-0044",
+    "brand": "Ezviz",
+    "category": "PTZ",
+    "productType": "Camera PTZ IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Ezviz/PTZ/c9c-dual-2k/c9c-dual-2k.html",
+    "price": 1530000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Model: CS-C9c-R105-8H33WFL",
+      "Loại camera: Camera Wi-Fi ngoài trời, 2 ống kính",
+      "Cảm biến hình ảnh: 1/3 inch CMOS quét liên tục",
+      "Độ phân giải: 2K (2304 × 1296 pixel)",
+      "Ống kính trên: 2,8 mm, khẩu độ F1.6"
+    ],
+    "specifications": [
+      [
+        "Model",
+        "CS-C9c-R105-8H33WFL"
+      ],
+      [
+        "Loại camera",
+        "Camera Wi-Fi ngoài trời, 2 ống kính"
+      ],
+      [
+        "Cảm biến hình ảnh",
+        "1/3 inch CMOS quét liên tục"
+      ],
+      [
+        "Độ phân giải",
+        "2K (2304 × 1296 pixel)"
+      ],
+      [
+        "Ống kính trên",
+        "2,8 mm, khẩu độ F1.6"
+      ],
+      [
+        "Ống kính dưới",
+        "6 mm, khẩu độ F1.6"
+      ],
+      [
+        "Góc nhìn ống kính trên",
+        "Chéo 110°, ngang 96°, dọc 54°"
+      ],
+      [
+        "Góc nhìn ống kính dưới",
+        "Chéo 60°, ngang 52°, dọc 28°"
+      ],
+      [
+        "Góc quay quét",
+        "Ống kính trên: xoay ngang 0–240° thủ công, nghiêng cố định 15°; Ống kính dưới: xoay ngang 350°, nghiêng 80°"
+      ],
+      [
+        "Tầm nhìn ban đêm",
+        "Hồng ngoại 30m; có màu 40m"
+      ],
+      [
+        "Phát hiện thông minh",
+        "AI phát hiện người, phương tiện; phát hiện chuyển động"
+      ],
+      [
+        "Chức năng giám sát",
+        "Theo dõi tự động, điểm đặt trước, tuần tra, đổi chế độ xem liên kết"
+      ],
+      [
+        "Âm thanh",
+        "Đàm thoại hai chiều, phát lời nhắn thoại ghi sẵn"
+      ],
+      [
+        "Cảnh báo",
+        "Còi hú và đèn chớp"
+      ],
+      [
+        "Kết nối không dây",
+        "Wi-Fi 2,4 GHz / 5 GHz"
+      ],
+      [
+        "Kết nối có dây",
+        "1 cổng Ethernet RJ45 10/100 Mbps"
+      ],
+      [
+        "Chuẩn nén video",
+        "H.265 / H.264"
+      ],
+      [
+        "Lưu trữ",
+        "Khe thẻ MicroSD tối đa 512GB; EZVIZ CloudPlay (cần đăng ký)"
+      ],
+      [
+        "Nguồn điện",
+        "DC 12 V / 1,5 A"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "Tối đa 18 W"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "30°C đến 50°C"
+      ],
+      [
+        "Kích thước",
+        "147 × 116 × 142 mm"
+      ],
+      [
+        "Trọng lượng",
+        "626 g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "3MP",
+    "image": "/img/Camera/Camera-Ezviz/PTZ/c9c-dual-2k/c9c-dual-2k.jpg",
+    "thumbnail": "/img/Camera/Camera-Ezviz/PTZ/c9c-dual-2k/c9c-dual-2k.jpg"
+  },
+  "H6C G1 2K": {
+    "name": "Camera IP PT WiFi 3MP EZVIZ H6C G1 2K",
+    "model": "H6C G1 2K",
+    "code": "CAM-EZV-PTZ-0045",
+    "brand": "Ezviz",
+    "category": "PTZ",
+    "productType": "Camera PTZ IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Ezviz/PTZ/h6c-g1-2k/h6c-g1-2k.html",
+    "price": 470000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Model: CS-H6c-R200-1L3WFL",
+      "Loại camera: Camera Wi-Fi quay quét trong nhà",
+      "Cảm biến hình ảnh: CMOS quét liên tục 1/2.7 inch",
+      "Độ phân giải tối đa: 2K (2304 × 1296 pixel)",
+      "Ống kính: 4 mm, khẩu độ F2.0"
+    ],
+    "specifications": [
+      [
+        "Model",
+        "CS-H6c-R200-1L3WFL"
+      ],
+      [
+        "Loại camera",
+        "Camera Wi-Fi quay quét trong nhà"
+      ],
+      [
+        "Cảm biến hình ảnh",
+        "CMOS quét liên tục 1/2.7 inch"
+      ],
+      [
+        "Độ phân giải tối đa",
+        "2K (2304 × 1296 pixel)"
+      ],
+      [
+        "Ống kính",
+        "4 mm, khẩu độ F2.0"
+      ],
+      [
+        "Góc nhìn ống kính",
+        "98° chéo, 83° ngang, 44° dọc"
+      ],
+      [
+        "Góc quay quét",
+        "350° ngang, 85° dọc"
+      ],
+      [
+        "Quan sát ban đêm",
+        "Có màu thông minh, tầm xa tối đa 10m"
+      ],
+      [
+        "Công nghệ xử lý hình ảnh",
+        "3D DNR, WDR kỹ thuật số"
+      ],
+      [
+        "Chuẩn nén video",
+        "H.264 / H.265"
+      ],
+      [
+        "Phát hiện thông minh",
+        "Phát hiện chuyển động, hình dáng người bằng AI, tiếng ồn lớn"
+      ],
+      [
+        "Kết nối mạng",
+        "Wi-Fi 2,4 GHz, Ethernet RJ45 10/100 Mbps"
+      ],
+      [
+        "Chuẩn Wi-Fi",
+        "IEEE 802.11a/b/g/n"
+      ],
+      [
+        "Lưu trữ",
+        "Khe thẻ nhớ microSD tối đa 512 GB, EZVIZ CloudPlay tùy khu vực"
+      ],
+      [
+        "Nguồn điện",
+        "DC 5V / 1A, cổng nguồn Type-C"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "Tối đa 5 W"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "10°C đến 45°C"
+      ],
+      [
+        "Kích thước",
+        "88 × 88 × 113 mm"
+      ],
+      [
+        "Trọng lượng",
+        "222 g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "3MP",
+    "image": "/img/Camera/Camera-Ezviz/PTZ/h6c-g1-2k/h6c-g1-2k.jpg",
+    "thumbnail": "/img/Camera/Camera-Ezviz/PTZ/h6c-g1-2k/h6c-g1-2k.jpg"
+  },
+  "DS-2CD1043G3-LIU": {
+    "name": "Camera IP 4MP Hikvision DS-2CD1043G3-LIU",
+    "model": "DS-2CD1043G3-LIU",
+    "code": "CAM-HIK-BUL-0118",
+    "brand": "Hikvision",
+    "category": "Bullet",
+    "productType": "Camera Thân IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/Bullet/ds-2cd1043g3-liu/ds-2cd1043g3-liu.html",
+    "price": 1590000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Cảm biến hình ảnh: 1/3” Progressive Scan CMOS",
+      "Độ phân giải tối đa: 2688 × 1520 pixel (4MP)",
+      "Độ nhạy sáng tối thiểu: Có màu: 0,003 lux @ F1.6, AGC bật; trắng đen: 0 lux khi bật IR",
+      "Ống kính: Tiêu cự cố định 2,8 mm hoặc 4 mm",
+      "Góc quan sát: 2,8 mm: ngang 98°, dọc 54°, chéo 115°; 4 mm: ngang 79°, dọc 42°, chéo 93°"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "1/3” Progressive Scan CMOS"
+      ],
+      [
+        "Độ phân giải tối đa",
+        "2688 × 1520 pixel (4MP)"
+      ],
+      [
+        "Độ nhạy sáng tối thiểu",
+        "Có màu: 0,003 lux @ F1.6, AGC bật; trắng đen: 0 lux khi bật IR"
+      ],
+      [
+        "Ống kính",
+        "Tiêu cự cố định 2,8 mm hoặc 4 mm"
+      ],
+      [
+        "Góc quan sát",
+        "2,8 mm: ngang 98°, dọc 54°, chéo 115°; 4 mm: ngang 79°, dọc 42°, chéo 93°"
+      ],
+      [
+        "Chiếu sáng bổ trợ",
+        "30m (IR + đèn trắng)"
+      ],
+      [
+        "Tốc độ khung hình",
+        "Luồng chính: 25 fps ở 50 Hz, 24 fps ở 60 Hz tại độ phân giải tối đa"
+      ],
+      [
+        "Chuẩn nén video",
+        "Luồng chính: H.265+/H.265/H.264+/H.264; luồng phụ: H.265/H.264/MJPEG"
+      ],
+      [
+        "Tính năng hình ảnh",
+        "WDR 120 dB, BLC, HLC, 3D DNR, 4 vùng che riêng tư"
+      ],
+      [
+        "Phát hiện sự kiện",
+        "Motion Detection 3.0, phát hiện người/phương tiện, cảnh báo giả mạo video"
+      ],
+      [
+        "Âm thanh",
+        "Micro tích hợp"
+      ],
+      [
+        "Giao thức và phần mềm",
+        "ONVIF, ISAPI, SDK, ISUP; iVMS-4200, Hik-Connect"
+      ],
+      [
+        "Cổng mạng",
+        "1 × RJ45 10/100 Mbps tự thích ứng"
+      ],
+      [
+        "Nguồn cấp",
+        "12 VDC ±25%, tối đa 6,6 W; PoE IEEE 802.3af, Class 3, tối đa 8 W"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi và nước)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "30°C đến 60°C"
+      ],
+      [
+        "Kích thước",
+        "69,1 × 66,9 × 172,9 mm"
+      ],
+      [
+        "Trọng lượng",
+        "khoảng 280 g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "4MP",
+    "image": "/img/Camera/Camera-Hikvision/Bullet/ds-2cd1043g3-liu/ds-2cd1043g3-liu.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/Bullet/ds-2cd1043g3-liu/ds-2cd1043g3-liu.jpg"
+  },
+  "C6N G1 2K": {
+    "name": "Camera IP WiFi quay quét 3MP EZVIZ C6N G1 2K",
+    "model": "C6N G1 2K",
+    "code": "CAM-EZV-PTZ-0046",
+    "brand": "Ezviz",
+    "category": "PTZ",
+    "productType": "Camera PTZ IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Ezviz/PTZ/c6n-g1-2k/c6n-g1-2k.html",
+    "price": 460000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Độ phân giải tối đa: 2K (2304 × 1296 pixel)",
+      "Cảm biến hình ảnh: CMOS Progressive Scan 1/2.7\"",
+      "Khẩu độ: F2.0",
+      "Ống kính: 4 mm @ F2.0",
+      "Góc quan sát: 98° (đường chéo), 83° (ngang), 44° (dọc)"
+    ],
+    "specifications": [
+      [
+        "Độ phân giải tối đa",
+        "2K (2304 × 1296 pixel)"
+      ],
+      [
+        "Cảm biến hình ảnh",
+        "CMOS Progressive Scan 1/2.7\""
+      ],
+      [
+        "Khẩu độ",
+        "F2.0"
+      ],
+      [
+        "Ống kính",
+        "4 mm @ F2.0"
+      ],
+      [
+        "Góc quan sát",
+        "98° (đường chéo), 83° (ngang), 44° (dọc)"
+      ],
+      [
+        "Quay – Quét",
+        "350° ngang, 85° dọc"
+      ],
+      [
+        "Tốc độ màn trập",
+        "Tự động thích ứng"
+      ],
+      [
+        "Chế độ ngày/đêm",
+        "Bộ lọc IR-cut tự động chuyển đổi"
+      ],
+      [
+        "Tầm xa IR",
+        "Tối đa 10 m"
+      ],
+      [
+        "WDR",
+        "Digital WDR"
+      ],
+      [
+        "Giảm nhiễu",
+        "3D DNR"
+      ],
+      [
+        "Nén video",
+        "H.264 / H.265"
+      ],
+      [
+        "Tốc độ khung hình",
+        "Tự động thích ứng theo điều kiện truyền mạng"
+      ],
+      [
+        "Phát hiện thông minh",
+        "Phát hiện chuyển động của người, nhận diện hình dáng người bằng AI, phát hiện âm thanh lớn"
+      ],
+      [
+        "Đàm thoại hai chiều",
+        "Có"
+      ],
+      [
+        "Kết nối Wi-Fi",
+        "IEEE 802.11b/g/n"
+      ],
+      [
+        "Bảo mật Wi-Fi",
+        "WPA/WPA2, WPA-PSK/WPA2-PSK"
+      ],
+      [
+        "Độ lợi anten",
+        "0.51 dBi"
+      ],
+      [
+        "Ghép nối Wi-Fi",
+        "AP Pairing / Bluetooth Pairing"
+      ],
+      [
+        "Kết nối mạng có dây",
+        "1 × RJ45 Ethernet 10/100 Mbps tự động thích ứng"
+      ],
+      [
+        "Lưu trữ",
+        "Hỗ trợ khe thẻ nhớ tối đa 512 GB"
+      ],
+      [
+        "Nguồn kết nối",
+        "USB Type-C"
+      ],
+      [
+        "Nguồn điện",
+        "DC 5 V / 1 A"
+      ],
+      [
+        "Công suất tiêu thụ tối đa",
+        "5 W"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "10°C đến 45°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "≤95%, không ngưng tụ"
+      ],
+      [
+        "Kích thước sản phẩm",
+        "88 × 88 × 113 mm"
+      ],
+      [
+        "Trọng lượng",
+        "222 g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "3MP",
+    "image": "/img/Camera/Camera-Ezviz/PTZ/c6n-g1-2k/c6n-g1-2k.jpg",
+    "thumbnail": "/img/Camera/Camera-Ezviz/PTZ/c6n-g1-2k/c6n-g1-2k.jpg"
+  },
+  "RG-ES224GC2MS": {
+    "name": "24-Port GE Switch Ruijie Reyee RG-ES224GC2MS",
+    "model": "RG-ES224GC2MS",
+    "code": "NET-RUI-SWT-0107",
+    "brand": "Ruijie",
+    "category": "Switch",
+    "productType": "Switch mạng",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/Ruijie/Switch/rg-es224gc2ms/rg-es224gc2ms.html",
+    "price": 2970000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "3 năm",
+    "description": [
+      "Loại thiết bị: Smart Cloud-Managed L2 Switch",
+      "Cổng RJ45: 24 × 10/100/1000BASE-T",
+      "Cổng quang: 2 × 2.5GE SFP",
+      "Tổng số cổng: 26 cổng",
+      "Switching Capacity: 58Gbps"
+    ],
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Smart Cloud-Managed L2 Switch"
+      ],
+      [
+        "Cổng RJ45",
+        "24 × 10/100/1000BASE-T"
+      ],
+      [
+        "Cổng quang",
+        "2 × 2.5GE SFP"
+      ],
+      [
+        "Tổng số cổng",
+        "26 cổng"
+      ],
+      [
+        "Switching Capacity",
+        "58Gbps"
+      ],
+      [
+        "Forwarding Rate",
+        "43.15Mpps"
+      ],
+      [
+        "MAC Address Table",
+        "16.000 địa chỉ"
+      ],
+      [
+        "VLAN",
+        "Tối đa 32 VLAN, IEEE 802.1Q"
+      ],
+      [
+        "Jumbo Frame",
+        "12.000 bytes"
+      ],
+      [
+        "Link Aggregation",
+        "Static Aggregation"
+      ],
+      [
+        "ERPS",
+        "Có"
+      ],
+      [
+        "Port Isolation",
+        "Có"
+      ],
+      [
+        "DHCP Snooping",
+        "Có"
+      ],
+      [
+        "Storm Control",
+        "Broadcast / Multicast / Unknown Unicast"
+      ],
+      [
+        "Quản lý",
+        "Ruijie Cloud / Ruijie Reyee App / eWeb"
+      ],
+      [
+        "Thiết kế tản nhiệt",
+        "Fanless – Natural Cooling"
+      ],
+      [
+        "Nguồn điện",
+        "100–240V AC, 50/60Hz"
+      ],
+      [
+        "Công suất tiêu thụ tối đa",
+        "18W"
+      ],
+      [
+        "Kích thước (W × D × H)",
+        "440 × 165 × 44mm"
+      ],
+      [
+        "Trọng lượng",
+        "1,74kg"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "0°C đến 40°C"
+      ],
+      [
+        "Bảo vệ xung điện",
+        "6kV"
+      ],
+      [
+        "MTBF",
+        "200.000 giờ"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/Ruijie/Switch/rg-es224gc2ms/rg-es224gc2ms.jpg",
+    "thumbnail": "/img/thiet-bi-mang/Ruijie/Switch/rg-es224gc2ms/rg-es224gc2ms.jpg"
+  },
+  "RG-ES216GC2MS": {
+    "name": "16-Port GE Switch Ruijie Reyee RG-ES216GC2MS",
+    "model": "RG-ES216GC2MS",
+    "code": "NET-RUI-SWT-0108",
+    "brand": "Ruijie",
+    "category": "Switch",
+    "productType": "Switch mạng",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/Ruijie/Switch/rg-es216gc2ms/rg-es216gc2ms.html",
+    "price": 2310000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "3 năm",
+    "description": [
+      "Loại thiết bị: Smart Cloud-Managed Non-PoE Switch",
+      "Layer: Layer 2",
+      "Cổng RJ45: 16 × 10/100/1000BASE-T",
+      "Cổng quang: 2 × 2.5GE SFP",
+      "Tổng số cổng quang: 2"
+    ],
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Smart Cloud-Managed Non-PoE Switch"
+      ],
+      [
+        "Layer",
+        "Layer 2"
+      ],
+      [
+        "Cổng RJ45",
+        "16 × 10/100/1000BASE-T"
+      ],
+      [
+        "Cổng quang",
+        "2 × 2.5GE SFP"
+      ],
+      [
+        "Tổng số cổng quang",
+        "2"
+      ],
+      [
+        "Switching Capacity",
+        "42Gbps"
+      ],
+      [
+        "Forwarding Rate",
+        "31.25Mpps"
+      ],
+      [
+        "MAC Address Table",
+        "16.000 địa chỉ"
+      ],
+      [
+        "VLAN",
+        "Tối đa 32 VLAN"
+      ],
+      [
+        "Link Aggregation",
+        "Static Link Aggregation"
+      ],
+      [
+        "ERPS",
+        "Có"
+      ],
+      [
+        "Jumbo Frame",
+        "12.000 bytes"
+      ],
+      [
+        "Port Isolation",
+        "Có"
+      ],
+      [
+        "Quản lý",
+        "Ruijie Cloud / Ruijie Reyee App"
+      ],
+      [
+        "Thiết kế tản nhiệt",
+        "Fanless – Natural Cooling"
+      ],
+      [
+        "Nguồn điện",
+        "100–240V AC, 50/60Hz"
+      ],
+      [
+        "Công suất tiêu thụ tối đa",
+        "13W"
+      ],
+      [
+        "Kích thước (W × D × H)",
+        "440 × 165 × 44mm"
+      ],
+      [
+        "Trọng lượng",
+        "1,66kg"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "0°C đến 40°C"
+      ],
+      [
+        "Bảo vệ xung điện",
+        "6kV"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/Ruijie/Switch/rg-es216gc2ms/rg-es216gc2ms.jpg",
+    "thumbnail": "/img/thiet-bi-mang/Ruijie/Switch/rg-es216gc2ms/rg-es216gc2ms.jpg"
+  },
+  "RG-ES208GC-V2": {
+    "name": "8-Port GE Managed Ruijie Reyee RG-ES208GC-V2",
+    "model": "RG-ES208GC-V2",
+    "code": "NET-RUI-ACC-0022",
+    "brand": "Ruijie",
+    "category": "Other",
+    "productType": "Phụ kiện mạng",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/Ruijie/thiet-bi-khac/rg-es208gc-v2/rg-es208gc-v2.html",
+    "price": 780000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "3 năm",
+    "description": [
+      "Loại thiết bị: Switch Layer 2 Smart Cloud Managed",
+      "Số cổng mạng: 8 cổng",
+      "Chuẩn cổng Ethernet: 8 × 10/100/1000BASE-T",
+      "Băng thông chuyển mạch: 16 Gbps",
+      "Tốc độ chuyển tiếp: 11,90 Mpps"
+    ],
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Switch Layer 2 Smart Cloud Managed"
+      ],
+      [
+        "Số cổng mạng",
+        "8 cổng"
+      ],
+      [
+        "Chuẩn cổng Ethernet",
+        "8 × 10/100/1000BASE-T"
+      ],
+      [
+        "Băng thông chuyển mạch",
+        "16 Gbps"
+      ],
+      [
+        "Tốc độ chuyển tiếp",
+        "11,90 Mpps"
+      ],
+      [
+        "Bộ nhớ Flash",
+        "8 MB"
+      ],
+      [
+        "Số lượng VLAN tối đa",
+        "32 VLAN"
+      ],
+      [
+        "Bảng địa chỉ MAC",
+        "16.000 địa chỉ"
+      ],
+      [
+        "Jumbo Frame",
+        "10.240 bytes"
+      ],
+      [
+        "Tính năng quản lý",
+        "eWeb, Ruijie Cloud, Ruijie Reyee App"
+      ],
+      [
+        "Tính năng nổi bật",
+        "AI-powered Failover, Camera Detection"
+      ],
+      [
+        "Tính năng bảo mật",
+        "Port Isolation, Storm Control, DHCP Snooping"
+      ],
+      [
+        "Nguồn điện",
+        "Adapter DC 5V/1A"
+      ],
+      [
+        "Công suất tiêu thụ tối đa",
+        "3,5W"
+      ],
+      [
+        "Vỏ thiết bị",
+        "Kim loại"
+      ],
+      [
+        "Thiết kế làm mát",
+        "Không quạt, làm mát tự nhiên"
+      ],
+      [
+        "Kích thước",
+        "155 × 78 × 28 mm"
+      ],
+      [
+        "Khối lượng",
+        "0,27 kg"
+      ],
+      [
+        "Kiểu lắp đặt",
+        "Để bàn hoặc treo tường"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "0°C đến 40°C"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/Ruijie/thiet-bi-khac/rg-es208gc-v2/rg-es208gc-v2.jpg",
+    "thumbnail": "/img/thiet-bi-mang/Ruijie/thiet-bi-khac/rg-es208gc-v2/rg-es208gc-v2.jpg"
+  },
+  "RG-ES205GC-V2": {
+    "name": "5-Port GE Managed Switch Ruijie Reyee RG-ES205GC-V2",
+    "model": "RG-ES205GC-V2",
+    "code": "NET-RUI-SWT-0109",
+    "brand": "Ruijie",
+    "category": "Switch",
+    "productType": "Switch mạng",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/Ruijie/Switch/rg-es205gc-v2/rg-es205gc-v2.html",
+    "price": 670000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "3 năm",
+    "description": [
+      "Loại thiết bị: Switch Layer 2 Smart Cloud-Managed",
+      "Số cổng mạng: 5 cổng",
+      "Chuẩn cổng Ethernet: 5 × 10/100/1000BASE-T",
+      "Cổng SFP: Không",
+      "Băng thông chuyển mạch: 10 Gbps"
+    ],
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Switch Layer 2 Smart Cloud-Managed"
+      ],
+      [
+        "Số cổng mạng",
+        "5 cổng"
+      ],
+      [
+        "Chuẩn cổng Ethernet",
+        "5 × 10/100/1000BASE-T"
+      ],
+      [
+        "Cổng SFP",
+        "Không"
+      ],
+      [
+        "Băng thông chuyển mạch",
+        "10 Gbps"
+      ],
+      [
+        "Tốc độ chuyển tiếp",
+        "7,44 Mpps"
+      ],
+      [
+        "Bộ nhớ Flash",
+        "8 MB"
+      ],
+      [
+        "Số lượng VLAN tối đa",
+        "32 VLAN"
+      ],
+      [
+        "Bảng địa chỉ MAC",
+        "2.000 địa chỉ"
+      ],
+      [
+        "Jumbo Frame",
+        "9.216 bytes"
+      ],
+      [
+        "Tính năng quản lý",
+        "eWeb, Ruijie Cloud, Reyee App"
+      ],
+      [
+        "Tính năng bảo mật",
+        "Port Isolation, Storm Control, DHCP Snooping"
+      ],
+      [
+        "Camera Detection",
+        "Có"
+      ],
+      [
+        "Nguồn điện",
+        "Adapter DC 5V/1A"
+      ],
+      [
+        "Công suất tiêu thụ tối đa",
+        "2,5W"
+      ],
+      [
+        "Vỏ thiết bị",
+        "Kim loại"
+      ],
+      [
+        "Thiết kế làm mát",
+        "Không quạt, làm mát tự nhiên"
+      ],
+      [
+        "Kích thước",
+        "121 × 62 × 28 mm"
+      ],
+      [
+        "Khối lượng",
+        "0,19 kg"
+      ],
+      [
+        "Kiểu lắp đặt",
+        "Để bàn hoặc treo tường"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "0°C đến 40°C"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/Ruijie/Switch/rg-es205gc-v2/rg-es205gc-v2.jpg",
+    "thumbnail": "/img/thiet-bi-mang/Ruijie/Switch/rg-es205gc-v2/rg-es205gc-v2.jpg"
+  },
+  "RG-ES228GS-P-V2": {
+    "name": "26-Port GE PoE Switch Ruijie Reyee RG-ES228GS-P-V2",
+    "model": "RG-ES228GS-P-V2",
+    "code": "NET-RUI-SWT-0110",
+    "brand": "Ruijie",
+    "category": "Switch",
+    "productType": "Switch PoE",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/Ruijie/Switch/rg-es228gs-p-v2/rg-es228gs-p-v2.html",
+    "price": 7180000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "3 năm",
+    "description": [
+      "Loại thiết bị: Switch Layer 2 Smart Cloud Managed",
+      "Tổng số cổng RJ45: 26 cổng",
+      "Cổng Gigabit Ethernet: 26 × 10/100/1000BASE-T",
+      "Cổng quang: 2 × 1GE SFP",
+      "Số cổng PoE: 24 cổng"
+    ],
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Switch Layer 2 Smart Cloud Managed"
+      ],
+      [
+        "Tổng số cổng RJ45",
+        "26 cổng"
+      ],
+      [
+        "Cổng Gigabit Ethernet",
+        "26 × 10/100/1000BASE-T"
+      ],
+      [
+        "Cổng quang",
+        "2 × 1GE SFP"
+      ],
+      [
+        "Số cổng PoE",
+        "24 cổng"
+      ],
+      [
+        "Chuẩn PoE",
+        "IEEE 802.3af/at – PoE/PoE+"
+      ],
+      [
+        "Tổng công suất PoE",
+        "370W"
+      ],
+      [
+        "Băng thông chuyển mạch",
+        "56 Gbps"
+      ],
+      [
+        "Tốc độ chuyển tiếp",
+        "41,66 Mpps"
+      ],
+      [
+        "Số lượng địa chỉ MAC",
+        "16.000"
+      ],
+      [
+        "Số lượng VLAN tối đa",
+        "32 VLAN"
+      ],
+      [
+        "Jumbo Frame",
+        "12.000 bytes"
+      ],
+      [
+        "Tính năng nổi bật",
+        "Camera Detection, PoE Watchdog, AI Failover, ERPS"
+      ],
+      [
+        "Quản lý",
+        "eWeb, Ruijie Cloud, Ruijie Reyee App"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "25W không tải PoE / tối đa 426W"
+      ],
+      [
+        "Nguồn điện",
+        "100–240V AC, 50/60Hz"
+      ],
+      [
+        "Kích thước",
+        "440 × 215 × 44 mm"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Kim loại"
+      ],
+      [
+        "Lắp đặt",
+        "Để bàn hoặc gắn tủ rack"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "0°C đến 40°C"
+      ],
+      [
+        "Trọng lượng",
+        "2.82kg"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/Ruijie/Switch/rg-es228gs-p-v2/rg-es228gs-p-v2.jpg",
+    "thumbnail": "/img/thiet-bi-mang/Ruijie/Switch/rg-es228gs-p-v2/rg-es228gs-p-v2.jpg"
+  },
+  "RG-ES211GS-P": {
+    "name": "11-Port GE PoE Switch Ruijie Reyee RG-ES211GS-P",
+    "model": "RG-ES211GS-P",
+    "code": "NET-RUI-SWT-0111",
+    "brand": "Ruijie",
+    "category": "Switch",
+    "productType": "Switch PoE",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/Ruijie/Switch/rg-es211gs-p/rg-es211gs-p.html",
+    "price": 2420000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "3 năm",
+    "description": [
+      "Loại thiết bị: Smart Cloud-Managed PoE Switch L2",
+      "Tổng số cổng: 11 cổng Gigabit",
+      "Cổng RJ45: 10 × 10/100/1000BASE-T",
+      "Cổng SFP: 1 × 1GE SFP",
+      "Cổng PoE/PoE+: 8 cổng"
+    ],
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Smart Cloud-Managed PoE Switch L2"
+      ],
+      [
+        "Tổng số cổng",
+        "11 cổng Gigabit"
+      ],
+      [
+        "Cổng RJ45",
+        "10 × 10/100/1000BASE-T"
+      ],
+      [
+        "Cổng SFP",
+        "1 × 1GE SFP"
+      ],
+      [
+        "Cổng PoE/PoE+",
+        "8 cổng"
+      ],
+      [
+        "Chuẩn PoE",
+        "IEEE 802.3af/at"
+      ],
+      [
+        "Công suất PoE",
+        "120W"
+      ],
+      [
+        "Công suất PoE tối đa/cổng",
+        "30W"
+      ],
+      [
+        "Switching Capacity",
+        "22Gbps"
+      ],
+      [
+        "Forwarding Rate",
+        "16.37Mpps"
+      ],
+      [
+        "Địa chỉ MAC",
+        "16K"
+      ],
+      [
+        "VLAN",
+        "IEEE 802.1Q, tối đa 32 VLAN"
+      ],
+      [
+        "PoE Watchdog",
+        "Có"
+      ],
+      [
+        "Port Isolation",
+        "Có"
+      ],
+      [
+        "Bảo vệ chống xung điện",
+        "6kV"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "0°C đến 40°C"
+      ],
+      [
+        "Thiết kế tản nhiệt",
+        "Fanless – không quạt"
+      ],
+      [
+        "Quản lý",
+        "Ruijie Cloud"
+      ],
+      [
+        "Kích thước",
+        "205 x 105 x 28 mm"
+      ],
+      [
+        "Trọng lượng",
+        "0.45kg"
+      ],
+      [
+        "Vật liệu vỏ",
+        "Kim loại"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/Ruijie/Switch/rg-es211gs-p/rg-es211gs-p.jpg",
+    "thumbnail": "/img/thiet-bi-mang/Ruijie/Switch/rg-es211gs-p/rg-es211gs-p.jpg"
+  },
+  "RG-ES211GS-LP": {
+    "name": "11-Port GE PoE Switch Ruijie Reyee RG-ES211GS-LP",
+    "model": "RG-ES211GS-LP",
+    "code": "NET-RUI-SWT-0112",
+    "brand": "Ruijie",
+    "category": "Switch",
+    "productType": "Switch PoE",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/Ruijie/Switch/rg-es211gs-lp/rg-es211gs-lp.html",
+    "price": 1890000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "3 năm",
+    "description": [
+      "Loại thiết bị: Switch Gigabit PoE Layer 2",
+      "Tổng số cổng: 11 cổng",
+      "Cổng RJ45: 10 × 10/100/1000BASE-T",
+      "Cổng SFP: 1 × 1GE SFP",
+      "Cổng PoE: 8 × PoE/PoE+"
+    ],
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Switch Gigabit PoE Layer 2"
+      ],
+      [
+        "Tổng số cổng",
+        "11 cổng"
+      ],
+      [
+        "Cổng RJ45",
+        "10 × 10/100/1000BASE-T"
+      ],
+      [
+        "Cổng SFP",
+        "1 × 1GE SFP"
+      ],
+      [
+        "Cổng PoE",
+        "8 × PoE/PoE+"
+      ],
+      [
+        "Tổng công suất PoE",
+        "70W"
+      ],
+      [
+        "Chuẩn PoE",
+        "IEEE 802.3af/at"
+      ],
+      [
+        "Chống sét",
+        "6kV"
+      ],
+      [
+        "Switching Capacity",
+        "22 Gbps"
+      ],
+      [
+        "Forwarding Rate",
+        "16,37 Mpps"
+      ],
+      [
+        "Bộ nhớ MAC",
+        "16K địa chỉ MAC"
+      ],
+      [
+        "VLAN",
+        "32"
+      ],
+      [
+        "Chuẩn mạng",
+        "IEEE 802.3, 802.3u, 802.3x, 802.3ab"
+      ],
+      [
+        "Chế độ chuyển mạch",
+        "Store-and-Forward"
+      ],
+      [
+        "Tính năng",
+        "IPC Recognition, PoE Watchdog, Port Isolation, Link Aggregation"
+      ],
+      [
+        "Nguồn điện",
+        "AC 100–240V, 50/60Hz"
+      ],
+      [
+        "Công suất tiêu thụ tối đa",
+        "Khoảng 80W"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "0°C đến 40°C"
+      ],
+      [
+        "Kích thước",
+        "Khoảng 280 × 126 × 44 mm"
+      ],
+      [
+        "Trọng lượng",
+        "0.45kg"
+      ],
+      [
+        "Vật liệu vỏ",
+        "Kim loại"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/Ruijie/Switch/rg-es211gs-lp/rg-es211gs-lp.jpg",
+    "thumbnail": "/img/thiet-bi-mang/Ruijie/Switch/rg-es211gs-lp/rg-es211gs-lp.jpg"
+  },
+  "RG-ES207GS-P": {
+    "name": "4-Port GE PoE Switch RUIJIE RG-ES207GS-P",
+    "model": "RG-ES207GS-P",
+    "code": "NET-RUI-SWT-0113",
+    "brand": "Ruijie",
+    "category": "Switch",
+    "productType": "Switch PoE",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/Ruijie/Switch/rg-es207gs-p/rg-es207gs-p.html",
+    "price": 1490000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "3 năm",
+    "description": [
+      "Cổng mạng: 6 × 10/100/1000BASE-T",
+      "Cổng quang: 1 × 1GE SFP",
+      "Cổng PoE: 4 × PoE/PoE+",
+      "Chuẩn PoE: IEEE 802.3af/at",
+      "Tổng công suất PoE: 54 W"
+    ],
+    "specifications": [
+      [
+        "Cổng mạng",
+        "6 × 10/100/1000BASE-T"
+      ],
+      [
+        "Cổng quang",
+        "1 × 1GE SFP"
+      ],
+      [
+        "Cổng PoE",
+        "4 × PoE/PoE+"
+      ],
+      [
+        "Chuẩn PoE",
+        "IEEE 802.3af/at"
+      ],
+      [
+        "Tổng công suất PoE",
+        "54 W"
+      ],
+      [
+        "Tốc độ chuyển mạch",
+        "14 Gbps"
+      ],
+      [
+        "Tốc độ chuyển gói",
+        "10,42 Mpps"
+      ],
+      [
+        "Bộ nhớ Flash",
+        "8 MB"
+      ],
+      [
+        "Bảng MAC",
+        "2.000"
+      ],
+      [
+        "Tính năng",
+        "VLAN, Flow Control, Static MAC, Static Aggregation,..."
+      ],
+      [
+        "Bảo mật",
+        "Port Isolation, DHCP Snooping, Broadcast/Multicast/Unknown Unicast Storm Control, CPU Protection"
+      ],
+      [
+        "Quản lý",
+        "Web, HTTPS, Ruijie Cloud, Ruijie Reyee App, SON"
+      ],
+      [
+        "Lắp đặt",
+        "Bàn làm việc/Treo tường"
+      ],
+      [
+        "Nguồn điện",
+        "Adapter DC, đầu vào 100–240 V AC, đầu ra 54 V DC"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "4 W (không tải PoE), tối đa 58 W (tải PoE đầy đủ)"
+      ],
+      [
+        "Kích thước",
+        "155 × 78 × 28 mm"
+      ],
+      [
+        "Trọng lượng",
+        "0,29 kg"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "0°C đến 40°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "10%–90% RH, không ngưng tụ"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/Ruijie/Switch/rg-es207gs-p/rg-es207gs-p.jpg",
+    "thumbnail": "/img/thiet-bi-mang/Ruijie/Switch/rg-es207gs-p/rg-es207gs-p.jpg"
+  },
+  "RG-ES207GS-LP": {
+    "name": "4-Port GE PoE Switch RUIJIE RG-ES207GS-LP",
+    "model": "RG-ES207GS-LP",
+    "code": "NET-RUI-SWT-0114",
+    "brand": "Ruijie",
+    "category": "Switch",
+    "productType": "Switch PoE",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/Ruijie/Switch/rg-es207gs-lp/rg-es207gs-lp.html",
+    "price": 1320000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "3 năm",
+    "description": [
+      "Loại thiết bị: Switch Layer 2 Gigabit PoE+",
+      "Số cổng RJ45: 6 × 10/100/1000BASE-T",
+      "Cổng quang: 1 × 1GE SFP",
+      "Số cổng PoE: 4",
+      "Chuẩn PoE: IEEE 802.3af/at"
+    ],
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Switch Layer 2 Gigabit PoE+"
+      ],
+      [
+        "Số cổng RJ45",
+        "6 × 10/100/1000BASE-T"
+      ],
+      [
+        "Cổng quang",
+        "1 × 1GE SFP"
+      ],
+      [
+        "Số cổng PoE",
+        "4"
+      ],
+      [
+        "Chuẩn PoE",
+        "IEEE 802.3af/at"
+      ],
+      [
+        "Tổng công suất PoE",
+        "40 W"
+      ],
+      [
+        "Công suất tiêu thụ tối đa",
+        "44 W khi sử dụng đầy đủ công suất PoE"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "4 W khi không cấp tải PoE"
+      ],
+      [
+        "Chân cấp nguồn PoE",
+        "1–2 (+), 3–6 (-)"
+      ],
+      [
+        "Nút Reset",
+        "1"
+      ],
+      [
+        "Tốc độ chuyển mạch",
+        "14 Gbps"
+      ],
+      [
+        "Tốc độ chuyển gói",
+        "10,42 Mpps"
+      ],
+      [
+        "Bộ nhớ Flash",
+        "8 MB"
+      ],
+      [
+        "Bảng MAC",
+        "2.000"
+      ],
+      [
+        "Tính năng",
+        "VLAN, Static Aggregation, Static MAC, Port Isolation, DHCP,..."
+      ],
+      [
+        "Thiết kế",
+        "Fanless, làm mát tự nhiên"
+      ],
+      [
+        "Phương thức lắp đặt",
+        "Trên bàn/Treo tường"
+      ],
+      [
+        "Kích thước (W × D × H)",
+        "155 × 78 × 28 mm"
+      ],
+      [
+        "Vỏ thiết bị",
+        "Kim loại"
+      ],
+      [
+        "Trọng lượng",
+        "0,29 kg (không bao gồm vật liệu đóng gói)"
+      ],
+      [
+        "Điện áp đầu vào định mức",
+        "100–240 V AC, 50–60 Hz"
+      ],
+      [
+        "Điện áp đầu vào tối đa",
+        "90–264 V AC, 47–63 Hz"
+      ],
+      [
+        "Điện áp đầu ra",
+        "54 V DC"
+      ],
+      [
+        "Dòng điện đầu ra tối đa",
+        "1,2 A"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "0°C đến +40°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "10% RH đến 90% RH, không ngưng tụ"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/Ruijie/Switch/rg-es207gs-lp/rg-es207gs-lp.jpg",
+    "thumbnail": "/img/thiet-bi-mang/Ruijie/Switch/rg-es207gs-lp/rg-es207gs-lp.jpg"
+  },
+  "SenseFace M2F-LR": {
+    "name": "Máy chấm công ZKTeco SenseFace M2F-LR",
+    "model": "SenseFace M2F-LR",
+    "code": "ATT-ZKT-FAC-0038",
+    "brand": "ZKTeco",
+    "category": "Face",
+    "productType": "Máy chấm công khuôn mặt",
+    "industry": "Máy chấm công",
+    "link": "/San-pham/may-cham-cong/zkteco/face/senseface-m2f-lr/senseface-m2f-lr.html",
+    "price": 2940000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "12 tháng",
+    "description": [
+      "Màn hình: LCD màu TFT 2.8”, độ phân giải 320 × 240",
+      "Hệ điều hành: Linux",
+      "Camera: Camera kép 1MP",
+      "CPU: Dual Core 1GHz",
+      "Bộ nhớ: RAM 512MB, ROM 8GB"
+    ],
+    "specifications": [
+      [
+        "Màn hình",
+        "LCD màu TFT 2.8”, độ phân giải 320 × 240"
+      ],
+      [
+        "Hệ điều hành",
+        "Linux"
+      ],
+      [
+        "Camera",
+        "Camera kép 1MP"
+      ],
+      [
+        "CPU",
+        "Dual Core 1GHz"
+      ],
+      [
+        "Bộ nhớ",
+        "RAM 512MB, ROM 8GB"
+      ],
+      [
+        "Cảm biến vân tay",
+        "ZK Optical Sensor"
+      ],
+      [
+        "Phương thức xác thực",
+        "Khuôn mặt, vân tay, thẻ RFID, mật khẩu"
+      ],
+      [
+        "Dung lượng khuôn mặt",
+        "500 mẫu"
+      ],
+      [
+        "Dung lượng vân tay",
+        "1.000 mẫu"
+      ],
+      [
+        "Dung lượng thẻ",
+        "1.000 thẻ"
+      ],
+      [
+        "Dung lượng người dùng",
+        "1.000 người"
+      ],
+      [
+        "Dung lượng giao dịch",
+        "150.000 bản ghi"
+      ],
+      [
+        "Loại thẻ hỗ trợ",
+        "Thẻ ID 125 kHz (tiêu chuẩn), thẻ IC/MIFARE 13.56 MHz (tùy chọn)"
+      ],
+      [
+        "Tốc độ nhận diện",
+        "<1 giây (vân tay), <1,2 giây (khuôn mặt)"
+      ],
+      [
+        "Khoảng cách nhận diện khuôn mặt",
+        "50 – 180 cm"
+      ],
+      [
+        "Giao tiếp",
+        "TCP/IP, USB Host, Wi-Fi 2.4GHz (tùy chọn)"
+      ],
+      [
+        "Kiểm soát cửa",
+        "Khóa điện, cảm biến cửa, nút Exit"
+      ],
+      [
+        "Pin dự phòng",
+        "Lithium 2.000mAh (tùy chọn), hoạt động khoảng 4 giờ"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 12V - 1.5A"
+      ],
+      [
+        "Kích thước",
+        "154 × 138 × 34 mm"
+      ],
+      [
+        "Nhiệt độ làm việc",
+        "5°C đến 45°C"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/may-cham-cong/zkteco/face/senseface-m2f-lr/senseface-m2f-lr.jpg",
+    "thumbnail": "/img/may-cham-cong/zkteco/face/senseface-m2f-lr/senseface-m2f-lr.jpg"
+  },
+  "RG-ES220GS-P-V2": {
+    "name": "16-Port GE PoE Switch RUIJIE RG-ES220GS-P-V2",
+    "model": "RG-ES220GS-P-V2",
+    "code": "NET-RUI-SWT-0115",
+    "brand": "Ruijie",
+    "category": "Switch",
+    "productType": "Switch PoE",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/Ruijie/Switch/rg-es220gs-p-v2/rg-es220gs-p-v2.html",
+    "price": 4980000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "3 năm",
+    "description": [
+      "Loại thiết bị: Switch Gigabit Layer 2 Smart Cloud Managed PoE",
+      "Tổng số cổng: 20 cổng",
+      "Cổng PoE/PoE+: 16 × Gigabit PoE+",
+      "Cổng uplink RJ45: 2 × Gigabit",
+      "Khe cắm quang: 2 × 1GE SFP"
+    ],
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Switch Gigabit Layer 2 Smart Cloud Managed PoE"
+      ],
+      [
+        "Tổng số cổng",
+        "20 cổng"
+      ],
+      [
+        "Cổng PoE/PoE+",
+        "16 × Gigabit PoE+"
+      ],
+      [
+        "Cổng uplink RJ45",
+        "2 × Gigabit"
+      ],
+      [
+        "Khe cắm quang",
+        "2 × 1GE SFP"
+      ],
+      [
+        "Chuẩn PoE",
+        "IEEE 802.3af/at (PoE+)"
+      ],
+      [
+        "Tổng công suất PoE",
+        "250W"
+      ],
+      [
+        "Băng thông chuyển mạch",
+        "40 Gbps"
+      ],
+      [
+        "Tốc độ chuyển tiếp",
+        "29.76 Mpps"
+      ],
+      [
+        "Quản lý",
+        "Ruijie Cloud, Web"
+      ],
+      [
+        "Tính năng PoE",
+        "Perpetual PoE, PoE Watchdog"
+      ],
+      [
+        "Bảo mật",
+        "Port Isolation"
+      ],
+      [
+        "Chống sét",
+        "6 kV"
+      ],
+      [
+        "Thiết kế",
+        "Không quạt (Fanless)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "0°C đến 40°C"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/Ruijie/Switch/rg-es220gs-p-v2/rg-es220gs-p-v2.jpg",
+    "thumbnail": "/img/thiet-bi-mang/Ruijie/Switch/rg-es220gs-p-v2/rg-es220gs-p-v2.jpg"
+  },
+  "H8c Pro 4G (3K)": {
+    "name": "Camera IP quay quét 4G & WiFi EZVIZ H8c Pro 4G (3K)",
+    "model": "H8c Pro 4G (3K)",
+    "code": "CAM-EZV-PTZ-0047",
+    "brand": "Ezviz",
+    "category": "PTZ",
+    "productType": "Camera PTZ IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Ezviz/PTZ/h8c-pro-4g-3k/h8c-pro-4g-3k.html",
+    "price": 1340000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Model: CS-H8c-R210-1R5WFL4G",
+      "Độ phân giải: 3K (2880 × 1620)",
+      "Cảm biến hình ảnh: 1/3” CMOS quét liên tục",
+      "Ống kính: 4mm, F1.6",
+      "Góc quan sát: 76° ngang, 41° dọc, 90° chéo"
+    ],
+    "specifications": [
+      [
+        "Model",
+        "CS-H8c-R210-1R5WFL4G"
+      ],
+      [
+        "Độ phân giải",
+        "3K (2880 × 1620)"
+      ],
+      [
+        "Cảm biến hình ảnh",
+        "1/3” CMOS quét liên tục"
+      ],
+      [
+        "Ống kính",
+        "4mm, F1.6"
+      ],
+      [
+        "Góc quan sát",
+        "76° ngang, 41° dọc, 90° chéo"
+      ],
+      [
+        "Góc quay",
+        "350° ngang, 90° dọc"
+      ],
+      [
+        "Quan sát ban đêm",
+        "Hồng ngoại 30m, hỗ trợ ghi hình màu"
+      ],
+      [
+        "AI thông minh",
+        "Phát hiện người và phương tiện"
+      ],
+      [
+        "Theo dõi tự động",
+        "Có"
+      ],
+      [
+        "Đàm thoại",
+        "Hai chiều"
+      ],
+      [
+        "Kết nối",
+        "4G LTE (Nano SIM), Wi-Fi 2.4/5 GHz, RJ45"
+      ],
+      [
+        "Chuẩn nén",
+        "H.265 / H.264"
+      ],
+      [
+        "Lưu trữ",
+        "MicroSD tối đa 512 GB, EZVIZ CloudPlay"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP66 (chống bụi, nước)"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 12V/1A"
+      ],
+      [
+        "Công suất tối đa",
+        "12W"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "30°C đến 50°C"
+      ],
+      [
+        "Kích thước",
+        "100 × 140 × 140 mm"
+      ],
+      [
+        "Khối lượng",
+        "550 g"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Ezviz/PTZ/h8c-pro-4g-3k/h8c-pro-4g-3k.jpg",
+    "thumbnail": "/img/Camera/Camera-Ezviz/PTZ/h8c-pro-4g-3k/h8c-pro-4g-3k.jpg"
+  },
+  "HB90x Dual 4G + Tấm Pin": {
+    "name": "Camera IP 4MP+4MP EZVIZ HB90x Dual 4G + Tấm Pin",
+    "model": "HB90x Dual 4G + Tấm Pin",
+    "code": "CAM-EZV-BUL-0057",
+    "brand": "Ezviz",
+    "category": "Bullet",
+    "productType": "Camera Thân IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Ezviz/Bullet/hb90x-dual-4g-tam-pin/hb90x-dual-4g-tam-pin.html",
+    "price": 4810000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Model: CS-HB90x/SP-R100(4MP+4MP W4GA)",
+      "Thành phần: Camera HB90x Dual 4G + Solar Panel 8W",
+      "Cảm biến: 2 × 1/2.8”; Progressive Scan CMOS 4MP",
+      "Độ phân giải: 2K+ (2560 × 1440) cho mỗi ống kính",
+      "Ống kính: 2.8 mm F1.2 + 6 mm F1.2"
+    ],
+    "specifications": [
+      [
+        "Model",
+        "CS-HB90x/SP-R100(4MP+4MP W4GA)"
+      ],
+      [
+        "Thành phần",
+        "Camera HB90x Dual 4G + Solar Panel 8W"
+      ],
+      [
+        "Cảm biến",
+        "2 × 1/2.8”; Progressive Scan CMOS 4MP"
+      ],
+      [
+        "Độ phân giải",
+        "2K+ (2560 × 1440) cho mỗi ống kính"
+      ],
+      [
+        "Ống kính",
+        "2.8 mm F1.2 + 6 mm F1.2"
+      ],
+      [
+        "Góc quay",
+        "Trên: 220°/10°; Dưới: 324°/90°"
+      ],
+      [
+        "Tầm nhìn ban đêm",
+        "ColorFULL Night Vision, hồng ngoại đến 35m"
+      ],
+      [
+        "Chuẩn nén",
+        "H.265 / H.264"
+      ],
+      [
+        "AI thông minh",
+        "Nhận diện người và phương tiện"
+      ],
+      [
+        "Theo dõi thông minh",
+        "Auto Tracking"
+      ],
+      [
+        "Kết nối",
+        "4G LTE, Wi-Fi 6 (2.4 GHz), Bluetooth"
+      ],
+      [
+        "Âm thanh",
+        "Đàm thoại hai chiều"
+      ],
+      [
+        "Lưu trữ",
+        "microSD tối đa 512 GB, EZVIZ CloudPlay"
+      ],
+      [
+        "Pin",
+        "Lithium 10.400 mAh"
+      ],
+      [
+        "Tấm pin năng lượng",
+        "Solar Panel 8W (USB Type-C)"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP65"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 5V/2A"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "20°C đến 50°C"
+      ],
+      [
+        "Kích thước camera",
+        "135 × 145 × 229.5 mm"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "4MP",
+    "image": "/img/Camera/Camera-Ezviz/Bullet/hb90x-dual-4g-tam-pin/hb90x-dual-4g-tam-pin.jpg",
+    "thumbnail": "/img/Camera/Camera-Ezviz/Bullet/hb90x-dual-4g-tam-pin/hb90x-dual-4g-tam-pin.jpg"
+  },
+  "H9c Dual 4G": {
+    "name": "Camera IP 4G & WiFi 5MP+5MP EZVIZ H9c Dual 4G",
+    "model": "H9c Dual 4G",
+    "code": "CAM-EZV-PTZ-0048",
+    "brand": "Ezviz",
+    "category": "PTZ",
+    "productType": "Camera PTZ IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Ezviz/PTZ/h9c-dual-4g/h9c-dual-4g.html",
+    "price": 1850000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Model: CS-H9c-R105-8H55WFL4GA",
+      "Cảm biến hình ảnh: 1/3” Progressive Scan CMOS",
+      "Độ phân giải: 3K (2880 × 1620) cho mỗi ống kính",
+      "Ống kính: 2.8 mm F1.6 + 6 mm F1.6",
+      "Góc quay: Ngang 350°, dọc 80° (ống kính PT)"
+    ],
+    "specifications": [
+      [
+        "Model",
+        "CS-H9c-R105-8H55WFL4GA"
+      ],
+      [
+        "Cảm biến hình ảnh",
+        "1/3” Progressive Scan CMOS"
+      ],
+      [
+        "Độ phân giải",
+        "3K (2880 × 1620) cho mỗi ống kính"
+      ],
+      [
+        "Ống kính",
+        "2.8 mm F1.6 + 6 mm F1.6"
+      ],
+      [
+        "Góc quay",
+        "Ngang 350°, dọc 80° (ống kính PT)"
+      ],
+      [
+        "Chuẩn nén",
+        "H.265 / H.264"
+      ],
+      [
+        "AI thông minh",
+        "Phát hiện người, phương tiện, chuyển động"
+      ],
+      [
+        "Theo dõi thông minh",
+        "Auto Tracking, Patrol, Preset"
+      ],
+      [
+        "Tầm nhìn ban đêm",
+        "Có màu 40m, hồng ngoại 30m"
+      ],
+      [
+        "Kết nối",
+        "SIM 4G LTE, Wi-Fi 2.4/5 GHz, RJ45 Ethernet"
+      ],
+      [
+        "Âm thanh",
+        "Micro và loa tích hợp, đàm thoại hai chiều"
+      ],
+      [
+        "Lưu trữ",
+        "microSD tối đa 512 GB, EZVIZ CloudPlay"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 12V / 1.5A"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "Tối đa 18 W"
+      ],
+      [
+        "Kích thước",
+        "147 × 116 × 142 mm"
+      ],
+      [
+        "Khối lượng",
+        "627.3 g"
+      ],
+      [
+        "Điều kiện hoạt động",
+        "30°C đến 50°C (chống chịu thời tiết)"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "5MP",
+    "image": "/img/Camera/Camera-Ezviz/PTZ/h9c-dual-4g/h9c-dual-4g.jpg",
+    "thumbnail": "/img/Camera/Camera-Ezviz/PTZ/h9c-dual-4g/h9c-dual-4g.jpg"
+  },
+  "C90 Dual 2K+": {
+    "name": "Camera IP WiFi 4MP+4MP EZVIZ C90 Dual 2K+",
+    "model": "C90 Dual 2K+",
+    "code": "CAM-EZV-PTZ-0049",
+    "brand": "Ezviz",
+    "category": "PTZ",
+    "productType": "Camera PTZ IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Ezviz/PTZ/c90-dual-2k/c90-dual-2k.html",
+    "price": 1860000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Model: CS-C90-R100-8H44WKFL",
+      "Loại camera: Camera WiFi ngoài trời quay quét 2 ống kính",
+      "Cảm biến: 1/3” Progressive Scan CMOS × 2",
+      "Độ phân giải: 2K⁺ (2880 × 1620) mỗi ống kính",
+      "Ống kính: Trên: 2.8mm F1.6 Dưới: 6mm F1.6"
+    ],
+    "specifications": [
+      [
+        "Model",
+        "CS-C90-R100-8H44WKFL"
+      ],
+      [
+        "Loại camera",
+        "Camera WiFi ngoài trời quay quét 2 ống kính"
+      ],
+      [
+        "Cảm biến",
+        "1/3” Progressive Scan CMOS × 2"
+      ],
+      [
+        "Độ phân giải",
+        "2K⁺ (2880 × 1620) mỗi ống kính"
+      ],
+      [
+        "Ống kính",
+        "Trên: 2.8mm F1.6 Dưới: 6mm F1.6"
+      ],
+      [
+        "Góc quay",
+        "Camera trên: Pan 220° Camera dưới: Pan 324°, Tilt 90°"
+      ],
+      [
+        "Tầm nhìn hồng ngoại",
+        "30m"
+      ],
+      [
+        "Tầm nhìn đêm có màu",
+        "40m"
+      ],
+      [
+        "Chuẩn nén",
+        "H.265 / H.264"
+      ],
+      [
+        "AI thông minh",
+        "Nhận diện người, phương tiện"
+      ],
+      [
+        "Theo dõi tự động",
+        "Có"
+      ],
+      [
+        "Đàm thoại",
+        "Hai chiều"
+      ],
+      [
+        "Kết nối",
+        "WiFi 2.4GHz, Ethernet RJ45 10/100Mbps"
+      ],
+      [
+        "Lưu trữ",
+        "microSD tối đa 512GB, EZVIZ CloudPlay"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "Thiết kế chống chịu thời tiết"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 12V"
+      ],
+      [
+        "Công suất",
+        "Tối đa 18W"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "30°C đến 50°C"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "4MP",
+    "image": "/img/Camera/Camera-Ezviz/PTZ/c90-dual-2k/c90-dual-2k.jpg",
+    "thumbnail": "/img/Camera/Camera-Ezviz/PTZ/c90-dual-2k/c90-dual-2k.jpg"
+  },
+  "DS-7732NXI-K4/VPro": {
+    "name": "Đầu ghi hình IP 32 kênh Hikvision DS-7732NXI-K4/VPro",
+    "model": "DS-7732NXI-K4/VPro",
+    "code": "NVR-HIK-NVR-0122",
+    "brand": "Hikvision",
+    "category": "Nvr",
+    "productType": "Đầu ghi NVR",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/NVR/ds-7732nxi-k4-vpro/ds-7732nxi-k4-vpro.html",
+    "price": 20040000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Số kênh camera: 32 kênh IP",
+      "Công nghệ AI: AcuSeek, AcuSearch, AcuSense, Face Recognition, Motion Detection 2.0",
+      "Chuẩn nén video: H.265+, H.265, H.264+, H.264",
+      "Băng thông đầu vào: 256 Mbps",
+      "Băng thông đầu ra: 100 Mbps"
+    ],
+    "specifications": [
+      [
+        "Số kênh camera",
+        "32 kênh IP"
+      ],
+      [
+        "Công nghệ AI",
+        "AcuSeek, AcuSearch, AcuSense, Face Recognition, Motion Detection 2.0"
+      ],
+      [
+        "Chuẩn nén video",
+        "H.265+, H.265, H.264+, H.264"
+      ],
+      [
+        "Băng thông đầu vào",
+        "256 Mbps"
+      ],
+      [
+        "Băng thông đầu ra",
+        "100 Mbps"
+      ],
+      [
+        "Độ phân giải ghi hình",
+        "Lên đến 12MP"
+      ],
+      [
+        "Giải mã đồng thời",
+        "Tối đa 4×12MP hoặc 24×2MP"
+      ],
+      [
+        "Phát lại đồng thời",
+        "16 kênh"
+      ],
+      [
+        "Ngõ ra hình ảnh",
+        "HDMI 4K, VGA độc lập"
+      ],
+      [
+        "Kết nối loa IP",
+        "Tối đa 4 loa IP"
+      ],
+      [
+        "Ổ cứng",
+        "4 cổng SATA"
+      ],
+      [
+        "Dung lượng lưu trữ",
+        "Tối đa 16TB/ổ (64TB)"
+      ],
+      [
+        "Cổng mạng",
+        "2 × RJ45 Gigabit Ethernet"
+      ],
+      [
+        "Âm thanh",
+        "1 Audio In, 1 Audio Out, đàm thoại hai chiều"
+      ],
+      [
+        "Cổng USB",
+        "2 × USB 2.0 (trước), 1 × USB 3.0 (sau)"
+      ],
+      [
+        "Cổng báo động",
+        "16 Alarm In / 4 Alarm Out"
+      ],
+      [
+        "Cổng nối tiếp",
+        "RS-232, 2 × RS-485"
+      ],
+      [
+        "Nguồn điện",
+        "100–240 VAC, 50/60 Hz"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "≤ 50W (không gắn HDD)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "10°C đến +55°C"
+      ],
+      [
+        "Kích thước",
+        "440 × 391 × 72 mm"
+      ],
+      [
+        "Khối lượng",
+        "≤ 5 kg (không gồm HDD)"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Hikvision/NVR/ds-7732nxi-k4-vpro/ds-7732nxi-k4-vpro.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/NVR/ds-7732nxi-k4-vpro/ds-7732nxi-k4-vpro.jpg"
+  },
+  "DS-7716NXI-K4/VPro": {
+    "name": "Đầu ghi hình IP 16 kênh Hikvision DS-7716NXI-K4/VPro",
+    "model": "DS-7716NXI-K4/VPro",
+    "code": "NVR-HIK-NVR-0123",
+    "brand": "Hikvision",
+    "category": "Nvr",
+    "productType": "Đầu ghi NVR",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/NVR/ds-7716nxi-k4-vpro/ds-7716nxi-k4-vpro.html",
+    "price": 16690000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Số kênh camera: 16 kênh IP",
+      "Công nghệ AI: AcuSeek, AcuSearch, AcuSense, Face Recognition, Motion Detection 2.0",
+      "Chuẩn nén video: H.265+, H.265, H.264+, H.264",
+      "Băng thông vào: 160 Mbps",
+      "Băng thông ra: 160 Mbps"
+    ],
+    "specifications": [
+      [
+        "Số kênh camera",
+        "16 kênh IP"
+      ],
+      [
+        "Công nghệ AI",
+        "AcuSeek, AcuSearch, AcuSense, Face Recognition, Motion Detection 2.0"
+      ],
+      [
+        "Chuẩn nén video",
+        "H.265+, H.265, H.264+, H.264"
+      ],
+      [
+        "Băng thông vào",
+        "160 Mbps"
+      ],
+      [
+        "Băng thông ra",
+        "160 Mbps"
+      ],
+      [
+        "Độ phân giải ghi hình",
+        "Lên đến 12MP"
+      ],
+      [
+        "Giải mã đồng thời",
+        "Tối đa 4×12MP hoặc 16×2MP"
+      ],
+      [
+        "Phát lại đồng thời",
+        "16 kênh"
+      ],
+      [
+        "Ngõ ra hình ảnh",
+        "HDMI 4K, VGA độc lập"
+      ],
+      [
+        "Ổ cứng",
+        "4 cổng SATA"
+      ],
+      [
+        "Dung lượng lưu trữ",
+        "Tối đa 16TB/ổ (64TB)"
+      ],
+      [
+        "Cổng mạng",
+        "2 × RJ45 Gigabit Ethernet"
+      ],
+      [
+        "Âm thanh",
+        "1 Audio In, 1 Audio Out, đàm thoại hai chiều"
+      ],
+      [
+        "Cổng USB",
+        "2 × USB 2.0 (trước), 1 × USB 3.0 (sau)"
+      ],
+      [
+        "Cổng báo động",
+        "16 Alarm In / 4 Alarm Out"
+      ],
+      [
+        "Cổng nối tiếp",
+        "RS-232, 2 × RS-485"
+      ],
+      [
+        "Nguồn điện",
+        "200–240 VAC, 50/60 Hz"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "≤ 50W (không gắn HDD)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "10°C đến +55°C"
+      ],
+      [
+        "Kích thước",
+        "440 × 391 × 72 mm"
+      ],
+      [
+        "Khối lượng",
+        "≤ 5 kg (không gồm HDD)"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Hikvision/NVR/ds-7716nxi-k4-vpro/ds-7716nxi-k4-vpro.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/NVR/ds-7716nxi-k4-vpro/ds-7716nxi-k4-vpro.jpg"
+  },
+  "DS-7632NXI-K2/VPro": {
+    "name": "Đầu ghi hình IP 32 kênh Hikvision DS-7632NXI-K2/VPro",
+    "model": "DS-7632NXI-K2/VPro",
+    "code": "NVR-HIK-NVR-0124",
+    "brand": "Hikvision",
+    "category": "Nvr",
+    "productType": "Đầu ghi NVR",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/NVR/ds-7632nxi-k2-vpro/ds-7632nxi-k2-vpro.html",
+    "price": 10710000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Số kênh IP: 32 kênh",
+      "Công nghệ AI: AcuSense, AcuSeek, AcuSearch",
+      "AI tích hợp: Nhận diện khuôn mặt, bảo vệ chu vi, Motion Detection 2.0",
+      "Nhận diện khuôn mặt: 16 thư viện, tối đa 50.000 ảnh khuôn mặt",
+      "Chuẩn nén: H.265+, H.265, H.264+, H.264"
+    ],
+    "specifications": [
+      [
+        "Số kênh IP",
+        "32 kênh"
+      ],
+      [
+        "Công nghệ AI",
+        "AcuSense, AcuSeek, AcuSearch"
+      ],
+      [
+        "AI tích hợp",
+        "Nhận diện khuôn mặt, bảo vệ chu vi, Motion Detection 2.0"
+      ],
+      [
+        "Nhận diện khuôn mặt",
+        "16 thư viện, tối đa 50.000 ảnh khuôn mặt"
+      ],
+      [
+        "Chuẩn nén",
+        "H.265+, H.265, H.264+, H.264"
+      ],
+      [
+        "Độ phân giải ghi hình",
+        "Tối đa 12MP"
+      ],
+      [
+        "Khả năng giải mã",
+        "4×12MP / 6×8MP / 12×4MP / 24×2MP"
+      ],
+      [
+        "Băng thông đầu vào",
+        "256 Mbps"
+      ],
+      [
+        "Băng thông đầu ra",
+        "100 Mbps"
+      ],
+      [
+        "Ngõ ra hình ảnh",
+        "HDMI 4K + VGA độc lập"
+      ],
+      [
+        "Phát lại đồng thời",
+        "16 kênh"
+      ],
+      [
+        "Lưu trữ",
+        "2 SATA, tối đa 16TB/ổ (32TB tổng cộng)"
+      ],
+      [
+        "Cổng mạng",
+        "1 × RJ45 Gigabit Ethernet"
+      ],
+      [
+        "Âm thanh",
+        "Đàm thoại hai chiều, Audio RCA"
+      ],
+      [
+        "Cổng USB",
+        "2 × USB 2.0"
+      ],
+      [
+        "Ngõ vào/ra báo động",
+        "4 In / 1 Out"
+      ],
+      [
+        "Nguồn điện",
+        "12VDC, 3.33A"
+      ],
+      [
+        "Công suất",
+        "≤15W (không bao gồm ổ cứng)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "10°C đến 55°C"
+      ],
+      [
+        "Kích thước",
+        "384 × 317 × 52 mm"
+      ],
+      [
+        "Khối lượng",
+        "≤3kg (không bao gồm ổ cứng)"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Hikvision/NVR/ds-7632nxi-k2-vpro/ds-7632nxi-k2-vpro.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/NVR/ds-7632nxi-k2-vpro/ds-7632nxi-k2-vpro.jpg"
+  },
+  "DS-7608NXI-K2/VPro": {
+    "name": "Đầu ghi hình camera IP 8 kênh Hikvision DS-7608NXI-K2/VPro",
+    "model": "DS-7608NXI-K2/VPro",
+    "code": "NVR-HIK-NVR-0125",
+    "brand": "Hikvision",
+    "category": "Nvr",
+    "productType": "Đầu ghi NVR",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/NVR/ds-7608nxi-k2-vpro/ds-7608nxi-k2-vpro.html",
+    "price": 6430000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Số kênh IP: 8 kênh",
+      "Công nghệ AI: AcuSense, AcuSeek, AcuSearch",
+      "Nhận diện khuôn mặt: Có, hỗ trợ 50.000 ảnh khuôn mặt",
+      "Bảo vệ chu vi: Phân biệt người và phương tiện",
+      "Motion Detection: Motion Detection 2.0"
+    ],
+    "specifications": [
+      [
+        "Số kênh IP",
+        "8 kênh"
+      ],
+      [
+        "Công nghệ AI",
+        "AcuSense, AcuSeek, AcuSearch"
+      ],
+      [
+        "Nhận diện khuôn mặt",
+        "Có, hỗ trợ 50.000 ảnh khuôn mặt"
+      ],
+      [
+        "Bảo vệ chu vi",
+        "Phân biệt người và phương tiện"
+      ],
+      [
+        "Motion Detection",
+        "Motion Detection 2.0"
+      ],
+      [
+        "Chuẩn nén",
+        "H.265+, H.265, H.264+, H.264"
+      ],
+      [
+        "Độ phân giải ghi hình",
+        "Tối đa 12MP"
+      ],
+      [
+        "Băng thông đầu vào",
+        "80 Mbps"
+      ],
+      [
+        "Băng thông đầu ra",
+        "160 Mbps"
+      ],
+      [
+        "Ngõ ra hình ảnh",
+        "HDMI 4K, VGA độc lập"
+      ],
+      [
+        "Phát lại đồng thời",
+        "8 kênh"
+      ],
+      [
+        "Lưu trữ",
+        "2 cổng SATA, tối đa 16TB/ổ"
+      ],
+      [
+        "Cổng mạng",
+        "1 × RJ45 Gigabit Ethernet"
+      ],
+      [
+        "Âm thanh",
+        "Đàm thoại hai chiều, Audio RCA"
+      ],
+      [
+        "Cổng USB",
+        "2 × USB 2.0"
+      ],
+      [
+        "Ngõ vào/ra báo động",
+        "4 In / 1 Out"
+      ],
+      [
+        "Nguồn điện",
+        "12VDC, 3.33A"
+      ],
+      [
+        "Công suất",
+        "≤15W (không gồm ổ cứng)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "10°C đến 55°C"
+      ],
+      [
+        "Kích thước",
+        "384 × 317 × 52 mm"
+      ],
+      [
+        "Khối lượng",
+        "≤3kg (không gồm HDD)"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Hikvision/NVR/ds-7608nxi-k2-vpro/ds-7608nxi-k2-vpro.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/NVR/ds-7608nxi-k2-vpro/ds-7608nxi-k2-vpro.jpg"
+  },
+  "Vigor2136ax": {
+    "name": "Router VPN WiFi 6 DrayTek Vigor2136ax",
+    "model": "Vigor2136ax",
+    "code": "NET-DRA-WRT-0003",
+    "brand": "DrayTek",
+    "category": "RouterWifi",
+    "productType": "Router WiFi",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/Draytek/Routerwifi/vigor2136ax/vigor2136ax.html",
+    "price": 4010000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Loại thiết bị: Router VPN doanh nghiệp Wi-Fi 6",
+      "Chuẩn Wi-Fi: IEEE 802.11ax (Wi-Fi 6)",
+      "Chuẩn tương thích: 802.11a/b/g/n/ac/ax",
+      "Tốc độ Wi-Fi: AX3000 (574Mbps + 2402Mbps)",
+      "Băng tần không dây: Dual Band 2.4GHz / 5GHz"
+    ],
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Router VPN doanh nghiệp Wi-Fi 6"
+      ],
+      [
+        "Chuẩn Wi-Fi",
+        "IEEE 802.11ax (Wi-Fi 6)"
+      ],
+      [
+        "Chuẩn tương thích",
+        "802.11a/b/g/n/ac/ax"
+      ],
+      [
+        "Tốc độ Wi-Fi",
+        "AX3000 (574Mbps + 2402Mbps)"
+      ],
+      [
+        "Băng tần không dây",
+        "Dual Band 2.4GHz / 5GHz"
+      ],
+      [
+        "Công nghệ Wi-Fi",
+        "OFDMA, MU-MIMO, 1024-QAM"
+      ],
+      [
+        "Cổng WAN",
+        "1 × 2.5GbE RJ-45"
+      ],
+      [
+        "Cổng WAN/LAN chuyển đổi",
+        "1 × 2.5GbE RJ-45"
+      ],
+      [
+        "Cổng LAN",
+        "3 × Gigabit Ethernet RJ-45"
+      ],
+      [
+        "Hiệu suất NAT",
+        "Lên đến 2.3Gbps"
+      ],
+      [
+        "Số phiên NAT tối đa",
+        "50.000 sessions"
+      ],
+      [
+        "Hiệu suất VPN IPsec",
+        "Lên đến 390Mbps"
+      ],
+      [
+        "Tính năng VPN",
+        "IPsec, OpenVPN, WireGuard, L2TP/IPsec"
+      ],
+      [
+        "Quản lý mạng",
+        "Web UI, SNMP, VigorACS"
+      ],
+      [
+        "Tính năng bảo mật",
+        "SPI Firewall, Content Filtering, URL/IP Filtering"
+      ],
+      [
+        "VLAN",
+        "Hỗ trợ IEEE 802.1Q VLAN"
+      ],
+      [
+        "Nguồn điện",
+        "DC 12V / 1.5A"
+      ],
+      [
+        "Kích thước",
+        "207 × 131 × 42 mm"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "0°C ~ 45°C"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/Draytek/Routerwifi/vigor2136ax/vigor2136ax.jpg",
+    "thumbnail": "/img/thiet-bi-mang/Draytek/Routerwifi/vigor2136ax/vigor2136ax.jpg"
+  },
+  "DH-IPC-HFW2449M-AS-B-PRO": {
+    "name": "Camera IP 4MP Dahua DH-IPC-HFW2449M-AS-B-PRO",
+    "model": "DH-IPC-HFW2449M-AS-B-PRO",
+    "code": "CAM-DAH-BUL-0137",
+    "brand": "Dahua",
+    "category": "Bullet",
+    "productType": "Camera Thân IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Bullet/dh-ipc-hfw2449m-as-b-pro/dh-ipc-hfw2449m-as-b-pro.html",
+    "price": 2140000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Cảm biến hình ảnh: 1/2.8” CMOS, 4MP",
+      "Độ phân giải: 2688 × 1520 @20fps / 2560 × 1440 @25/30fps",
+      "Độ nhạy sáng: 0.0001 lux@F1.0",
+      "Ống kính: 3.6mm (tùy chọn 6mm)",
+      "Tầm chiếu sáng: 50m (LED ánh sáng ấm)"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "1/2.8” CMOS, 4MP"
+      ],
+      [
+        "Độ phân giải",
+        "2688 × 1520 @20fps / 2560 × 1440 @25/30fps"
+      ],
+      [
+        "Độ nhạy sáng",
+        "0.0001 lux@F1.0"
+      ],
+      [
+        "Ống kính",
+        "3.6mm (tùy chọn 6mm)"
+      ],
+      [
+        "Tầm chiếu sáng",
+        "50m (LED ánh sáng ấm)"
+      ],
+      [
+        "Chống ngược sáng",
+        "WDR 120dB"
+      ],
+      [
+        "Giảm nhiễu",
+        "3D NR"
+      ],
+      [
+        "Chế độ ngày/đêm",
+        "ICR"
+      ],
+      [
+        "Tính năng AI",
+        "Hàng rào ảo, xâm nhập (người/xe), SMD Plus"
+      ],
+      [
+        "Lưu trữ",
+        "Khe thẻ nhớ MicroSD tối đa 256GB"
+      ],
+      [
+        "Âm thanh",
+        "Mic tích hợp"
+      ],
+      [
+        "Alarm",
+        "2 In / 2 Out"
+      ],
+      [
+        "Audio",
+        "1 In / 1 Out"
+      ],
+      [
+        "Nguồn",
+        "DC12V hoặc PoE (802.3af)"
+      ],
+      [
+        "Công suất",
+        "< 9.7W"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi, nước)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "40°C ~ +60°C"
+      ],
+      [
+        "Chất liệu",
+        "Kim loại + nhựa"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "4MP",
+    "image": "/img/Camera/Camera-Dahua/Bullet/dh-ipc-hfw2449m-as-b-pro/dh-ipc-hfw2449m-as-b-pro.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Bullet/dh-ipc-hfw2449m-as-b-pro/dh-ipc-hfw2449m-as-b-pro.jpg"
+  },
+  "DH-HAC-HDW1249XP-IL-A-PRO-VN": {
+    "name": "Camera 2MP Dahua DH-HAC-HDW1249XP-IL-A-PRO-VN",
+    "model": "DH-HAC-HDW1249XP-IL-A-PRO-VN",
+    "code": "CAM-DAH-DOM-0118",
+    "brand": "Dahua",
+    "category": "Dome",
+    "productType": "Camera Dome Analog",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Dome/dh-hac-hdw1249xp-il-a-pro-vn/dh-hac-hdw1249xp-il-a-pro-vn.html",
+    "price": 940000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Độ phân giải: 2MP (1920 × 1080)",
+      "Cảm biến hình ảnh: CMOS",
+      "Tốc độ khung hình: 25/30fps @1080P",
+      "Ống kính: 2.8mm / 3.6mm",
+      "Góc nhìn: ~84° – 102°"
+    ],
+    "specifications": [
+      [
+        "Độ phân giải",
+        "2MP (1920 × 1080)"
+      ],
+      [
+        "Cảm biến hình ảnh",
+        "CMOS"
+      ],
+      [
+        "Tốc độ khung hình",
+        "25/30fps @1080P"
+      ],
+      [
+        "Ống kính",
+        "2.8mm / 3.6mm"
+      ],
+      [
+        "Góc nhìn",
+        "~84° – 102°"
+      ],
+      [
+        "Độ nhạy sáng",
+        "0.0002 lux (có màu)"
+      ],
+      [
+        "Tầm xa chiếu sáng",
+        "50m"
+      ],
+      [
+        "Công nghệ đèn",
+        "Smart Dual Light, Smart Light+"
+      ],
+      [
+        "Xử lý hình ảnh",
+        "AI-ISP, 3D NR, DWDR"
+      ],
+      [
+        "Chế độ ngày đêm",
+        "Auto / Color / B/W"
+      ],
+      [
+        "Âm thanh",
+        "Mic kép tích hợp (~12m)"
+      ],
+      [
+        "Chuẩn tín hiệu",
+        "CVI / TVI / AHD / CVBS"
+      ],
+      [
+        "Nguồn điện",
+        "12VDC (±30%)"
+      ],
+      [
+        "Công suất",
+        "≤ 5.6W"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi, nước)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "40°C ~ +60°C"
+      ],
+      [
+        "Kích thước",
+        "Φ109.9 × 102.2 mm"
+      ],
+      [
+        "Trọng lượng",
+        "~0.33 kg"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "2MP",
+    "image": "/img/Camera/Camera-Dahua/Dome/dh-hac-hdw1249xp-il-a-pro-vn/dh-hac-hdw1249xp-il-a-pro-vn.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Dome/dh-hac-hdw1249xp-il-a-pro-vn/dh-hac-hdw1249xp-il-a-pro-vn.jpg"
+  },
+  "DH-HAC-HFW1249XP-IL-A-PRO-VN": {
+    "name": "Camera 2MP Dahua DH-HAC-HFW1249XP-IL-A-PRO-VN",
+    "model": "DH-HAC-HFW1249XP-IL-A-PRO-VN",
+    "code": "CAM-DAH-BUL-0138",
+    "brand": "Dahua",
+    "category": "Bullet",
+    "productType": "Camera Thân Analog",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Bullet/dh-hac-hfw1249xp-il-a-pro-vn/dh-hac-hfw1249xp-il-a-pro-vn.html",
+    "price": 940000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Độ phân giải: 2MP (1920 × 1080)",
+      "Cảm biến hình ảnh: CMOS",
+      "Tốc độ khung hình: 25/30fps @1080P",
+      "Ống kính: 2.8mm / 3.6mm (cố định)",
+      "Góc nhìn: ~84° – 102° (tùy lens)"
+    ],
+    "specifications": [
+      [
+        "Độ phân giải",
+        "2MP (1920 × 1080)"
+      ],
+      [
+        "Cảm biến hình ảnh",
+        "CMOS"
+      ],
+      [
+        "Tốc độ khung hình",
+        "25/30fps @1080P"
+      ],
+      [
+        "Ống kính",
+        "2.8mm / 3.6mm (cố định)"
+      ],
+      [
+        "Góc nhìn",
+        "~84° – 102° (tùy lens)"
+      ],
+      [
+        "Độ nhạy sáng",
+        "0.0002 lux (có màu)"
+      ],
+      [
+        "Tầm xa hồng ngoại / đèn",
+        "50m"
+      ],
+      [
+        "Chế độ ngày đêm",
+        "Auto / Color / B/W"
+      ],
+      [
+        "Công nghệ hình ảnh",
+        "AI-ISP, 3D NR, DWDR"
+      ],
+      [
+        "Đèn thông minh",
+        "Smart Dual Light, Smart Light+"
+      ],
+      [
+        "Âm thanh",
+        "Mic kép tích hợp (tầm thu ~12m)"
+      ],
+      [
+        "Chuẩn tín hiệu",
+        "CVI / TVI / AHD / CVBS"
+      ],
+      [
+        "Nguồn điện",
+        "12VDC (±30%)"
+      ],
+      [
+        "Công suất",
+        "≤ 5.6W"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi, nước)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "40°C ~ +60°C"
+      ],
+      [
+        "Chất liệu",
+        "Kim loại + nhựa"
+      ],
+      [
+        "Lắp đặt",
+        "Treo tường / trần / cột"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "2MP",
+    "image": "/img/Camera/Camera-Dahua/Bullet/dh-hac-hfw1249xp-il-a-pro-vn/dh-hac-hfw1249xp-il-a-pro-vn.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Bullet/dh-hac-hfw1249xp-il-a-pro-vn/dh-hac-hfw1249xp-il-a-pro-vn.jpg"
+  },
+  "DH-HAC-HDW1249XP-A-PRO-VN": {
+    "name": "Camera HDCVI 2MP Dahua DH-HAC-HDW1249XP-A-PRO-VN",
+    "model": "DH-HAC-HDW1249XP-A-PRO-VN",
+    "code": "CAM-DAH-DOM-0119",
+    "brand": "Dahua",
+    "category": "Dome",
+    "productType": "Camera Dome Analog",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Dome/dh-hac-hdw1249xp-a-pro-vn/dh-hac-hdw1249xp-a-pro-vn.html",
+    "price": 910000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Cảm biến hình ảnh: 2MP CMOS",
+      "Độ phân giải: 1920 × 1080 (Full HD)",
+      "Tốc độ khung hình: 25/30fps@1080P",
+      "Độ nhạy sáng: 0.0002 lux (có màu)",
+      "Ống kính: 2.8mm / 3.6mm"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "2MP CMOS"
+      ],
+      [
+        "Độ phân giải",
+        "1920 × 1080 (Full HD)"
+      ],
+      [
+        "Tốc độ khung hình",
+        "25/30fps@1080P"
+      ],
+      [
+        "Độ nhạy sáng",
+        "0.0002 lux (có màu)"
+      ],
+      [
+        "Ống kính",
+        "2.8mm / 3.6mm"
+      ],
+      [
+        "Góc nhìn",
+        "81.5° – 101°"
+      ],
+      [
+        "Tầm chiếu sáng",
+        "50m (LED ánh sáng ấm)"
+      ],
+      [
+        "Chế độ ngày/đêm",
+        "Có màu 24/7"
+      ],
+      [
+        "Giảm nhiễu",
+        "3D NR"
+      ],
+      [
+        "WDR",
+        "DWDR"
+      ],
+      [
+        "Âm thanh",
+        "Micro kép tích hợp"
+      ],
+      [
+        "Chuẩn tín hiệu",
+        "CVI / TVI / AHD / CVBS"
+      ],
+      [
+        "Nguồn điện",
+        "12VDC (±30%)"
+      ],
+      [
+        "Công suất",
+        "≤ 5.6W"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi, nước)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "40°C ~ +60°C"
+      ],
+      [
+        "Chất liệu",
+        "Kim loại + nhựa"
+      ],
+      [
+        "Kích thước",
+        "Φ109.9 × 102.2 mm"
+      ],
+      [
+        "Trọng lượng",
+        "0.33 kg"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "2MP",
+    "image": "/img/Camera/Camera-Dahua/Dome/dh-hac-hdw1249xp-a-pro-vn/dh-hac-hdw1249xp-a-pro-vn.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Dome/dh-hac-hdw1249xp-a-pro-vn/dh-hac-hdw1249xp-a-pro-vn.jpg"
+  },
+  "DH-HAC-HFW1249XP-A-PRO-VN": {
+    "name": "Camera HDCVI 2MP Dahua DH-HAC-HFW1249XP-A-PRO-VN",
+    "model": "DH-HAC-HFW1249XP-A-PRO-VN",
+    "code": "CAM-DAH-BUL-0139",
+    "brand": "Dahua",
+    "category": "Bullet",
+    "productType": "Camera Thân Analog",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Bullet/dh-hac-hfw1249xp-a-pro-vn/dh-hac-hfw1249xp-a-pro-vn.html",
+    "price": 910000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Cảm biến hình ảnh: 2MP CMOS",
+      "Độ phân giải: 1920 × 1080 (Full HD)",
+      "Tốc độ khung hình: 25/30fps@1080P",
+      "Độ nhạy sáng: 0.0002 lux (có màu)",
+      "Ống kính: 2.8mm / 3.6mm"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "2MP CMOS"
+      ],
+      [
+        "Độ phân giải",
+        "1920 × 1080 (Full HD)"
+      ],
+      [
+        "Tốc độ khung hình",
+        "25/30fps@1080P"
+      ],
+      [
+        "Độ nhạy sáng",
+        "0.0002 lux (có màu)"
+      ],
+      [
+        "Ống kính",
+        "2.8mm / 3.6mm"
+      ],
+      [
+        "Góc nhìn",
+        "81.5° – 101°"
+      ],
+      [
+        "Tầm chiếu sáng",
+        "50m (LED ánh sáng ấm)"
+      ],
+      [
+        "Chế độ ngày/đêm",
+        "Có màu 24/7"
+      ],
+      [
+        "Giảm nhiễu",
+        "3D NR"
+      ],
+      [
+        "WDR",
+        "DWDR"
+      ],
+      [
+        "Âm thanh",
+        "Micro kép tích hợp"
+      ],
+      [
+        "Chuẩn tín hiệu",
+        "CVI / TVI / AHD / CVBS"
+      ],
+      [
+        "Nguồn điện",
+        "12VDC (±30%)"
+      ],
+      [
+        "Công suất",
+        "≤ 5.6W"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi, nước)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "40°C ~ +60°C"
+      ],
+      [
+        "Chất liệu",
+        "Kim loại + nhựa"
+      ],
+      [
+        "Kích thước",
+        "186.5 × 75 × 82.2 mm"
+      ],
+      [
+        "Trọng lượng",
+        "0.35 kg"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "2MP",
+    "image": "/img/Camera/Camera-Dahua/Bullet/dh-hac-hfw1249xp-a-pro-vn/dh-hac-hfw1249xp-a-pro-vn.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Bullet/dh-hac-hfw1249xp-a-pro-vn/dh-hac-hfw1249xp-a-pro-vn.jpg"
+  },
+  "DHI-NVR5832-EI2": {
+    "name": "Đầu ghi hình camera IP 32 kênh Dahua DHI-NVR5832-EI2",
+    "model": "DHI-NVR5832-EI2",
+    "code": "NVR-DAH-NVR-0054",
+    "brand": "Dahua",
+    "category": "Nvr",
+    "productType": "Đầu ghi NVR",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Nvr/dhi-nvr5832-ei2/dhi-nvr5832-ei2.html",
+    "price": 21790000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Số kênh: 32 kênh IP",
+      "Độ phân giải hỗ trợ: Lên đến 32MP",
+      "Băng thông: 448 Mbps (không AI)",
+      "Chuẩn nén: Smart H.265+, H.265, H.264, MJPEG",
+      "Cổng xuất hình: 2 HDMI (tối đa 8K), 2 VGA"
+    ],
+    "specifications": [
+      [
+        "Số kênh",
+        "32 kênh IP"
+      ],
+      [
+        "Độ phân giải hỗ trợ",
+        "Lên đến 32MP"
+      ],
+      [
+        "Băng thông",
+        "448 Mbps (không AI)"
+      ],
+      [
+        "Chuẩn nén",
+        "Smart H.265+, H.265, H.264, MJPEG"
+      ],
+      [
+        "Cổng xuất hình",
+        "2 HDMI (tối đa 8K), 2 VGA"
+      ],
+      [
+        "Giải mã",
+        "32 kênh 1080p@30fps"
+      ],
+      [
+        "Ổ cứng",
+        "8 cổng SATA (tối đa 20TB/ổ)"
+      ],
+      [
+        "RAID",
+        "0/1/5/6/10"
+      ],
+      [
+        "AI tích hợp",
+        "Face Recognition, SMD Plus, Metadata, AcuPick"
+      ],
+      [
+        "Kênh AI",
+        "Face: 4 kênh (recorder), 24 kênh (camera)"
+      ],
+      [
+        "Cổng mạng",
+        "2 x RJ45 (1Gbps)"
+      ],
+      [
+        "Cổng USB",
+        "4 (2 trước, 2 sau)"
+      ],
+      [
+        "Nguồn điện",
+        "100–240VAC"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "10°C ~ +55°C"
+      ],
+      [
+        "Kích thước",
+        "440 × 458 × 94.9 mm"
+      ],
+      [
+        "Trọng lượng",
+        "~6.27 kg"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Dahua/Nvr/dhi-nvr5832-ei2/dhi-nvr5832-ei2.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Nvr/dhi-nvr5832-ei2/dhi-nvr5832-ei2.jpg"
+  },
+  "DHI-NVR5464-EI2": {
+    "name": "Đầu ghi hình camera IP 64 kênh Dahua DHI-NVR5464-EI2",
+    "model": "DHI-NVR5464-EI2",
+    "code": "NVR-DAH-NVR-0055",
+    "brand": "Dahua",
+    "category": "Nvr",
+    "productType": "Đầu ghi NVR",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Nvr/dhi-nvr5464-ei2/dhi-nvr5464-ei2.html",
+    "price": 19820000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Số kênh: 64 kênh IP",
+      "Chuẩn nén: H.265+, H.265, H.264+, H.264, MJPEG",
+      "Băng thông: 448 Mbps (không AI) / 200 Mbps (có AI)",
+      "Độ phân giải hỗ trợ: Lên đến 32MP",
+      "Xuất hình: 2 HDMI (tối đa 8K), 2 VGA"
+    ],
+    "specifications": [
+      [
+        "Số kênh",
+        "64 kênh IP"
+      ],
+      [
+        "Chuẩn nén",
+        "H.265+, H.265, H.264+, H.264, MJPEG"
+      ],
+      [
+        "Băng thông",
+        "448 Mbps (không AI) / 200 Mbps (có AI)"
+      ],
+      [
+        "Độ phân giải hỗ trợ",
+        "Lên đến 32MP"
+      ],
+      [
+        "Xuất hình",
+        "2 HDMI (tối đa 8K), 2 VGA"
+      ],
+      [
+        "Giải mã",
+        "40 kênh 1080p hoặc 10 kênh 8MP"
+      ],
+      [
+        "Lưu trữ",
+        "4 cổng SATA (tối đa 20TB/ổ)"
+      ],
+      [
+        "AI by Recorder",
+        "Face, SMD Plus, Perimeter, Metadata, AcuPick"
+      ],
+      [
+        "AI by Camera",
+        "Face, ANPR, People Counting, PPE, Heatmap…"
+      ],
+      [
+        "Nhận diện khuôn mặt",
+        "20 thư viện / 30.000 ảnh"
+      ],
+      [
+        "Cổng mạng",
+        "2 x RJ45 (1Gbps)"
+      ],
+      [
+        "Cổng USB",
+        "3 cổng"
+      ],
+      [
+        "Nguồn điện",
+        "100–240VAC"
+      ],
+      [
+        "Kích thước",
+        "440 × 415.6 × 76 mm"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "10°C ~ +55°C"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Dahua/Nvr/dhi-nvr5464-ei2/dhi-nvr5464-ei2.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Nvr/dhi-nvr5464-ei2/dhi-nvr5464-ei2.jpg"
+  },
+  "DHI-NVR5432-EI2": {
+    "name": "Đầu ghi hình camera IP 32 kênh Dahua DHI-NVR5432-EI2",
+    "model": "DHI-NVR5432-EI2",
+    "code": "NVR-DAH-NVR-0056",
+    "brand": "Dahua",
+    "category": "Nvr",
+    "productType": "Đầu ghi NVR",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Nvr/dhi-nvr5432-ei2/dhi-nvr5432-ei2.html",
+    "price": 14930000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Số kênh: 32 kênh IP",
+      "Chuẩn nén: H.265+, H.265, H.264+, H.264, MJPEG",
+      "Băng thông: 448 Mbps (không AI) / 200 Mbps (có AI)",
+      "Độ phân giải hỗ trợ: Lên đến 32MP",
+      "Xuất hình: 2 HDMI (tối đa 8K), 2 VGA"
+    ],
+    "specifications": [
+      [
+        "Số kênh",
+        "32 kênh IP"
+      ],
+      [
+        "Chuẩn nén",
+        "H.265+, H.265, H.264+, H.264, MJPEG"
+      ],
+      [
+        "Băng thông",
+        "448 Mbps (không AI) / 200 Mbps (có AI)"
+      ],
+      [
+        "Độ phân giải hỗ trợ",
+        "Lên đến 32MP"
+      ],
+      [
+        "Xuất hình",
+        "2 HDMI (tối đa 8K), 2 VGA"
+      ],
+      [
+        "Lưu trữ",
+        "4 cổng SATA (tối đa 20TB/ổ)"
+      ],
+      [
+        "AI by Recorder",
+        "Face, SMD Plus, Perimeter, Metadata, AcuPick"
+      ],
+      [
+        "AI by Camera",
+        "Face, ANPR, People Counting, PPE, Heatmap…"
+      ],
+      [
+        "Nhận diện khuôn mặt",
+        "20 thư viện / 30.000 ảnh"
+      ],
+      [
+        "Cổng mạng",
+        "2 x RJ45 (1Gbps)"
+      ],
+      [
+        "Cổng USB",
+        "3 cổng"
+      ],
+      [
+        "Nguồn điện",
+        "100–240VAC"
+      ],
+      [
+        "Kích thước",
+        "440 × 415.6 × 76 mm"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "10°C ~ +55°C"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Dahua/Nvr/dhi-nvr5432-ei2/dhi-nvr5432-ei2.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Nvr/dhi-nvr5432-ei2/dhi-nvr5432-ei2.jpg"
+  },
+  "DHI-NVR5232-EI2": {
+    "name": "Đầu ghi hình camera IP 32 kênh Dahua DHI-NVR5232-EI2",
+    "model": "DHI-NVR5232-EI2",
+    "code": "NVR-DAH-NVR-0057",
+    "brand": "Dahua",
+    "category": "Nvr",
+    "productType": "Đầu ghi NVR",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Nvr/dhi-nvr5232-ei2/dhi-nvr5232-ei2.html",
+    "price": 10580000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Số kênh: 32 kênh IP",
+      "Chuẩn nén: Smart H.265+, H.265, H.264, MJPEG",
+      "Độ phân giải: Lên đến 32MP",
+      "Băng thông: 448 Mbps (không AI), 200 Mbps (có AI)",
+      "Ngõ ra video: 1 HDMI (8K), 1 VGA"
+    ],
+    "specifications": [
+      [
+        "Số kênh",
+        "32 kênh IP"
+      ],
+      [
+        "Chuẩn nén",
+        "Smart H.265+, H.265, H.264, MJPEG"
+      ],
+      [
+        "Độ phân giải",
+        "Lên đến 32MP"
+      ],
+      [
+        "Băng thông",
+        "448 Mbps (không AI), 200 Mbps (có AI)"
+      ],
+      [
+        "Ngõ ra video",
+        "1 HDMI (8K), 1 VGA"
+      ],
+      [
+        "AI tích hợp",
+        "Nhận diện khuôn mặt, SMD Plus, bảo vệ chu vi, metadata"
+      ],
+      [
+        "Tìm kiếm thông minh",
+        "AcuPick"
+      ],
+      [
+        "Lưu trữ",
+        "2 cổng SATA, tối đa 20TB/ổ"
+      ],
+      [
+        "Cổng kết nối",
+        "HDMI, VGA, USB 2.0/3.0, RJ45, RS485"
+      ],
+      [
+        "Audio",
+        "1 in / 1 out"
+      ],
+      [
+        "Alarm",
+        "4 in / 2 out"
+      ],
+      [
+        "Nguồn điện",
+        "12V DC"
+      ],
+      [
+        "Công suất",
+        "≤ 10W (chưa HDD)"
+      ],
+      [
+        "Kích thước",
+        "375 × 284.8 × 56 mm"
+      ],
+      [
+        "Trọng lượng",
+        "~1.55 kg"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "10°C ~ +55°C"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Dahua/Nvr/dhi-nvr5232-ei2/dhi-nvr5232-ei2.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Nvr/dhi-nvr5232-ei2/dhi-nvr5232-ei2.jpg"
+  },
+  "DHI-NVR5216-EI2": {
+    "name": "Đầu ghi hình camera IP 16 kênh Dahua DHI-NVR5216-EI2",
+    "model": "DHI-NVR5216-EI2",
+    "code": "NVR-DAH-NVR-0058",
+    "brand": "Dahua",
+    "category": "Nvr",
+    "productType": "Đầu ghi NVR",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Nvr/dhi-nvr5216-ei2/dhi-nvr5216-ei2.html",
+    "price": 9450000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Số kênh: 16 kênh IP",
+      "Chuẩn nén: Smart H.265+, H.265, H.264, MJPEG",
+      "Độ phân giải hỗ trợ: Lên đến 32MP",
+      "Băng thông: 448 Mbps (không AI), 200 Mbps (có AI)",
+      "Ngõ ra video: 1 HDMI (8K), 1 VGA"
+    ],
+    "specifications": [
+      [
+        "Số kênh",
+        "16 kênh IP"
+      ],
+      [
+        "Chuẩn nén",
+        "Smart H.265+, H.265, H.264, MJPEG"
+      ],
+      [
+        "Độ phân giải hỗ trợ",
+        "Lên đến 32MP"
+      ],
+      [
+        "Băng thông",
+        "448 Mbps (không AI), 200 Mbps (có AI)"
+      ],
+      [
+        "Ngõ ra video",
+        "1 HDMI (8K), 1 VGA"
+      ],
+      [
+        "AI tích hợp",
+        "Nhận diện khuôn mặt, SMD Plus, bảo vệ chu vi, metadata"
+      ],
+      [
+        "Tìm kiếm thông minh",
+        "AcuPick"
+      ],
+      [
+        "Lưu trữ",
+        "2 cổng SATA, tối đa 20TB/ổ"
+      ],
+      [
+        "Cổng kết nối",
+        "HDMI, VGA, USB 2.0/3.0, RJ45, RS485"
+      ],
+      [
+        "Audio",
+        "1 in / 1 out"
+      ],
+      [
+        "Alarm",
+        "4 in / 2 out"
+      ],
+      [
+        "Nguồn điện",
+        "12V DC"
+      ],
+      [
+        "Công suất",
+        "≤ 10W (không HDD)"
+      ],
+      [
+        "Kích thước",
+        "375 × 284.8 × 56 mm"
+      ],
+      [
+        "Trọng lượng",
+        "~1.55 kg"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "10°C ~ +55°C"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Dahua/Nvr/dhi-nvr5216-ei2/dhi-nvr5216-ei2.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Nvr/dhi-nvr5216-ei2/dhi-nvr5216-ei2.jpg"
+  },
+  "DHI-NVR5208-EI2": {
+    "name": "Đầu ghi hình camera IP 8 kênh Dahua DHI-NVR5208-EI2",
+    "model": "DHI-NVR5208-EI2",
+    "code": "NVR-DAH-NVR-0059",
+    "brand": "Dahua",
+    "category": "Nvr",
+    "productType": "Đầu ghi NVR",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Nvr/dhi-nvr5208-ei2/dhi-nvr5208-ei2.html",
+    "price": 8370000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Số kênh: 8 kênh IP",
+      "Độ phân giải hỗ trợ: Tối đa 32MP",
+      "Băng thông: 448 Mbps (không AI) / 200 Mbps (có AI)",
+      "Chuẩn nén: Smart H.265+, H.265, H.264, MJPEG",
+      "Cổng xuất hình: 1 HDMI (8K), 1 VGA"
+    ],
+    "specifications": [
+      [
+        "Số kênh",
+        "8 kênh IP"
+      ],
+      [
+        "Độ phân giải hỗ trợ",
+        "Tối đa 32MP"
+      ],
+      [
+        "Băng thông",
+        "448 Mbps (không AI) / 200 Mbps (có AI)"
+      ],
+      [
+        "Chuẩn nén",
+        "Smart H.265+, H.265, H.264, MJPEG"
+      ],
+      [
+        "Cổng xuất hình",
+        "1 HDMI (8K), 1 VGA"
+      ],
+      [
+        "AI tích hợp",
+        "Nhận diện khuôn mặt, SMD Plus, perimeter, metadata"
+      ],
+      [
+        "Lưu trữ",
+        "2 cổng SATA (tối đa 20TB/ổ)"
+      ],
+      [
+        "Cổng mạng",
+        "1 x RJ45 (10/100/1000 Mbps)"
+      ],
+      [
+        "Cổng USB",
+        "2 cổng (USB 2.0 + 3.0)"
+      ],
+      [
+        "Ngõ vào/ra alarm",
+        "4 in / 2 out"
+      ],
+      [
+        "Nguồn điện",
+        "12V DC"
+      ],
+      [
+        "Công suất",
+        "≤ 10W (không HDD)"
+      ],
+      [
+        "Kích thước",
+        "375 × 284.8 × 56 mm"
+      ],
+      [
+        "Trọng lượng",
+        "~1.55 kg"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "10°C ~ +55°C"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Dahua/Nvr/dhi-nvr5208-ei2/dhi-nvr5208-ei2.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Nvr/dhi-nvr5208-ei2/dhi-nvr5208-ei2.jpg"
+  },
+  "DS-2CD1B47G3H-LIU/SRB": {
+    "name": "Camera IP 4MP HIKVISION DS-2CD1B47G3H-LIU/SRB",
+    "model": "DS-2CD1B47G3H-LIU/SRB",
+    "code": "CAM-HIK-BUL-0119",
+    "brand": "Hikvision",
+    "category": "Bullet",
+    "productType": "Camera Thân IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/Bullet/ds-2cd1b47g3h-liu-srb/ds-2cd1b47g3h-liu-srb.html",
+    "price": 2420000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Độ phân giải: 4MP (2560 × 1440)",
+      "Cảm biến hình ảnh: 1/1.8” Progressive Scan CMOS",
+      "Công nghệ: ColorVu 3.0, HikAI-ISP",
+      "Ống kính: 2.8mm (104°) / 4mm (89.3°)",
+      "Khẩu độ: F1.0"
+    ],
+    "specifications": [
+      [
+        "Độ phân giải",
+        "4MP (2560 × 1440)"
+      ],
+      [
+        "Cảm biến hình ảnh",
+        "1/1.8” Progressive Scan CMOS"
+      ],
+      [
+        "Công nghệ",
+        "ColorVu 3.0, HikAI-ISP"
+      ],
+      [
+        "Ống kính",
+        "2.8mm (104°) / 4mm (89.3°)"
+      ],
+      [
+        "Khẩu độ",
+        "F1.0"
+      ],
+      [
+        "Tầm chiếu sáng",
+        "Lên đến 50m"
+      ],
+      [
+        "Đèn cảnh báo",
+        "Chớp đỏ – xanh (SRB)"
+      ],
+      [
+        "Âm thanh",
+        "Micro & loa tích hợp (2 chiều)"
+      ],
+      [
+        "Phát hiện thông minh",
+        "Người & phương tiện"
+      ],
+      [
+        "Khe cắm thẻ nhớ",
+        "Không hỗ trợ"
+      ],
+      [
+        "Chuẩn nén",
+        "H.265+/H.265/H.264+/H.264"
+      ],
+      [
+        "WDR",
+        "120dB"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi nước)"
+      ],
+      [
+        "Nguồn điện",
+        "12VDC hoặc PoE 802.3af"
+      ],
+      [
+        "Công suất tối đa",
+        "11.74W"
+      ],
+      [
+        "Kích thước",
+        "286.1 × 88.09 × 83.38 mm"
+      ],
+      [
+        "Trọng lượng",
+        "~730g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "4MP",
+    "image": "/img/Camera/Camera-Hikvision/Bullet/ds-2cd1b47g3h-liu-srb/ds-2cd1b47g3h-liu-srb.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/Bullet/ds-2cd1b47g3h-liu-srb/ds-2cd1b47g3h-liu-srb.jpg"
+  },
+  "DS-2CD1347G3H-LIU/SRB": {
+    "name": "Camera IP 4MP HIKVISION DS-2CD1347G3H-LIU/SRB",
+    "model": "DS-2CD1347G3H-LIU/SRB",
+    "code": "CAM-HIK-DOM-0076",
+    "brand": "Hikvision",
+    "category": "Dome",
+    "productType": "Camera Dome IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/Dome/ds-2cd1347g3h-liu-srb/ds-2cd1347g3h-liu-srb.html",
+    "price": 2290000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Độ phân giải: 4MP (2560 × 1440)",
+      "Cảm biến hình ảnh: 1/1.8” Progressive Scan CMOS",
+      "Công nghệ: ColorVu 3.0, HikAI-ISP",
+      "Ống kính: 2.8mm (104°) / 4mm (89.3°)",
+      "Khẩu độ: F1.0"
+    ],
+    "specifications": [
+      [
+        "Độ phân giải",
+        "4MP (2560 × 1440)"
+      ],
+      [
+        "Cảm biến hình ảnh",
+        "1/1.8” Progressive Scan CMOS"
+      ],
+      [
+        "Công nghệ",
+        "ColorVu 3.0, HikAI-ISP"
+      ],
+      [
+        "Ống kính",
+        "2.8mm (104°) / 4mm (89.3°)"
+      ],
+      [
+        "Khẩu độ",
+        "F1.0"
+      ],
+      [
+        "Tầm chiếu sáng",
+        "Tối đa 30m"
+      ],
+      [
+        "Đèn cảnh báo",
+        "Chớp đỏ – xanh (SRB)"
+      ],
+      [
+        "Âm thanh",
+        "Micro & loa tích hợp (2 chiều)"
+      ],
+      [
+        "Phát hiện thông minh",
+        "Người & phương tiện"
+      ],
+      [
+        "Khe cắm thẻ nhớ",
+        "Không hỗ trợ"
+      ],
+      [
+        "Chuẩn nén",
+        "H.265+/H.265/H.264+/H.264"
+      ],
+      [
+        "WDR",
+        "120dB"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi nước)"
+      ],
+      [
+        "Nguồn điện",
+        "12VDC hoặc PoE 802.3af"
+      ],
+      [
+        "Công suất tối đa",
+        "9.21W"
+      ],
+      [
+        "Kích thước",
+        "Ø130.1 × 103.1 mm"
+      ],
+      [
+        "Trọng lượng",
+        "~580g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "4MP",
+    "image": "/img/Camera/Camera-Hikvision/Dome/ds-2cd1347g3h-liu-srb/ds-2cd1347g3h-liu-srb.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/Dome/ds-2cd1347g3h-liu-srb/ds-2cd1347g3h-liu-srb.jpg"
+  },
+  "DS-2CD1T47G2H-LIU": {
+    "name": "Camera IP 4MP HIKVISION DS-2CD1T47G2H-LIU",
+    "model": "DS-2CD1T47G2H-LIU",
+    "code": "CAM-HIK-BUL-0120",
+    "brand": "Hikvision",
+    "category": "Bullet",
+    "productType": "Camera Thân IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/Bullet/ds-2cd1t47g2h-liu/ds-2cd1t47g2h-liu.html",
+    "price": 1860000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Cảm biến hình ảnh: 1/3” Progressive Scan CMOS",
+      "Độ phân giải tối đa: 2560 × 1440 (4MP)",
+      "Ống kính: 2.8mm (115°) / 4mm (94°)",
+      "Khẩu độ: F1.0",
+      "Độ nhạy sáng: 0.001 Lux (màu), 0 Lux khi bật đèn"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "1/3” Progressive Scan CMOS"
+      ],
+      [
+        "Độ phân giải tối đa",
+        "2560 × 1440 (4MP)"
+      ],
+      [
+        "Ống kính",
+        "2.8mm (115°) / 4mm (94°)"
+      ],
+      [
+        "Khẩu độ",
+        "F1.0"
+      ],
+      [
+        "Độ nhạy sáng",
+        "0.001 Lux (màu), 0 Lux khi bật đèn"
+      ],
+      [
+        "Tầm chiếu sáng",
+        "Lên đến 50m"
+      ],
+      [
+        "Công nghệ chiếu sáng",
+        "Smart Hybrid Light (IR + White Light)"
+      ],
+      [
+        "Chuẩn nén",
+        "H.265+/H.265/H.264+/H.264"
+      ],
+      [
+        "WDR",
+        "120 dB"
+      ],
+      [
+        "Âm thanh",
+        "1 micro tích hợp"
+      ],
+      [
+        "Mạng",
+        "1 cổng RJ45 10/100 Mbps"
+      ],
+      [
+        "Khe cắm thẻ nhớ",
+        "Không hỗ trợ"
+      ],
+      [
+        "Nguồn cấp",
+        "12VDC hoặc PoE (IEEE 802.3af)"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "Tối đa 8.3W"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi nước)"
+      ],
+      [
+        "Kích thước",
+        "81 × 83.7 × 201.96 mm"
+      ],
+      [
+        "Trọng lượng",
+        "~550g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "4MP",
+    "image": "/img/Camera/Camera-Hikvision/Bullet/ds-2cd1t47g2h-liu/ds-2cd1t47g2h-liu.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/Bullet/ds-2cd1t47g2h-liu/ds-2cd1t47g2h-liu.jpg"
+  },
+  "DS-2CD1047G2H-LIU": {
+    "name": "Camera IP 4MP HIKVISION DS-2CD1047G2H-LIU",
+    "model": "DS-2CD1047G2H-LIU",
+    "code": "CAM-HIK-BUL-0121",
+    "brand": "Hikvision",
+    "category": "Bullet",
+    "productType": "Camera Thân IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/Bullet/ds-2cd1047g2h-liu/ds-2cd1047g2h-liu.html",
+    "price": 1810000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Cảm biến hình ảnh: 1/3” Progressive Scan CMOS",
+      "Độ phân giải tối đa: 2560 × 1440 (4MP)",
+      "Ống kính: 2.8mm (115°) hoặc 4mm (94°)",
+      "Khẩu độ: F1.0",
+      "Độ nhạy sáng: 0.001 Lux (màu)"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "1/3” Progressive Scan CMOS"
+      ],
+      [
+        "Độ phân giải tối đa",
+        "2560 × 1440 (4MP)"
+      ],
+      [
+        "Ống kính",
+        "2.8mm (115°) hoặc 4mm (94°)"
+      ],
+      [
+        "Khẩu độ",
+        "F1.0"
+      ],
+      [
+        "Độ nhạy sáng",
+        "0.001 Lux (màu)"
+      ],
+      [
+        "Tầm chiếu sáng",
+        "Lên đến 30m"
+      ],
+      [
+        "Công nghệ chiếu sáng",
+        "Smart Hybrid Light (IR + White Light)"
+      ],
+      [
+        "Chuẩn nén video",
+        "H.265+/H.265/H.264+/H.264"
+      ],
+      [
+        "WDR",
+        "120dB"
+      ],
+      [
+        "Tính năng thông minh",
+        "Phát hiện người & phương tiện"
+      ],
+      [
+        "Âm thanh",
+        "micro tích hợp"
+      ],
+      [
+        "Khe cắm thẻ nhớ",
+        "Không hỗ trợ"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi nước)"
+      ],
+      [
+        "Nguồn cấp",
+        "12VDC hoặc PoE (IEEE 802.3af)"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "Tối đa 7.5W"
+      ],
+      [
+        "Kích thước",
+        "69.8 × 67.9 × 172.9 mm"
+      ],
+      [
+        "Trọng lượng",
+        "~550g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "4MP",
+    "image": "/img/Camera/Camera-Hikvision/Bullet/ds-2cd1047g2h-liu/ds-2cd1047g2h-liu.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/Bullet/ds-2cd1047g2h-liu/ds-2cd1047g2h-liu.jpg"
+  },
+  "DS-2CD1343G2-LIU": {
+    "name": "Camera IP 4MP HIKVISION DS-2CD1343G2-LIU",
+    "model": "DS-2CD1343G2-LIU",
+    "code": "CAM-HIK-DOM-0077",
+    "brand": "Hikvision",
+    "category": "Dome",
+    "productType": "Camera Dome IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/Dome/ds-2cd1343g2-liu/ds-2cd1343g2-liu.html",
+    "price": 1480000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Cảm biến hình ảnh: 1/3” Progressive Scan CMOS",
+      "Độ phân giải tối đa: 2560 × 1440 (4MP)",
+      "Ống kính: 2.8mm (98°) hoặc 4mm (78°)",
+      "Tầm xa hồng ngoại/ánh sáng trắng: Lên đến 30m",
+      "Công nghệ chiếu sáng: Smart Hybrid Light"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "1/3” Progressive Scan CMOS"
+      ],
+      [
+        "Độ phân giải tối đa",
+        "2560 × 1440 (4MP)"
+      ],
+      [
+        "Ống kính",
+        "2.8mm (98°) hoặc 4mm (78°)"
+      ],
+      [
+        "Tầm xa hồng ngoại/ánh sáng trắng",
+        "Lên đến 30m"
+      ],
+      [
+        "Công nghệ chiếu sáng",
+        "Smart Hybrid Light"
+      ],
+      [
+        "Chuẩn nén video",
+        "H.265+/H.265/H.264+/H.264"
+      ],
+      [
+        "WDR",
+        "120dB"
+      ],
+      [
+        "Tính năng thông minh",
+        "Phát hiện người & phương tiện"
+      ],
+      [
+        "Âm thanh",
+        "Micro tích hợp"
+      ],
+      [
+        "Khe cắm thẻ nhớ",
+        "Không hỗ trợ"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi nước)"
+      ],
+      [
+        "Nguồn cấp",
+        "12VDC hoặc PoE (IEEE 802.3af)"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "Tối đa 6.5W"
+      ],
+      [
+        "Kích thước",
+        "Ø110 mm × 89.2 mm"
+      ],
+      [
+        "Trọng lượng",
+        "~340g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "4MP",
+    "image": "/img/Camera/Camera-Hikvision/Dome/ds-2cd1343g2-liu/ds-2cd1343g2-liu.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/Dome/ds-2cd1343g2-liu/ds-2cd1343g2-liu.jpg"
+  },
+  "DS-2CD1143G2-LIU": {
+    "name": "Camera IP 4MP HIKVISION DS-2CD1143G2-LIU",
+    "model": "DS-2CD1143G2-LIU",
+    "code": "CAM-HIK-DOM-0078",
+    "brand": "Hikvision",
+    "category": "Dome",
+    "productType": "Camera Dome IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/Dome/ds-2cd1143g2-liu/ds-2cd1143g2-liu.html",
+    "price": 1680000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Độ phân giải: 4MP (2560 × 1440)",
+      "Cảm biến: 1/3” Progressive Scan CMOS",
+      "Ống kính: 2.8mm (98°) / 4mm (78°)",
+      "Tầm chiếu sáng: IR & White Light lên đến 30m",
+      "Công nghệ ánh sáng: Smart Hybrid Light"
+    ],
+    "specifications": [
+      [
+        "Độ phân giải",
+        "4MP (2560 × 1440)"
+      ],
+      [
+        "Cảm biến",
+        "1/3” Progressive Scan CMOS"
+      ],
+      [
+        "Ống kính",
+        "2.8mm (98°) / 4mm (78°)"
+      ],
+      [
+        "Tầm chiếu sáng",
+        "IR & White Light lên đến 30m"
+      ],
+      [
+        "Công nghệ ánh sáng",
+        "Smart Hybrid Light"
+      ],
+      [
+        "WDR",
+        "120dB"
+      ],
+      [
+        "Phát hiện thông minh",
+        "Người & phương tiện"
+      ],
+      [
+        "Âm thanh",
+        "Micro tích hợp"
+      ],
+      [
+        "Khe cắm thẻ nhớ",
+        "Không hỗ trợ"
+      ],
+      [
+        "Chuẩn nén",
+        "H.265+/H.265/H.264+/H.264"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67, IK08"
+      ],
+      [
+        "Nguồn cấp",
+        "12VDC hoặc PoE (IEEE 802.3af)"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "Tối đa 7.5W"
+      ],
+      [
+        "Kích thước",
+        "Ø121.4 × 97.7 mm"
+      ],
+      [
+        "Trọng lượng",
+        "~550g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "4MP",
+    "image": "/img/Camera/Camera-Hikvision/Dome/ds-2cd1143g2-liu/ds-2cd1143g2-liu.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/Dome/ds-2cd1143g2-liu/ds-2cd1143g2-liu.jpg"
+  },
+  "DS-2CD1123G2-LIU": {
+    "name": "Camera IP 2MP HIKVISION DS-2CD1123G2-LIU",
+    "model": "DS-2CD1123G2-LIU",
+    "code": "CAM-HIK-DOM-0079",
+    "brand": "Hikvision",
+    "category": "Dome",
+    "productType": "Camera Dome IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/Dome/ds-2cd1123g2-liu/ds-2cd1123g2-liu.html",
+    "price": 1200000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Độ phân giải: 2MP (1920 × 1080)",
+      "Cảm biến: 1/2.9” Progressive Scan CMOS",
+      "Ống kính: 2.8mm (103°) / 4mm (83°)",
+      "Tầm chiếu sáng: IR & White Light lên đến 30m",
+      "Công nghệ ánh sáng: Smart Hybrid Light"
+    ],
+    "specifications": [
+      [
+        "Độ phân giải",
+        "2MP (1920 × 1080)"
+      ],
+      [
+        "Cảm biến",
+        "1/2.9” Progressive Scan CMOS"
+      ],
+      [
+        "Ống kính",
+        "2.8mm (103°) / 4mm (83°)"
+      ],
+      [
+        "Tầm chiếu sáng",
+        "IR & White Light lên đến 30m"
+      ],
+      [
+        "Công nghệ ánh sáng",
+        "Smart Hybrid Light"
+      ],
+      [
+        "Phát hiện thông minh",
+        "Người & phương tiện"
+      ],
+      [
+        "Âm thanh",
+        "Micro tích hợp"
+      ],
+      [
+        "Khe cắm thẻ nhớ",
+        "Không hỗ trợ"
+      ],
+      [
+        "Chuẩn nén",
+        "H.265+/H.265/H.264+/H.264"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67, IK08"
+      ],
+      [
+        "Nguồn cấp",
+        "12VDC hoặc PoE (IEEE 802.3af)"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "Tối đa 7.5W"
+      ],
+      [
+        "Kích thước",
+        "Ø121.4 × 97.7 mm"
+      ],
+      [
+        "Trọng lượng",
+        "~550g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "2MP",
+    "image": "/img/Camera/Camera-Hikvision/Dome/ds-2cd1123g2-liu/ds-2cd1123g2-liu.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/Dome/ds-2cd1123g2-liu/ds-2cd1123g2-liu.jpg"
+  },
+  "DS-2CD1023G2-LIU": {
+    "name": "Camera IP 2MP HIKVISION DS-2CD1023G2-LIU",
+    "model": "DS-2CD1023G2-LIU",
+    "code": "CAM-HIK-BUL-0122",
+    "brand": "Hikvision",
+    "category": "Bullet",
+    "productType": "Camera Thân IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Hikvision/Bullet/ds-2cd1023g2-liu/ds-2cd1023g2-liu.html",
+    "price": 1130000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Độ phân giải: 2MP (1920 × 1080)",
+      "Cảm biến: 1/2.9” Progressive Scan CMOS",
+      "Ống kính: 2.8mm (103°) hoặc 4mm (83°)",
+      "Tầm chiếu sáng: IR/White Light lên đến 30m",
+      "Công nghệ ánh sáng: Smart Hybrid Light"
+    ],
+    "specifications": [
+      [
+        "Độ phân giải",
+        "2MP (1920 × 1080)"
+      ],
+      [
+        "Cảm biến",
+        "1/2.9” Progressive Scan CMOS"
+      ],
+      [
+        "Ống kính",
+        "2.8mm (103°) hoặc 4mm (83°)"
+      ],
+      [
+        "Tầm chiếu sáng",
+        "IR/White Light lên đến 30m"
+      ],
+      [
+        "Công nghệ ánh sáng",
+        "Smart Hybrid Light"
+      ],
+      [
+        "Phát hiện thông minh",
+        "Người & phương tiện"
+      ],
+      [
+        "Âm thanh",
+        "Micro tích hợp"
+      ],
+      [
+        "Khe cắm thẻ nhớ",
+        "Không hỗ trợ"
+      ],
+      [
+        "Chuẩn nén",
+        "H.265+/H.265/H.264+/H.264"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi và nước)"
+      ],
+      [
+        "Nguồn cấp",
+        "12VDC hoặc PoE"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "Tối đa 6.5W"
+      ],
+      [
+        "Kích thước",
+        "170.8 × 66 × 69.1 mm"
+      ],
+      [
+        "Trọng lượng",
+        "~265g"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "2MP",
+    "image": "/img/Camera/Camera-Hikvision/Bullet/ds-2cd1023g2-liu/ds-2cd1023g2-liu.jpg",
+    "thumbnail": "/img/Camera/Camera-Hikvision/Bullet/ds-2cd1023g2-liu/ds-2cd1023g2-liu.jpg"
+  },
+  "DS-3WR30X": {
+    "name": "3000M Dual Band Wi-Fi Router HIKVISION DS-3WR30X",
+    "model": "DS-3WR30X",
+    "code": "NET-HIK-WRT-0001",
+    "brand": "Hikvision",
+    "category": "RouterWifi",
+    "productType": "Router WiFi",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/Camera-Hikvision/Routerwifi/ds-3wr30x/ds-3wr30x.html",
+    "price": 1300000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Chuẩn Wi-Fi: Wi-Fi 6 (IEEE 802.11ax)",
+      "Băng tần: 2.4 GHz & 5 GHz",
+      "Tốc độ Wi-Fi: 2.4GHz:574 Mbps, 5GHz:2402 Mbps",
+      "Tốc độ Wi-Fi tối đa: 3000 Mbps",
+      "Cổng mạng: 1 WAN Gigabit, 3 LAN Gigabit"
+    ],
+    "specifications": [
+      [
+        "Chuẩn Wi-Fi",
+        "Wi-Fi 6 (IEEE 802.11ax)"
+      ],
+      [
+        "Băng tần",
+        "2.4 GHz & 5 GHz"
+      ],
+      [
+        "Tốc độ Wi-Fi",
+        "2.4GHz:574 Mbps, 5GHz:2402 Mbps"
+      ],
+      [
+        "Tốc độ Wi-Fi tối đa",
+        "3000 Mbps"
+      ],
+      [
+        "Cổng mạng",
+        "1 WAN Gigabit, 3 LAN Gigabit"
+      ],
+      [
+        "Số lượng ăng-ten",
+        "5 ăng-ten độ lợi cao"
+      ],
+      [
+        "Công nghệ hỗ trợ",
+        "MU-MIMO, Beamforming"
+      ],
+      [
+        "Bảo mật",
+        "WPA2-PSK, WPA3-SAE"
+      ],
+      [
+        "Công suất tiêu thụ tối đa",
+        "≤ 12 W"
+      ],
+      [
+        "Nguồn điện",
+        "DC 12V / 1A"
+      ],
+      [
+        "Kích thước",
+        "281.7 × 145.0 × 204.1 mm"
+      ],
+      [
+        "Trọng lượng",
+        "0.40 kg"
+      ],
+      [
+        "Kiểu lắp đặt",
+        "Để bàn"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "0 ℃ đến 40 ℃"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/Camera-Hikvision/Routerwifi/ds-3wr30x/ds-3wr30x.jpg",
+    "thumbnail": "/img/thiet-bi-mang/Camera-Hikvision/Routerwifi/ds-3wr30x/ds-3wr30x.jpg"
+  },
+  "DS-3WR15X": {
+    "name": "1500M Dual Band Wi-Fi Router HIKVISION DS-3WR15X",
+    "model": "DS-3WR15X",
+    "code": "NET-HIK-WRT-0002",
+    "brand": "Hikvision",
+    "category": "RouterWifi",
+    "productType": "Router WiFi",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/Camera-Hikvision/Routerwifi/ds-3wr15x/ds-3wr15x.html",
+    "price": 960000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Chuẩn Wi-Fi: Wi-Fi 6 (IEEE 802.11 a/b/g/n/ac/ax)",
+      "Băng tần hoạt động: 2.4 GHz và 5 GHz",
+      "Tốc độ Wi-Fi: 2.4GHz:300 Mbps, 5GHz:1201 Mbps",
+      "Công nghệ Wi-Fi: MU-MIMO, Tx Beamforming",
+      "Số ăng-ten: 4 ăng-ten công suất cao"
+    ],
+    "specifications": [
+      [
+        "Chuẩn Wi-Fi",
+        "Wi-Fi 6 (IEEE 802.11 a/b/g/n/ac/ax)"
+      ],
+      [
+        "Băng tần hoạt động",
+        "2.4 GHz và 5 GHz"
+      ],
+      [
+        "Tốc độ Wi-Fi",
+        "2.4GHz:300 Mbps, 5GHz:1201 Mbps"
+      ],
+      [
+        "Công nghệ Wi-Fi",
+        "MU-MIMO, Tx Beamforming"
+      ],
+      [
+        "Số ăng-ten",
+        "4 ăng-ten công suất cao"
+      ],
+      [
+        "Cổng mạng",
+        "1 × WAN Gigabit, 3 × LAN Gigabit"
+      ],
+      [
+        "Quản lý",
+        "Web, ứng dụng HIK-Connect"
+      ],
+      [
+        "Chế độ hoạt động",
+        "Router, Wireless Relay, Wired Bridge"
+      ],
+      [
+        "Bảo mật",
+        "WPA2-PSK, WPA/WPA2-PSK, WPA3-SAE"
+      ],
+      [
+        "Nguồn điện",
+        "DC 12 V / 1 A"
+      ],
+      [
+        "Công suất tiêu thụ tối đa",
+        "≤ 10 W"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "0 °C đến 40 °C"
+      ],
+      [
+        "Kích thước",
+        "241.3 × 140.8 × 156.3 mm"
+      ],
+      [
+        "Trọng lượng tịnh",
+        "0.245 kg"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/Camera-Hikvision/Routerwifi/ds-3wr15x/ds-3wr15x.jpg",
+    "thumbnail": "/img/thiet-bi-mang/Camera-Hikvision/Routerwifi/ds-3wr15x/ds-3wr15x.jpg"
+  },
+  "VigorSwitch Q1100x": {
+    "name": "8-Port 2.5GbE Switch DrayTek VigorSwitch Q1100x",
+    "model": "VigorSwitch Q1100x",
+    "code": "NET-DRA-SWT-0010",
+    "brand": "DrayTek",
+    "category": "Switch",
+    "productType": "Switch mạng",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/Draytek/Switch/vigorswitch-q1100x/vigorswitch-q1100x.html",
+    "price": 3330000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Loại thiết bị: Smart Lite Managed Switch",
+      "Cổng mạng: 8 × 2.5GbE RJ-45",
+      "Cổng uplink: 2 × 10G SFP+",
+      "Tốc độ chuyển mạch: 80 Gbps",
+      "Tốc độ chuyển gói: 59.52 Mpps (64 byte)"
+    ],
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Smart Lite Managed Switch"
+      ],
+      [
+        "Cổng mạng",
+        "8 × 2.5GbE RJ-45"
+      ],
+      [
+        "Cổng uplink",
+        "2 × 10G SFP+"
+      ],
+      [
+        "Tốc độ chuyển mạch",
+        "80 Gbps"
+      ],
+      [
+        "Tốc độ chuyển gói",
+        "59.52 Mpps (64 byte)"
+      ],
+      [
+        "Bảng MAC",
+        "16K"
+      ],
+      [
+        "Jumbo Frame",
+        "10 KB"
+      ],
+      [
+        "Bộ đệm",
+        "8 Mbit"
+      ],
+      [
+        "Tính năng",
+        "QoS, VLAN, STP, RSTP, IGMP Snooping v1/v2/v3, MLD Snooping v1/v2"
+      ],
+      [
+        "Quản lý",
+        "HTTP, HTTPS, SNMP v1/v2c, LLDP, SNTP"
+      ],
+      [
+        "Nguồn điện",
+        "DC 12V @ 1.5A"
+      ],
+      [
+        "Công suất tiêu thụ tối đa",
+        "18W"
+      ],
+      [
+        "Kích thước",
+        "220 x 115 x 32 (mm)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "0 ~ 45°C"
+      ],
+      [
+        "Độ ẩm hoạt động",
+        "10 ~ 90% (không ngưng tụ)"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/Draytek/Switch/vigorswitch-q1100x/vigorswitch-q1100x.jpg",
+    "thumbnail": "/img/thiet-bi-mang/Draytek/Switch/vigorswitch-q1100x/vigorswitch-q1100x.jpg"
+  },
+  "VigorAP 1062C": {
+    "name": "Dual Band WiFi 6 Access Point Draytek VigorAP 1062C",
+    "model": "VigorAP 1062C",
+    "code": "NET-DRA-AP-0004",
+    "brand": "DrayTek",
+    "category": "AP",
+    "productType": "Access Point",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/Draytek/AP/vigorap-1062c/vigorap-1062c.html",
+    "price": 5800000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Chuẩn WiFi: WiFi 6 (802.11ax)",
+      "Băng tần hoạt động: Đồng thời 2.4GHz & 5GHz",
+      "Tốc độ WiFi: 2.4GHz: 1200 Mbps, 5GHz: 4800 Mbps",
+      "Số luồng không dây: 4x4 MU-MIMO",
+      "Công nghệ WiFi: OFDMA, MU-MIMO"
+    ],
+    "specifications": [
+      [
+        "Chuẩn WiFi",
+        "WiFi 6 (802.11ax)"
+      ],
+      [
+        "Băng tần hoạt động",
+        "Đồng thời 2.4GHz & 5GHz"
+      ],
+      [
+        "Tốc độ WiFi",
+        "2.4GHz: 1200 Mbps, 5GHz: 4800 Mbps"
+      ],
+      [
+        "Số luồng không dây",
+        "4x4 MU-MIMO"
+      ],
+      [
+        "Công nghệ WiFi",
+        "OFDMA, MU-MIMO"
+      ],
+      [
+        "Số người dùng tối đa",
+        "256 thiết bị đồng thời"
+      ],
+      [
+        "Cổng mạng",
+        "1 x LAN RJ-45"
+      ],
+      [
+        "Tốc độ cổng LAN",
+        "2.5G / 1G / 100M / 10M"
+      ],
+      [
+        "Chế độ hoạt động",
+        "AP, Mesh Root, Mesh Node, Range Extender"
+      ],
+      [
+        "Số SSID tối đa",
+        "16 SSID (8 SSID mỗi băng tần)"
+      ],
+      [
+        "Bảo mật",
+        "OWE, WEP, WPA, WPA2/WPA WPA2, WPA3/WPA2, WPA3"
+      ],
+      [
+        "Quản lý",
+        "Web UI, SSH, Telnet"
+      ],
+      [
+        "Nguồn điện",
+        "12V DC @ 2A, PoE+ (802.3af/at)"
+      ],
+      [
+        "Kích thước",
+        "208 x 208 x 32.1(mm)"
+      ],
+      [
+        "Trọng lượng",
+        "812.6 g"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/Draytek/AP/vigorap-1062c/vigorap-1062c.jpg",
+    "thumbnail": "/img/thiet-bi-mang/Draytek/AP/vigorap-1062c/vigorap-1062c.jpg"
+  },
+  "DH-XVR5216AN-5M-I3/T": {
+    "name": "Đầu ghi hình Penta-brid 16 kênh Dahua DH-XVR5216AN-5M-I3/T",
+    "model": "DH-XVR5216AN-5M-I3/T",
+    "code": "CAM-DAH-DVR-0004",
+    "brand": "Dahua",
+    "category": "Hybrid",
+    "productType": "Đầu ghi DVR/Hybrid",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Hybrid/dh-xvr5216an-5m-i3-t/dh-xvr5216an-5m-i3-t.html",
+    "price": 7340000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Số kênh: 16 kênh analog + tối đa 24 kênh IP",
+      "Độ phân giải hỗ trợ: Camera analog lên đến 5MP, IP lên đến 6MP",
+      "Chuẩn nén: AI Coding, Smart H.265+, H.265, H.264",
+      "AI thông minh: SMD Plus, Perimeter Protection, AcuPick, Nhận diện khuôn mặt",
+      "Đàm thoại 2 chiều: 16 kênh qua cáp đồng trục"
+    ],
+    "specifications": [
+      [
+        "Số kênh",
+        "16 kênh analog + tối đa 24 kênh IP"
+      ],
+      [
+        "Độ phân giải hỗ trợ",
+        "Camera analog lên đến 5MP, IP lên đến 6MP"
+      ],
+      [
+        "Chuẩn nén",
+        "AI Coding, Smart H.265+, H.265, H.264"
+      ],
+      [
+        "AI thông minh",
+        "SMD Plus, Perimeter Protection, AcuPick, Nhận diện khuôn mặt"
+      ],
+      [
+        "Đàm thoại 2 chiều",
+        "16 kênh qua cáp đồng trục"
+      ],
+      [
+        "Ngõ ra hình ảnh",
+        "HDMI (4K), VGA"
+      ],
+      [
+        "Lưu trữ",
+        "2 SATA, tối đa 16TB/ổ"
+      ],
+      [
+        "Kết nối mạng",
+        "RJ45 Gigabit"
+      ],
+      [
+        "Hệ điều hành",
+        "Embedded Linux"
+      ],
+      [
+        "Nguồn cấp",
+        "12V DC"
+      ],
+      [
+        "Kiểu lắp đặt",
+        "Đặt bàn (Desktop)"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Dahua/Hybrid/dh-xvr5216an-5m-i3-t/dh-xvr5216an-5m-i3-t.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Hybrid/dh-xvr5216an-5m-i3-t/dh-xvr5216an-5m-i3-t.jpg"
+  },
+  "NVR-N118-8A0E": {
+    "name": "Đầu ghi hình IP 18 kênh IMOU NVR-N118-8A0E",
+    "model": "NVR-N118-8A0E",
+    "code": "CAM-IMO-NVR-0001",
+    "brand": "Imou",
+    "category": "Nvr",
+    "productType": "Đầu ghi NVR",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Imou/NVR/nvr-n118-8a0e/nvr-n118-8a0e.html",
+    "price": 1340000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Số kênh: 18 kênh",
+      "Băng thông: 90Mbps",
+      "Giải mã: 4× 8MP@15fps / 4× 5MP@30fps",
+      "Chuẩn nén: H.265 / H.264",
+      "Xuất hình: HDMI (4K UHD), VGA"
+    ],
+    "specifications": [
+      [
+        "Số kênh",
+        "18 kênh"
+      ],
+      [
+        "Băng thông",
+        "90Mbps"
+      ],
+      [
+        "Giải mã",
+        "4× 8MP@15fps / 4× 5MP@30fps"
+      ],
+      [
+        "Chuẩn nén",
+        "H.265 / H.264"
+      ],
+      [
+        "Xuất hình",
+        "HDMI (4K UHD), VGA"
+      ],
+      [
+        "Chế độ hiển thị",
+        "1/4/8/9/10"
+      ],
+      [
+        "Xem lại",
+        "4 kênh, tua 2x/4x/8x/16x"
+      ],
+      [
+        "Âm thanh",
+        "Tích hợp Mic & Loa – đàm thoại 2 chiều"
+      ],
+      [
+        "Ổ cứng",
+        "1 SATA, tối đa 16TB"
+      ],
+      [
+        "Cổng mạng",
+        "1 RJ–45 port (10/100 Mbps)"
+      ],
+      [
+        "Cổng USB",
+        "2 USB"
+      ],
+      [
+        "Ứng dụng hỗ trợ",
+        "Imou Life"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 12V 2A"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "<9W (trung bình)"
+      ],
+      [
+        "Kích thước",
+        "227.5 × 260 × 45 mm"
+      ],
+      [
+        "Trọng lượng",
+        "850g"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "10℃ ~ +45℃"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Imou/NVR/nvr-n118-8a0e/nvr-n118-8a0e.jpg",
+    "thumbnail": "/img/Camera/Camera-Imou/NVR/nvr-n118-8a0e/nvr-n118-8a0e.jpg"
+  },
+  "NVR-N118W-8A0E": {
+    "name": "Đầu ghi hình IP 18 kênh IMOU NVR-N118W-8A0E",
+    "model": "NVR-N118W-8A0E",
+    "code": "CAM-IMO-NVR-0002",
+    "brand": "Imou",
+    "category": "Nvr",
+    "productType": "Đầu ghi NVR",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Imou/NVR/nvr-n118w-8a0e/nvr-n118w-8a0e.html",
+    "price": 1450000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Số kênh hỗ trợ: 18 kênh",
+      "Chuẩn nén video: H.265 / H.264",
+      "Định dạng file sao lưu: MP4",
+      "Chế độ hiển thị: 1 / 4 / 8 / 9 / 10 khung",
+      "Phát lại đồng thời: 4 kênh"
+    ],
+    "specifications": [
+      [
+        "Số kênh hỗ trợ",
+        "18 kênh"
+      ],
+      [
+        "Chuẩn nén video",
+        "H.265 / H.264"
+      ],
+      [
+        "Định dạng file sao lưu",
+        "MP4"
+      ],
+      [
+        "Chế độ hiển thị",
+        "1 / 4 / 8 / 9 / 10 khung"
+      ],
+      [
+        "Phát lại đồng thời",
+        "4 kênh"
+      ],
+      [
+        "Hỗ trợ phát lại",
+        "8MP@15fps, 5MP@30fps"
+      ],
+      [
+        "Tua nhanh phát lại",
+        "2x / 4x / 8x / 16x"
+      ],
+      [
+        "Độ phân giải xuất hình tối đa",
+        "4K UHD"
+      ],
+      [
+        "Xuất hình",
+        "HDMI + VGA"
+      ],
+      [
+        "Cổng LAN",
+        "1 × RJ-45 10/100Mbps"
+      ],
+      [
+        "Chuẩn Wi-Fi",
+        "Wi-Fi 6 (IEEE 802.11 b/g/n/ax)"
+      ],
+      [
+        "Băng tần Wi-Fi",
+        "2.4GHz & 5GHz"
+      ],
+      [
+        "Ăng-ten",
+        "4 ăng-ten hiệu suất cao"
+      ],
+      [
+        "Băng thông mạng tối đa",
+        "90Mbps"
+      ],
+      [
+        "Giao thức tương thích",
+        "ONVIF"
+      ],
+      [
+        "Âm thanh",
+        "Tích hợp Micro & loa, đàm thoại hai chiều"
+      ],
+      [
+        "Lưu trữ",
+        "1 cổng SATA – hỗ trợ HDD tối đa 16TB"
+      ],
+      [
+        "Cổng USB",
+        "2 cổng USB"
+      ],
+      [
+        "Kích thước",
+        "241.5 × 260 × 60.2 mm"
+      ],
+      [
+        "Trọng lượng",
+        "890g"
+      ],
+      [
+        "Chất liệu vỏ máy",
+        "Kim loại + nhựa cao cấp"
+      ],
+      [
+        "Màu sắc",
+        "Đen"
+      ],
+      [
+        "Nguồn cấp",
+        "DC 12V – 2A"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "< 9W (trung bình có HDD), <19W (cực đại)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "10°C ~ +45°C"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Imou/NVR/nvr-n118w-8a0e/nvr-n118w-8a0e.jpg",
+    "thumbnail": "/img/Camera/Camera-Imou/NVR/nvr-n118w-8a0e/nvr-n118w-8a0e.jpg"
+  },
+  "HB8 Pro + Tấm Pin": {
+    "name": "Camera IP WiFi 8MP EZVIZ HB8 Pro + Tấm Pin",
+    "model": "HB8 Pro + Tấm Pin",
+    "code": "CAM-EZV-BUL-0058",
+    "brand": "Ezviz",
+    "category": "Bullet",
+    "productType": "Camera Thân IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Ezviz/Bullet/hb8-pro-tam-pin/hb8-pro-tam-pin.html",
+    "price": 3480000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Cảm biến hình ảnh: CMOS quét lũy tiến 1/2.8” 8 MP",
+      "Độ phân giải video: 4K Ultra HD 3840 × 2160",
+      "Tốc độ khung hình: Tối đa 15 fps, tự thích ứng",
+      "Ống kính: 4 mm, F1.2, góc chéo 104°, ngang 83°, dọc 44°",
+      "Góc xoay/quét: Xoay ngang 340°, nghiêng 75°"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "CMOS quét lũy tiến 1/2.8” 8 MP"
+      ],
+      [
+        "Độ phân giải video",
+        "4K Ultra HD 3840 × 2160"
+      ],
+      [
+        "Tốc độ khung hình",
+        "Tối đa 15 fps, tự thích ứng"
+      ],
+      [
+        "Ống kính",
+        "4 mm, F1.2, góc chéo 104°, ngang 83°, dọc 44°"
+      ],
+      [
+        "Góc xoay/quét",
+        "Xoay ngang 340°, nghiêng 75°"
+      ],
+      [
+        "Độ nhạy sáng",
+        "0,01 Lux (F1.2, AGC ON), 0 Lux với IR"
+      ],
+      [
+        "Tầm nhìn ban đêm",
+        "15 m, có màu với đèn spotlight tích hợp"
+      ],
+      [
+        "Phát hiện chuyển động",
+        "Có, phân biệt người và xe bằng AI"
+      ],
+      [
+        "Chuẩn nén video",
+        "H.265 / H.264"
+      ],
+      [
+        "Kết nối mạng",
+        "Wi-Fi 2.4 GHz, chuẩn IEEE 802.11b/g/n/ax"
+      ],
+      [
+        "Lưu trữ",
+        "MicroSD tối đa 512 GB, hỗ trợ EZVIZ CloudPlay"
+      ],
+      [
+        "Pin tích hợp",
+        "Lithium 10.400 mAh"
+      ],
+      [
+        "Tấm pin mặt trời",
+        "Công suất 5 W, chuẩn đơn tinh thể, cáp 3 m, có thể sạc trực tiếp camera"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP65 (chống bụi, nước)"
+      ],
+      [
+        "Tương thích trợ lý ảo",
+        "Amazon Alexa, Google Assistant"
+      ],
+      [
+        "Kích thước",
+        "Camera: 184 × 102 × 168 mm; Tấm pin: 202,7 × 148 × 2,5 mm"
+      ],
+      [
+        "Trọng lượng",
+        "Camera: 780 g; Tấm pin: 656 g"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "20°C đến 50°C"
+      ],
+      [
+        "Chế độ ghi hình",
+        "Thông minh 24/7, tự động chuyển giữa video bình thường và time-lapse"
+      ],
+      [
+        "Tiêu thụ điện",
+        "Camera: DC 5 V/2 A, Tấm pin tối đa 5 W"
+      ],
+      [
+        "Phần mềm hỗ trợ",
+        "Ứng dụng EZVIZ cho iOS/Android, điều khiển từ xa"
+      ],
+      [
+        "Chức năng nổi bật",
+        "Phát hiện người/xe bằng AI, quan sát ban đêm có màu, xoay quét toàn cảnh"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "8MP",
+    "image": "/img/Camera/Camera-Ezviz/Bullet/hb8-pro-tam-pin/hb8-pro-tam-pin.jpg",
+    "thumbnail": "/img/Camera/Camera-Ezviz/Bullet/hb8-pro-tam-pin/hb8-pro-tam-pin.jpg"
+  },
+  "UNVR-PRO": {
+    "name": "Đầu ghi hình camera IP UBIQUITI UniFi UNVR-PRO",
+    "model": "UNVR-PRO",
+    "code": "CAM-UBI-NVR-0001",
+    "brand": "UniFi",
+    "category": "Nvr",
+    "productType": "Đầu ghi NVR",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Unifi/NVR/unvr-pro/unvr-pro.html",
+    "price": 20410000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "12 tháng",
+    "description": [
+      "Số camera quản lý: 70 HD (35 2K, 24 4K)",
+      "Số Access Hubs quản lý: 150",
+      "Số khe ổ cứng: 7 x 2.5”/3.5” HDD hoặc SSD",
+      "Dung lượng điện tối đa cho ổ cứng: 135W",
+      "Tiêu thụ điện tối đa: 160W"
+    ],
+    "specifications": [
+      [
+        "Số camera quản lý",
+        "70 HD (35 2K, 24 4K)"
+      ],
+      [
+        "Số Access Hubs quản lý",
+        "150"
+      ],
+      [
+        "Số khe ổ cứng",
+        "7 x 2.5”/3.5” HDD hoặc SSD"
+      ],
+      [
+        "Dung lượng điện tối đa cho ổ cứng",
+        "135W"
+      ],
+      [
+        "Tiêu thụ điện tối đa",
+        "160W"
+      ],
+      [
+        "Nguồn điện",
+        "AC 100–240V, 3A Max, 50/60Hz; DC 11.5V, 13.91A; AC/DC nội bộ 200W"
+      ],
+      [
+        "Bộ xử lý",
+        "Quad-core ARM Cortex-A57 1.7GHz"
+      ],
+      [
+        "RAM",
+        "8 GB"
+      ],
+      [
+        "Lưu trữ dữ liệu RAID",
+        "RAID 1, 5, 10"
+      ],
+      [
+        "Mạng",
+        "1 x 10G SFP+, 1 x GbE RJ45"
+      ],
+      [
+        "Bluetooth",
+        "v4.1"
+      ],
+      [
+        "Màn hình hiển thị",
+        "1.3” cảm ứng, hiển thị sự kiện video"
+      ],
+      [
+        "Cổng LED hiển thị trạng thái",
+        "HDD: trắng – phát hiện, vàng – lỗi; RPS: xanh – sẵn sàng; Ethernet: trắng/10/100/1000 Mbps; SFP+: trắng/1/10 Gbps"
+      ],
+      [
+        "Khả năng truy cập",
+        "Truy cập trực tiếp, quản lý qua UniFi Protect, xem từ xa qua trình duyệt hoặc app"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "5 đến 40°C, độ ẩm 5–95% không ngưng tụ"
+      ],
+      [
+        "Kích thước",
+        "442 x 325 x 87 mm (17.4 x 12.8 x 3.4”)"
+      ],
+      [
+        "Trọng lượng",
+        "9.2 kg (không gồm giá đỡ), 9.5 kg (có giá đỡ)"
+      ],
+      [
+        "Vật liệu vỏ/mount",
+        "Thép SGCC"
+      ],
+      [
+        "Loại lắp đặt",
+        "Rack mount 2U"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Unifi/NVR/unvr-pro/unvr-pro.jpg",
+    "thumbnail": "/img/Camera/Unifi/NVR/unvr-pro/unvr-pro.jpg"
+  },
+  "UNVR": {
+    "name": "Đầu ghi hình camera IP UBIQUITI UniFi UNVR",
+    "model": "UNVR",
+    "code": "CAM-UBI-NVR-0002",
+    "brand": "UniFi",
+    "category": "Nvr",
+    "productType": "Đầu ghi NVR",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Unifi/NVR/unvr/unvr.html",
+    "price": 11610000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "12 tháng",
+    "description": [
+      "Hiệu năng video: 4K cho 15 camera, Full HD cho 50 camera, RAID 5 bảo vệ dữ liệu",
+      "CPU: Quad-Core ARM Cortex-A57 1.7 GHz",
+      "RAM: 4 GB DDR4",
+      "Bộ nhớ Flash onboard: 8 GB",
+      "Hỗ trợ ổ cứng: 4 Khe ổ cứng 3.5” hoặc 2.5”, hỗ trợ RAID 0/1/5/10"
+    ],
+    "specifications": [
+      [
+        "Hiệu năng video",
+        "4K cho 15 camera, Full HD cho 50 camera, RAID 5 bảo vệ dữ liệu"
+      ],
+      [
+        "CPU",
+        "Quad-Core ARM Cortex-A57 1.7 GHz"
+      ],
+      [
+        "RAM",
+        "4 GB DDR4"
+      ],
+      [
+        "Bộ nhớ Flash onboard",
+        "8 GB"
+      ],
+      [
+        "Hỗ trợ ổ cứng",
+        "4 Khe ổ cứng 3.5” hoặc 2.5”, hỗ trợ RAID 0/1/5/10"
+      ],
+      [
+        "Dung lượng lưu trữ tối đa",
+        "4 x 8 TB ổ cứng, RAID 5 lưu trữ 30 ngày video 4K cho 15 camera hoặc Full HD cho 50 camera"
+      ],
+      [
+        "Công suất tối đa",
+        "100 W"
+      ],
+      [
+        "Ngân sách điện cho ổ cứng",
+        "75 W"
+      ],
+      [
+        "Nguồn điện",
+        "AC 100–240 V, 2A, 50/60 Hz hoặc DC 11.5 V, 10.43 A (USP-RPS)"
+      ],
+      [
+        "Nguồn cung cấp",
+        "AC/DC nội bộ 120 W"
+      ],
+      [
+        "Cổng mạng",
+        "1 x RJ45 1 Gbps, 1 x SFP+ 10 Gbps"
+      ],
+      [
+        "Bảo vệ ESD/EMP",
+        "Không khí: ±12 kV, Tiếp xúc: ±8 kV"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "5°C đến 40°C, độ ẩm 5–95% không ngưng tụ"
+      ],
+      [
+        "LED trạng thái",
+        "Power: trắng/xanh, System: trắng/xanh nhấp nháy, Ethernet: xanh 1 Gbps/amber 10/100 Mbps, SFP+: trắng 10 Gbps/xanh 1 Gbps, HDD: trắng ổ cứng hoạt động/vàng lỗi, RPS: xanh sẵn sàng"
+      ],
+      [
+        "Bảo trì & lắp đặt",
+        "Khay ổ cứng phía trước dễ tháo lắp, hỗ trợ thay ổ cứng nhanh"
+      ],
+      [
+        "Kích thước (DxRxC)",
+        "442.4 x 325 x 43.7 mm (17.4 x 12.8 x 1.7\")"
+      ],
+      [
+        "Trọng lượng",
+        "5.11 kg (không kèm rack), 5.20 kg (kèm rackmount brackets)"
+      ],
+      [
+        "Vật liệu vỏ",
+        "Thép SGCC chắc chắn"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Unifi/NVR/unvr/unvr.jpg",
+    "thumbnail": "/img/Camera/Unifi/NVR/unvr/unvr.jpg"
+  },
+  "U7-LR": {
+    "name": "Bộ phát Wifi UBIQUITI UniFi U7-LR",
+    "model": "U7-LR",
+    "code": "NET-UBI-AP-0008",
+    "brand": "UniFi",
+    "category": "AP",
+    "productType": "Access Point",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/Unifi/AP/u7-lr/u7-lr.html",
+    "price": 6930000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "12 tháng",
+    "description": [
+      "Chuẩn WiFi: WiFi 7 (802.11be)",
+      "Luồng truyền dữ liệu: 5 luồng",
+      "Băng tần hoạt động: 2.4 GHz và 5 GHz",
+      "Công nghệ MIMO: 5 GHz: 3x3 MU-MIMO (DL/UL); 2.4 GHz: 2x2 MU-MIMO (DL/UL)",
+      "Tốc độ tối đa: 5 GHz: 4.3 Gbps; 2.4 GHz: 688 Mbps"
+    ],
+    "specifications": [
+      [
+        "Chuẩn WiFi",
+        "WiFi 7 (802.11be)"
+      ],
+      [
+        "Luồng truyền dữ liệu",
+        "5 luồng"
+      ],
+      [
+        "Băng tần hoạt động",
+        "2.4 GHz và 5 GHz"
+      ],
+      [
+        "Công nghệ MIMO",
+        "5 GHz: 3x3 MU-MIMO (DL/UL); 2.4 GHz: 2x2 MU-MIMO (DL/UL)"
+      ],
+      [
+        "Tốc độ tối đa",
+        "5 GHz: 4.3 Gbps; 2.4 GHz: 688 Mbps"
+      ],
+      [
+        "Độ lợi ăng-ten",
+        "5 GHz: 6 dBi; 2.4 GHz: 4 dBi"
+      ],
+      [
+        "Công suất phát tối đa",
+        "5 GHz: 27 dBm; 2.4 GHz: 26 dBm"
+      ],
+      [
+        "Vùng phủ sóng",
+        "160 m² (1,750 ft²)"
+      ],
+      [
+        "Số lượng thiết bị hỗ trợ",
+        "Hơn 300 thiết bị"
+      ],
+      [
+        "Cổng mạng",
+        "1 cổng RJ45 2.5 GbE"
+      ],
+      [
+        "Đèn LED hiển thị",
+        "Màu trắng/xanh dương – báo trạng thái hệ thống"
+      ],
+      [
+        "Quản lý thiết bị",
+        "Qua phần mềm UniFi Network (phiên bản 9.1.120 trở lên)"
+      ],
+      [
+        "Tính năng nổi bật",
+        "Band Steering, Fast Roaming (802.11r), Mesh WiFi, RRM, Passpoint (Hotspot 2.0), Captive Portal, PPSK, Dynamic VLAN, RADIUS over TLS"
+      ],
+      [
+        "Bảo mật và xác thực",
+        "Voucher, mật khẩu, thanh toán online, cô lập thiết bị, mạng khách riêng"
+      ],
+      [
+        "Nguồn cấp",
+        "PoE (Power over Ethernet), điện áp 42.5–57V DC"
+      ],
+      [
+        "Công suất tiêu thụ tối đa",
+        "14W"
+      ],
+      [
+        "Phương thức lắp đặt",
+        "Trần hoặc tường (kèm đế nhựa)"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Polycarbonate, hợp kim nhôm"
+      ],
+      [
+        "Chất liệu đế gắn",
+        "Polycarbonate, thép mạ kẽm (SGCC)"
+      ],
+      [
+        "Kích thước",
+        "Ø175.7 x 43 mm"
+      ],
+      [
+        "Trọng lượng",
+        "448 g"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "30 đến 50°C"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/Unifi/AP/u7-lr/u7-lr.jpg",
+    "thumbnail": "/img/thiet-bi-mang/Unifi/AP/u7-lr/u7-lr.jpg"
+  },
+  "DH-IPC-PT2449C1-S-PV-PRO": {
+    "name": "Camera IP 4MP DAHUA DH-IPC-PT2449C1-S-PV-PRO",
+    "model": "DH-IPC-PT2449C1-S-PV-PRO",
+    "code": "CAM-DAH-PTZ-0116",
+    "brand": "Dahua",
+    "category": "PTZ",
+    "productType": "Camera PTZ IP",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/PTZ/dh-ipc-pt2449c1-s-pv-pro/dh-ipc-pt2449c1-s-pv-pro.html",
+    "price": 2210000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Cảm biến hình ảnh: 1/1.8” CMOS 4 Megapixel",
+      "Độ phân giải tối đa: 2688 (H) × 1520 (V)",
+      "Tốc độ màn trập điện tử: 1/1 – 1/100,000 giây",
+      "Độ nhạy sáng tối thiểu: 0.0005 Lux @F1.0 (màu, 30 IRE); 0 Lux khi bật đèn chiếu",
+      "Khoảng cách chiếu sáng: Tối đa 30 m (Warrm Light)"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "1/1.8” CMOS 4 Megapixel"
+      ],
+      [
+        "Độ phân giải tối đa",
+        "2688 (H) × 1520 (V)"
+      ],
+      [
+        "Tốc độ màn trập điện tử",
+        "1/1 – 1/100,000 giây"
+      ],
+      [
+        "Độ nhạy sáng tối thiểu",
+        "0.0005 Lux @F1.0 (màu, 30 IRE); 0 Lux khi bật đèn chiếu"
+      ],
+      [
+        "Khoảng cách chiếu sáng",
+        "Tối đa 30 m (Warrm Light)"
+      ],
+      [
+        "Ống kính",
+        "Cố định 3.6 mm, F1.0"
+      ],
+      [
+        "Góc quan sát",
+        "Ngang: 97° / Dọc: 52° / Chéo: 114°"
+      ],
+      [
+        "Chức năng quay quét (PTZ)",
+        "Pan: 0°–345°; Tilt: 0°–90°"
+      ],
+      [
+        "Tính năng thông minh",
+        "Phát hiện người / phương tiện, Auto Tracking Lite, phát hiện chuyển động (Motion Detection)"
+      ],
+      [
+        "Cảnh báo chủ động (Active Deterrence)",
+        "Đèn cảnh báo nhấp nháy (5–30s, tần số điều chỉnh: cao / trung bình / thấp) và loa cảnh báo 3 kiểu âm thanh, âm lượng tùy chỉnh 0–100%, số lần phát 1–10"
+      ],
+      [
+        "Chuẩn nén video",
+        "Smart H.265+, H.265, Smart H.264+, H.264B/M/H, MJPEG (sub-stream 1)"
+      ],
+      [
+        "Độ phân giải hỗ trợ",
+        "4MP (2688×1520, 2560×1440), 3MP (2304×1296), 1080p, 1.3MP, 720p, D1, VGA, CIF"
+      ],
+      [
+        "Tính năng hình ảnh",
+        "BLC, HLC, 2DNR, 3DNR, Defog điện tử, WDR 120 dB, cân bằng sáng trắng, ROI"
+      ],
+      [
+        "Zoom số",
+        "16x"
+      ],
+      [
+        "Âm thanh",
+        "Hỗ trợ 2 chiều (MIC + Loa tích hợp)"
+      ],
+      [
+        "Cổng mạng",
+        "RJ-45 (10/100 Base-T)"
+      ],
+      [
+        "Giao thức mạng hỗ trợ",
+        "HTTP, HTTPS, TCP/IP, IPv4, IPv6, RTSP, UDP, NTP, DHCP, DNS, DDNS, SSL, FTP, QoS, ICMP, IGMP, ARP, RTCP, RTP, RTMP"
+      ],
+      [
+        "Chuẩn tương thích",
+        "ONVIF (Profile S, G, T), CGI, SDK"
+      ],
+      [
+        "Lưu trữ",
+        "Khe thẻ MicroSD tối đa 512 GB, FTP, NVR"
+      ],
+      [
+        "Nguồn cấp",
+        "12V DC ±10%, 1A hoặc PoE (IEEE 802.3af)"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "Cơ bản: 3.6W / Tối đa: 9.5W (PTZ + đèn chiếu)"
+      ],
+      [
+        "Môi trường hoạt động",
+        "–30°C đến +55°C / độ ẩm ≤95%"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP66 (chống bụi/nước), chống sét TVS 2000V, chống đột biến điện áp"
+      ],
+      [
+        "Kích thước (DxR)",
+        "153.5 × Φ129.3 mm"
+      ],
+      [
+        "Khối lượng",
+        "0.8 kg"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "4MP",
+    "image": "/img/Camera/Camera-Dahua/PTZ/dh-ipc-pt2449c1-s-pv-pro/dh-ipc-pt2449c1-s-pv-pro.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/PTZ/dh-ipc-pt2449c1-s-pv-pro/dh-ipc-pt2449c1-s-pv-pro.jpg"
+  },
+  "DH-HAC-T1A51P-U-IL-A-VN": {
+    "name": "Camera HDCVI 5MP DAHUA DH-HAC-T1A51P-U-IL-A-VN",
+    "model": "DH-HAC-T1A51P-U-IL-A-VN",
+    "code": "CAM-DAH-DOM-0120",
+    "brand": "Dahua",
+    "category": "Dome",
+    "productType": "Camera Dome Analog",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Dome/dh-hac-t1a51p-u-il-a-vn/dh-hac-t1a51p-u-il-a-vn.html",
+    "price": 560000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Cảm biến hình ảnh: 1/2.7” CMOS",
+      "Độ phân giải: 5MP (2880×1620)",
+      "Tốc độ khung hình: 25fps@5MP (PAL)",
+      "Ống kính: Cố định 2.8mm hoặc 3.6mm, khẩu độ F2.0",
+      "Góc nhìn: 2.8mm: 106° (ngang), 56° (dọc), 125° (chéo)"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "1/2.7” CMOS"
+      ],
+      [
+        "Độ phân giải",
+        "5MP (2880×1620)"
+      ],
+      [
+        "Tốc độ khung hình",
+        "25fps@5MP (PAL)"
+      ],
+      [
+        "Ống kính",
+        "Cố định 2.8mm hoặc 3.6mm, khẩu độ F2.0"
+      ],
+      [
+        "Góc nhìn",
+        "2.8mm: 106° (ngang), 56° (dọc), 125° (chéo)"
+      ],
+      [
+        "Tầm xa chiếu sáng",
+        "IR: 25m, ánh sáng trắng: 20m"
+      ],
+      [
+        "Chế độ ánh sáng",
+        "Smart IR & Warm Light / IR Mode / WL Mode"
+      ],
+      [
+        "Tính năng hình ảnh",
+        "BLC, HLC, DWDR, 2DNR, cân bằng trắng tự động"
+      ],
+      [
+        "Âm thanh",
+        "Tích hợp micro, truyền âm qua cáp đồng trục"
+      ],
+      [
+        "Định dạng video",
+        "HDCVI / AHD / TVI / CVBS"
+      ],
+      [
+        "Nguồn cấp",
+        "12VDC ±30%"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "Tối đa 2.6W (bật đèn LED trắng)"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 chống nước, chống bụi"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "40°C ~ +55°C"
+      ],
+      [
+        "Kích thước",
+        "Φ85 × 77.1 mm"
+      ],
+      [
+        "Trọng lượng",
+        "0.11 kg"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Nhựa"
+      ],
+      [
+        "Lắp đặt",
+        "Gắn tường hoặc trần nhà"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "5MP",
+    "image": "/img/Camera/Camera-Dahua/Dome/dh-hac-t1a51p-u-il-a-vn/dh-hac-t1a51p-u-il-a-vn.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Dome/dh-hac-t1a51p-u-il-a-vn/dh-hac-t1a51p-u-il-a-vn.jpg"
+  },
+  "DH-HAC-B1A51P-U-IL-A-VN": {
+    "name": "Camera HDCVI 5MP DAHUA DH-HAC-B1A51P-U-IL-A-VN",
+    "model": "DH-HAC-B1A51P-U-IL-A-VN",
+    "code": "CAM-DAH-BUL-0140",
+    "brand": "Dahua",
+    "category": "Bullet",
+    "productType": "Camera Thân Analog",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Bullet/dh-hac-b1a51p-u-il-a-vn/dh-hac-b1a51p-u-il-a-vn.html",
+    "price": 590000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Cảm biến hình ảnh: 1/2.7” CMOS",
+      "Độ phân giải: 5MP (2880×1620)",
+      "Tốc độ khung hình: 25fps@5MP (PAL) / 30fps@5MP (NTSC)",
+      "Ống kính: Cố định 2.8mm / 3.6mm / 6mm, khẩu độ F2.0",
+      "Góc nhìn: 2.8mm: 106° (ngang), 56° (dọc), 125° (chéo)"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "1/2.7” CMOS"
+      ],
+      [
+        "Độ phân giải",
+        "5MP (2880×1620)"
+      ],
+      [
+        "Tốc độ khung hình",
+        "25fps@5MP (PAL) / 30fps@5MP (NTSC)"
+      ],
+      [
+        "Ống kính",
+        "Cố định 2.8mm / 3.6mm / 6mm, khẩu độ F2.0"
+      ],
+      [
+        "Góc nhìn",
+        "2.8mm: 106° (ngang), 56° (dọc), 125° (chéo)"
+      ],
+      [
+        "Tầm xa chiếu sáng",
+        "Hồng ngoại 30m, Ánh sáng trắng 20m"
+      ],
+      [
+        "Chế độ ánh sáng",
+        "Smart IR & Warm Light, IR Mode, WL Mode"
+      ],
+      [
+        "Tính năng xử lý hình ảnh",
+        "BLC, HLC, DWDR, 2DNR, cân bằng trắng tự động"
+      ],
+      [
+        "Âm thanh",
+        "Tích hợp micro, truyền âm qua cáp đồng trục"
+      ],
+      [
+        "Hỗ trợ định dạng video",
+        "HDCVI / AHD / TVI / CVBS"
+      ],
+      [
+        "Nguồn cấp",
+        "12VDC ±30%"
+      ],
+      [
+        "Công suất tiêu thụ",
+        "Tối đa 4.0W (bật LED trắng)"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống nước, chống bụi)"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "40°C ~ +60°C"
+      ],
+      [
+        "Kích thước",
+        "146.1 × 70 × 69.8 mm"
+      ],
+      [
+        "Trọng lượng",
+        "0.17 kg"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Nhựa"
+      ],
+      [
+        "Lắp đặt",
+        "Gắn tường, trần hoặc cột đứng"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "5MP",
+    "image": "/img/Camera/Camera-Dahua/Bullet/dh-hac-b1a51p-u-il-a-vn/dh-hac-b1a51p-u-il-a-vn.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Bullet/dh-hac-b1a51p-u-il-a-vn/dh-hac-b1a51p-u-il-a-vn.jpg"
+  },
+  "DH-HAC-HDW1500TQP-IL-T": {
+    "name": "Camera HDCVI 5MP DAHUA DH-HAC-HDW1500TQP-IL-T",
+    "model": "DH-HAC-HDW1500TQP-IL-T",
+    "code": "CAM-DAH-DOM-0121",
+    "brand": "Dahua",
+    "category": "Dome",
+    "productType": "Camera Dome Analog",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Dome/dh-hac-hdw1500tqp-il-t/dh-hac-hdw1500tqp-il-t.html",
+    "price": 800000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Cảm biến hình ảnh: 5MP CMOS",
+      "Độ phân giải tối đa: 2880 × 1620",
+      "Độ nhạy sáng tối thiểu: 0.01 lux@F1.6 (màu), 0.001 lux@F1.6 (trắng/đen), 0 lux (IR bật)",
+      "Tốc độ màn trập: PAL: 1/25 s–1/100,000 s",
+      "Ống kính: Cố định 2.8 mm/ 3.6mm, khẩu độ F1.6"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "5MP CMOS"
+      ],
+      [
+        "Độ phân giải tối đa",
+        "2880 × 1620"
+      ],
+      [
+        "Độ nhạy sáng tối thiểu",
+        "0.01 lux@F1.6 (màu), 0.001 lux@F1.6 (trắng/đen), 0 lux (IR bật)"
+      ],
+      [
+        "Tốc độ màn trập",
+        "PAL: 1/25 s–1/100,000 s"
+      ],
+      [
+        "Ống kính",
+        "Cố định 2.8 mm/ 3.6mm, khẩu độ F1.6"
+      ],
+      [
+        "Góc nhìn (ngang)",
+        "2.8 mm: 113.3°/ 3.6mm: 90.1°"
+      ],
+      [
+        "Tầm nhìn đêm",
+        "Tầm xa 40 m (hồng ngoại + ánh sáng ấm)"
+      ],
+      [
+        "Tính năng hình ảnh",
+        "BLC, HLC, WDR, DWDR, cân bằng trắng, che vùng riêng tư,…"
+      ],
+      [
+        "Âm thanh",
+        "Micro + loa tích hợp, hỗ trợ đàm thoại 2 chiều (CVI, TVI)"
+      ],
+      [
+        "Ngõ ra video",
+        "CVI/TVI/AHD/CVBS (qua 1 cổng BNC)"
+      ],
+      [
+        "Nguồn điện",
+        "12V DC (±30%), ≤9.5 W"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi, chống nước)"
+      ],
+      [
+        "Kích thước",
+        "Φ109.9 × 105.9 mm"
+      ],
+      [
+        "Trọng lượng",
+        "0.5 kg"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "–40 °C đến +60 °C, độ ẩm <95% (không ngưng tụ)"
+      ],
+      [
+        "Chất liệu",
+        "Kim loại + nhựa"
+      ],
+      [
+        "Lắp đặt",
+        "Gắn tường, gắn trần, gắn cột, gắn góc"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "5MP",
+    "image": "/img/Camera/Camera-Dahua/Dome/dh-hac-hdw1500tqp-il-t/dh-hac-hdw1500tqp-il-t.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Dome/dh-hac-hdw1500tqp-il-t/dh-hac-hdw1500tqp-il-t.jpg"
+  },
+  "DH-HAC-HFW1500RLP-IL-T": {
+    "name": "Camera HDCVI 5MP DAHUA DH-HAC-HFW1500RLP-IL-T",
+    "model": "DH-HAC-HFW1500RLP-IL-T",
+    "code": "CAM-DAH-BUL-0141",
+    "brand": "Dahua",
+    "category": "Bullet",
+    "productType": "Camera Thân Analog",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Bullet/dh-hac-hfw1500rlp-il-t/dh-hac-hfw1500rlp-il-t.html",
+    "price": 590000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Cảm biến hình ảnh: 5MP CMOS, quét liên tục",
+      "Độ phân giải tối đa: 2880 × 1620",
+      "Độ nhạy sáng tối thiểu: 0.01 lux@F1.6 (màu), 0.001 lux@F1.6 (trắng/đen), 0 lux (IR bật)",
+      "Tốc độ màn trập: PAL: 1/25 s–1/100,000 s",
+      "Ống kính: Cố định 3.6mm (tùy chọn 2.8mm), F1.6"
+    ],
+    "specifications": [
+      [
+        "Cảm biến hình ảnh",
+        "5MP CMOS, quét liên tục"
+      ],
+      [
+        "Độ phân giải tối đa",
+        "2880 × 1620"
+      ],
+      [
+        "Độ nhạy sáng tối thiểu",
+        "0.01 lux@F1.6 (màu), 0.001 lux@F1.6 (trắng/đen), 0 lux (IR bật)"
+      ],
+      [
+        "Tốc độ màn trập",
+        "PAL: 1/25 s–1/100,000 s"
+      ],
+      [
+        "Ống kính",
+        "Cố định 3.6mm (tùy chọn 2.8mm), F1.6"
+      ],
+      [
+        "Góc nhìn",
+        "3.6mm: Ngang 90.1° (2.8mm: Ngang 113.3°)"
+      ],
+      [
+        "Tầm nhìn đêm",
+        "Tối đa 30m (hồng ngoại + ánh sáng ấm)"
+      ],
+      [
+        "Tính năng hình ảnh",
+        "BLC, HLC, DWDR, 3DNR, cân bằng trắng tự động, che vùng riêng tư,…"
+      ],
+      [
+        "Âm thanh",
+        "Tích hợp micro & loa, hỗ trợ đàm thoại 2 chiều (CVI/TVI)"
+      ],
+      [
+        "Ngõ ra video",
+        "CVI/TVI/AHD/CVBS (qua 1 cổng BNC)"
+      ],
+      [
+        "Nguồn cấp",
+        "12VDC (±30%), ≤ 7.3W"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "40°C ~ +60°C, độ ẩm <95%"
+      ],
+      [
+        "Chuẩn bảo vệ",
+        "IP67 (chống bụi/nước)"
+      ],
+      [
+        "Chất liệu vỏ",
+        "Nhựa"
+      ],
+      [
+        "Kích thước",
+        "161.6 × 70 × 69.7 mm"
+      ],
+      [
+        "Trọng lượng",
+        "0.2kg"
+      ]
+    ],
+    "hidden": false,
+    "resolution": "5MP",
+    "image": "/img/Camera/Camera-Dahua/Bullet/dh-hac-hfw1500rlp-il-t/dh-hac-hfw1500rlp-il-t.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Bullet/dh-hac-hfw1500rlp-il-t/dh-hac-hfw1500rlp-il-t.jpg"
+  },
+  "DH-XVR5116HS-5M-I3/T": {
+    "name": "Đầu ghi hình Penta-brid 16 kênh DAHUA DH-XVR5116HS-5M-I3/T",
+    "model": "DH-XVR5116HS-5M-I3/T",
+    "code": "CAM-DAH-DVR-0005",
+    "brand": "Dahua",
+    "category": "Hybrid",
+    "productType": "Đầu ghi DVR/Hybrid",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Hybrid/dh-xvr5116hs-5m-i3-t/dh-xvr5116hs-5m-i3-t.html",
+    "price": 5670000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "36 tháng",
+    "description": [
+      "Kênh vào: 16 kênh analog (HDCVI/AHD/TVI/CVBS) + tối đa 24 kênh IP",
+      "Độ phân giải hỗ trợ: Camera analog tối đa 5MP, camera IP tối đa 6MP",
+      "Băng thông: 128 Mbps (vào/ghi/ra)",
+      "Chuẩn nén: AI Coding, Smart H.265+, H.265, Smart H.264+, H.264",
+      "Nhận diện khuôn mặt: 4 kênh, tối đa 10 database/10.000 ảnh"
+    ],
+    "specifications": [
+      [
+        "Kênh vào",
+        "16 kênh analog (HDCVI/AHD/TVI/CVBS) + tối đa 24 kênh IP"
+      ],
+      [
+        "Độ phân giải hỗ trợ",
+        "Camera analog tối đa 5MP, camera IP tối đa 6MP"
+      ],
+      [
+        "Băng thông",
+        "128 Mbps (vào/ghi/ra)"
+      ],
+      [
+        "Chuẩn nén",
+        "AI Coding, Smart H.265+, H.265, Smart H.264+, H.264"
+      ],
+      [
+        "Nhận diện khuôn mặt",
+        "4 kênh, tối đa 10 database/10.000 ảnh"
+      ],
+      [
+        "Bảo vệ chu vi",
+        "8 kênh (AI Recorder)"
+      ],
+      [
+        "SMD Plus",
+        "16 kênh (AI Recorder) hoặc 24 kênh (từ camera)"
+      ],
+      [
+        "AcuPick",
+        "8 kênh (AI Recorder)"
+      ],
+      [
+        "Xuất hình",
+        "HDMI (4K), VGA (1080p)"
+      ],
+      [
+        "Ghi hình & phát lại",
+        "Phát lại 1/4/9/16 kênh"
+      ],
+      [
+        "Lưu trữ",
+        "1 khay SATA, tối đa 16TB"
+      ],
+      [
+        "Cổng âm thanh",
+        "1 ngõ vào RCA + 16 ngõ vào BNC, 1 ngõ ra RCA"
+      ],
+      [
+        "Báo động",
+        "4 ngõ vào / 2 ngõ ra"
+      ],
+      [
+        "Cổng USB",
+        "2 (1 trước USB 2.0, 1 sau USB 3.0)"
+      ],
+      [
+        "Cổng mạng",
+        "RJ-45 10/100/1000 Mbps"
+      ],
+      [
+        "Nguồn cấp",
+        "12VDC, 2A"
+      ],
+      [
+        "Công suất",
+        "<12W (không HDD)"
+      ],
+      [
+        "Kích thước",
+        "260 × 237.8 × 47.6 mm"
+      ],
+      [
+        "Trọng lượng",
+        "1.0 kg"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Dahua/Hybrid/dh-xvr5116hs-5m-i3-t/dh-xvr5116hs-5m-i3-t.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Hybrid/dh-xvr5116hs-5m-i3-t/dh-xvr5116hs-5m-i3-t.jpg"
+  },
+  "DH-XVR5108HS-5M-I3/T": {
+    "name": "Đầu ghi hình Penta-brid 8 kênh DAHUA DH-XVR5108HS-5M-I3/T",
+    "model": "DH-XVR5108HS-5M-I3/T",
+    "code": "CAM-DAH-DVR-0006",
+    "brand": "Dahua",
+    "category": "Hybrid",
+    "productType": "Đầu ghi DVR/Hybrid",
+    "industry": "Camera giám sát",
+    "link": "/San-pham/Camera/Camera-Dahua/Hybrid/dh-xvr5108hs-5m-i3-t/dh-xvr5108hs-5m-i3-t.html",
+    "price": 3480000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Kênh vào: 8 kênh analog (HDCVI/AHD/TVI/CVBS) + tối đa 12 kênh IP",
+      "Độ phân giải hỗ trợ: Camera analog tối đa 5MP, camera IP tối đa 6MP",
+      "Băng thông: 64 Mbps (vào/ghi/ra)",
+      "Chuẩn nén: AI Coding, Smart H.265+, H.265, Smart H.264+, H.264",
+      "Nhận diện khuôn mặt: 2 kênh, tối đa 10 database/10.000 ảnh"
+    ],
+    "specifications": [
+      [
+        "Kênh vào",
+        "8 kênh analog (HDCVI/AHD/TVI/CVBS) + tối đa 12 kênh IP"
+      ],
+      [
+        "Độ phân giải hỗ trợ",
+        "Camera analog tối đa 5MP, camera IP tối đa 6MP"
+      ],
+      [
+        "Băng thông",
+        "64 Mbps (vào/ghi/ra)"
+      ],
+      [
+        "Chuẩn nén",
+        "AI Coding, Smart H.265+, H.265, Smart H.264+, H.264"
+      ],
+      [
+        "Nhận diện khuôn mặt",
+        "2 kênh, tối đa 10 database/10.000 ảnh"
+      ],
+      [
+        "Bảo vệ chu vi",
+        "8 kênh (AI Recorder)"
+      ],
+      [
+        "SMD Plus",
+        "8 kênh (AI Recorder) hoặc 12 kênh (từ camera)"
+      ],
+      [
+        "AcuPick",
+        "4 kênh (AI Recorder)"
+      ],
+      [
+        "Xuất hình",
+        "HDMI (2560×1440), VGA (1080p)"
+      ],
+      [
+        "Ghi hình & phát lại",
+        "Phát lại 1/4/9 kênh"
+      ],
+      [
+        "Lưu trữ",
+        "1 khay SATA, tối đa 16TB"
+      ],
+      [
+        "Cổng âm thanh",
+        "1 ngõ vào RCA + 8 ngõ vào BNC, 1 ngõ ra RCA"
+      ],
+      [
+        "Báo động",
+        "4 ngõ vào / 2 ngõ ra"
+      ],
+      [
+        "Cổng USB",
+        "2 (1 trước, 1 sau)"
+      ],
+      [
+        "Cổng mạng",
+        "RJ-45 10/100 Mbps"
+      ],
+      [
+        "Nguồn cấp",
+        "12VDC, 2A"
+      ],
+      [
+        "Công suất",
+        "<7W (không HDD)"
+      ],
+      [
+        "Kích thước",
+        "260 × 237.8 × 47.6 mm"
+      ],
+      [
+        "Trọng lượng",
+        "1.17 kg"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/Camera/Camera-Dahua/Hybrid/dh-xvr5108hs-5m-i3-t/dh-xvr5108hs-5m-i3-t.jpg",
+    "thumbnail": "/img/Camera/Camera-Dahua/Hybrid/dh-xvr5108hs-5m-i3-t/dh-xvr5108hs-5m-i3-t.jpg"
+  },
+  "SH1863P": {
+    "name": "24-Port Hybrid PoE Switch APTEK SH1863P",
+    "model": "SH1863P",
+    "code": "NET-APT-SWT-0001",
+    "brand": "APTEK",
+    "category": "Switch",
+    "productType": "Switch PoE",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/APTEK/Switch/sh1863p/sh1863p.html",
+    "price": 2540000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "24 tháng",
+    "description": [
+      "Loại thiết bị: Switch PoE không quản lý, Hybrid",
+      "Cổng Fast Ethernet PoE: 18 × RJ45 10/100Mbps",
+      "Cổng Gigabit PoE/PoE+: 6 × RJ45 10/100/1000Mbps",
+      "Cổng Gigabit uplink RJ45: 2 × 10/100/1000Mbps",
+      "Khe cắm SFP: 1 × Gigabit SFP"
+    ],
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "Switch PoE không quản lý, Hybrid"
+      ],
+      [
+        "Cổng Fast Ethernet PoE",
+        "18 × RJ45 10/100Mbps"
+      ],
+      [
+        "Cổng Gigabit PoE/PoE+",
+        "6 × RJ45 10/100/1000Mbps"
+      ],
+      [
+        "Cổng Gigabit uplink RJ45",
+        "2 × 10/100/1000Mbps"
+      ],
+      [
+        "Khe cắm SFP",
+        "1 × Gigabit SFP"
+      ],
+      [
+        "Chuẩn PoE",
+        "IEEE 802.3af/at"
+      ],
+      [
+        "Kiểu cấp nguồn PoE",
+        "End-span"
+      ],
+      [
+        "Công suất PoE tối đa mỗi cổng",
+        "15,4W/30W"
+      ],
+      [
+        "Tổng công suất PoE",
+        "Tối đa 400W"
+      ],
+      [
+        "Khoảng cách truyền dẫn",
+        "100m ở chế độ Standard; 250m ở chế độ Extend + VLAN"
+      ],
+      [
+        "Tốc độ ở chế độ mở rộng",
+        "10Mbps trên các cổng PoE"
+      ],
+      [
+        "Chuẩn mạng",
+        "IEEE 802.3, IEEE 802.3u, IEEE 802.3x"
+      ],
+      [
+        "Dung lượng chuyển mạch",
+        "21,6Gbps"
+      ],
+      [
+        "Phương thức chuyển tiếp",
+        "Store and Forward"
+      ],
+      [
+        "Bảng địa chỉ MAC",
+        "4K"
+      ],
+      [
+        "Đèn LED chỉ báo",
+        "Link/Act, Power, Extend"
+      ],
+      [
+        "Nhiệt độ hoạt động",
+        "10°C đến 55°C"
+      ],
+      [
+        "Nguồn điện đầu vào",
+        "100–240VAC, 50/60Hz"
+      ],
+      [
+        "Kích thước (D × R × C)",
+        "270 × 181 × 44mm"
+      ],
+      [
+        "Trọng lượng",
+        "1,6kg"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/APTEK/Switch/sh1863p/sh1863p.jpg",
+    "thumbnail": "/img/thiet-bi-mang/APTEK/Switch/sh1863p/sh1863p.jpg"
+  },
+  "AP103FP Outdoor": {
+    "name": "Thiết bị mở rộng PoE APTEK AP103FP Outdoor",
+    "model": "AP103FP Outdoor",
+    "code": "NET-APT-ACC-0001",
+    "brand": "APTEK",
+    "category": "Other",
+    "productType": "Phụ kiện mạng",
+    "industry": "Thiết bị mạng",
+    "link": "/San-pham/thiet-bi-mang/APTEK/thiet-bi-khac/ap103fp-outdoor/ap103fp-outdoor.html",
+    "price": 380000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "Đang cập nhật",
+    "description": [
+      "Loại thiết bị: PoE Extender (mở rộng PoE)",
+      "Cổng đầu vào: 1 cổng LAN 10/100Mbps PoE Input",
+      "Chuẩn PoE đầu vào: IEEE 802.3af/at",
+      "Công suất đầu vào tối đa: 30W",
+      "Cổng đầu ra: 3 cổng LAN 10/100Mbps PoE Output"
+    ],
+    "specifications": [
+      [
+        "Loại thiết bị",
+        "PoE Extender (mở rộng PoE)"
+      ],
+      [
+        "Cổng đầu vào",
+        "1 cổng LAN 10/100Mbps PoE Input"
+      ],
+      [
+        "Chuẩn PoE đầu vào",
+        "IEEE 802.3af/at"
+      ],
+      [
+        "Công suất đầu vào tối đa",
+        "30W"
+      ],
+      [
+        "Cổng đầu ra",
+        "3 cổng LAN 10/100Mbps PoE Output"
+      ],
+      [
+        "Chuẩn PoE đầu ra",
+        "IEEE 802.3af/at"
+      ],
+      [
+        "Công suất đầu ra tối đa mỗi cổng",
+        "24W"
+      ],
+      [
+        "Khoảng cách truyền tải tối đa",
+        "250m"
+      ],
+      [
+        "Kiểu lắp đặt",
+        "WallMount (gắn tường)"
+      ],
+      [
+        "Ứng dụng",
+        "Camera, Access Point ngoài trời"
+      ],
+      [
+        "Mục đích sử dụng",
+        "Mở rộng truyền dữ liệu và cấp nguồn PoE"
+      ],
+      [
+        "Tiết kiệm chi phí",
+        "Không cần lắp thêm nguồn điện ngoài"
+      ],
+      [
+        "Dễ lắp đặt",
+        "Sử dụng cáp mạng sẵn có"
+      ],
+      [
+        "Môi trường sử dụng",
+        "Ngoài trời"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/thiet-bi-mang/APTEK/thiet-bi-khac/ap103fp-outdoor/ap103fp-outdoor.jpg",
+    "thumbnail": "/img/thiet-bi-mang/APTEK/thiet-bi-khac/ap103fp-outdoor/ap103fp-outdoor.jpg"
+  },
+  "KS-71BE": {
+    "name": "Còi báo động không dây ngoài trời KS-71BE",
+    "model": "KS-71BE",
+    "code": "ALM-KAR-ACC-0008",
+    "brand": "Karassn",
+    "category": "Accessory",
+    "productType": "Còi báo động",
+    "industry": "Báo trộm",
+    "link": "/San-pham/bao-trom/Karassn/accessory/ks-71be/ks-71be.html",
+    "price": 1480000,
+    "vatIncluded": true,
+    "priceVatNote": "Đã gồm VAT",
+    "warranty": "12 tháng (không bảo hành ắc quy kèm theo)",
+    "description": [
+      "Tần số hoạt động: 433,92MHz",
+      "Nguồn điện chính: 220VAC",
+      "Dòng tĩnh: ≤ 13mA",
+      "Ắc-quy dự phòng: 12V-1.3Ah (có sẵn)",
+      "Âm lượng còi: ≥ 100dB"
+    ],
+    "specifications": [
+      [
+        "Tần số hoạt động",
+        "433,92MHz"
+      ],
+      [
+        "Nguồn điện chính",
+        "220VAC"
+      ],
+      [
+        "Dòng tĩnh",
+        "≤ 13mA"
+      ],
+      [
+        "Ắc-quy dự phòng",
+        "12V-1.3Ah (có sẵn)"
+      ],
+      [
+        "Âm lượng còi",
+        "≥ 100dB"
+      ],
+      [
+        "Khoảng cách kết nối RF",
+        "≤ 500m (trong môi trường mở)"
+      ],
+      [
+        "Kích thước (Dài x Rộng x Cao)",
+        "220 × 145 × 56 mm"
+      ],
+      [
+        "Trọng lượng",
+        "470g (không bao gồm ắc-quy)"
+      ],
+      [
+        "Tương thích",
+        "Tủ báo động PICOTECH & KARASSN"
+      ]
+    ],
+    "hidden": false,
+    "image": "/img/bao-trom/Karassn/accessory/ks-71be/ks-71be.jpg",
+    "thumbnail": "/img/bao-trom/Karassn/accessory/ks-71be/ks-71be.jpg"
+  }
+}
